@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 1,
-  "materialCount": 13,
-  "total": 817,
+  "materialCount": 14,
+  "total": 917,
   "materials": [
     {
       "id": "botanical",
@@ -10840,6 +10840,1616 @@ window.FACILITY_DATASET={
           "mapQueryName": "",
           "extra": {
             "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%20%E3%81%84%E3%81%AA%E3%81%B9%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E5%AE%89%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        }
+      ]
+    },
+    {
+      "id": "csv-4df52743f365dd921e8b",
+      "number": 14,
+      "name": "レトロゲームセンター",
+      "shortName": "レトロゲームセンター",
+      "file": "レトロゲームセンター.csv",
+      "count": 100,
+      "items": [
+        {
+          "prefecture": "北海道",
+          "city": "旭川市",
+          "name": "高砂温泉 ゲームコーナー",
+          "type": "温浴施設内",
+          "rank": "中",
+          "note": "アウトラン、ハングオン、パワードリフト等を公式が案内。温浴施設のレトロ改装要素あり。\n利用条件：施設利用・ゲーム別料金。平日は17～21時の案内\n残存・保存の区分：継続・再編集型\n営業・残存確認メモ：公式に稼働機種・利用時間掲載\n確度：A\n確認元URL：https://www.takasagoonsen.com/retro/\n調査日：2026-09-15",
+          "official": "https://www.takasagoonsen.com/retro/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%AD%E5%B7%9D%E5%B8%82%20%E9%AB%98%E7%A0%82%E6%B8%A9%E6%B3%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%AD%E5%B7%9D%E5%B8%82%20%E9%AB%98%E7%A0%82%E6%B8%A9%E6%B3%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://www.takasagoonsen.com/retro/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "釧路市",
+          "name": "あかん遊久の里 鶴雅 ゲームコーナーうでくらべ",
+          "type": "温泉ホテルのゲームコーナー",
+          "rank": "中",
+          "note": "本館2階のゲームコーナー。温泉ホテルに残る旧世代ゲームの採集候補。\n利用条件：宿泊・施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式案内に本館2階・15～22時のゲームコーナーを掲載\n確度：A\n確認元URL：https://www.tsuruga.com/facilities/\n調査日：2026-09-15",
+          "official": "https://www.tsuruga.com/facilities/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82%20%E3%81%82%E3%81%8B%E3%82%93%E9%81%8A%E4%B9%85%E3%81%AE%E9%87%8C%20%E9%B6%B4%E9%9B%85%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%86%E3%81%A7%E3%81%8F%E3%82%89%E3%81%B9",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82%20%E3%81%82%E3%81%8B%E3%82%93%E9%81%8A%E4%B9%85%E3%81%AE%E9%87%8C%20%E9%B6%B4%E9%9B%85%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%86%E3%81%A7%E3%81%8F%E3%82%89%E3%81%B9\n公式サイト：https://www.tsuruga.com/facilities/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "釧路市",
+          "name": "ニュー阿寒ホテル ゲームコーナー",
+          "type": "温泉ホテルのゲームコーナー",
+          "rank": "中",
+          "note": "阿寒湖畔ホテル地下1階のゲーム空間。2026年の旧世代ゲーム訪問記録あり。\n利用条件：宿泊・施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式案内にB1階・15～22時のゲームコーナーを掲載\n確度：A\n確認元URL：https://newakanhotel.co.jp/facilities/\n調査日：2026-09-15",
+          "official": "https://newakanhotel.co.jp/facilities/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82%20%E3%83%8B%E3%83%A5%E3%83%BC%E9%98%BF%E5%AF%92%E3%83%9B%E3%83%86%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82%20%E3%83%8B%E3%83%A5%E3%83%BC%E9%98%BF%E5%AF%92%E3%83%9B%E3%83%86%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://newakanhotel.co.jp/facilities/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市北区",
+          "name": "ジー・バオア・グー",
+          "type": "街のゲームセンター",
+          "rank": "中",
+          "note": "古い業務用ゲーム機を扱う会社の直営店。ピンボールや年代物の筐体がある。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に住所・営業時間掲載\n確度：A\n確認元URL：https://pacific-trade.games/\n調査日：2026-09-15",
+          "official": "https://pacific-trade.games/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%90%E3%82%AA%E3%82%A2%E3%83%BB%E3%82%B0%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%90%E3%82%AA%E3%82%A2%E3%83%BB%E3%82%B0%E3%83%BC\n公式サイト：https://pacific-trade.games/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "登別市",
+          "name": "第一滝本館 ゲームプラザ",
+          "type": "温泉ホテル内",
+          "rank": "低",
+          "note": "登別温泉の大型ホテル内。空間重視の候補で旧作機種は未確認。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に約40台と8～21:45の案内\n確度：A\n確認元URL：https://takimotokan.co.jp/ja/facility/\n補足確認元URL：https://takimotokan.co.jp/ja/facility/\n調査日：2026-09-15",
+          "official": "https://takimotokan.co.jp/ja/facility/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%99%BB%E5%88%A5%E5%B8%82%20%E7%AC%AC%E4%B8%80%E6%BB%9D%E6%9C%AC%E9%A4%A8%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%B6",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%99%BB%E5%88%A5%E5%B8%82%20%E7%AC%AC%E4%B8%80%E6%BB%9D%E6%9C%AC%E9%A4%A8%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%B6\n公式サイト：https://takimotokan.co.jp/ja/facility/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "函館市",
+          "name": "函館公園こどものくに ゲームコーナー",
+          "type": "遊園地のゲームコーナー",
+          "rank": "低",
+          "note": "古い遊園地に残るゲームコーナー。観覧車や小型遊具と一緒に記録したい。\n利用条件：入園無料。ゲームは別料金。季節・天候による休園あり\n残存・保存の区分：継続型\n営業・残存確認メモ：公式営業案内にゲームコーナーを掲載。2025年市の施設案内も確認\n確度：A\n確認元URL：https://www.city.hakodate.hokkaido.jp/hakosuku-map/info/2025022700132/\n調査日：2026-09-15",
+          "official": "https://kodomonokuni.sakuraweb.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%87%BD%E9%A4%A8%E5%B8%82%20%E5%87%BD%E9%A4%A8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8F%E3%81%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%87%BD%E9%A4%A8%E5%B8%82%20%E5%87%BD%E9%A4%A8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8F%E3%81%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://kodomonokuni.sakuraweb.com/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "有珠郡壮瞥町",
+          "name": "洞爺サンパレスリゾート＆スパ ゲームコーナー",
+          "type": "温泉ホテル内",
+          "rank": "低",
+          "note": "湖畔の大規模観光ホテル地下。旧作機種と内装の残存度は現地確認。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に地下1階・14～23時と掲載\n確度：A\n確認元URL：https://www.toyasunpalace.co.jp/facilities/\n調査日：2026-09-15",
+          "official": "https://www.toyasunpalace.co.jp/facilities/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%89%E7%8F%A0%E9%83%A1%E5%A3%AE%E7%9E%A5%E7%94%BA%20%E6%B4%9E%E7%88%BA%E3%82%B5%E3%83%B3%E3%83%91%E3%83%AC%E3%82%B9%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%EF%BC%86%E3%82%B9%E3%83%91%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%89%E7%8F%A0%E9%83%A1%E5%A3%AE%E7%9E%A5%E7%94%BA%20%E6%B4%9E%E7%88%BA%E3%82%B5%E3%83%B3%E3%83%91%E3%83%AC%E3%82%B9%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%EF%BC%86%E3%82%B9%E3%83%91%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://www.toyasunpalace.co.jp/facilities/"
+          }
+        },
+        {
+          "prefecture": "岩手県",
+          "city": "奥州市",
+          "name": "テクノワールド",
+          "type": "ロードサイドゲームセンター",
+          "rank": "中",
+          "note": "地方の小さな独立店で新旧ゲームが共存。古いビデオゲームを使い続ける運営方針。\n利用条件：ゲームごとに課金。営業時間・撮影条件は公式SNSを確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年6月の店長取材。2026年9月10日の公式配信告知を検索で補足\n確度：B\n確認元URL：https://note.com/to_write_on/n/n80750ff86540\n補足確認元URL：https://www.ddr-navi.jp/shop/?id=16111620530900\n調査日：2026-09-15",
+          "official": "https://x.com/technotectec",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A5%A5%E5%B7%9E%E5%B8%82%20%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A5%A5%E5%B7%9E%E5%B8%82%20%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89\n公式サイト：https://x.com/technotectec"
+          }
+        },
+        {
+          "prefecture": "宮城県",
+          "city": "仙台市若林区",
+          "name": "ゲームコーナー東部",
+          "type": "商業ビル型",
+          "rank": "中",
+          "note": "複数階にわたるゲームフロア。古いビデオ・メダルゲームを継続設置。\n利用条件：ゲームごとに課金。9～24時\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年8月の公式営業告知あり\n確度：A\n確認元URL：https://gamecorner-tobu.amebaownd.com/pages/2372502/menu\n調査日：2026-09-15",
+          "official": "https://gamecorner-tobu.amebaownd.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E8%8B%A5%E6%9E%97%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E6%9D%B1%E9%83%A8",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E8%8B%A5%E6%9E%97%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E6%9D%B1%E9%83%A8\n公式サイト：https://gamecorner-tobu.amebaownd.com/"
+          }
+        },
+        {
+          "prefecture": "山形県",
+          "city": "山形市",
+          "name": "パルケ・デ・アミーゴ！",
+          "type": "ロードサイドゲームセンター",
+          "rank": "低",
+          "note": "郊外の大型独立店。旧世代音楽ゲームの記録あり。古い内装の残存は現地確認。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型（空間要確認）\n営業・残存確認メモ：現行運営会社店舗一覧と2026年景品取扱案内\n確度：A\n確認元URL：https://bsp-prize.jp/shop/2520/\n補足確認元URL：https://kamihate.net/arcade_db/venue_yamagata/parque_de_amigo/\n調査日：2026-09-15",
+          "official": "https://dreamfactor-df.com/company/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%20%E5%B1%B1%E5%BD%A2%E5%B8%82%20%E3%83%91%E3%83%AB%E3%82%B1%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%83%9F%E3%83%BC%E3%82%B4%EF%BC%81",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%20%E5%B1%B1%E5%BD%A2%E5%B8%82%20%E3%83%91%E3%83%AB%E3%82%B1%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%83%9F%E3%83%BC%E3%82%B4%EF%BC%81\n公式サイト：https://dreamfactor-df.com/company/"
+          }
+        },
+        {
+          "prefecture": "福島県",
+          "city": "いわき市",
+          "name": "嶺宝スポーツセンター",
+          "type": "スポーツ施設併設",
+          "rank": "中",
+          "note": "バッティングや卓球を併設する従来型の娯楽施設。レトロ機の現存機種は要確認。\n利用条件：ゲームごとに課金。メーカー案内11～23時・火曜休\n残存・保存の区分：継続型\n営業・残存確認メモ：メーカー現行設置店案内。レトロ要素は2022年口コミ\n確度：B\n確認元URL：https://p.eagate.573.jp/game/facility/search/p/detail.html?area=AR-01&fdesc=68e31355a4b6578ade5b47789878c8cd&finder=area&gkey=QMA_HG&paselif=false&pref=JP-07\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%20%E5%B6%BA%E5%AE%9D%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%20%E5%B6%BA%E5%AE%9D%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "福島県",
+          "city": "福島市",
+          "name": "飯坂ホテルジュラク ゲームコーナー",
+          "type": "温泉ホテルのゲームコーナー",
+          "rank": "低",
+          "note": "温泉ホテル内の遊技空間。ゲームコーナーの現存は確認、内装・筐体の古さは要現地確認。\n利用条件：宿泊・施設利用条件の確認が必要。ゲーム別料金\n残存・保存の区分：継続型（空間要確認）\n営業・残存確認メモ：現行公式施設案内にゲームコーナー・利用時間を掲載\n確度：A\n確認元URL：https://hotel-juraku.co.jp/iizaka/facility/\n調査日：2026-09-15",
+          "official": "https://hotel-juraku.co.jp/iizaka/facility/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E7%A6%8F%E5%B3%B6%E5%B8%82%20%E9%A3%AF%E5%9D%82%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%A9%E3%82%AF%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E7%A6%8F%E5%B3%B6%E5%B8%82%20%E9%A3%AF%E5%9D%82%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%A9%E3%82%AF%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://hotel-juraku.co.jp/iizaka/facility/"
+          }
+        },
+        {
+          "prefecture": "栃木県",
+          "city": "日光市",
+          "name": "鬼怒川温泉ホテル 懐かしのゲームセンター",
+          "type": "温泉ホテル内",
+          "rank": "高",
+          "note": "年代物のNEW PENNY FALLSなどを公式が現役機として案内。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金。15～23時\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に稼働機・営業時間掲載\n確度：A\n確認元URL：https://www.kinugawaonsenhotel.com/facilities/view.php?id=12\n調査日：2026-09-15",
+          "official": "https://www.kinugawaonsenhotel.com/facilities/view.php?id=12",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E6%97%A5%E5%85%89%E5%B8%82%20%E9%AC%BC%E6%80%92%E5%B7%9D%E6%B8%A9%E6%B3%89%E3%83%9B%E3%83%86%E3%83%AB%20%E6%87%90%E3%81%8B%E3%81%97%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E6%97%A5%E5%85%89%E5%B8%82%20%E9%AC%BC%E6%80%92%E5%B7%9D%E6%B8%A9%E6%B3%89%E3%83%9B%E3%83%86%E3%83%AB%20%E6%87%90%E3%81%8B%E3%81%97%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\n公式サイト：https://www.kinugawaonsenhotel.com/facilities/view.php?id=12"
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "伊勢崎市",
+          "name": "オレンジハット茂呂店",
+          "type": "オートレストラン",
+          "rank": "高",
+          "note": "食品自販機コーナーとゲーム機が残る郊外型店舗。\n利用条件：ゲームごとに課金。24時間営業の案内\n残存・保存の区分：継続型\n営業・残存確認メモ：地域記事に営業案内。最新の個別営業日は要確認\n確度：B\n確認元URL：https://we-love.gunma.jp/kanko/orangehat\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E8%8C%82%E5%91%82%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E8%8C%82%E5%91%82%E5%BA%97"
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "伊勢崎市",
+          "name": "阿久津ベンディングサービス",
+          "type": "オートレストラン",
+          "rank": "高",
+          "note": "平井町の自販機・ゲーム複合施設。日常の休憩場所として残るタイプ。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：地域紹介と2025年訪問記でゲーム営業を確認\n確度：B\n確認元URL：https://we-love.gunma.jp/kanko/akutsubs\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%20%E9%98%BF%E4%B9%85%E6%B4%A5%E3%83%99%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%20%E9%98%BF%E4%B9%85%E6%B4%A5%E3%83%99%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "吾妻郡中之条町",
+          "name": "柳屋遊技場",
+          "type": "温泉街の遊技場",
+          "rank": "高",
+          "note": "四万温泉のスマートボール店。射的も併設。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年8月10日更新の県ロケ地案内\n確度：B\n確認元URL：https://www.gunma-fc.jp/location/yanagiya_yuugijyo/\n補足確認元URL：https://nakanojo-kanko.jp/shima/experience/柳屋遊技場-スマートボール/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%90%BE%E5%A6%BB%E9%83%A1%E4%B8%AD%E4%B9%8B%E6%9D%A1%E7%94%BA%20%E6%9F%B3%E5%B1%8B%E9%81%8A%E6%8A%80%E5%A0%B4",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%90%BE%E5%A6%BB%E9%83%A1%E4%B8%AD%E4%B9%8B%E6%9D%A1%E7%94%BA%20%E6%9F%B3%E5%B1%8B%E9%81%8A%E6%8A%80%E5%A0%B4"
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "渋川市",
+          "name": "柳香軒",
+          "type": "温泉街の遊技場",
+          "rank": "高",
+          "note": "伊香保石段街の歴史ある射的・大弓の店。\n利用条件：射的・大弓ごとに課金。営業時刻は季節変動\n残存・保存の区分：継続型\n営業・残存確認メモ：現行観光案内に営業情報。更新日不明\n確度：B\n確認元URL：https://rurubu.jp/andmore/spot/80007764\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E6%B8%8B%E5%B7%9D%E5%B8%82%20%E6%9F%B3%E9%A6%99%E8%BB%92",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E6%B8%8B%E5%B7%9D%E5%B8%82%20%E6%9F%B3%E9%A6%99%E8%BB%92"
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "前橋市",
+          "name": "るなぱあく もくば館・10えんゆうぐ",
+          "type": "遊園地の小型遊技機",
+          "rank": "高",
+          "note": "1954年から残る電動木馬など。古い遊技機と小さな遊園地の空間。\n利用条件：入園無料。遊具ごとに課金。もくば等は小学生以下が対象\n残存・保存の区分：継続型\n営業・残存確認メモ：公式施設案内と2026年営業告知を確認\n確度：A\n確認元URL：https://lunapark.maebashi-park.com/\n調査日：2026-09-15",
+          "official": "https://lunapark.maebashi-park.com/facilities/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82%20%E3%82%8B%E3%81%AA%E3%81%B1%E3%81%82%E3%81%8F%20%E3%82%82%E3%81%8F%E3%81%B0%E9%A4%A8%E3%83%BB10%E3%81%88%E3%82%93%E3%82%86%E3%81%86%E3%81%90",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82%20%E3%82%8B%E3%81%AA%E3%81%B1%E3%81%82%E3%81%8F%20%E3%82%82%E3%81%8F%E3%81%B0%E9%A4%A8%E3%83%BB10%E3%81%88%E3%82%93%E3%82%86%E3%81%86%E3%81%90\n公式サイト：https://lunapark.maebashi-park.com/facilities/"
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "前橋市",
+          "name": "駄菓子屋わがじゃん ゲームコーナー",
+          "type": "駄菓子屋のゲームコーナー",
+          "rank": "高",
+          "note": "駄菓子店にゲームや玩具が残る日常の遊び場。\n利用条件：店舗営業時のみ。ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年7月25日の来店口コミとゲーム設置を紹介する店舗案内\n確度：B\n確認元URL：https://www.gunlabo.net/shop/shop.shtml?s=266\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82%20%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B%E3%82%8F%E3%81%8C%E3%81%98%E3%82%83%E3%82%93%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82%20%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B%E3%82%8F%E3%81%8C%E3%81%98%E3%82%83%E3%82%93%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "太田市",
+          "name": "オレンジハット沖之郷店",
+          "type": "オートレストラン",
+          "rank": "高",
+          "note": "田園のロードサイド。食品自販機と古いゲームコーナーが同居。\n利用条件：ゲームごとに課金。24時間営業の案内\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年4月の現地訪問・ゲーム利用記録\n確度：B\n確認元URL：https://retrog-99.hatenablog.com/entry/okinogo\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%A4%AA%E7%94%B0%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E6%B2%96%E4%B9%8B%E9%83%B7%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%A4%AA%E7%94%B0%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E6%B2%96%E4%B9%8B%E9%83%B7%E5%BA%97"
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "藤岡市",
+          "name": "ドライブイン七輿 ゲームコーナー",
+          "type": "ドライブインのゲームコーナー",
+          "rank": "高",
+          "note": "食品自販機とワニワニパニック・ドライブゲーム等が同居するロードサイド空間。\n利用条件：ゲームごとに課金。ゲーム区画は深夜営業なし\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年4月3日の現地訪問でゲーム利用を確認\n確度：B\n確認元URL：https://minkara.carview.co.jp/userid/2641247/blog/49027353/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E8%97%A4%E5%B2%A1%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E4%B8%83%E8%BC%BF%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E8%97%A4%E5%B2%A1%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E4%B8%83%E8%BC%BF%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "さいたま市南区",
+          "name": "プレイスポットビッグワンセカンド",
+          "type": "街のゲームセンター",
+          "rank": "中",
+          "note": "南浦和の旧作対戦ゲーム店。KOF98等の対戦会を継続。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年6月14日の対戦会開催記録\n確度：B\n確認元URL：https://asanoc.lsv.jp/bigone_5on5/index.php\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%8D%97%E5%8C%BA%20%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%93%E3%83%83%E3%82%B0%E3%83%AF%E3%83%B3%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%8D%97%E5%8C%BA%20%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%93%E3%83%83%E3%82%B0%E3%83%AF%E3%83%B3%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89"
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "深谷市",
+          "name": "ビデオゲームミュージアム ロボット深谷店",
+          "type": "レトロゲームセンター",
+          "rank": "中",
+          "note": "郊外の大型店で旧作筐体を多数維持。保存の比重が高い営業施設として区別。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：現行運営会社ページとゲームメーカー店舗案内を照合\n確度：A\n確認元URL：https://www.carddass.com/gundam-ab/location/list.php?shop_id=2191\n調査日：2026-09-15",
+          "official": "https://roboto.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%B7%B1%E8%B0%B7%E5%B8%82%20%E3%83%93%E3%83%87%E3%82%AA%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%B7%B1%E8%B0%B7%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%B7%B1%E8%B0%B7%E5%B8%82%20%E3%83%93%E3%83%87%E3%82%AA%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%B7%B1%E8%B0%B7%E5%BA%97\n公式サイト：https://roboto.co.jp/"
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "市川市",
+          "name": "大慶園",
+          "type": "ロードサイド複合遊技施設",
+          "rank": "中",
+          "note": "郊外の大型遊技施設。アメリカ風の意図的な演出あり。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続・演出型\n営業・残存確認メモ：2026年の地域紹介と8月の地図口コミ\n確度：B\n確認元URL：https://www.dotline-jp.com/chibanomikata/2009/\n調査日：2026-09-15",
+          "official": "http://www.daikeien.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%B8%82%E5%B7%9D%E5%B8%82%20%E5%A4%A7%E6%85%B6%E5%9C%92",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%B8%82%E5%B7%9D%E5%B8%82%20%E5%A4%A7%E6%85%B6%E5%9C%92\n公式サイト：http://www.daikeien.jp/"
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "船橋市",
+          "name": "アミューズメントエース津田沼",
+          "type": "古い商業ビルのゲームセンター",
+          "rank": "中",
+          "note": "駅前ビル1～3階。ビデオ・メダル・音楽ゲームが集まる昔ながらの複合店。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行運営会社ページに営業9～24時・ゲーム種別を掲載\n確度：A\n確認元URL：https://www.leisurelan.co.jp/store/ace-tu/\n調査日：2026-09-15",
+          "official": "https://www.leisurelan.co.jp/store/ace-tu/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E8%88%B9%E6%A9%8B%E5%B8%82%20%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%82%A8%E3%83%BC%E3%82%B9%E6%B4%A5%E7%94%B0%E6%B2%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E8%88%B9%E6%A9%8B%E5%B8%82%20%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%82%A8%E3%83%BC%E3%82%B9%E6%B4%A5%E7%94%B0%E6%B2%BC\n公式サイト：https://www.leisurelan.co.jp/store/ace-tu/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "葛飾区",
+          "name": "柴又ハイカラ横丁 ゲームコーナー",
+          "type": "再現型レトロ遊技施設",
+          "rank": "低",
+          "note": "駄菓子店内の10円ゲーム等。昭和を再現した施設として区別。\n利用条件：ゲームごとに課金。故障・休止機あり\n残存・保存の区分：再現型\n営業・残存確認メモ：2026年9月10日の公式営業案内を確認\n確度：A\n確認元URL：https://haikarayokotyo.com/\n調査日：2026-09-15",
+          "official": "https://haikarayokotyo.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%91%9B%E9%A3%BE%E5%8C%BA%20%E6%9F%B4%E5%8F%88%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%A9%E6%A8%AA%E4%B8%81%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%91%9B%E9%A3%BE%E5%8C%BA%20%E6%9F%B4%E5%8F%88%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%A9%E6%A8%AA%E4%B8%81%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://haikarayokotyo.com/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "ゲームインリド Part1",
+          "type": "雑居ビル内",
+          "rank": "高",
+          "note": "ニュー新橋ビル2階。麻雀やパズルゲーム中心の小規模店。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：商店会掲載と2025年訪問記あり。商店会時刻情報は古い\n確度：B\n確認元URL：https://www.shinbashi.net/shop/10160\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%89%20Part1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%89%20Part1"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "荒川区",
+          "name": "西日暮里ゲームスポットバーサス",
+          "type": "雑居ビル内",
+          "rank": "中",
+          "note": "駅近くのビル3階にある対戦ゲームの店。旧作対戦文化を記録する対象。\n利用条件：ゲームごとに課金。公式案内10～25時\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に現行タイトル予約・営業案内\n確度：A\n確認元URL：https://game-versus.net/\n調査日：2026-09-15",
+          "official": "https://game-versus.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA%20%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%90%E3%83%BC%E3%82%B5%E3%82%B9",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA%20%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%90%E3%83%BC%E3%82%B5%E3%82%B9\n公式サイト：https://game-versus.net/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "ASO:VIBA! 恵比寿店",
+          "type": "街のゲームセンター",
+          "rank": "高",
+          "note": "恵比寿のビル内。2026年訪問記事で3階の旧作ゲームを確認。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年4月24日公開の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/85213/\n調査日：2026-09-15",
+          "official": "https://www.asoviba.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA%20ASO%3AVIBA!%20%E6%81%B5%E6%AF%94%E5%AF%BF%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA%20ASO%3AVIBA!%20%E6%81%B5%E6%AF%94%E5%AF%BF%E5%BA%97\n公式サイト：https://www.asoviba.com/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "高田馬場ゲーセンミカド",
+          "type": "街のゲームセンター",
+          "rank": "中",
+          "note": "旧作ビデオ・体感ゲームを継続運用。収集保存の活動も強い。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：2026年8月30日の営業告知\n確度：A\n確認元URL：https://mi-ka-do.net/\n調査日：2026-09-15",
+          "official": "https://mi-ka-do.net/baba/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA%20%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B4%E3%82%B2%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%9F%E3%82%AB%E3%83%89",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA%20%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B4%E3%82%B2%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%9F%E3%82%AB%E3%83%89\n公式サイト：https://mi-ka-do.net/baba/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "西多摩郡瑞穂町",
+          "name": "DORAMA 瑞穂店",
+          "type": "ロードサイドゲームセンター",
+          "rank": "中",
+          "note": "郊外型の店内に1980年代のゲームを集めた一角。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続・収集型\n営業・残存確認メモ：2025年3月公開の現地訪問記事。現行Yahoo!マップにも掲載\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/68936/\n補足確認元URL：https://map.yahoo.co.jp/v3/place/o8dvcJYWJqs\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%A5%BF%E5%A4%9A%E6%91%A9%E9%83%A1%E7%91%9E%E7%A9%82%E7%94%BA%20DORAMA%20%E7%91%9E%E7%A9%82%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%A5%BF%E5%A4%9A%E6%91%A9%E9%83%A1%E7%91%9E%E7%A9%82%E7%94%BA%20DORAMA%20%E7%91%9E%E7%A9%82%E5%BA%97"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "Hey",
+          "type": "商業ビルのゲームセンター",
+          "rank": "中",
+          "note": "秋葉原の旧作シューティング・格闘ゲーム集積店。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：現行運営会社ページ。旧作は2025年訪問記\n確度：A\n確認元URL：https://www.taito.co.jp/store/00001703\n調査日：2026-09-15",
+          "official": "https://www.taito.co.jp/store/00001703",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%20Hey",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%20Hey\n公式サイト：https://www.taito.co.jp/store/00001703"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "東村山市",
+          "name": "ゲームインファッツ",
+          "type": "街のゲームセンター",
+          "rank": "中",
+          "note": "久米川駅近くの昔ながらのビデオゲーム店。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年1～3月の訪問集計。現行地図にも掲載\n確度：B\n確認元URL：https://note.com/akb428/n/nb8d63b1efcf0\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A1%E3%83%83%E3%83%84",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A1%E3%83%83%E3%83%84"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "板橋区",
+          "name": "駄菓子屋ゲーム博物館",
+          "type": "保存型10円ゲーム施設",
+          "rank": "低",
+          "note": "住宅街の小さな施設に10円ゲームを集積。駄菓子屋の遊技文化を保存する施設。\n利用条件：入場料・ゲーム料金。営業日の情報に差があり事前確認\n残存・保存の区分：保存・収集型\n営業・残存確認メモ：2025年11月の利用口コミと現行地図案内。公式URLはAppleマップ掲載を確認、本文は取得できず。Googleマップでの登録は未確認\n確度：B\n確認元URL：https://map.yahoo.co.jp/v3/place/1UFLCi0BVzk\n補足確認元URL：https://maps.apple.com/place?place-id=I4C97049FFF9DCEB0\n調査日：2026-09-15",
+          "official": "https://dgmjp.stars.ne.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA%20%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%9A%E7%89%A9%E9%A4%A8",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA%20%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%9A%E7%89%A9%E9%A4%A8\n公式サイト：https://dgmjp.stars.ne.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "池袋ゲーセンミカド",
+          "type": "レトロゲームセンター",
+          "rank": "中",
+          "note": "池袋の旧作ゲーム集積店。既存ゲームセンターの場所を引き継いだ保存重視の営業。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：現行公式サイトが店舗案内・営業イベントを掲載\n確度：A\n確認元URL：https://mi-ka-do.net/\n調査日：2026-09-15",
+          "official": "https://mi-ka-do.net/bukuro/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA%20%E6%B1%A0%E8%A2%8B%E3%82%B2%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%9F%E3%82%AB%E3%83%89",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA%20%E6%B1%A0%E8%A2%8B%E3%82%B2%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%9F%E3%82%AB%E3%83%89\n公式サイト：https://mi-ka-do.net/bukuro/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "おもちゃのふくしま ゲームコーナー",
+          "type": "商店街のゲームコーナー",
+          "rank": "高",
+          "note": "桐ヶ丘中央商店街のおもちゃ店に残る古いビデオゲーム。商店街ごと記録候補。\n利用条件：店舗営業時のみ。ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年12月26日公開の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/80226/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA%20%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%AE%E3%81%B5%E3%81%8F%E3%81%97%E3%81%BE%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA%20%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%AE%E3%81%B5%E3%81%8F%E3%81%97%E3%81%BE%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "Game in えびせん",
+          "type": "街のゲームセンター",
+          "rank": "中",
+          "note": "江古田のシューティング中心の小規模ゲーセン。旧作を長く維持。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年2月更新の地域店舗案内\n確度：B\n確認元URL：https://ekoda-event.jp/detail.php?shop_id=27\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20Game%20in%20%E3%81%88%E3%81%B3%E3%81%9B%E3%82%93",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20Game%20in%20%E3%81%88%E3%81%B3%E3%81%9B%E3%82%93"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "あかしや（真野商店）ゲームコーナー",
+          "type": "商店のゲームコーナー",
+          "rank": "高",
+          "note": "下石神井3丁目の小さな商店に残る10円ゲーム。生活圏の中の軒先空間。\n利用条件：店舗営業時のみ。ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年5月8日公開の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/85997/\n補足確認元URL：https://map.yahoo.co.jp/v3/place/WS4Hh5DJQvs?from_srv=loco_web\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E3%81%82%E3%81%8B%E3%81%97%E3%82%84%EF%BC%88%E7%9C%9F%E9%87%8E%E5%95%86%E5%BA%97%EF%BC%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E3%81%82%E3%81%8B%E3%81%97%E3%82%84%EF%BC%88%E7%9C%9F%E9%87%8E%E5%95%86%E5%BA%97%EF%BC%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "ゲームパーク石神井",
+          "type": "商店街のゲームセンター",
+          "rank": "高",
+          "note": "絨毯や内装に90年代の面影が残る現役店。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年11月の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/78415/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%BC%E3%82%AF%E7%9F%B3%E7%A5%9E%E4%BA%95",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%BC%E3%82%AF%E7%9F%B3%E7%A5%9E%E4%BA%95"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "久胡商店 ゲームコーナー",
+          "type": "商店の軒先ゲームコーナー",
+          "rank": "高",
+          "note": "商店の軒先に残る小型ゲーム機。生活圏の中で自然に残った空間。\n利用条件：店舗営業時のみ。ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年5月8日公開の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/85997/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E4%B9%85%E8%83%A1%E5%95%86%E5%BA%97%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E4%B9%85%E8%83%A1%E5%95%86%E5%BA%97%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "川崎市宮前区",
+          "name": "東京バッティングセンターPART.3",
+          "type": "バッティングセンター併設",
+          "rank": "高",
+          "note": "旧作の電車でGO!や汎用筐体が残る複合スポーツ施設。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2024年秋訪問を2025年1月掲載。NO.3とは別店舗\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/66110/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCPART.3",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCPART.3"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "川崎市多摩区",
+          "name": "東京バッティングセンターNO.3",
+          "type": "バッティングセンター併設",
+          "rank": "高",
+          "note": "ロビーに旧作の太鼓・料理系ゲームを設置。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2024年秋訪問を2025年1月掲載\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/66110/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCNO.3",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCNO.3"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "相模原市緑区",
+          "name": "勝瀬観光 ゲームランド",
+          "type": "湖畔観光地",
+          "rank": "高",
+          "note": "遊覧船乗り場に体感ゲームや古い遊具が残る。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年5月の現地訪問記事。会社案内もゲーム事業を掲載\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/86603/\n補足確認元URL：https://www.kassekanko.jp/company.html\n調査日：2026-09-15",
+          "official": "https://www.kassekanko.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%B7%91%E5%8C%BA%20%E5%8B%9D%E7%80%AC%E8%A6%B3%E5%85%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%89",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%B7%91%E5%8C%BA%20%E5%8B%9D%E7%80%AC%E8%A6%B3%E5%85%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%89\n公式サイト：https://www.kassekanko.jp/"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "相模原市緑区",
+          "name": "振興ボート ゲームコーナー",
+          "type": "湖畔観光地",
+          "rank": "高",
+          "note": "貸しボート乗り場の古い屋内遊技空間。故障機もある。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年5月の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/86603/\n補足確認元URL：https://www.japan47go.travel/ja/detail/abf48a5a-67e0-424b-95de-9ab7720d6480\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%B7%91%E5%8C%BA%20%E6%8C%AF%E8%88%88%E3%83%9C%E3%83%BC%E3%83%88%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%B7%91%E5%8C%BA%20%E6%8C%AF%E8%88%88%E3%83%9C%E3%83%BC%E3%83%88%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "足柄下郡箱根町",
+          "name": "娯楽センター七福",
+          "type": "温泉街の遊技場",
+          "rank": "高",
+          "note": "大平台に残る射的・スマートボール等の小さな遊技場。\n利用条件：各遊技で課金。水曜休の案内\n残存・保存の区分：継続型\n営業・残存確認メモ：現行観光案内に住所・営業情報。個別更新日不明\n確度：B\n確認元URL：https://www.at-yokohama.net/spots/1236\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E8%B6%B3%E6%9F%84%E4%B8%8B%E9%83%A1%E7%AE%B1%E6%A0%B9%E7%94%BA%20%E5%A8%AF%E6%A5%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E4%B8%83%E7%A6%8F",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E8%B6%B3%E6%9F%84%E4%B8%8B%E9%83%A1%E7%AE%B1%E6%A0%B9%E7%94%BA%20%E5%A8%AF%E6%A5%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E4%B8%83%E7%A6%8F"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "藤沢市",
+          "name": "朝日軒",
+          "type": "海辺観光地の遊技場",
+          "rank": "高",
+          "note": "すばな通りの昔ながらのスマートボール・射的。\n利用条件：不定期営業。通常店内撮影禁止との取材情報あり\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年5月現地営業確認。撮影制限は鉄道会社取材記事\n確度：B\n確認元URL：https://johnnyankoba.blog.fc2.com/blog-entry-1500.html\n補足確認元URL：https://www.shonan-monorail.co.jp/sora_de_bra-n/2017/11/post-17.html\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E8%97%A4%E6%B2%A2%E5%B8%82%20%E6%9C%9D%E6%97%A5%E8%BB%92",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E8%97%A4%E6%B2%A2%E5%B8%82%20%E6%9C%9D%E6%97%A5%E8%BB%92"
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "燕市",
+          "name": "公楽園 ゲームコーナー",
+          "type": "オートレストラン・宿泊施設",
+          "rank": "高",
+          "note": "田園の二階建て休憩施設。自販機と旧作筐体が残る。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年12月31日の現地訪問を2026年1月掲載\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/81472/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82%20%E5%85%AC%E6%A5%BD%E5%9C%92%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82%20%E5%85%AC%E6%A5%BD%E5%9C%92%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "三条市",
+          "name": "イリスボウル ゲームコーナー",
+          "type": "ボウリング場併設",
+          "rank": "高",
+          "note": "既存ボウリング場にテーブル筐体を集積。保存活動の要素も強い。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続・収集型\n営業・残存確認メモ：2024年末訪問を2025年1月に掲載\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/67225/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E4%B8%89%E6%9D%A1%E5%B8%82%20%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%9C%E3%82%A6%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E4%B8%89%E6%9D%A1%E5%B8%82%20%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%9C%E3%82%A6%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "新潟市西蒲区",
+          "name": "プレイハウスエリナ",
+          "type": "ロードサイドのゲームセンター",
+          "rank": "高",
+          "note": "創業45年目を運営者が案内。古い郊外ゲーセンに現行音楽ゲームが同居。\n利用条件：ゲームごとに課金。原則月曜休・公式X確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式ページと2025年12月31日訪問・2026年1月30日掲載の稼働記録\n確度：A\n確認元URL：https://www.beep-shop.com/column_entry/81472/\n補足確認元URL：https://www.playhouse-erina.com/\n調査日：2026-09-15",
+          "official": "https://www.playhouse-erina.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E8%A5%BF%E8%92%B2%E5%8C%BA%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%A8%E3%83%AA%E3%83%8A",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E8%A5%BF%E8%92%B2%E5%8C%BA%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%A8%E3%83%AA%E3%83%8A\n公式サイト：https://www.playhouse-erina.com/"
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "新潟市北区",
+          "name": "ポピーとよさか",
+          "type": "オートレストランのゲームコーナー",
+          "rank": "高",
+          "note": "自販機飲食とテーブル筐体が同居。古い空間を使い続けながらゲームを入れ替えている。\n利用条件：ゲームごとに課金。飲食注文と遊技の時間は別\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年2月26日の現地訪問記事でゲーム・自販機を確認\n確度：B\n確認元URL：https://shidho.hatenablog.jp/entry/2026/02/26/173000\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%83%9D%E3%83%94%E3%83%BC%E3%81%A8%E3%82%88%E3%81%95%E3%81%8B",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%83%9D%E3%83%94%E3%83%BC%E3%81%A8%E3%82%88%E3%81%95%E3%81%8B"
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "長岡市",
+          "name": "ゲームセンターテクノポリス",
+          "type": "旧映画館のゲームセンター",
+          "rank": "高",
+          "note": "映画館を転用した建物に旧作・体感機を維持。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年2月市公式取材。公式に9月イベント告知\n確度：A\n確認元URL：https://na-nagaoka.jp/archives/21563\n調査日：2026-09-15",
+          "official": "https://am-factory.jp/tecnopolis/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E9%95%B7%E5%B2%A1%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%E3%83%9D%E3%83%AA%E3%82%B9",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E9%95%B7%E5%B2%A1%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%E3%83%9D%E3%83%AA%E3%82%B9\n公式サイト：https://am-factory.jp/tecnopolis/"
+          }
+        },
+        {
+          "prefecture": "富山県",
+          "city": "魚津市",
+          "name": "ゲームスポットアップル",
+          "type": "街のゲームセンター",
+          "rank": "中",
+          "note": "旧筐体と新機種が同居する音楽ゲーム中心店。レトロな空間の程度は要確認。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年12月12日設置確認と現行メーカー案内\n確度：B\n確認元URL：https://www.ddr-navi.jp/shop/?id=13042323501300\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E9%AD%9A%E6%B4%A5%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E9%AD%9A%E6%B4%A5%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB"
+          }
+        },
+        {
+          "prefecture": "富山県",
+          "city": "高岡市",
+          "name": "オートレストランぞうさん",
+          "type": "オートレストラン",
+          "rank": "高",
+          "note": "食品自販機とビデオゲーム。テーブル筐体も稼働。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年7月の現地訪問記事。看板更新の追記あり\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/89318/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E9%AB%98%E5%B2%A1%E5%B8%82%20%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%81%9E%E3%81%86%E3%81%95%E3%82%93",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E9%AB%98%E5%B2%A1%E5%B8%82%20%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%81%9E%E3%81%86%E3%81%95%E3%82%93"
+          }
+        },
+        {
+          "prefecture": "石川県",
+          "city": "金沢市",
+          "name": "バイパスレジャーランド藤江本館・新館",
+          "type": "ロードサイドのゲームセンター",
+          "rank": "高",
+          "note": "本館は食堂併設ゲーセン由来。旧作筐体が並ぶ2階を優先。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年7月の現地訪問・稼働記録\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/88638/\n補足確認元URL：https://www.yamazakiya.co.jp/shop/hokuriku/\n調査日：2026-09-15",
+          "official": "https://www.yamazakiya.co.jp/shop/hokuriku/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E9%87%91%E6%B2%A2%E5%B8%82%20%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%97%A4%E6%B1%9F%E6%9C%AC%E9%A4%A8%E3%83%BB%E6%96%B0%E9%A4%A8",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E9%87%91%E6%B2%A2%E5%B8%82%20%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%97%A4%E6%B1%9F%E6%9C%AC%E9%A4%A8%E3%83%BB%E6%96%B0%E9%A4%A8\n公式サイト：https://www.yamazakiya.co.jp/shop/hokuriku/"
+          }
+        },
+        {
+          "prefecture": "石川県",
+          "city": "七尾市",
+          "name": "ゲームセンターベティ",
+          "type": "ロードサイドゲームセンター",
+          "rank": "中",
+          "note": "能登の小さな独立店。古い音楽ゲームを維持し、旧筐体と新筐体が共存。\n利用条件：ゲームごとに課金。営業時間の変更は公式SNSで確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年9月5日beatmaniaIII稼働確認。公式LINEは営業時間が古い可能性あり\n確度：B\n確認元URL：https://kani.no.coocan.jp/bm/str.htm\n補足確認元URL：https://2dera.net/iidx_map/index.php?s=2170\n調査日：2026-09-15",
+          "official": "https://page.line.me/ptk3641j",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E4%B8%83%E5%B0%BE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%99%E3%83%86%E3%82%A3",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E4%B8%83%E5%B0%BE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%99%E3%83%86%E3%82%A3\n公式サイト：https://page.line.me/ptk3641j"
+          }
+        },
+        {
+          "prefecture": "福井県",
+          "city": "福井市",
+          "name": "フクイレジャーランド ワイプラザ店",
+          "type": "商業施設のゲームセンター",
+          "rank": "中",
+          "note": "2001年開設の複合レジャー施設。2026年の現地記事でゲームフロアを確認。\n利用条件：ゲームごとに課金。区画ごとの営業時間を確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年7月3日の現地記事と運営会社の現行店舗案内\n確度：A\n確認元URL：https://www.beep-shop.com/column_entry/88200/\n補足確認元URL：https://www.yamazakiya.co.jp/company/\n調査日：2026-09-15",
+          "official": "https://www.yamazakiya.co.jp/shop/hokuriku/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E7%A6%8F%E4%BA%95%E5%B8%82%20%E3%83%95%E3%82%AF%E3%82%A4%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%E3%83%AF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%B6%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E7%A6%8F%E4%BA%95%E5%B8%82%20%E3%83%95%E3%82%AF%E3%82%A4%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%E3%83%AF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%B6%E5%BA%97\n公式サイト：https://www.yamazakiya.co.jp/shop/hokuriku/"
+          }
+        },
+        {
+          "prefecture": "長野県",
+          "city": "下高井郡山ノ内町",
+          "name": "渋温泉クラブ",
+          "type": "温泉街の遊技場",
+          "rank": "高",
+          "note": "渋温泉の石畳沿いにある射的遊技場。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行温泉公式案内に住所・営業時間掲載\n確度：B\n確認元URL：https://shibuonsen.net/shop/shibuonsenclub/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E5%B1%B1%E3%83%8E%E5%86%85%E7%94%BA%20%E6%B8%8B%E6%B8%A9%E6%B3%89%E3%82%AF%E3%83%A9%E3%83%96",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E5%B1%B1%E3%83%8E%E5%86%85%E7%94%BA%20%E6%B8%8B%E6%B8%A9%E6%B3%89%E3%82%AF%E3%83%A9%E3%83%96"
+          }
+        },
+        {
+          "prefecture": "長野県",
+          "city": "下高井郡山ノ内町",
+          "name": "面白屋",
+          "type": "温泉街の遊技場",
+          "rank": "高",
+          "note": "100年以上の歴史を紹介する昔ながらの射的店。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行温泉公式案内に住所・営業時間掲載\n確度：B\n確認元URL：https://shibuonsen.net/shop/omoshiroya/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E5%B1%B1%E3%83%8E%E5%86%85%E7%94%BA%20%E9%9D%A2%E7%99%BD%E5%B1%8B",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E5%B1%B1%E3%83%8E%E5%86%85%E7%94%BA%20%E9%9D%A2%E7%99%BD%E5%B1%8B"
+          }
+        },
+        {
+          "prefecture": "長野県",
+          "city": "上田市",
+          "name": "ニャライズ",
+          "type": "街のゲームセンター",
+          "rank": "中",
+          "note": "小規模店で旧作基板の入れ替えに対応。\n利用条件：ゲーム別料金・機種入替有料。公式カレンダー確認。店内撮影不可の案内あり\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：2025年11月7日更新の公式ルール\n確度：A\n確認元URL：https://sites.google.com/view/nyarise/ホーム\n調査日：2026-09-15",
+          "official": "https://sites.google.com/view/nyarise/ホーム",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8A%E7%94%B0%E5%B8%82%20%E3%83%8B%E3%83%A3%E3%83%A9%E3%82%A4%E3%82%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8A%E7%94%B0%E5%B8%82%20%E3%83%8B%E3%83%A3%E3%83%A9%E3%82%A4%E3%82%BA\n公式サイト：https://sites.google.com/view/nyarise/ホーム"
+          }
+        },
+        {
+          "prefecture": "岐阜県",
+          "city": "下呂市",
+          "name": "射的屋 藤吉郎",
+          "type": "温泉街の遊技場",
+          "rank": "高",
+          "note": "下呂温泉街の昔ながらの射的場。小さな店構えを含めて候補。\n利用条件：有料。日曜中心・不定営業のため事前確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年9月8日の地域宿泊事業者による案内と現行地図掲載\n確度：B\n確認元URL：https://iwatoya-takayama.com/gero-onsen-shateki/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E4%B8%8B%E5%91%82%E5%B8%82%20%E5%B0%84%E7%9A%84%E5%B1%8B%20%E8%97%A4%E5%90%89%E9%83%8E",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E4%B8%8B%E5%91%82%E5%B8%82%20%E5%B0%84%E7%9A%84%E5%B1%8B%20%E8%97%A4%E5%90%89%E9%83%8E"
+          }
+        },
+        {
+          "prefecture": "岐阜県",
+          "city": "高山市",
+          "name": "飛騨高山レトロミュージアム",
+          "type": "保存・再現型遊技施設",
+          "rank": "低",
+          "note": "古いアーケードゲームや10円ゲームを実際に遊べる再現施設。自然残存とは別枠。\n利用条件：入館料。体験により追加料金あり\n残存・保存の区分：保存・再現型\n営業・残存確認メモ：現行公式サイトに遊べるゲームと利用案内を掲載\n確度：A\n確認元URL：https://www.retromuseum.jp/\n調査日：2026-09-15",
+          "official": "https://www.retromuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E9%AB%98%E5%B1%B1%E5%B8%82%20%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1%E3%83%AC%E3%83%88%E3%83%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E9%AB%98%E5%B1%B1%E5%B8%82%20%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1%E3%83%AC%E3%83%88%E3%83%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0\n公式サイト：https://www.retromuseum.jp/"
+          }
+        },
+        {
+          "prefecture": "岐阜県",
+          "city": "山県市",
+          "name": "岐阜レトロミュージアム",
+          "type": "保存・再現型遊技施設",
+          "rank": "低",
+          "note": "旧作ゲーム・パチンコ・自販機を集めた体験施設。自然残存ではなく保存施設として区別。\n利用条件：時間制の入館料。火～木休業（祝日除く）。最新料金は要確認\n残存・保存の区分：保存・再現型\n営業・残存確認メモ：現行市公式観光案内に遊技・利用条件あり。施設は最新情報をGoogleマップで案内\n確度：B\n確認元URL：https://www.city.yamagata.gifu.jp/site/yamanavi/8058.html\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%B1%B1%E7%9C%8C%E5%B8%82%20%E5%B2%90%E9%98%9C%E3%83%AC%E3%83%88%E3%83%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%B1%B1%E7%9C%8C%E5%B8%82%20%E5%B2%90%E9%98%9C%E3%83%AC%E3%83%88%E3%83%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0"
+          }
+        },
+        {
+          "prefecture": "岐阜県",
+          "city": "養老郡養老町",
+          "name": "養老ランド ゲームコーナー",
+          "type": "遊園地のゲームコーナー",
+          "rank": "中",
+          "note": "昭和の雰囲気を保つ遊園地の屋内ゲーム空間。古い個別筐体の現存は要現地確認。\n利用条件：入園料と遊技料金。休園日あり\n残存・保存の区分：継続型\n営業・残存確認メモ：公式営業案内と2026年8月のゲーム利用口コミ\n確度：A\n確認元URL：https://map.yahoo.co.jp/v3/place/42IympmsKrQ/review\n調査日：2026-09-15",
+          "official": "https://www.yourou-land.com/道案内/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%20%E9%A4%8A%E8%80%81%E3%83%A9%E3%83%B3%E3%83%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%20%E9%A4%8A%E8%80%81%E3%83%A9%E3%83%B3%E3%83%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://www.yourou-land.com/道案内/"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "伊東市",
+          "name": "ハトヤホテル ゲームセンター",
+          "type": "温泉ホテル内",
+          "rank": "高",
+          "note": "昭和の大型観光ホテル内。館内動線とあわせた採集向き。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：公式にゲームセンター16～22時を掲載\n確度：A\n確認元URL：https://www.hatoyahotel.com/shisetsu/\n調査日：2026-09-15",
+          "official": "https://www.hatoyahotel.com/shisetsu/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E6%9D%B1%E5%B8%82%20%E3%83%8F%E3%83%88%E3%83%A4%E3%83%9B%E3%83%86%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E6%9D%B1%E5%B8%82%20%E3%83%8F%E3%83%88%E3%83%A4%E3%83%9B%E3%83%86%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\n公式サイト：https://www.hatoyahotel.com/shisetsu/"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "伊東市",
+          "name": "ホテルサンハトヤ ゲームセンター",
+          "type": "温泉ホテル内",
+          "rank": "高",
+          "note": "海沿いの大型観光ホテルに残る遊技空間。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：公式施設案内にゲームセンター掲載\n確度：A\n確認元URL：https://www.sunhatoya.co.jp/shisetu/hoka/index.html\n調査日：2026-09-15",
+          "official": "https://www.sunhatoya.co.jp/shisetu/hoka/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E6%9D%B1%E5%B8%82%20%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%88%E3%83%A4%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E6%9D%B1%E5%B8%82%20%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%88%E3%83%A4%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\n公式サイト：https://www.sunhatoya.co.jp/shisetu/hoka/index.html"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "伊豆市",
+          "name": "初音遊技場",
+          "type": "温泉街の遊技場",
+          "rank": "高",
+          "note": "修善寺温泉に残る昔ながらの遊技場。射的とスマートボール。\n利用条件：射的・スマートボール等は有料。営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行観光案内に営業情報掲載。直近の日付付き営業証拠は未取得\n確度：B\n確認元URL：https://travel.yahoo.co.jp/kanko/spot-00033542/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E8%B1%86%E5%B8%82%20%E5%88%9D%E9%9F%B3%E9%81%8A%E6%8A%80%E5%A0%B4",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E8%B1%86%E5%B8%82%20%E5%88%9D%E9%9F%B3%E9%81%8A%E6%8A%80%E5%A0%B4"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "静岡市葵区",
+          "name": "アップル新北街道店",
+          "type": "街のゲームセンター",
+          "rank": "低",
+          "note": "昔から続く地域のゲームセンター。建物・店内の古さは写真の現地再確認を推奨。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年3月29日の利用口コミを確認\n確度：B\n確認元URL：https://map.yahoo.co.jp/v3/place/xNhplPEhKYI?from_srv=loco_web\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%20%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E6%96%B0%E5%8C%97%E8%A1%97%E9%81%93%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%20%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E6%96%B0%E5%8C%97%E8%A1%97%E9%81%93%E5%BA%97"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "熱海市",
+          "name": "ホテルニューアカオ ゲームコーナー",
+          "type": "温泉ホテル内",
+          "rank": "中",
+          "note": "オーシャン・ウイング1階。大型観光ホテルの館内ゲーム空間。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金。8～24時\n残存・保存の区分：継続・再開型\n営業・残存確認メモ：公式にゲームコーナーの場所・時刻掲載\n確度：A\n確認元URL：https://hotel-new-akao.com/facilities/\n調査日：2026-09-15",
+          "official": "https://hotel-new-akao.com/facilities/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%86%B1%E6%B5%B7%E5%B8%82%20%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%82%AB%E3%82%AA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%86%B1%E6%B5%B7%E5%B8%82%20%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%82%AB%E3%82%AA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://hotel-new-akao.com/facilities/"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "熱海市",
+          "name": "和田たばこ店 ゲームコーナー",
+          "type": "たばこ・駄菓子店併設",
+          "rank": "高",
+          "note": "古い温泉旅館等のゲーム機を維持する小規模店。撮影用途には制約。\n利用条件：店番がいる時のみ利用可。店内撮影不可\n残存・保存の区分：継続・収集型\n営業・残存確認メモ：静岡新聞の施設案内に利用条件・撮影禁止を掲載\n確度：B\n確認元URL：https://www.at-s.com/spot/article/1619736\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%86%B1%E6%B5%B7%E5%B8%82%20%E5%92%8C%E7%94%B0%E3%81%9F%E3%81%B0%E3%81%93%E5%BA%97%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%86%B1%E6%B5%B7%E5%B8%82%20%E5%92%8C%E7%94%B0%E3%81%9F%E3%81%B0%E3%81%93%E5%BA%97%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "一宮市",
+          "name": "ゲームセンター千秋",
+          "type": "オートスナック",
+          "rank": "低",
+          "note": "古い郊外店舗の外観・内装。旧筐体に非稼働品が多い点に注意。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年5月訪問記事。ゲーム利用可能範囲は要確認\n確度：C\n確認元URL：https://www.beep-shop.com/column_entry/71609/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E4%B8%80%E5%AE%AE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%8D%83%E7%A7%8B",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E4%B8%80%E5%AE%AE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%8D%83%E7%A7%8B"
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "西尾市",
+          "name": "天野ゲーム博物館",
+          "type": "街のゲームセンター",
+          "rank": "中",
+          "note": "1978年のゲームセンターを継承。名称は博物館だが既存店舗の維持型。\n利用条件：限定営業。訪問前に公式の営業日程を確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年8月30日更新。9月4～6日の営業と継続方針掲載\n確度：A\n確認元URL：https://egameippaiamano.crayonsite.info/\n調査日：2026-09-15",
+          "official": "https://egameippaiamano.crayonsite.info/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%A5%BF%E5%B0%BE%E5%B8%82%20%E5%A4%A9%E9%87%8E%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%9A%E7%89%A9%E9%A4%A8",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%A5%BF%E5%B0%BE%E5%B8%82%20%E5%A4%A9%E9%87%8E%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%9A%E7%89%A9%E9%A4%A8\n公式サイト：https://egameippaiamano.crayonsite.info/"
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "名古屋市西区",
+          "name": "ゲームボックスQ3",
+          "type": "街のゲームセンター",
+          "rank": "高",
+          "note": "90年代からゲーセンが続く場所。旧作対戦・パズルゲーム。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年5月の現地訪問・プレイ記録\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/71138/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E8%A5%BF%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9Q3",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E8%A5%BF%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9Q3"
+          }
+        },
+        {
+          "prefecture": "滋賀県",
+          "city": "大津市",
+          "name": "滋賀レジャーランド大津店",
+          "type": "ロードサイドゲームセンター",
+          "rank": "中",
+          "note": "琵琶湖近くの2階建て施設。上階の音楽・大型ゲーム空間に古いゲームコーナーの雰囲気が残る。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行運営会社ページと2026年3月26日の稼働情報を照合\n確度：A\n確認元URL：https://w.atwiki.jp/taiko13/pages/41.html\n補足確認元URL：https://www.lemon8-app.com/@chiroko_shiga_oyako/7483106563360817669?region=jp\n調査日：2026-09-15",
+          "official": "https://www.leisurelan.co.jp/store/leisurelanootsu.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82%20%E6%BB%8B%E8%B3%80%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%A4%A7%E6%B4%A5%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82%20%E6%BB%8B%E8%B3%80%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%A4%A7%E6%B4%A5%E5%BA%97\n公式サイト：https://www.leisurelan.co.jp/store/leisurelanootsu.html"
+          }
+        },
+        {
+          "prefecture": "京都府",
+          "city": "舞鶴市",
+          "name": "ドライブインダルマ ゲームコーナー",
+          "type": "ドライブインのゲームコーナー",
+          "rank": "高",
+          "note": "レトロ自販機と旧作ゲームが並ぶ古いロードサイド施設。\n利用条件：ゲームごとに課金。休業日・営業時間は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年の訪問記でパチンコゲーム利用を確認。6月28日の別訪問記もあり\n確度：B\n確認元URL：https://ameblo.jp/m195617/entry-12951643982.html\n補足確認元URL：https://minkara.carview.co.jp/userid/1540760/blog/49165690/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E8%88%9E%E9%B6%B4%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E3%83%80%E3%83%AB%E3%83%9E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E8%88%9E%E9%B6%B4%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E3%83%80%E3%83%AB%E3%83%9E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "THE SILVER BALL PLANET",
+          "type": "ピンボール専門施設",
+          "rank": "低",
+          "note": "アメリカ村BIGSTEP内のピンボール集積。意図的な収集・保存型なので採集優先度は低め。\n利用条件：ゲームごとに課金。商業施設の営業日に準拠\n残存・保存の区分：保存・収集型\n営業・残存確認メモ：現行入居商業施設の公式店舗案内を確認\n確度：A\n確認元URL：https://big-step.co.jp/shop/detail/15\n調査日：2026-09-15",
+          "official": "http://silverballplanet.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20THE%20SILVER%20BALL%20PLANET",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20THE%20SILVER%20BALL%20PLANET\n公式サイト：http://silverballplanet.jp/"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市都島区",
+          "name": "シャトーEX",
+          "type": "古い商業ビルのゲームセンター",
+          "rank": "低",
+          "note": "京橋グランシャトービル1・2階。ビルと繁華街の時間の重なりが採集対象。個別旧筐体は要確認。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行運営会社の店舗一覧に所在地・営業案内あり\n確度：A\n確認元URL：https://ones-amuse.co.jp/各店舗のご案内/\n調査日：2026-09-15",
+          "official": "https://ones-amuse.co.jp/各店舗のご案内/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA%20%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BCEX",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA%20%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BCEX\n公式サイト：https://ones-amuse.co.jp/各店舗のご案内/"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市北区",
+          "name": "KO-HATSU（コーハツ）",
+          "type": "商店街のゲームセンター",
+          "rank": "中",
+          "note": "天神橋筋商店街のビデオゲーム主体店。旧作対戦文化。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式に稼働一覧・営業案内\n確度：A\n確認元URL：https://ko-hatsu.sakura.ne.jp/\n調査日：2026-09-15",
+          "official": "https://ko-hatsu.sakura.ne.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%20KO-HATSU%EF%BC%88%E3%82%B3%E3%83%BC%E3%83%8F%E3%83%84%EF%BC%89",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%20KO-HATSU%EF%BC%88%E3%82%B3%E3%83%BC%E3%83%8F%E3%83%84%EF%BC%89\n公式サイト：https://ko-hatsu.sakura.ne.jp/"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市北区",
+          "name": "ロイヤルゲームセンター",
+          "type": "地下街のゲームセンター",
+          "rank": "高",
+          "note": "大阪駅前第3ビル地下1階。80～90年代のビデオゲームを維持。\n利用条件：ゲームごとに課金。月～土9～22時・日祝10～20時\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年2月1日からの営業時間を公式確認\n確度：A\n確認元URL：https://royalgamecenter.com/en/\n調査日：2026-09-15",
+          "official": "https://royalgamecenter.com/en/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\n公式サイト：https://royalgamecenter.com/en/"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市浪速区",
+          "name": "アテナ日本橋",
+          "type": "街のゲームセンター",
+          "rank": "中",
+          "note": "日本橋の多層階ゲームセンター。旧作対戦文化を維持する店。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：現行公式アクセス案内。旧作稼働情報も照合\n確度：A\n確認元URL：https://athena-nipponbashi.com/access/\n補足確認元URL：https://wikiwiki.jp/3rd/3rd稼動店情報\n調査日：2026-09-15",
+          "official": "https://athena-nipponbashi.com/access/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%82%A2%E3%83%86%E3%83%8A%E6%97%A5%E6%9C%AC%E6%A9%8B",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%82%A2%E3%83%86%E3%83%8A%E6%97%A5%E6%9C%AC%E6%A9%8B\n公式サイト：https://athena-nipponbashi.com/access/"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市浪速区",
+          "name": "かすが娯楽場",
+          "type": "商店街のゲームセンター",
+          "rank": "高",
+          "note": "新世界ジャンジャン横丁の既存ゲーセン。古いビデオ・メダルゲームの空間。\n利用条件：ゲームごとに課金。10～22時・木曜休\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に現在の営業案内\n確度：A\n確認元URL：https://www.kasugagorakujou.com/access\n調査日：2026-09-15",
+          "official": "https://www.kasugagorakujou.com/access",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%81%8B%E3%81%99%E3%81%8C%E5%A8%AF%E6%A5%BD%E5%A0%B4",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%81%8B%E3%81%99%E3%81%8C%E5%A8%AF%E6%A5%BD%E5%A0%B4\n公式サイト：https://www.kasugagorakujou.com/access"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市浪速区",
+          "name": "スマートボール ニュースター",
+          "type": "商店街の遊技場",
+          "rank": "高",
+          "note": "新世界に残るスマートボール専門店。傾斜台が並ぶ昔の遊技場。\n利用条件：有料。18歳未満入場不可\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年1月取材と現行観光情報。住所表記は別資料で照合\n確度：B\n確認元URL：https://www.timeout.com/osaka/attractions/smartball-new-star\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市須磨区",
+          "name": "須磨浦山上遊園 回転展望閣ゲームコーナー",
+          "type": "展望施設のゲームコーナー",
+          "rank": "高",
+          "note": "1958年開業の回転展望閣内。山上観光施設と昔ながらのゲームが重なる。\n利用条件：展望閣・交通費など別途。ゲーム有料。営業カレンダー確認\n残存・保存の区分：継続型\n営業・残存確認メモ：公式ページがゲームコーナーと設置ゲームを案内\n確度：A\n確認元URL：https://www.sumaura-yuen.jp/facilities/play/gamecorner.html\n調査日：2026-09-15",
+          "official": "https://www.sumaura-yuen.jp/facilities/play/gamecorner.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%20%E9%A0%88%E7%A3%A8%E6%B5%A6%E5%B1%B1%E4%B8%8A%E9%81%8A%E5%9C%92%20%E5%9B%9E%E8%BB%A2%E5%B1%95%E6%9C%9B%E9%96%A3%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%20%E9%A0%88%E7%A3%A8%E6%B5%A6%E5%B1%B1%E4%B8%8A%E9%81%8A%E5%9C%92%20%E5%9B%9E%E8%BB%A2%E5%B1%95%E6%9C%9B%E9%96%A3%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://www.sumaura-yuen.jp/facilities/play/gamecorner.html"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "豊岡市",
+          "name": "センター遊技場",
+          "type": "温泉街の遊技場",
+          "rank": "高",
+          "note": "城崎温泉の射的・スマートボール。外湯巡りと続く古い遊び場。\n利用条件：有料。19～22時・不定休\n残存・保存の区分：継続型\n営業・残存確認メモ：現行観光協会掲載。個別更新日不明\n確度：B\n確認元URL：https://kinosaki-spa.gr.jp/directory/center-yugijo/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%B1%8A%E5%B2%A1%E5%B8%82%20%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%81%8A%E6%8A%80%E5%A0%B4",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%B1%8A%E5%B2%A1%E5%B8%82%20%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%81%8A%E6%8A%80%E5%A0%B4"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "豊岡市",
+          "name": "谷口屋遊技場",
+          "type": "温泉街の遊技場",
+          "rank": "高",
+          "note": "城崎温泉の個人遊技場。古い射的・玉遊びの空間。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行観光協会・観光ガイド掲載。更新日不明\n確度：B\n確認元URL：https://www.mapple.net/spot/28011389/\n補足確認元URL：https://kinosaki-spa.gr.jp/directory_cat/experience/arcade/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%B1%8A%E5%B2%A1%E5%B8%82%20%E8%B0%B7%E5%8F%A3%E5%B1%8B%E9%81%8A%E6%8A%80%E5%A0%B4",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%B1%8A%E5%B2%A1%E5%B8%82%20%E8%B0%B7%E5%8F%A3%E5%B1%8B%E9%81%8A%E6%8A%80%E5%A0%B4"
+          }
+        },
+        {
+          "prefecture": "和歌山県",
+          "city": "東牟婁郡那智勝浦町",
+          "name": "ホテル浦島 ゲームコーナー",
+          "type": "温泉ホテル内",
+          "rank": "中",
+          "note": "なぎさ館通路の遊技空間。館内は部分改装も進むため現況に注意。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続・改装型\n営業・残存確認メモ：2026年8月10日の宿側回答で営業18～21:30を確認\n確度：A\n確認元URL：https://www.jalan.net/yad324016/qa/\n補足確認元URL：https://www.jalan.net/yad324016/qa/\n調査日：2026-09-15",
+          "official": "https://urashimaresortsandspa.jp/wakayama-hotelurashima/facilities/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E6%9D%B1%E7%89%9F%E5%A9%81%E9%83%A1%E9%82%A3%E6%99%BA%E5%8B%9D%E6%B5%A6%E7%94%BA%20%E3%83%9B%E3%83%86%E3%83%AB%E6%B5%A6%E5%B3%B6%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E6%9D%B1%E7%89%9F%E5%A9%81%E9%83%A1%E9%82%A3%E6%99%BA%E5%8B%9D%E6%B5%A6%E7%94%BA%20%E3%83%9B%E3%83%86%E3%83%AB%E6%B5%A6%E5%B3%B6%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://urashimaresortsandspa.jp/wakayama-hotelurashima/facilities/"
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "浜田市",
+          "name": "ドライブイン日本海 ゲームコーナー",
+          "type": "ドライブインのゲームコーナー",
+          "rank": "高",
+          "note": "国道9号沿いに自販機とゲームが残る。使い込まれた壁や掲示物も記録対象。\n利用条件：ゲームごとに課金。各区画の利用時間は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年6月公開記事で2025年春のゲーム確認。2026年8月にも施設訪問記あり\n確度：B\n確認元URL：https://namazutetsudo.fc2.net/blog-entry-634.html\n補足確認元URL：https://minkara.carview.co.jp/userid/1470732/blog/49244368/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%B5%9C%E7%94%B0%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E6%97%A5%E6%9C%AC%E6%B5%B7%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%B5%9C%E7%94%B0%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E6%97%A5%E6%9C%AC%E6%B5%B7%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "倉敷市",
+          "name": "ドライブイン古城 ゲームコーナー",
+          "type": "ドライブインのゲームコーナー",
+          "rank": "高",
+          "note": "年季の入った建物に自販機と対戦ゲーム・スロットが残る。自然残存のロードサイド空間。\n利用条件：ゲームごとに課金。ゲーム区画の利用時間は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2024年地域記事でゲーム確認。2026年9月8日取材記事と7月来店口コミで施設営業を補強\n確度：B\n確認元URL：https://okayamastyle.com/drivein-kojo/\n補足確認元URL：https://toyokeizai.net/articles/-/956305?page=2\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E5%8F%A4%E5%9F%8E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E5%8F%A4%E5%9F%8E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "倉敷市",
+          "name": "ファンタジスタ",
+          "type": "街のゲームセンター",
+          "rank": "中",
+          "note": "旧作格闘ゲームと最新作が同居する独立系店舗。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年7月8日の公式稼働タイトル一覧\n確度：A\n確認元URL：https://www.amfantasista.com/\n調査日：2026-09-15",
+          "official": "https://www.amfantasista.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82%20%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%B9%E3%82%BF",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82%20%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%B9%E3%82%BF\n公式サイト：https://www.amfantasista.com/"
+          }
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市西区",
+          "name": "沖本商会",
+          "type": "駄菓子店併設",
+          "rank": "高",
+          "note": "駄菓子と小規模ゲームコーナーが共存。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年訪問記。現行店舗地図でも掲載\n確度：B\n確認元URL：https://note.com/akb428/n/nb8d63b1efcf0\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E8%A5%BF%E5%8C%BA%20%E6%B2%96%E6%9C%AC%E5%95%86%E4%BC%9A",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E8%A5%BF%E5%8C%BA%20%E6%B2%96%E6%9C%AC%E5%95%86%E4%BC%9A"
+          }
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市中区",
+          "name": "広島ホール",
+          "type": "保存型パチンコ・スロットゲームセンター",
+          "rank": "低",
+          "note": "旧世代のパチンコ・スロットを遊べる保存施設。歓楽街ビル4階。\n利用条件：時間制料金。金土日祝中心。撮影はスタッフへ申告\n残存・保存の区分：保存・再現型\n営業・残存確認メモ：公式サイトに9～10月の営業日と設置台・入場条件を掲載\n確度：A\n確認元URL：https://hiroshima-hall.wixsite.com/main\n調査日：2026-09-15",
+          "official": "https://hiroshima-hall.wixsite.com/main",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%20%E5%BA%83%E5%B3%B6%E3%83%9B%E3%83%BC%E3%83%AB",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%20%E5%BA%83%E5%B3%B6%E3%83%9B%E3%83%BC%E3%83%AB\n公式サイト：https://hiroshima-hall.wixsite.com/main"
+          }
+        },
+        {
+          "prefecture": "山口県",
+          "city": "周南市",
+          "name": "モノハウス（ラッキーセブン）",
+          "type": "ロードサイド複合店",
+          "rank": "高",
+          "note": "物販と旧作ゲームが混在するロードサイド店。成人向け売場あり。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2024年現地取材と2025年ゲーム訪問記\n確度：B\n確認元URL：https://highcollardive.com/retrospot/monohouse/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E5%91%A8%E5%8D%97%E5%B8%82%20%E3%83%A2%E3%83%8E%E3%83%8F%E3%82%A6%E3%82%B9%EF%BC%88%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%82%BB%E3%83%96%E3%83%B3%EF%BC%89",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E5%91%A8%E5%8D%97%E5%B8%82%20%E3%83%A2%E3%83%8E%E3%83%8F%E3%82%A6%E3%82%B9%EF%BC%88%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%82%BB%E3%83%96%E3%83%B3%EF%BC%89"
+          }
+        },
+        {
+          "prefecture": "徳島県",
+          "city": "徳島市",
+          "name": "アポロゲームセンター沖洲店",
+          "type": "ロードサイドのゲームセンター",
+          "rank": "低",
+          "note": "ビデオゲーム中心の従来型店舗。古い機種の残存は要確認。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行メーカー設置案内。旧作情報は2018年と古い\n確度：B\n確認元URL：https://p.eagate.573.jp/game/facility/search/p/detail.html?area=AR-06&fdesc=3ef60a72c0e3646c4bd06ebfdaa633af&finder=area&gkey=IIDX&paselif=false&pref=JP-36\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E5%BE%B3%E5%B3%B6%E5%B8%82%20%E3%82%A2%E3%83%9D%E3%83%AD%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%B2%96%E6%B4%B2%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E5%BE%B3%E5%B3%B6%E5%B8%82%20%E3%82%A2%E3%83%9D%E3%83%AD%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%B2%96%E6%B4%B2%E5%BA%97"
+          }
+        },
+        {
+          "prefecture": "香川県",
+          "city": "高松市",
+          "name": "ゲームえの木高松店",
+          "type": "旧作ゲームを維持する複合店",
+          "rank": "中",
+          "note": "ビル内に旧世代音楽ゲームとビデオゲームを集積。古い空間そのものより旧筐体の記録向け。\n利用条件：通常課金・時間貸し。旧ギター／ドラム筐体は稼働予約が必要\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：公式案内に2026年9月7日時点の設置機種と利用条件を掲載\n確度：A\n確認元URL：https://note.com/game_enoki4/n/n57d32d6fd6cd\n調査日：2026-09-15",
+          "official": "https://note.com/game_enoki4/n/n57d32d6fd6cd",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E9%AB%98%E6%9D%BE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%88%E3%81%AE%E6%9C%A8%E9%AB%98%E6%9D%BE%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E9%AB%98%E6%9D%BE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%88%E3%81%AE%E6%9C%A8%E9%AB%98%E6%9D%BE%E5%BA%97\n公式サイト：https://note.com/game_enoki4/n/n57d32d6fd6cd"
+          }
+        },
+        {
+          "prefecture": "香川県",
+          "city": "善通寺市",
+          "name": "マックスプラザ善通寺",
+          "type": "ボウリング場併設",
+          "rank": "中",
+          "note": "ボウリング場1階の旧作ビデオゲーム店。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年4月メーカー公認大会。レトロ機は2025年訪問記\n確度：B\n確認元URL：https://sec.carddass.com/club/shoplists/loadMap/12668/\n補足確認元URL：https://twpf.jp/maxplazazen2G\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E5%96%84%E9%80%9A%E5%AF%BA%E5%B8%82%20%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%97%E3%83%A9%E3%82%B6%E5%96%84%E9%80%9A%E5%AF%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E5%96%84%E9%80%9A%E5%AF%BA%E5%B8%82%20%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%97%E3%83%A9%E3%82%B6%E5%96%84%E9%80%9A%E5%AF%BA"
+          }
+        },
+        {
+          "prefecture": "高知県",
+          "city": "高知市",
+          "name": "プレイプラン（コインスナックプラザ併設）",
+          "type": "オートスナック併設ゲームセンター",
+          "rank": "高",
+          "note": "古い食品自販機の隣に続く地域のゲームセンター。建物と夜間照明を含めた採集候補。\n利用条件：ゲームごとに課金。自販機区画と遊技区画の時間は別途確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年メーカー店舗一覧と2025年7月コインスナック訪問記録。2026年地図一覧にも掲載\n確度：B\n確認元URL：https://p.eagate.573.jp/game/common/event/mfgmfc2025/shoplist/\n補足確認元URL：https://momosakuuponp2.fc2.net/blog-entry-206.html\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E9%AB%98%E7%9F%A5%E5%B8%82%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%88%E3%82%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%E3%83%97%E3%83%A9%E3%82%B6%E4%BD%B5%E8%A8%AD%EF%BC%89",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E9%AB%98%E7%9F%A5%E5%B8%82%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%88%E3%82%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%E3%83%97%E3%83%A9%E3%82%B6%E4%BD%B5%E8%A8%AD%EF%BC%89"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市城南区",
+          "name": "G-stage 七隈店",
+          "type": "街のゲームセンター",
+          "rank": "中",
+          "note": "大学周辺に続く地域のゲームセンター。旧作格闘ゲームの訪問記録あり。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式店舗案内と9月の七隈店景品告知。旧作は2024年訪問記事で確認\n確度：A\n確認元URL：https://nextstage2009.com/\n補足確認元URL：https://ameblo.jp/hikolife358/entry-12856230884.html\n調査日：2026-09-15",
+          "official": "https://nextstage2009.com/shop/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9F%8E%E5%8D%97%E5%8C%BA%20G-stage%20%E4%B8%83%E9%9A%88%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9F%8E%E5%8D%97%E5%8C%BA%20G-stage%20%E4%B8%83%E9%9A%88%E5%BA%97\n公式サイト：https://nextstage2009.com/shop/"
+          }
+        },
+        {
+          "prefecture": "長崎県",
+          "city": "佐世保市",
+          "name": "西肥シルバーボウル ゲームコーナー",
+          "type": "ボウリング場併設",
+          "rank": "中",
+          "note": "古いエレメカで知られるボウリング場。個別機の現在の稼働は要確認。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年運営会社概要に掲載。現行地図で遊技場案内\n確度：B\n確認元URL：https://map.yahoo.co.jp/v3/place/jJWGWyzum1c\n調査日：2026-09-15",
+          "official": "https://www.bus.saihigroup.co.jp/company/78.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82%20%E8%A5%BF%E8%82%A5%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%83%9C%E3%82%A6%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82%20%E8%A5%BF%E8%82%A5%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%83%9C%E3%82%A6%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://www.bus.saihigroup.co.jp/company/78.html"
+          }
+        },
+        {
+          "prefecture": "熊本県",
+          "city": "熊本市中央区",
+          "name": "大江ゲームセンター",
+          "type": "街のゲームセンター",
+          "rank": "高",
+          "note": "80年代から続く小規模店。旧作ビデオゲームの空間。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年更新の地域取材記事と2026年7月店舗案内\n確度：B\n確認元URL：https://higojournal.com/archives/ooe-gamecenter.html\n補足確認元URL：https://akinbo777.com/kumamoto/\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E5%A4%A7%E6%B1%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E5%A4%A7%E6%B1%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "大分県",
+          "city": "別府市",
+          "name": "別府ラクテンチ ゲームセンター",
+          "type": "遊園地のゲームコーナー",
+          "rank": "中",
+          "note": "長年続く山上遊園地内のゲームセンター。古い観光施設の文脈を含めて採集。\n利用条件：入園料・遊技料金が必要。休園日確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式園内マップにゲームセンターを掲載\n確度：A\n確認元URL：https://rakutenchi.jp/guidance/map/\n調査日：2026-09-15",
+          "official": "https://rakutenchi.jp/guidance/map/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%88%A5%E5%BA%9C%E5%B8%82%20%E5%88%A5%E5%BA%9C%E3%83%A9%E3%82%AF%E3%83%86%E3%83%B3%E3%83%81%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%88%A5%E5%BA%9C%E5%B8%82%20%E5%88%A5%E5%BA%9C%E3%83%A9%E3%82%AF%E3%83%86%E3%83%B3%E3%83%81%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\n公式サイト：https://rakutenchi.jp/guidance/map/"
+          }
+        },
+        {
+          "prefecture": "宮崎県",
+          "city": "都城市",
+          "name": "都城ハイレーンズ ゲームコーナー",
+          "type": "ボウリング場のゲームコーナー",
+          "rank": "低",
+          "note": "昔から続くボウリング場。2022年利用者がレトロなゲームコーナーを報告。筐体残存は要再確認。\n利用条件：ゲーム別料金。遊技区画の現存・利用時間を事前確認\n残存・保存の区分：継続型（遊技区画要確認）\n営業・残存確認メモ：2025年7月来店口コミで本体営業確認。ゲームコーナーの新しい日付付き証拠は未取得\n確度：C\n確認元URL：https://map.yahoo.co.jp/v3/place/MbRFuR5Iy5I\n補足確認元URL：https://www.jsdc.or.jp/sd/tabid/117/pdid/9500058/Default.aspx\n調査日：2026-09-15",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E9%83%BD%E5%9F%8E%E5%B8%82%20%E9%83%BD%E5%9F%8E%E3%83%8F%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E9%83%BD%E5%9F%8E%E5%B8%82%20%E9%83%BD%E5%9F%8E%E3%83%8F%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
           }
         }
       ]
