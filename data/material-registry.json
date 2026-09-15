@@ -70,5 +70,10 @@
     "id": "tully",
     "number": 12,
     "short": "病院内タリーズ"
+  },
+  {
+    "file": "古いイオン.csv",
+    "id": "csv-285c092b6240cc427307",
+    "number": 13
   }
 ]

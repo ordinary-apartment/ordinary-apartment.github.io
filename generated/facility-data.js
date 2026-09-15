@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 1,
-  "materialCount": 12,
-  "total": 787,
+  "materialCount": 13,
+  "total": 817,
   "materials": [
     {
       "id": "botanical",
@@ -10351,6 +10351,496 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": ""
+        }
+      ]
+    },
+    {
+      "id": "csv-285c092b6240cc427307",
+      "number": 13,
+      "name": "古いイオン",
+      "shortName": "古いイオン",
+      "file": "古いイオン.csv",
+      "count": 30,
+      "items": [
+        {
+          "prefecture": "長野県",
+          "city": "須坂市",
+          "name": "イオン須坂駅前店",
+          "type": "古参総合スーパー・SC",
+          "rank": "優先",
+          "note": "駅前の小規模店。2023年訪問記録に旧ジャスコのロゴ入り取っ手。現在の残存状況は現地確認対象。\n開業：1976年12月／旧名称：ジャスコ須坂店／イオン須坂店\n新しいイオンモール須坂・イオンスタイル須坂とは別施設。店内改装あり。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン須坂駅前店/shop_info/hours/\n年代・特徴の根拠：https://aeon-newbusiness.com/prefecture/?pref_id=20 | https://note.com/parus_minor/n/n07db11698976",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E9%A0%88%E5%9D%82%E9%A7%85%E5%89%8D%E5%BA%97%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E9%A0%88%E5%9D%82%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E9%A0%88%E5%9D%82%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%A0%88%E5%9D%82%E9%A7%85%E5%89%8D%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "佐倉市",
+          "name": "イオン臼井店",
+          "type": "古参総合スーパー・SC",
+          "rank": "優先",
+          "note": "レイクピア ウスイの核店舗。駅前の共同型SCと地元専門店街の組み合わせ。\n開業：1984年3月／旧名称：ジャスコ臼井店\nSC組合が1984年3月6日の開業を明記。現在の意匠の残存範囲は未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン臼井店/?is_browser=true\n年代・特徴の根拠：https://www.lakepia.or.jp/about/",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E8%87%BC%E4%BA%95%E5%BA%97%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E4%BD%90%E5%80%89%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E4%BD%90%E5%80%89%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E8%87%BC%E4%BA%95%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "野田市",
+          "name": "イオンノア店",
+          "type": "古参総合スーパー・SC",
+          "rank": "優先",
+          "note": "遊園地併設型。訪問記録では吹き抜けやジャスコの痕跡が紹介されている。\n開業：1989年／旧名称：扇屋ジャスコノア店\n公式に映画館・もりのゆうえんちの営業時間あり。過去記録の意匠が現在も残るかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：B／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.jp/sc/aeon-noa/time/\n年代・特徴の根拠：https://kotobank.jp/word/いおんのあ-714131 | https://ameblo.jp/rairei0312/entry-12851024236.html",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%8E%E3%82%A2%E5%BA%97%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E9%87%8E%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E9%87%8E%E7%94%B0%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%8E%E3%82%A2%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "東大阪市",
+          "name": "イオン鴻池店",
+          "type": "古参総合スーパー・SC",
+          "rank": "優先",
+          "note": "鴻池新田エリアの古参店。現在も上階に専門店・飲食・ゲーム施設を掲載。\n開業：1977年11月／旧名称：鴻池サティ\n西館など複数区画あり。区画別の築年・改装時期は未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン鴻池店/shop_info/hours/\n年代・特徴の根拠：https://aeon-newbusiness.com/prefecture/?page=2&pref_id=27 | https://www.gigo.co.jp/shops/a-kounoike",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E9%B4%BB%E6%B1%A0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%B4%BB%E6%B1%A0%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "宮崎県",
+          "city": "宮崎市",
+          "name": "イオン南宮崎店",
+          "type": "古参総合スーパー・SC",
+          "rank": "優先",
+          "note": "宮交シティの核店舗。1970年代から続く交通拠点の商業施設。\n開業：1973年11月\n宮交シティは2019年リニューアル。1973年は施設開業年月で全館の築年を保証しない。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://tenpo.aeon-kyushu.info/detail/minamimiyazaki/\n年代・特徴の根拠：https://www.mof.go.jp/public_relations/finance/denshi/202506/pageindices/index65.html",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E5%AE%AE%E5%B4%8E%E5%BA%97%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E5%AE%AE%E5%B4%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E5%AE%AE%E5%B4%8E%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E5%AE%AE%E5%B4%8E%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "千歳市",
+          "name": "イオン千歳店",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "北海道の古参総合スーパー。食品・衣料・暮らしの売場と専門店が集まる。\n開業：1978年11月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon-hokkaido.jp/aeon/shop/chitose/\n年代・特徴の根拠：https://www.aeon-hokkaido.jp/corporation/profile/pdf/pro01.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%83%E6%AD%B3%E5%BA%97%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8D%83%E6%AD%B3%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8D%83%E6%AD%B3%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%83%E6%AD%B3%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "大野城市",
+          "name": "イオン大野城ショッピングセンター",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "昭和から続く地域SC。映画館や専門店を含む商業集積。\n開業：1977年9月／旧名称：大野城サティ\n2011年にリフレッシュ。増改築・区画別築年は未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://tenpo.aeon-kyushu.info/detail/onojo/\n年代・特徴の根拠：https://www.aeon-kyushu.info/files/management_news/234/pdf.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E9%87%8E%E5%9F%8E%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%A4%A7%E9%87%8E%E5%9F%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%A4%A7%E9%87%8E%E5%9F%8E%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E9%87%8E%E5%9F%8E%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "千葉市美浜区",
+          "name": "イオンマリンピアショッピングセンター",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "稲毛海岸の駅前SC。本館と専門館、上階の飲食・サービス売場を採集対象に。\n開業：1984年4月\n2014年に4階をG.Gモールへ改装。開業年月は本館側の店舗沿革。専門館の築年とは区別。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.jp/sc/marinpia/\n年代・特徴の根拠：https://www.aeonretail.jp/pdf/140423R_1_1.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%94%E3%82%A2%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%94%E3%82%A2%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "洲本市",
+          "name": "イオンスタイル洲本",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "淡路島の中心市街地にある古参店。街の商業空間と合わせた採集候補。\n開業：1985年3月\nイオンスタイルへの転換・改装を経ている。2026年7月からクーリングシェルター指定。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオンスタイル洲本/shop_info/hours/\n年代・特徴の根拠：https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E6%B4%B2%E6%9C%AC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%B4%B2%E6%9C%AC%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%B4%B2%E6%9C%AC%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E6%B4%B2%E6%9C%AC\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "豊田市",
+          "name": "イオン高橋店",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "高橋地区の地域SC。昭和末期に開業し、現在も総合スーパーと専門店を展開。\n開業：1987年11月\n2026年春に食品売場などを大規模リニューアル。古い内装の残存は未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：B／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン高橋店/shop_info/hours/\n年代・特徴の根拠：https://toyota.keizai.biz/headline/1331/",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E9%AB%98%E6%A9%8B%E5%BA%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E7%94%B0%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%AB%98%E6%A9%8B%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "鳥取県",
+          "city": "米子市",
+          "name": "イオン米子駅前店",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "米子駅前の複数階型店舗。駅前商業施設の売場構成を記録する候補。\n開業：1989年7月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン米子駅前店/?is_browser=true\n年代・特徴の根拠：https://aeon-newbusiness.com/prefecture/?pref_id=31",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E7%B1%B3%E5%AD%90%E9%A7%85%E5%89%8D%E5%BA%97%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E7%B1%B3%E5%AD%90%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E7%B1%B3%E5%AD%90%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E7%B1%B3%E5%AD%90%E9%A7%85%E5%89%8D%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "広島県",
+          "city": "三原市",
+          "name": "イオン三原店",
+          "type": "古参総合スーパー・SC",
+          "rank": "改装多め",
+          "note": "三原駅周辺の古参店。現在も2階建ての総合売場・専門店を展開。\n開業：1989年7月／旧名称：ジャスコ三原店\n2025年7月18日リニューアル。フードコートも全面的に見直されており、古い雰囲気の残存は限定的な可能性。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン三原店/shop_info/hours/\n年代・特徴の根拠：https://prtimes.jp/main/html/rd/p/000005218.000007505.html",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E4%B8%89%E5%8E%9F%E5%BA%97%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E4%B8%89%E5%8E%9F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E4%B8%89%E5%8E%9F%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E4%B8%89%E5%8E%9F%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "千葉市稲毛区",
+          "name": "イオン稲毛店",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "稲毛駅近くの複数階型SC。地下食品売場と上階売場を持つ駅前店舗。\n開業：1990年11月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン稲毛店/?is_browser=true\n年代・特徴の根拠：https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E7%A8%B2%E6%AF%9B%E5%BA%97%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E7%A8%B2%E6%AF%9B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E7%A8%B2%E6%AF%9B%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E7%A8%B2%E6%AF%9B%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市金沢区",
+          "name": "イオン金沢八景ショッピングセンター",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "地下食品売場と上階売場を持つ都市型SC。平成初期の商業空間を探す候補。\n開業：1991年9月／旧名称：ダイエー金沢八景店\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.jp/sc/kanazawahakkei/\n年代・特徴の根拠：https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "北斗市",
+          "name": "イオン上磯店",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "函館近郊の平面展開型SC。食品・生活用品・専門店が集まる地域店舗。\n開業：1993年10月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon-hokkaido.jp/aeon/shop/kamiiso/\n年代・特徴の根拠：https://www.aeon-hokkaido.jp/corporation/profile/pdf/pro01.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E4%B8%8A%E7%A3%AF%E5%BA%97%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E6%96%97%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E6%96%97%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E4%B8%8A%E7%A3%AF%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "青森県",
+          "city": "つがる市",
+          "name": "イオンモールつがる柏",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "初期の郊外型イオンモール。ボウリング場・映画館も組み合わさる。\n開業：1992年11月\n増改装を経た現役モール。開業時から残る区画・意匠は未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://tsugarukashiwa.aeonmall.jp/\n年代・特徴の根拠：https://www.aeonmall.com/company/history/",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E3%81%A4%E3%81%8C%E3%82%8B%E6%9F%8F%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E3%81%A4%E3%81%8C%E3%82%8B%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E3%81%A4%E3%81%8C%E3%82%8B%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E3%81%A4%E3%81%8C%E3%82%8B%E6%9F%8F\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "富津市",
+          "name": "イオンモール富津",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "平成初期の地方モール。専門店街と総合スーパーの組み合わせを採集する候補。\n開業：1993年9月\n改装・売場再編あり。空き区画の多さや静けさを現行事実としては評価していない。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://futtsu.aeonmall.jp/\n年代・特徴の根拠：https://www.aeonmall.com/company/history/",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E5%AF%8C%E6%B4%A5%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%AF%8C%E6%B4%A5%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%AF%8C%E6%B4%A5%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E5%AF%8C%E6%B4%A5\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "秋田県",
+          "city": "秋田市",
+          "name": "イオンモール秋田",
+          "type": "古参総合スーパー・SC",
+          "rank": "改装多め",
+          "note": "御所野地区の初期郊外モール。地方大型SCの発展を記録する比較対象。\n開業：1993年9月\n増床・改装を経た大型施設。現在の全館が1993年の建物ではない。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://akita.aeonmall.jp/\n年代・特徴の根拠：https://www.aeonmall.com/company/history/",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E7%A7%8B%E7%94%B0%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%A7%8B%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%A7%8B%E7%94%B0%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E7%A7%8B%E7%94%B0\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "泉佐野市",
+          "name": "イオンモール日根野",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "1990年代半ばに開業した泉州地域のSC。初期モールの空間構成を調べる候補。\n開業：1995年4月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.jp/sc/hineno/\n年代・特徴の根拠：https://www.aeonmall.com/pdf/company/about/aeonmall_data_2025.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E6%97%A5%E6%A0%B9%E9%87%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%B3%89%E4%BD%90%E9%87%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%B3%89%E4%BD%90%E9%87%8E%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E6%97%A5%E6%A0%B9%E9%87%8E\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "愛媛県",
+          "city": "松山市",
+          "name": "イオンスタイル松山",
+          "type": "古参総合スーパー・SC",
+          "rank": "改装多め",
+          "note": "1990年代の総合スーパー。昭和期の店舗と比較する補助候補。\n開業：1995年11月／旧名称：ジャスコ松山店／イオン松山店\n2016年イオンスタイルへ改装。2024年6月にも1階食品・美と健康を改装。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオンスタイル松山/shop_info/hours/\n年代・特徴の根拠：https://prtimes.jp/main/html/rd/p/000004418.000007505.html",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E6%9D%BE%E5%B1%B1%20%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E6%9D%BE%E5%B1%B1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E6%9D%BE%E5%B1%B1%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E6%9D%BE%E5%B1%B1\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "山梨県",
+          "city": "大月市",
+          "name": "イオン大月店",
+          "type": "古参総合スーパー・SC",
+          "rank": "優先",
+          "note": "訪問記録に旧忠実屋・ダイエーのロゴや階段・案内表示の痕跡。小規模な旧総合スーパーの採集候補。\n開業：1973年頃／旧名称：忠実屋／ダイエー大月店\n年代は訪問記録による概数。旧意匠の現在の残存と屋上の利用可否は未確認。2026年5月のイオン公式発表にも現役店として登場。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：B／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン大月店/shop_info/hours/\n年代・特徴の根拠：https://ameblo.jp/rairei0312/entry-12868423348.html",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E6%9C%88%E5%BA%97%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E5%A4%A7%E6%9C%88%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E5%A4%A7%E6%9C%88%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E6%9C%88%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "長野県",
+          "city": "木曽郡木曽町",
+          "name": "イオン木曽福島店",
+          "type": "古参総合スーパー・SC",
+          "rank": "優先",
+          "note": "食品館・衣料館に分かれた小規模店。山間の駅前商業空間を記録する候補。\n開業：1978年11月\n開業年月は施設の沿革。建物の区画別築年・改装履歴、古い意匠の現在の残存は未確認。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン木曽福島店/shop_info/hours/\n年代・特徴の根拠：https://aeon-newbusiness.com/prefecture/?pref_id=20",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%A8%E6%9B%BD%E7%A6%8F%E5%B3%B6%E5%BA%97%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9C%A8%E6%9B%BD%E9%83%A1%E6%9C%A8%E6%9B%BD%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9C%A8%E6%9B%BD%E9%83%A1%E6%9C%A8%E6%9B%BD%E7%94%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%A8%E6%9B%BD%E7%A6%8F%E5%B3%B6%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "足立区",
+          "name": "イオン西新井店",
+          "type": "古参総合スーパー・SC",
+          "rank": "優先",
+          "note": "駅前の複数階型古参店。1階食品、2・3階総合売場、4階専門店という構成。\n開業：1981年／旧名称：ニチイ西新井店\n現行公式営業時間と2026年9月のチラシ・入居店営業を照合。建物と内装の改装履歴は未確認。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン西新井店/shop_info/hours/\n年代・特徴の根拠：https://www.aeonretail.jp/pdf/240828R_3.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E8%A5%BF%E6%96%B0%E4%BA%95%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E8%A5%BF%E6%96%B0%E4%BA%95%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "厚木市",
+          "name": "イオン厚木店",
+          "type": "古参総合スーパー・SC",
+          "rank": "優先",
+          "note": "厚木ガーデンシティビルの核店舗。地下から上層階まで用途が重なる駅前商業ビル。\n開業：1981年11月／旧名称：厚木サティ\n入居店の交代・改装あり。ハローズガーデンの2025年閉店はイオン全店の閉店ではない。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン厚木店/shop_info/hours/\n年代・特徴の根拠：https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf | https://www.garden-citybill.co.jp/",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E5%8E%9A%E6%9C%A8%E5%BA%97%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8E%9A%E6%9C%A8%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "越谷市",
+          "name": "イオン南越谷店",
+          "type": "古参総合スーパー・SC",
+          "rank": "優先",
+          "note": "越谷サンシティの商業棟。文化施設と一体になった昭和の複合商業施設。\n開業：1979年6月／旧名称：ダイエー南越谷店\n周辺一帯に再整備の検討あり。2026年9月のチラシを確認。改装履歴や今後の営業変更は要確認。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン南越谷店/shop_info/hours/\n年代・特徴の根拠：https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/keikaku/kakushukeikaku/shisei/nankoshisyuhen/files/genzaisuncity_kongosuncity.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E8%B6%8A%E8%B0%B7%E5%BA%97%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E8%B6%8A%E8%B0%B7%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E8%B6%8A%E8%B0%B7%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E8%B6%8A%E8%B0%B7%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市右京区",
+          "name": "イオン京都西店（京都ファミリー）",
+          "type": "古参総合スーパー・SC",
+          "rank": "改装多め",
+          "note": "京都ファミリー内の食品・生活用品売場。昭和期SCと現在の専門店構成を比較する候補。\n開業：1982年11月\n京都ファミリーは2025年春にリフレッシュ。1982年はSC開業年月。現在のイオン売場は主に1階。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン京都西店/?is_browser=true\n年代・特徴の根拠：https://prtimes.jp/main/html/rd/p/000000005.000142828.html | https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E4%BA%AC%E9%83%BD%E8%A5%BF%E5%BA%97%EF%BC%88%E4%BA%AC%E9%83%BD%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%EF%BC%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E4%BA%AC%E9%83%BD%E8%A5%BF%E5%BA%97%EF%BC%88%E4%BA%AC%E9%83%BD%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "岩手県",
+          "city": "北上市",
+          "name": "イオン江釣子店（江釣子ショッピングセンター パル）",
+          "type": "古参総合スーパー・SC",
+          "rank": "改装多め",
+          "note": "地域共同型SCの核店舗。地元専門店との組み合わせを記録する比較候補。\n開業：1981年12月／旧名称：ジャスコ\n2026年4月リニューアル。同年開業のイオンシネマ館は新設棟で、古い建物として扱わない。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://aeontohoku.co.jp/stores/ezuriko\n年代・特徴の根拠：https://iwate-pu.repo.nii.ac.jp/record/4053/files/p57-68.pdf | https://aeontohoku.co.jp/company/uploads/News/news_20260317.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E6%B1%9F%E9%87%A3%E5%AD%90%E5%BA%97%EF%BC%88%E6%B1%9F%E9%87%A3%E5%AD%90%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%91%E3%83%AB%EF%BC%89%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%8C%97%E4%B8%8A%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%8C%97%E4%B8%8A%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E6%B1%9F%E9%87%A3%E5%AD%90%E5%BA%97%EF%BC%88%E6%B1%9F%E9%87%A3%E5%AD%90%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%91%E3%83%AB%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "燕市",
+          "name": "イオン県央店",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "燕三条駅周辺の複数階型店。1～3階の店舗と上階駐車場を持つ地域SC。\n開業：1991年4月\n2026年に3階へ新しい事業者向けスペースが開設。近隣の新施設そよら三条須頃や閉店したイオン三条店とは別施設。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン県央店/shop_info/hours/\n年代・特徴の根拠：https://www.city.sanjo.niigata.jp/material/files/group/19/kakutityuyshajou.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E7%9C%8C%E5%A4%AE%E5%BA%97%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E7%9C%8C%E5%A4%AE%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "長野県",
+          "city": "松本市",
+          "name": "イオン南松本店",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "南松本エリアの平成初期の総合スーパー。2017年開業のイオンモール松本とは別施設。\n開業：1993年6月\n開業年月は施設の沿革。建物の区画別築年・改装履歴、古い意匠の現在の残存は未確認。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン南松本店/shop_info/hours/\n年代・特徴の根拠：https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E6%9D%BE%E6%9C%AC%E5%BA%97%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9D%BE%E6%9C%AC%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9D%BE%E6%9C%AC%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E6%9D%BE%E6%9C%AC%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
+        },
+        {
+          "prefecture": "三重県",
+          "city": "いなべ市",
+          "name": "イオン大安店",
+          "type": "古参総合スーパー・SC",
+          "rank": "候補",
+          "note": "グリーンプラザ大安の核店舗。地域の専門店・総合スーパーを組み合わせた平成初期SC。\n開業：1993年10月\n開業年月は施設の沿革。建物の区画別築年・改装履歴、古い意匠の現在の残存は未確認。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン大安店/shop_info/hours/\n年代・特徴の根拠：https://www.jcsc.or.jp/data/pdf/list_of_shopping_centers.pdf",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E5%AE%89%E5%BA%97%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E3%81%84%E3%81%AA%E3%81%B9%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "extra": {
+            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%20%E3%81%84%E3%81%AA%E3%81%B9%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E5%AE%89%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
+          }
         }
       ]
     }
