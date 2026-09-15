@@ -1,0 +1,62 @@
+name: Build CSV and deploy Pages
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: csv-pages-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate builder
+        run: python -m unittest discover -s tests -v
+      - name: Generate facility data
+        run: python tools/build-data.py
+      - name: Save stable material numbers and generated data
+        if: github.event_name != 'pull_request' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/material-registry.json generated/facility-data.js generated/facility-data.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update generated facility data'
+            git push
+          fi
+      - name: Prepare public files
+        run: |
+          mkdir -p _site/generated
+          cp index.html styles.css script.js data.js icon.png _site/
+          cp generated/facility-data.js generated/facility-data.json _site/generated/
+          if [ -f CNAME ]; then cp CNAME _site/; fi
+          if [ -d images ]; then cp -R images _site/; fi
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        with:
+          path: _site
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

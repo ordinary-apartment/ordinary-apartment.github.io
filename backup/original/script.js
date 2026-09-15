@@ -1,4 +1,5 @@
 const records=window.ARCHIVE_DATA,main=document.querySelector('#main'),dialog=document.querySelector('#search'),q=document.querySelector('#q'),results=document.querySelector('#results');
+const facilities=window.FACILITY_DATA;
 const categories=[...new Set(records.map(x=>x.category))],tags=[...new Set(records.flatMap(x=>x.tags))].sort((a,b)=>a.localeCompare(b,'ja'));
 const card=x=>`<button class="card" data-id="${x.id}"><span class="file-tab">FILE ${String(records.indexOf(x)+1).padStart(3,'0')}</span><img src="${x.image}" alt="${x.title}" loading="lazy"><span class="card-copy"><span class="card-meta"><span>分類 / ${x.category}</span><span>${x.date}</span></span><h3>${x.title}</h3><p>${x.excerpt}</p><span class="card-foot"><span>${x.place}</span><span>詳細を見る →</span></span></span></button>`;
 function wire(){document.querySelectorAll('[data-id]').forEach(e=>e.onclick=()=>go('detail/'+e.dataset.id));document.querySelectorAll('[data-route]').forEach(e=>e.onclick=()=>go(e.dataset.route==='archive'?'home':e.dataset.route))}function active(r){document.querySelectorAll('[data-route]').forEach(e=>e.classList.toggle('active',e.dataset.route===r))}function go(r){location.hash=r}function random(){let x=records[Math.floor(Math.random()*records.length)];if(location.hash.endsWith(x.id))x=records[(records.indexOf(x)+1)%records.length];go('detail/'+x.id)}
@@ -7,10 +8,12 @@ function archive(selected='すべて'){active('archive');const list=selected==='
 function tagPage(){active('tags');main.innerHTML=`<div class="page"><p class="eyebrow">INDEX BY WORDS</p><h1 class="archive-title">タグから探す</h1><p class="lead">場所の種類、光、時間、そこで感じたもの。記録に付けた言葉から横断できます。</p><div class="tag-cloud">${tags.map(t=>`<button class="chip" data-tag="${t}"># ${t} <small>${records.filter(x=>x.tags.includes(t)).length}</small></button>`).join('')}</div><div id="tag-results"></div></div>`;document.querySelectorAll('[data-tag]').forEach(e=>e.onclick=()=>{document.querySelectorAll('[data-tag]').forEach(x=>x.classList.toggle('active',x===e));document.querySelector('#tag-results').innerHTML=`<div class="section-head"><h2># ${e.dataset.tag}</h2></div><div class="grid">${records.filter(x=>x.tags.includes(e.dataset.tag)).map(card).join('')}</div>`;wire()})}
 const maps=q=>`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(q)}`;
 const tullys=q=>`https://shop.tullys.co.jp/all?keyword=${encodeURIComponent(q)}`;
-const facilityDataset=window.FACILITY_DATASET;
-const materialDefinitions=facilityDataset.materials.map(m=>[m.id,String(m.number).padStart(2,'0'),m.name,m.shortName]);
-const materialItemMap=new Map(facilityDataset.materials.map(m=>[m.id,m.items]));
-const materialItems=key=>materialItemMap.get(key)||[];
+const catalog=window.FACILITY_CATALOG;
+const tullyItems=facilities.hospitals.map(x=>({prefecture:x[0],city:x[2],name:x[1],type:'',rank:'',note:`${x[3]}。病院利用者、付き添い、職員が利用する院内店舗。`,official:tullys(x[1]),maps:maps(`${x[1]} ${x[3]}`)}));
+const materialDefinitions=[
+  ['botanical','01','リミナルな植物園・温室','植物園・温室'],['science','02','地方の小さな科学系施設','科学系施設'],['aquarium','03','水族館・海中施設','水族館・海中施設'],['museums','04','博物館','博物館'],['mallcore','05','ドリームコア／モールコア','モールコア'],['tokyoPublic','06','東京のリミナルな公共空間','東京公共空間'],['libraries','07','空間に特徴のある図書館','図書館'],['municipal','08','自治体の面白いホームページ','自治体ウェブ資料'],['publicArchitecture','09','人が入れる公的建築施設','公的建築'],['rooftops','10','東京都内の入れる屋上・屋上庭園・公開テラス','屋上・屋上庭園'],['other','11','全国候補・その他','全国候補・その他'],['tully','12','病院内タリーズ','病院内タリーズ']
+];
+const materialItems=key=>key==='tully'?tullyItems:catalog[key];
 const h=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const sortableHead=`<thead><tr><th>参照</th><th><button class="sort-button" data-sort="prefecture" data-label="都道府県">都道府県 ↕</button></th><th>市区町村</th><th>店舗名・施設名</th><th><button class="sort-button" data-sort="type" data-label="分類">分類 ↕</button></th><th><button class="sort-button" data-sort="rank" data-label="評価">評価 ↕</button></th><th>説明・狙い目</th></tr></thead>`;
 let facilitiesScrollTop=0;
@@ -30,7 +33,7 @@ function wireSortTables(){
 }
 function facilitiesPage(selectedKey=null,selectedIndex=null){
   active('facilities');
-  const total=facilityDataset.total;
+  const total=materialDefinitions.reduce((sum,[key])=>sum+materialItems(key).length,0);
   const jumps=materialDefinitions.map(([key,number,,short])=>`<button data-material-jump="${key}"><span>${number}</span> ${h(short)}</button>`).join('');
   const definition=materialDefinitions.find(x=>x[0]===selectedKey),selected=definition?materialItems(selectedKey)[Number(selectedIndex)]:null;
   const detail=selected?`<section class="material-detail facilities-top-detail"><div class="material-detail-copy"><div class="facility-record-head"><span>資料${definition[1]} / 個別記録</span><span>${selected.rank?`評価 ${h(selected.rank)}`:'分類・評価なし'}</span></div><h2>${h(selected.name)}</h2><div class="facility-register"><div><span>都道府県</span><span>${h(selected.prefecture)}</span></div><div><span>市区町村</span><span>${h(selected.city)}</span></div><div><span>分類</span><span>${h(selected.type)}</span></div><div><span>評価</span><span>${h(selected.rank)}</span></div><div class="facility-register-wide"><span>説明</span><span>${h(selected.note)}</span></div><div class="facility-register-wide"><span>参照</span><span>${selected.official?`<a href="${h(selected.official)}" target="_blank" rel="noopener">公式サイト</a>　`:''}<a href="${h(selected.maps)}" target="_blank" rel="noopener">地図</a>　<a href="${h(selected.maps)}" target="_blank" rel="noopener">Googleマップで写真を見る ↗</a></span></div></div></div><iframe title="${h(selected.name)}の地図" src="https://maps.google.com/maps?q=${encodeURIComponent(`${selected.name} ${selected.prefecture}${selected.city}`)}&output=embed" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></section>`:`<section class="material-detail facilities-top-detail"><div class="material-empty">施設資料 ${String(materialDefinitions.length).padStart(2,'0')}区分 / 全${String(total).padStart(3,'0')}件。店舗名・施設名を選択すると、この固定欄に資料データ詳細を表示します。</div><iframe title="日本のGoogleマップ" src="https://maps.google.com/maps?q=${encodeURIComponent('日本')}&output=embed" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></section>`;

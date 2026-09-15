@@ -1,0 +1,74 @@
+[
+  {
+    "file": "リミナルな植物園・温室.csv",
+    "id": "botanical",
+    "number": 1,
+    "short": "植物園・温室"
+  },
+  {
+    "file": "地方の小さな科学系施設.csv",
+    "id": "science",
+    "number": 2,
+    "short": "科学系施設"
+  },
+  {
+    "file": "水族館・海中施設.csv",
+    "id": "aquarium",
+    "number": 3,
+    "short": "水族館・海中施設"
+  },
+  {
+    "file": "博物館.csv",
+    "id": "museums",
+    "number": 4,
+    "short": "博物館"
+  },
+  {
+    "file": "ドリームコア／モールコア.csv",
+    "id": "mallcore",
+    "number": 5,
+    "short": "モールコア"
+  },
+  {
+    "file": "東京のリミナルな公共空間.csv",
+    "id": "tokyoPublic",
+    "number": 6,
+    "short": "東京公共空間"
+  },
+  {
+    "file": "空間に特徴のある図書館.csv",
+    "id": "libraries",
+    "number": 7,
+    "short": "図書館"
+  },
+  {
+    "file": "自治体の面白いホームページ.csv",
+    "id": "municipal",
+    "number": 8,
+    "short": "自治体ウェブ資料"
+  },
+  {
+    "file": "人が入れる公的建築施設.csv",
+    "id": "publicArchitecture",
+    "number": 9,
+    "short": "公的建築"
+  },
+  {
+    "file": "東京都内の入れる屋上・屋上庭園・公開テラス.csv",
+    "id": "rooftops",
+    "number": 10,
+    "short": "屋上・屋上庭園"
+  },
+  {
+    "file": "全国候補・その他.csv",
+    "id": "other",
+    "number": 11,
+    "short": "全国候補・その他"
+  },
+  {
+    "file": "病院内タリーズ.csv",
+    "id": "tully",
+    "number": 12,
+    "short": "病院内タリーズ"
+  }
+]
