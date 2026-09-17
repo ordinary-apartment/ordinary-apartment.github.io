@@ -17,12 +17,13 @@ window.FACILITY_DATASET={
           "name": "夢の島熱帯植物館",
           "type": "植物園・温室",
           "rank": "S",
-          "note": "巨大ドーム温室。人工熱帯空間。",
+          "note": "巨大ドーム温室。人工熱帯空間。\n狙い目：ドームの大きさと植物の背丈を見比べ、人工の屋根に包まれた熱帯空間として眺めたい。",
           "official": "https://www.yumenoshima.jp/botanicalhall",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A2%E3%81%AE%E5%B3%B6%E7%86%B1%E5%B8%AF%E6%A4%8D%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.yumenoshima.jp/botanicalhall"
         },
         {
           "prefecture": "東京都",
@@ -30,12 +31,13 @@ window.FACILITY_DATASET={
           "name": "板橋区立熱帯環境植物館",
           "type": "植物園・温室",
           "rank": "S",
-          "note": "地下水族展示＋温室。人工環境感が強い。",
+          "note": "地下水族展示＋温室。人工環境感が強い。\n狙い目：地下の水族展示から温室へ移る際の明るさや視界の変化に注目。水中と陸上の環境を一つの公共施設で切り替える構成が対象。",
           "official": "http://www.seibu-la.co.jp/nettaikan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E7%86%B1%E5%B8%AF%E7%92%B0%E5%A2%83%E6%A4%8D%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.seibu-la.co.jp/nettaikan/"
         },
         {
           "prefecture": "東京都",
@@ -43,12 +45,13 @@ window.FACILITY_DATASET={
           "name": "神代植物公園 大温室",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "大型温室の連続空間。",
+          "note": "大型温室の連続空間。\n狙い目：温室を移動する順序と、区画ごとの植物の密度・見通しの違いを追いたい。",
           "official": "https://www.tokyo-park.or.jp/jindai/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E4%BB%A3%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%AA%BF%E5%B8%83%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.tokyo-park.or.jp/jindai/"
         },
         {
           "prefecture": "東京都",
@@ -56,12 +59,13 @@ window.FACILITY_DATASET={
           "name": "新宿御苑 大温室",
           "type": "植物園・温室",
           "rank": "B",
-          "note": "現代的だが無人時間の人工熱帯感。",
+          "note": "現代的だが無人時間の人工熱帯感。\n狙い目：曲面ガラスの輪郭と植物の重なり、屋外の公園から温室内へ入る境目が観察点。",
           "official": "https://fng.or.jp/shinjuku/category/温室/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://fng.or.jp/shinjuku/category/温室/"
         },
         {
           "prefecture": "千葉県",
@@ -69,12 +73,13 @@ window.FACILITY_DATASET={
           "name": "千葉市都市緑化植物園",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "公共植物園の温室・園路。",
+          "note": "公共植物園の温室・園路。\n狙い目：温室だけでなく園路からの見え方も対象。緑化のための実用施設と散策空間のつながりを見たい。",
           "official": "http://www.cue-net.or.jp/kouen/chiba-toshiryokka/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E5%B8%82%E9%83%BD%E5%B8%82%E7%B7%91%E5%8C%96%E6%A4%8D%E7%89%A9%E5%9C%92%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.cue-net.or.jp/kouen/chiba-toshiryokka/index.html"
         },
         {
           "prefecture": "茨城県",
@@ -82,12 +87,13 @@ window.FACILITY_DATASET={
           "name": "筑波実験植物園 温室",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "研究施設的な巨大温室。",
+          "note": "研究施設的な巨大温室。\n狙い目：植物の展示と研究施設の関係に注目。観覧区画の配置をたどり、植物の生育環境をどう分けて見せるかを見る。",
           "official": "https://tbg.kahaku.go.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AD%91%E6%B3%A2%E5%AE%9F%E9%A8%93%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://tbg.kahaku.go.jp/"
         },
         {
           "prefecture": "栃木県",
@@ -95,12 +101,13 @@ window.FACILITY_DATASET={
           "name": "とちぎ花センター 大温室",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "地方型巨大温室。",
+          "note": "地方型巨大温室。\n狙い目：温室全体の大きさを感じられる位置と、植物に囲まれる位置の見え方を比べたい。",
           "official": "http://www.florence.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%81%A1%E3%81%8E%E8%8A%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%B2%A9%E8%88%9F%E7%94%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.florence.jp/"
         },
         {
           "prefecture": "群馬県",
@@ -108,12 +115,13 @@ window.FACILITY_DATASET={
           "name": "ぐんまフラワーパーク 温室エリア",
           "type": "植物園・温室",
           "rank": "B",
-          "note": "大型公園＋温室。",
+          "note": "大型公園＋温室。\n狙い目：公園の広がりと温室内の囲われた空間の対比が対象。再整備に伴う公開範囲は園の案内に従う。",
           "official": "http://www.flower-park.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%90%E3%82%93%E3%81%BE%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E6%B8%A9%E5%AE%A4%E3%82%A8%E3%83%AA%E3%82%A2%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.flower-park.jp/"
         },
         {
           "prefecture": "富山県",
@@ -121,12 +129,13 @@ window.FACILITY_DATASET={
           "name": "富山県中央植物園 温室",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "大型温室群。",
+          "note": "大型温室群。\n狙い目：温室ごとの外形と、その間を移動する順路に注目。複数棟を一つの施設として体験する構成を見る。",
           "official": "http://www.bgtym.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E4%B8%AD%E5%A4%AE%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.bgtym.org/"
         },
         {
           "prefecture": "愛知県",
@@ -134,12 +143,13 @@ window.FACILITY_DATASET={
           "name": "東山動植物園 温室前館",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "歴史ある温室建築。",
+          "note": "歴史ある温室建築。\n狙い目：温室建築の骨組みとガラスの割り付けを、植物越しに観察したい。",
           "official": "https://www.pref.aichi.jp/kyoiku/bunka/bunkazainavi/yukei/kenzoubutu/kunisitei/0075.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%B1%B1%E5%8B%95%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%E5%89%8D%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%8D%83%E7%A8%AE%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.pref.aichi.jp/kyoiku/bunka/bunkazainavi/yukei/kenzoubutu/kunisitei/0075.html"
         },
         {
           "prefecture": "愛知県",
@@ -147,12 +157,13 @@ window.FACILITY_DATASET={
           "name": "名古屋市東谷山フルーツパーク 世界の熱帯果樹温室",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "巨大ドーム型温室。",
+          "note": "巨大ドーム型温室。\n狙い目：ドームの曲面と果樹の高さの関係が狙い目。屋根までの距離を意識すると屋外の果樹園との違いが見える。",
           "official": "https://www.fruitpark.org/guide/tropical-fruit-greenhouses.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%9D%B1%E8%B0%B7%E5%B1%B1%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%83%91%E3%83%BC%E3%82%AF%20%E4%B8%96%E7%95%8C%E3%81%AE%E7%86%B1%E5%B8%AF%E6%9E%9C%E6%A8%B9%E6%B8%A9%E5%AE%A4%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%AE%88%E5%B1%B1%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.fruitpark.org/guide/tropical-fruit-greenhouses.html"
         },
         {
           "prefecture": "京都府",
@@ -160,12 +171,13 @@ window.FACILITY_DATASET={
           "name": "京都府立植物園 観覧温室",
           "type": "植物園・温室",
           "rank": "S",
-          "note": "迷路状の巨大温室。",
+          "note": "迷路状の巨大温室。\n狙い目：順路の曲がり方と先の見え方を追い、気候帯が切り替わる場所ごとの空間の違いを見たい。",
           "official": "http://www.pref.kyoto.jp/plant/11900018.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E7%AB%8B%E6%A4%8D%E7%89%A9%E5%9C%92%20%E8%A6%B3%E8%A6%A7%E6%B8%A9%E5%AE%A4%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.pref.kyoto.jp/plant/11900018.html"
         },
         {
           "prefecture": "大阪府",
@@ -173,12 +185,13 @@ window.FACILITY_DATASET={
           "name": "咲くやこの花館",
           "type": "植物園・温室",
           "rank": "S",
-          "note": "1990年花博系巨大温室。今回の本命。",
+          "note": "1990年花博系巨大温室。\n狙い目：花博由来の建築として、温室の大きさと内部の植物展示を合わせて見る。植物だけでなく人工環境を包む構造も対象。",
           "official": "https://www.sakuyakonohana.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%B2%E3%81%8F%E3%82%84%E3%81%93%E3%81%AE%E8%8A%B1%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sakuyakonohana.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -186,12 +199,13 @@ window.FACILITY_DATASET={
           "name": "神戸どうぶつ王国 温室エリア",
           "type": "植物園・温室",
           "rank": "B",
-          "note": "旧花鳥園系の巨大屋内温室。",
+          "note": "旧花鳥園系の巨大屋内温室。\n狙い目：鳥や動物の展示と屋内植物空間の関係を見たい。温室を別用途と共有する大きな屋内空間として観察する。",
           "official": "https://www.kobe-oukoku.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E3%81%A9%E3%81%86%E3%81%B6%E3%81%A4%E7%8E%8B%E5%9B%BD%20%E6%B8%A9%E5%AE%A4%E3%82%A8%E3%83%AA%E3%82%A2%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kobe-oukoku.com/"
         },
         {
           "prefecture": "兵庫県",
@@ -199,12 +213,13 @@ window.FACILITY_DATASET={
           "name": "兵庫県立フラワーセンター 大温室",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "地方型温室群。",
+          "note": "地方型温室群。\n狙い目：一つの温室だけで完結せず、棟を移る際の屋内外の切り替わりをたどりたい。",
           "official": "https://flowercenter.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%8A%A0%E8%A5%BF%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://flowercenter.jp/"
         },
         {
           "prefecture": "広島県",
@@ -212,12 +227,13 @@ window.FACILITY_DATASET={
           "name": "広島市植物公園 大温室",
           "type": "植物園・温室",
           "rank": "S",
-          "note": "巨大温室と長い園路。",
+          "note": "巨大温室と長い園路。\n狙い目：長い園路から大温室へ近づく過程が狙い目。敷地の広がりと温室内の密度を比べる。",
           "official": "http://www.hiroshima-bot.jp/ennai/daionsitu/index.htm",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%BD%90%E4%BC%AF%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.hiroshima-bot.jp/ennai/daionsitu/index.htm"
         },
         {
           "prefecture": "高知県",
@@ -225,12 +241,13 @@ window.FACILITY_DATASET={
           "name": "高知県立牧野植物園 温室",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "大型温室。",
+          "note": "大型温室。\n狙い目：温室を包む建築と植栽の関係に注目。植物の手前・奥で視界がどう変わるかを追いたい。",
           "official": "https://www.makino.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E7%9C%8C%E7%AB%8B%E7%89%A7%E9%87%8E%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E9%AB%98%E7%9F%A5%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.makino.or.jp/"
         },
         {
           "prefecture": "福岡県",
@@ -238,12 +255,13 @@ window.FACILITY_DATASET={
           "name": "福岡市植物園 温室",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "都市型植物園の温室。",
+          "note": "都市型植物園の温室。\n狙い目：市街地の植物園として、園内の散策から温室に入る際の囲われ方の変化を見る。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "長崎県",
@@ -251,12 +269,13 @@ window.FACILITY_DATASET={
           "name": "長崎県亜熱帯植物園跡周辺",
           "type": "植物園・温室",
           "rank": "B",
-          "note": "施設跡地周辺。立入可能範囲のみ。",
+          "note": "施設跡地周辺。立入可能範囲のみ。\n狙い目：植物園だった場所と現在の周辺景観を見比べる候補。閉園施設への立入りを前提にせず、公開された範囲から外観と敷地の関係を見る。",
           "official": "http://www.city.nagasaki.lg.jp/shimin/190001/192001/p000713.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E4%BA%9C%E7%86%B1%E5%B8%AF%E6%A4%8D%E7%89%A9%E5%9C%92%E8%B7%A1%E5%91%A8%E8%BE%BA%20%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E9%95%B7%E5%B4%8E%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.nagasaki.lg.jp/shimin/190001/192001/p000713.html"
         },
         {
           "prefecture": "鹿児島県",
@@ -264,12 +283,13 @@ window.FACILITY_DATASET={
           "name": "フラワーパークかごしま 温室",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "南国型の巨大園芸施設。",
+          "note": "南国型の巨大園芸施設。\n狙い目：広い園地と温室を一続きに見る。南国の屋外景観と管理された室内環境の境目に注目。",
           "official": "http://www.fp-k.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E3%81%8B%E3%81%94%E3%81%97%E3%81%BE%20%E6%B8%A9%E5%AE%A4%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E6%8C%87%E5%AE%BF%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.fp-k.org/"
         },
         {
           "prefecture": "東京都",
@@ -277,12 +297,13 @@ window.FACILITY_DATASET={
           "name": "新宿御苑 温室",
           "type": "大型温室",
           "rank": "A",
-          "note": "都心の巨大温室。曲面ガラスと熱帯植物の人工環境感",
+          "note": "都心の巨大温室。曲面ガラスと熱帯植物の人工環境感。\n狙い目：曲面ガラスを通した外光と、温室内の植物の重なりが狙い目。都心の公園内に別の気候をつくる構成として見る。",
           "official": "https://fng.or.jp/shinjuku/category/温室/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%20%E6%B8%A9%E5%AE%A4%20%E6%96%B0%E5%AE%BF%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://fng.or.jp/shinjuku/category/温室/"
         },
         {
           "prefecture": "東京都",
@@ -290,12 +311,13 @@ window.FACILITY_DATASET={
           "name": "小石川植物園 公開温室",
           "type": "研究植物園・温室",
           "rank": "A",
-          "note": "大学研究施設らしい非観光的な空気がある",
+          "note": "大学研究施設らしい非観光的な空気がある。\n狙い目：観光温室との違いを、植物の分類・案内表示と観覧順路から読み取りたい。",
           "official": "https://koishikawa-bg.jp/ennai/glasshouse/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%9F%B3%E5%B7%9D%E6%A4%8D%E7%89%A9%E5%9C%92%20%E5%85%AC%E9%96%8B%E6%B8%A9%E5%AE%A4%20%E6%96%87%E4%BA%AC%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://koishikawa-bg.jp/ennai/glasshouse/"
         },
         {
           "prefecture": "東京都",
@@ -303,12 +325,13 @@ window.FACILITY_DATASET={
           "name": "東京都薬用植物園 温室",
           "type": "薬用植物園・温室",
           "rank": "A",
-          "note": "都の研究・啓発施設。実用施設感が強い",
+          "note": "都の研究・啓発施設。実用施設感が強い。\n狙い目：薬用植物を扱う実用的な施設として、植物名や用途の表示と栽培区画の関係を見る。",
           "official": "https://www.tmiph.metro.tokyo.lg.jp/lb_iyaku/plant/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%96%AC%E7%94%A8%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.tmiph.metro.tokyo.lg.jp/lb_iyaku/plant/"
         },
         {
           "prefecture": "東京都",
@@ -316,12 +339,13 @@ window.FACILITY_DATASET={
           "name": "渋谷区ふれあい植物センター",
           "type": "都市型植物施設",
           "rank": "B",
-          "note": "都市の隙間にある植物施設。旧温室施設の系譜",
+          "note": "都市の隙間にある植物施設。旧温室施設の系譜。\n狙い目：周囲の都市空間と植物を扱う室内空間の距離感が狙い目。施設の現在の案内に沿って、街との接し方を見たい。",
           "official": "https://sbgf.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E5%8C%BA%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E6%A4%8D%E7%89%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%B8%8B%E8%B0%B7%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://sbgf.jp/"
         },
         {
           "prefecture": "北海道",
@@ -329,12 +353,13 @@ window.FACILITY_DATASET={
           "name": "函館市熱帯植物園",
           "type": "熱帯温室",
           "rank": "S",
-          "note": "雪国・温泉街・熱帯温室という環境のズレが強烈",
+          "note": "雪国・温泉街・熱帯温室という環境のズレが強烈。\n狙い目：寒冷地の屋外景観と温室内の熱帯植物を見比べたい。温泉街の中に温室が置かれた立地も観察対象。",
           "official": "https://hako-eco.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BD%E9%A4%A8%E5%B8%82%E7%86%B1%E5%B8%AF%E6%A4%8D%E7%89%A9%E5%9C%92%20%E5%87%BD%E9%A4%A8%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://hako-eco.com/"
         },
         {
           "prefecture": "北海道",
@@ -342,12 +367,13 @@ window.FACILITY_DATASET={
           "name": "百合が原公園 緑のセンター温室",
           "type": "公共温室",
           "rank": "S",
-          "note": "大中小3温室。札幌市営施設らしい古典的な公共温室感",
+          "note": "大中小3温室。札幌市営施設らしい古典的な公共温室感。\n狙い目：大・中・小の温室を順に見て、建物の大きさと展示の密度がどう変わるかを比べたい。",
           "official": "https://yuri-park.jp/guide/flowerbed/onsitu/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%99%BE%E5%90%88%E3%81%8C%E5%8E%9F%E5%85%AC%E5%9C%92%20%E7%B7%91%E3%81%AE%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%B8%A9%E5%AE%A4%20%E6%9C%AD%E5%B9%8C%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://yuri-park.jp/guide/flowerbed/onsitu/"
         },
         {
           "prefecture": "北海道",
@@ -355,12 +381,13 @@ window.FACILITY_DATASET={
           "name": "北海道大学植物園",
           "type": "大学植物園",
           "rank": "B",
-          "note": "研究施設、博物館、古い建築が混在する",
+          "note": "研究施設、博物館、古い建築が混在する。\n狙い目：植物の展示だけでなく、博物館や古い建築との位置関係をたどる。研究と公開展示が共存する園内構成を見る。",
           "official": "https://www.hokudai.ac.jp/fsc/bg/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%A4%A7%E5%AD%A6%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%9C%AD%E5%B9%8C%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.hokudai.ac.jp/fsc/bg/"
         },
         {
           "prefecture": "宮城県",
@@ -368,12 +395,13 @@ window.FACILITY_DATASET={
           "name": "仙台市野草園",
           "type": "植物園",
           "rank": "B",
-          "note": "市営の教育施設感と園路の静けさ",
+          "note": "市営の教育施設感と園路の静けさ。\n狙い目：園路を歩き、植栽を見る場所と通り抜ける場所の違いを観察したい。温室中心の施設とは異なる屋外の展示構成が対象。",
           "official": "https://sendai-green-association.jp/green/yasouen/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E5%B8%82%E9%87%8E%E8%8D%89%E5%9C%92%20%E4%BB%99%E5%8F%B0%E5%B8%82%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://sendai-green-association.jp/green/yasouen/"
         },
         {
           "prefecture": "福島県",
@@ -381,12 +409,13 @@ window.FACILITY_DATASET={
           "name": "いわき市フラワーセンター",
           "type": "温室・花卉施設",
           "rank": "A",
-          "note": "地方公共施設型。温室と広い敷地の組み合わせ",
+          "note": "地方公共施設型。温室と広い敷地の組み合わせ。\n狙い目：広い敷地の中で温室がどう配置されているかを見る。屋外を歩く時間と屋内で植物を見る時間の対比が狙い目。",
           "official": "https://iwaki-flowercenter.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://iwaki-flowercenter.com/"
         },
         {
           "prefecture": "茨城県",
@@ -394,12 +423,13 @@ window.FACILITY_DATASET={
           "name": "筑波実験植物園",
           "type": "研究植物園・温室",
           "rank": "S",
-          "note": "研究都市＋温室群。実験施設と自然展示の境界が魅力",
+          "note": "研究都市＋温室群。実験施設と自然展示の境界が魅力。\n狙い目：温室群を研究用の植物展示として読む。区画間の移動に沿って、展示環境の切り替えを見たい。",
           "official": "https://tbg.kahaku.go.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AD%91%E6%B3%A2%E5%AE%9F%E9%A8%93%E6%A4%8D%E7%89%A9%E5%9C%92%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://tbg.kahaku.go.jp/"
         },
         {
           "prefecture": "茨城県",
@@ -407,12 +437,13 @@ window.FACILITY_DATASET={
           "name": "水戸市植物公園",
           "type": "植物園・温室",
           "rank": "S",
-          "note": "テラスガーデン、温室、公共建築の80〜90年代感",
+          "note": "テラスガーデン、温室、公共建築の80〜90年代感。\n狙い目：テラスガーデンから温室へ移る動線に注目。屋外の段差と公共建築の組み合わせを観察する。",
           "official": "http://www.mito-botanical-park.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E6%88%B8%E5%B8%82%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92%20%E6%B0%B4%E6%88%B8%E5%B8%82%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.mito-botanical-park.com/"
         },
         {
           "prefecture": "栃木県",
@@ -420,12 +451,13 @@ window.FACILITY_DATASET={
           "name": "とちぎ花センター",
           "type": "大温室",
           "rank": "A",
-          "note": "大型鑑賞温室と地方レジャー施設感",
+          "note": "大型鑑賞温室と地方レジャー施設感。\n狙い目：大型温室が園全体の中で占める存在感が対象。観賞する位置を変え、植物と建築のスケールを比べたい。",
           "official": "http://www.florence.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%81%A1%E3%81%8E%E8%8A%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%A0%83%E6%9C%A8%E5%B8%82%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.florence.jp/"
         },
         {
           "prefecture": "群馬県",
@@ -433,12 +465,13 @@ window.FACILITY_DATASET={
           "name": "ぐんまフラワーパーク",
           "type": "植物公園・温室",
           "rank": "B",
-          "note": "大型県立系施設。再整備状況は訪問前確認推奨",
+          "note": "大型県立系施設。再整備状況は訪問前確認推奨。\n狙い目：再整備後の案内図を起点に、公開エリアの構成を確認して歩く。過去の施設像と現在の姿を混同しないようにしたい。",
           "official": "http://www.flower-park.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%90%E3%82%93%E3%81%BE%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E5%89%8D%E6%A9%8B%E5%B8%82%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.flower-park.jp/"
         },
         {
           "prefecture": "埼玉県",
@@ -446,12 +479,13 @@ window.FACILITY_DATASET={
           "name": "川口市立グリーンセンター",
           "type": "植物公園・温室",
           "rank": "S",
-          "note": "昭和の市営レジャー施設感が残る。園内施設込みで強い",
+          "note": "昭和の市営レジャー施設感が残る。園内施設込みで強い。\n狙い目：温室単体より、園内の遊び・散策の場所とのつながりを見る。市営レジャー施設としての用途の混在が対象。",
           "official": "http://greencenter.1110city.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%B7%9D%E5%8F%A3%E5%B8%82%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://greencenter.1110city.com/"
         },
         {
           "prefecture": "埼玉県",
@@ -459,12 +493,13 @@ window.FACILITY_DATASET={
           "name": "さいたま市園芸植物園",
           "type": "温室・園芸施設",
           "rank": "A",
-          "note": "園芸行政施設らしい実務的な雰囲気",
+          "note": "園芸行政施設らしい実務的な雰囲気。\n狙い目：栽培や園芸に関する案内と観覧空間の関係に注目。鑑賞だけでなく園芸の普及を目的とする施設として読む。",
           "official": "http://www.city.saitama.jp/008/004/004/p051834.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%9C%92%E8%8A%B8%E6%A4%8D%E7%89%A9%E5%9C%92%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.saitama.jp/008/004/004/p051834.html"
         },
         {
           "prefecture": "千葉県",
@@ -472,12 +507,13 @@ window.FACILITY_DATASET={
           "name": "千葉市都市緑化植物園",
           "type": "植物園",
           "rank": "B",
-          "note": "市営の緑化啓発施設。観光化されすぎていない",
+          "note": "市営の緑化啓発施設。観光化されすぎていない。\n狙い目：植物の見せ方と緑化に関する案内に注目。散策の場と市営の啓発施設が重なる点を見たい。",
           "official": "http://www.cue-net.or.jp/kouen/chiba-toshiryokka/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E5%B8%82%E9%83%BD%E5%B8%82%E7%B7%91%E5%8C%96%E6%A4%8D%E7%89%A9%E5%9C%92%20%E5%8D%83%E8%91%89%E5%B8%82%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.cue-net.or.jp/kouen/chiba-toshiryokka/index.html"
         },
         {
           "prefecture": "千葉県",
@@ -485,12 +521,13 @@ window.FACILITY_DATASET={
           "name": "三陽メディアフラワーミュージアム",
           "type": "花の美術館・温室",
           "rank": "A",
-          "note": "湾岸の公共施設＋温室。人工的なリゾート感",
+          "note": "湾岸の公共施設＋温室。人工的なリゾート感。\n狙い目：湾岸の景観と温室の人工環境を対比して見る。施設名や運営・公開範囲の変更には現行案内を用いる。",
           "official": "https://sunsetbeachpark.jp/botanicamuseum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%99%BD%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E5%8D%83%E8%91%89%E5%B8%82%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://sunsetbeachpark.jp/botanicamuseum/"
         },
         {
           "prefecture": "神奈川県",
@@ -498,12 +535,13 @@ window.FACILITY_DATASET={
           "name": "神奈川県立大船フラワーセンター",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "県立施設らしい展示と園芸研究の名残",
+          "note": "県立施設らしい展示と園芸研究の名残。\n狙い目：園芸展示の分類や案内表示を読み、植物を育てて見せる施設としての構成を観察したい。",
           "official": "http://www.fcofuna-kanagawa.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E5%A4%A7%E8%88%B9%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%8E%8C%E5%80%89%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.fcofuna-kanagawa.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -511,12 +549,13 @@ window.FACILITY_DATASET={
           "name": "横浜市こども植物園",
           "type": "植物園・温室",
           "rank": "A",
-          "note": "公共教育施設感が濃い。規模と古さがちょうどいい",
+          "note": "公共教育施設感が濃い。規模と古さがちょうどいい。\n狙い目：園路の規模と植物の展示の近さに注目。教育用の植物園として歩く順序と説明の置かれ方を見る。",
           "official": "http://www.hama-midorinokyokai.or.jp/kodomo/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.hama-midorinokyokai.or.jp/kodomo/"
         },
         {
           "prefecture": "神奈川県",
@@ -524,12 +563,13 @@ window.FACILITY_DATASET={
           "name": "箱根湿生花園",
           "type": "湿生植物園",
           "rank": "A",
-          "note": "温室型ではないが、木道と人工湿地に境界空間感がある",
+          "note": "温室型ではないが、木道と人工湿地に境界空間感がある。\n狙い目：木道の線形と湿地の広がりを見たい。足元の人工的な歩行路と周囲の植生が接する境目が対象。",
           "official": "https://hakone-shisseikaen.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AE%B1%E6%A0%B9%E6%B9%BF%E7%94%9F%E8%8A%B1%E5%9C%92%20%E7%AE%B1%E6%A0%B9%E7%94%BA%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://hakone-shisseikaen.com/"
         },
         {
           "prefecture": "新潟県",
@@ -537,12 +577,13 @@ window.FACILITY_DATASET={
           "name": "新潟県立植物園",
           "type": "巨大ドーム温室",
           "rank": "S",
-          "note": "全面ガラスの巨大ドーム。90年代県立施設感がかなり強い",
+          "note": "全面ガラスの巨大ドーム。90年代県立施設感がかなり強い。\n狙い目：全面ガラスのドームを外から見た輪郭と、内部から見上げた構造を比べたい。",
           "official": "https://botanical.greenery-niigata.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%AB%8B%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%96%B0%E6%BD%9F%E5%B8%82%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://botanical.greenery-niigata.or.jp/"
         },
         {
           "prefecture": "富山県",
@@ -550,12 +591,13 @@ window.FACILITY_DATASET={
           "name": "富山県中央植物園",
           "type": "大型温室群",
           "rank": "S",
-          "note": "複数温室を公共施設的なホールで接続。かなり本命",
+          "note": "複数温室を公共施設的なホールで接続。\n狙い目：温室をつなぐホールで立ち止まり、植物展示から公共施設の共用部へ戻る切り替わりを観察する。",
           "official": "http://www.bgtym.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E4%B8%AD%E5%A4%AE%E6%A4%8D%E7%89%A9%E5%9C%92%20%E5%AF%8C%E5%B1%B1%E5%B8%82%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.bgtym.org/"
         },
         {
           "prefecture": "石川県",
@@ -563,12 +605,13 @@ window.FACILITY_DATASET={
           "name": "のと蘭ノ国",
           "type": "大型温室",
           "rank": "S",
-          "note": "巨大温室と地方観光施設の組み合わせ。営業状況要確認",
+          "note": "巨大温室と地方観光施設の組み合わせ。営業状況要確認。\n狙い目：温室の大きさと観光施設としての敷地構成が対象。現行の公開範囲を起点に、温室と周辺施設の関係を見たい。",
           "official": "https://www.notorannokuni.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AE%E3%81%A8%E8%98%AD%E3%83%8E%E5%9B%BD%20%E4%B8%83%E5%B0%BE%E5%B8%82%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.notorannokuni.com/"
         },
         {
           "prefecture": "長野県",
@@ -576,12 +619,13 @@ window.FACILITY_DATASET={
           "name": "長野県植物園（戸隠森林植物園）",
           "type": "森林植物園",
           "rank": "B",
-          "note": "温室ではないが公共自然施設としての静けさがある",
+          "note": "温室ではないが公共自然施設としての静けさがある。\n狙い目：温室内の人工環境ではなく、園路と森林を見せる仕組みに注目。自然の中に設けられた観察経路をたどる。",
           "official": "https://www.pref.nagano.lg.jp/nagachi/nagachi-rimmu/shokonorin/togakusisinrinsyokubutuen.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E6%A4%8D%E7%89%A9%E5%9C%92%EF%BC%88%E6%88%B8%E9%9A%A0%E6%A3%AE%E6%9E%97%E6%A4%8D%E7%89%A9%E5%9C%92%EF%BC%89%20%E9%95%B7%E9%87%8E%E5%B8%82%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.pref.nagano.lg.jp/nagachi/nagachi-rimmu/shokonorin/togakusisinrinsyokubutuen.html"
         },
         {
           "prefecture": "岐阜県",
@@ -589,12 +633,13 @@ window.FACILITY_DATASET={
           "name": "花フェスタ記念公園／ぎふワールド・ローズガーデン",
           "type": "大型植物公園",
           "rank": "B",
-          "note": "博覧会跡地由来の巨大公共園芸施設",
+          "note": "博覧会跡地由来の巨大公共園芸施設。\n狙い目：博覧会由来の広い園地として、各エリア間を歩く距離と景観の切り替わりを見たい。",
           "official": "https://gifu-wrg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92%EF%BC%8F%E3%81%8E%E3%81%B5%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%20%E5%8F%AF%E5%85%90%E5%B8%82%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://gifu-wrg.jp/"
         },
         {
           "prefecture": "静岡県",
@@ -602,12 +647,13 @@ window.FACILITY_DATASET={
           "name": "はままつフラワーパーク 大温室クリスタルパレス",
           "type": "大温室",
           "rank": "S",
-          "note": "名称通り巨大なガラス温室。地方博覧会施設的なスケール",
+          "note": "名称通り巨大なガラス温室。地方博覧会施設的なスケール。\n狙い目：ガラス温室の外形と内部の広がりを合わせて見る。植物の展示と大きな屋根の関係が対象。",
           "official": "https://e-flowerpark.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AF%E3%81%BE%E3%81%BE%E3%81%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%91%E3%83%AC%E3%82%B9%20%E6%B5%9C%E6%9D%BE%E5%B8%82%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://e-flowerpark.com/"
         },
         {
           "prefecture": "静岡県",
@@ -615,12 +661,13 @@ window.FACILITY_DATASET={
           "name": "熱川バナナワニ園",
           "type": "熱帯温室群",
           "rank": "S",
-          "note": "昭和観光施設＋大量の温室。植物園として見ても非常に強い",
+          "note": "昭和観光施設＋大量の温室。植物園として見ても非常に強い。\n狙い目：温室が連なる観光施設として、区画ごとの植物と移動経路の違いを比べたい。",
           "official": "http://bananawani.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%B1%E5%B7%9D%E3%83%90%E3%83%8A%E3%83%8A%E3%83%AF%E3%83%8B%E5%9C%92%20%E6%9D%B1%E4%BC%8A%E8%B1%86%E7%94%BA%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://bananawani.jp/"
         },
         {
           "prefecture": "愛知県",
@@ -628,12 +675,13 @@ window.FACILITY_DATASET={
           "name": "東山植物園 温室前館",
           "type": "歴史的温室",
           "rank": "S",
-          "note": "1936年建築。古い鉄骨ガラス温室そのものが主役級",
+          "note": "1936年建築。古い鉄骨ガラス温室そのものが主役級。\n狙い目：鉄骨とガラスの細かな反復が狙い目。植物を見る視線と建築を見上げる視線を切り替えて観察する。",
           "official": "https://www.pref.aichi.jp/kyoiku/bunka/bunkazainavi/yukei/kenzoubutu/kunisitei/0075.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%E5%89%8D%E9%A4%A8%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.pref.aichi.jp/kyoiku/bunka/bunkazainavi/yukei/kenzoubutu/kunisitei/0075.html"
         },
         {
           "prefecture": "愛知県",
@@ -641,12 +689,13 @@ window.FACILITY_DATASET={
           "name": "名古屋市農業センター delaふぁーむ",
           "type": "農業施設・温室",
           "rank": "A",
-          "note": "市営農業施設の実用感と温室・畜産施設が混在",
+          "note": "市営農業施設の実用感と温室・畜産施設が混在。\n狙い目：温室と畜産施設が同じ敷地にある構成をたどる。農業の実用的な用途と来園者向けの展示の関係を見たい。",
           "official": "https://dela-farm.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E8%BE%B2%E6%A5%AD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20dela%E3%81%B5%E3%81%81%E3%83%BC%E3%82%80%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://dela-farm.com/"
         },
         {
           "prefecture": "京都府",
@@ -654,12 +703,13 @@ window.FACILITY_DATASET={
           "name": "京都府立植物園 観覧温室",
           "type": "巨大温室",
           "rank": "S",
-          "note": "日本最大級。気候帯が連続的に切り替わる人工世界",
+          "note": "日本最大級。気候帯が連続的に切り替わる人工世界。\n狙い目：気候帯の境目を追い、順路に沿って植物の姿と周囲の見え方がどう変わるかを観察する。",
           "official": "http://www.pref.kyoto.jp/plant/11900018.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E7%AB%8B%E6%A4%8D%E7%89%A9%E5%9C%92%20%E8%A6%B3%E8%A6%A7%E6%B8%A9%E5%AE%A4%20%E4%BA%AC%E9%83%BD%E5%B8%82%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.pref.kyoto.jp/plant/11900018.html"
         },
         {
           "prefecture": "大阪府",
@@ -667,12 +717,13 @@ window.FACILITY_DATASET={
           "name": "咲くやこの花館",
           "type": "巨大温室",
           "rank": "S",
-          "note": "基準点。花博由来の巨大人工環境と公共施設建築",
+          "note": "花博由来の巨大人工環境と公共施設建築。\n狙い目：花博由来の大空間として、温室の骨組みと展示区画のスケール差を見る。",
           "official": "https://www.sakuyakonohana.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%B2%E3%81%8F%E3%82%84%E3%81%93%E3%81%AE%E8%8A%B1%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sakuyakonohana.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -680,12 +731,13 @@ window.FACILITY_DATASET={
           "name": "大阪公立大学附属植物園",
           "type": "大学植物園",
           "rank": "A",
-          "note": "研究林・植物園としての非観光的な空気",
+          "note": "研究林・植物園としての非観光的な空気。\n狙い目：研究林と植物展示の配置を観察する。観光的な演出の有無より、植物を分類して育てる仕組みを読みたい。",
           "official": "https://www.omu.ac.jp/bg/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E6%A4%8D%E7%89%A9%E5%9C%92%20%E4%BA%A4%E9%87%8E%E5%B8%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.omu.ac.jp/bg/"
         },
         {
           "prefecture": "兵庫県",
@@ -693,12 +745,13 @@ window.FACILITY_DATASET={
           "name": "兵庫県立フラワーセンター",
           "type": "大温室群",
           "rank": "S",
-          "note": "複数の温室、池、県立施設。地方公共植物園としてかなり強い",
+          "note": "複数の温室、池、県立施設。地方公共植物園としてかなり強い。\n狙い目：温室・池・園路を一緒にたどり、屋内展示と屋外の水辺をどう接続しているかを見る。",
           "official": "https://flowercenter.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8A%A0%E8%A5%BF%E5%B8%82%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://flowercenter.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -706,12 +759,13 @@ window.FACILITY_DATASET={
           "name": "神戸市立森林植物園",
           "type": "森林植物園",
           "rank": "B",
-          "note": "人工林・公共施設・広大な園路の組み合わせ",
+          "note": "人工林・公共施設・広大な園路の組み合わせ。\n狙い目：園路の長さと植栽区画の切り替わりが対象。広い森林を来園者にどう見せるかという構成に注目。",
           "official": "http://www.kobe-park.or.jp/shinrin/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E5%B8%82%E7%AB%8B%E6%A3%AE%E6%9E%97%E6%A4%8D%E7%89%A9%E5%9C%92%20%E7%A5%9E%E6%88%B8%E5%B8%82%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kobe-park.or.jp/shinrin/"
         },
         {
           "prefecture": "兵庫県",
@@ -719,12 +773,13 @@ window.FACILITY_DATASET={
           "name": "神戸どうぶつ王国",
           "type": "巨大温室型施設",
           "rank": "A",
-          "note": "旧花鳥園系。巨大な屋内植物空間として見ると面白い",
+          "note": "旧花鳥園系。巨大な屋内植物空間として見ると面白い。\n狙い目：植物と動物を同じ屋内空間で見せる構成を観察する。大きな屋根の下で用途が切り替わる地点が狙い目。",
           "official": "https://www.kobe-oukoku.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E3%81%A9%E3%81%86%E3%81%B6%E3%81%A4%E7%8E%8B%E5%9B%BD%20%E7%A5%9E%E6%88%B8%E5%B8%82%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kobe-oukoku.com/"
         },
         {
           "prefecture": "和歌山県",
@@ -732,12 +787,13 @@ window.FACILITY_DATASET={
           "name": "和歌山県植物公園 緑花センター",
           "type": "県立植物公園・温室",
           "rank": "S",
-          "note": "地方県立施設、温室、展示室の組み合わせが狙い目",
+          "note": "地方県立施設、温室、展示室の組み合わせが狙い目。\n狙い目：温室と展示室を行き来し、植物そのものを見せる区画と説明する区画の雰囲気を比べたい。",
           "official": "http://www.w-botanicalgarden.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92%20%E7%B7%91%E8%8A%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%B2%A9%E5%87%BA%E5%B8%82%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.w-botanicalgarden.jp/"
         },
         {
           "prefecture": "鳥取県",
@@ -745,12 +801,13 @@ window.FACILITY_DATASET={
           "name": "とっとり花回廊",
           "type": "大型植物公園・温室",
           "rank": "S",
-          "note": "巨大フラワードームと長い回廊。人工環境として非常に強い",
+          "note": "巨大フラワードームと長い回廊。人工環境として非常に強い。\n狙い目：フラワードームと長い回廊の関係を見る。回廊から園地を眺める視線と、ドーム内に包まれる感覚の対比が対象。",
           "official": "https://www.tottorihanakairou.or.jp/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%81%A3%E3%81%A8%E3%82%8A%E8%8A%B1%E5%9B%9E%E5%BB%8A%20%E5%8D%97%E9%83%A8%E7%94%BA%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.tottorihanakairou.or.jp/?utm_source"
         },
         {
           "prefecture": "島根県",
@@ -758,12 +815,13 @@ window.FACILITY_DATASET={
           "name": "松江フォーゲルパーク",
           "type": "巨大温室",
           "rank": "S",
-          "note": "巨大温室と動く歩道、展望施設。テーマパーク型リミナル",
+          "note": "巨大温室と動く歩道、展望施設。テーマパーク型リミナル。\n狙い目：動く歩道や展望施設を通る移動そのものが狙い目。温室を含む各区画のつなぎ方を観察する。",
           "official": "https://www.ichibata.co.jp/vogelpark/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E6%B1%9F%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B2%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%20%E6%9D%BE%E6%B1%9F%E5%B8%82%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.ichibata.co.jp/vogelpark/"
         },
         {
           "prefecture": "広島県",
@@ -771,12 +829,13 @@ window.FACILITY_DATASET={
           "name": "広島市植物公園",
           "type": "大温室",
           "rank": "S",
-          "note": "巨大ガラス温室と70年代公共施設感。かなり有力",
+          "note": "巨大ガラス温室と70年代公共施設感。かなり有力。\n狙い目：大温室を外から見た大きさと内部の植物の密度を比べたい。ガラスと構造材の反復にも注目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92%20%E5%BA%83%E5%B3%B6%E5%B8%82%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "山口県",
@@ -784,12 +843,13 @@ window.FACILITY_DATASET={
           "name": "ときわミュージアム 世界を旅する植物館",
           "type": "植物館・温室",
           "rank": "A",
-          "note": "公園内の人工的な植物展示空間",
+          "note": "公園内の人工的な植物展示空間。\n狙い目：植物の展示環境を公園の一部として見る。公園の開放感から室内の囲われた空間への切り替わりが対象。",
           "official": "https://www.tokiwapark.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%81%8D%E3%82%8F%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E4%B8%96%E7%95%8C%E3%82%92%E6%97%85%E3%81%99%E3%82%8B%E6%A4%8D%E7%89%A9%E9%A4%A8%20%E5%AE%87%E9%83%A8%E5%B8%82%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.tokiwapark.jp/museum/"
         },
         {
           "prefecture": "香川県",
@@ -797,12 +857,13 @@ window.FACILITY_DATASET={
           "name": "香川県園芸総合センター",
           "type": "園芸研究施設",
           "rank": "A",
-          "note": "観光地より農業・園芸行政施設寄りの空気",
+          "note": "観光地より農業・園芸行政施設寄りの空気。\n狙い目：園芸の普及や栽培を担う施設として、展示と実務の関係を案内から読みたい。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%E5%9C%92%E8%8A%B8%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%AB%98%E6%9D%BE%E5%B8%82%20%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "福岡県",
@@ -810,12 +871,13 @@ window.FACILITY_DATASET={
           "name": "福岡市植物園 温室",
           "type": "大温室",
           "rank": "S",
-          "note": "都市型公共植物園。大温室の構造と通路が良い",
+          "note": "都市型公共植物園。大温室の構造と通路が良い。\n狙い目：大温室の構造を見上げる位置と通路から植物を見る位置を比べ、公共植物園の展示動線をたどる。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%20%E7%A6%8F%E5%B2%A1%E5%B8%82%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "長崎県",
@@ -823,12 +885,13 @@ window.FACILITY_DATASET={
           "name": "長崎バイオパーク",
           "type": "熱帯植物・動物施設",
           "rank": "A",
-          "note": "昭和〜平成型観光施設と熱帯環境の混在",
+          "note": "昭和〜平成型観光施設と熱帯環境の混在。\n狙い目：熱帯環境の展示と観光施設の動線を合わせて観察したい。自然らしく見せた空間をどう巡らせるかを見る。",
           "official": "http://www.biopark.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E3%83%90%E3%82%A4%E3%82%AA%E3%83%91%E3%83%BC%E3%82%AF%20%E8%A5%BF%E6%B5%B7%E5%B8%82%20%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.biopark.co.jp/"
         },
         {
           "prefecture": "熊本県",
@@ -836,12 +899,13 @@ window.FACILITY_DATASET={
           "name": "熊本市動植物園 花の休憩所",
           "type": "温室・動植物園",
           "rank": "A",
-          "note": "市営動植物園の人工自然空間として見ると良い",
+          "note": "市営動植物園の人工自然空間として見ると良い。\n狙い目：花を見る空間と休憩の用途の関係が対象。動植物園を歩く途中で立ち寄る場所としての性格を見る。",
           "official": "http://www.ezooko.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E5%B8%82%E5%8B%95%E6%A4%8D%E7%89%A9%E5%9C%92%20%E8%8A%B1%E3%81%AE%E4%BC%91%E6%86%A9%E6%89%80%20%E7%86%8A%E6%9C%AC%E5%B8%82%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.ezooko.jp/"
         },
         {
           "prefecture": "宮崎県",
@@ -849,12 +913,13 @@ window.FACILITY_DATASET={
           "name": "宮交ボタニックガーデン青島",
           "type": "亜熱帯植物園・温室",
           "rank": "A",
-          "note": "南国観光施設の古い系譜と温室がある",
+          "note": "南国観光施設の古い系譜と温室がある。\n狙い目：温室と青島周辺の南国景観の違いを比べたい。管理された植物展示と観光地の日常的な風景の境目が対象。",
           "official": "https://mppf.or.jp/aoshima/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E4%BA%A4%E3%83%9C%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E9%9D%92%E5%B3%B6%20%E5%AE%AE%E5%B4%8E%E5%B8%82%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://mppf.or.jp/aoshima/"
         },
         {
           "prefecture": "鹿児島県",
@@ -862,12 +927,13 @@ window.FACILITY_DATASET={
           "name": "フラワーパークかごしま",
           "type": "大型植物公園・温室",
           "rank": "S",
-          "note": "南端の巨大県立植物施設。温室と広い人工景観",
+          "note": "南端の巨大県立植物施設。温室と広い人工景観。\n狙い目：園地を歩く距離と温室内の密度を対比する。大規模な園芸施設としての人工的な景観構成を見たい。",
           "official": "http://www.fp-k.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E3%81%8B%E3%81%94%E3%81%97%E3%81%BE%20%E6%8C%87%E5%AE%BF%E5%B8%82%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.fp-k.org/"
         },
         {
           "prefecture": "沖縄県",
@@ -875,12 +941,13 @@ window.FACILITY_DATASET={
           "name": "東南植物楽園",
           "type": "熱帯植物園",
           "rank": "A",
-          "note": "温室より屋外主体だが、人工熱帯景観として強い",
+          "note": "温室より屋外主体だが、人工熱帯景観として強い。\n狙い目：屋外の熱帯植栽を通して、園路と植物の配置の関係を見る。温室の壁がない場所で人工景観がどう成立するかが対象。",
           "official": "http://www.southeast-botanical.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E6%A5%BD%E5%9C%92%20%E6%B2%96%E7%B8%84%E5%B8%82%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.southeast-botanical.jp/"
         },
         {
           "prefecture": "沖縄県",
@@ -888,12 +955,13 @@ window.FACILITY_DATASET={
           "name": "海洋博公園 熱帯ドリームセンター",
           "type": "巨大温室・博覧会施設",
           "rank": "S",
-          "note": "海洋博公園内。巨大温室、塔、回廊、博覧会跡地感が非常に強い",
+          "note": "海洋博公園内。巨大温室、塔、回廊、博覧会跡地感が非常に強い。\n狙い目：温室・塔・回廊を一続きの建築として見る。屋内外と高低差を切り替える経路に博覧会施設らしい構成を探したい。",
           "official": "http://oki-park.jp/kaiyohaku/inst/38",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E6%B4%8B%E5%8D%9A%E5%85%AC%E5%9C%92%20%E7%86%B1%E5%B8%AF%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9C%AC%E9%83%A8%E7%94%BA%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://oki-park.jp/kaiyohaku/inst/38"
         },
         {
           "prefecture": "長崎県",
@@ -901,12 +969,13 @@ window.FACILITY_DATASET={
           "name": "九十九島動植物園森きらら",
           "type": "生物",
           "rank": "B",
-          "note": "植物、生態系、人工環境での育成を扱う。",
+          "note": "植物、生態系、人工環境での育成を扱う。\n狙い目：動植物園の中の植物展示として、植物の配置と生育環境の説明を読みたい。",
           "official": "https://www.morikirara.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E5%8D%81%E4%B9%9D%E5%B3%B6%E5%8B%95%E6%A4%8D%E7%89%A9%E5%9C%92%E6%A3%AE%E3%81%8D%E3%82%89%E3%82%89%20%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.morikirara.jp/"
         }
       ]
     },
@@ -924,12 +993,13 @@ window.FACILITY_DATASET={
           "name": "東京都虹の下水道館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "下水道をテーマにした公共展示施設。",
+          "note": "有明水再生センター5階にある東京都下水道局の広報施設。「レインボータウン」を舞台に、下水道管・ポンプ所・中央監視室・水質検査室での仕事を体験する構成。\n狙い目：普段立ち入れないインフラの仕事場を、来館者向けの室内空間として再現している点。",
           "official": "https://www.nijinogesuidoukan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%99%B9%E3%81%AE%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.nijinogesuidoukan.jp/"
         },
         {
           "prefecture": "東京都",
@@ -937,12 +1007,13 @@ window.FACILITY_DATASET={
           "name": "東京都水の科学館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "水道PR館。人工的な水空間。",
+          "note": "水道PR館。人工的な水空間。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "http://www.mizunokagaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B0%B4%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.mizunokagaku.jp/"
         },
         {
           "prefecture": "東京都",
@@ -950,12 +1021,13 @@ window.FACILITY_DATASET={
           "name": "ふれあい下水道館",
           "type": "インフラ・PR館",
           "rank": "S",
-          "note": "実際の下水道管近くまで降りる展示。",
+          "note": "実際の下水道管近くまで降りる展示。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -963,12 +1035,13 @@ window.FACILITY_DATASET={
           "name": "旧三河島汚水処分場喞筒場施設",
           "type": "インフラ・PR館",
           "rank": "S",
-          "note": "近代下水処理施設。公開日に狙いたい。",
+          "note": "近代下水処理施設。公開日に狙いたい。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/s-mikawa/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E4%B8%89%E6%B2%B3%E5%B3%B6%E6%B1%9A%E6%B0%B4%E5%87%A6%E5%88%86%E5%A0%B4%E5%96%9E%E7%AD%92%E5%A0%B4%E6%96%BD%E8%A8%AD%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/s-mikawa/"
         },
         {
           "prefecture": "神奈川県",
@@ -976,12 +1049,13 @@ window.FACILITY_DATASET={
           "name": "神奈川県水道記念館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "旧ポンプ所系の水道資料館。",
+          "note": "旧ポンプ所系の水道資料館。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
           "official": "https://www.pref.kanagawa.jp/docs/r4a/suidoukinenkan/suidoukinenkan.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%AF%92%E5%B7%9D%E7%94%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.pref.kanagawa.jp/docs/r4a/suidoukinenkan/suidoukinenkan.html"
         },
         {
           "prefecture": "神奈川県",
@@ -989,12 +1063,13 @@ window.FACILITY_DATASET={
           "name": "横浜市水道記念館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "公共水道展示館。",
+          "note": "公共水道展示館。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%BF%9D%E5%9C%9F%E3%82%B1%E8%B0%B7%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "埼玉県",
@@ -1002,12 +1077,13 @@ window.FACILITY_DATASET={
           "name": "埼玉県立川の博物館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "巨大水車・河川展示。",
+          "note": "巨大水車・河川展示。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://www.river-museum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%AB%8B%E5%B7%9D%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%AF%84%E5%B1%85%E7%94%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.river-museum.jp/"
         },
         {
           "prefecture": "東京都",
@@ -1015,12 +1091,13 @@ window.FACILITY_DATASET={
           "name": "荒川知水資料館 amoA",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "河川・治水展示館。",
+          "note": "河川・治水展示館。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://www.ara-amoa.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8D%92%E5%B7%9D%E7%9F%A5%E6%B0%B4%E8%B3%87%E6%96%99%E9%A4%A8%20amoA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.ara-amoa.com/"
         },
         {
           "prefecture": "埼玉県",
@@ -1028,12 +1105,13 @@ window.FACILITY_DATASET={
           "name": "首都圏外郭放水路 地底探検ミュージアム 龍Q館",
           "type": "インフラ・PR館",
           "rank": "S",
-          "note": "巨大地下放水路。見学予約前提。",
+          "note": "巨大地下放水路。見学予約前提。\n狙い目：地下放水路の解説と、予約制の現地見学を区別して利用する。地上では見えない治水設備の大きさを読み取りたい。",
           "official": "https://gaikaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%96%E9%83%BD%E5%9C%8F%E5%A4%96%E9%83%AD%E6%94%BE%E6%B0%B4%E8%B7%AF%20%E5%9C%B0%E5%BA%95%E6%8E%A2%E6%A4%9C%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E9%BE%8DQ%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://gaikaku.jp/"
         },
         {
           "prefecture": "茨城県",
@@ -1041,12 +1119,13 @@ window.FACILITY_DATASET={
           "name": "霞ヶ浦ふれあいランド",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "水辺公共施設＋展望塔系。",
+          "note": "水辺公共施設＋展望塔系。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
           "official": "https://namegata.mypl.net/shop/00000369105/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9C%9E%E3%83%B6%E6%B5%A6%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E3%83%A9%E3%83%B3%E3%83%89%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E8%A1%8C%E6%96%B9%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://namegata.mypl.net/shop/00000369105/"
         },
         {
           "prefecture": "滋賀県",
@@ -1054,12 +1133,13 @@ window.FACILITY_DATASET={
           "name": "アクア琵琶",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "琵琶湖・治水系展示。",
+          "note": "琵琶湖・治水系展示。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://www.kkr.mlit.go.jp/biwako/aquabiwa/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AF%E3%82%A2%E7%90%B5%E7%90%B6%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kkr.mlit.go.jp/biwako/aquabiwa/"
         },
         {
           "prefecture": "滋賀県",
@@ -1067,12 +1147,13 @@ window.FACILITY_DATASET={
           "name": "琵琶湖博物館",
           "type": "インフラ・PR館",
           "rank": "B",
-          "note": "巨大公共博物館。水環境展示。",
+          "note": "巨大公共博物館。水環境展示。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://www.biwahaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E8%8D%89%E6%B4%A5%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.biwahaku.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -1080,12 +1161,13 @@ window.FACILITY_DATASET={
           "name": "大阪市下水道科学館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "下水道PR施設。",
+          "note": "下水道PR施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.osaka-ssm.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%8B%E6%B0%B4%E9%81%93%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.osaka-ssm.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -1093,12 +1175,13 @@ window.FACILITY_DATASET={
           "name": "大阪市水道記念館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "旧配水ポンプ場建築。公開状況は事前確認。",
+          "note": "旧配水ポンプ場建築。公開状況は事前確認。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
           "official": "https://suido-kinenkan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%B7%80%E5%B7%9D%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://suido-kinenkan.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -1106,12 +1189,13 @@ window.FACILITY_DATASET={
           "name": "神戸市水の科学博物館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "水道施設系の歴史建築。公開状況は確認。",
+          "note": "水道施設系の歴史建築。公開状況は確認。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E5%B8%82%E6%B0%B4%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%85%B5%E5%BA%AB%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "兵庫県",
@@ -1119,12 +1203,13 @@ window.FACILITY_DATASET={
           "name": "明石海峡大橋 ブリッジワールド周辺施設",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "巨大橋梁インフラ見学。",
+          "note": "巨大橋梁インフラ見学。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
           "official": "https://www.jb-honshi.co.jp/bridgeworld/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E7%9F%B3%E6%B5%B7%E5%B3%A1%E5%A4%A7%E6%A9%8B%20%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%91%A8%E8%BE%BA%E6%96%BD%E8%A8%AD%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.jb-honshi.co.jp/bridgeworld/index.html"
         },
         {
           "prefecture": "兵庫県",
@@ -1132,12 +1217,13 @@ window.FACILITY_DATASET={
           "name": "本州四国連絡高速道路 橋の科学館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "橋梁PR館。",
+          "note": "橋梁PR館。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
           "official": "https://www.hashinokagakukan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AC%E5%B7%9E%E5%9B%9B%E5%9B%BD%E9%80%A3%E7%B5%A1%E9%AB%98%E9%80%9F%E9%81%93%E8%B7%AF%20%E6%A9%8B%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.hashinokagakukan.jp/"
         },
         {
           "prefecture": "徳島県",
@@ -1145,12 +1231,13 @@ window.FACILITY_DATASET={
           "name": "大鳴門橋架橋記念館エディ",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "巨大橋と渦潮の展示施設。",
+          "note": "巨大橋と渦潮の展示施設。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
           "official": "https://www.uzunomichi.jp/usage-guide-eddy/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%B3%B4%E9%96%80%E6%A9%8B%E6%9E%B6%E6%A9%8B%E8%A8%98%E5%BF%B5%E9%A4%A8%E3%82%A8%E3%83%87%E3%82%A3%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E9%B3%B4%E9%96%80%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.uzunomichi.jp/usage-guide-eddy/"
         },
         {
           "prefecture": "福岡県",
@@ -1158,12 +1245,13 @@ window.FACILITY_DATASET={
           "name": "海峡ドラマシップ",
           "type": "インフラ・PR館",
           "rank": "S",
-          "note": "巨大屋内展示＋港湾。",
+          "note": "巨大屋内展示＋港湾。\n狙い目：港の屋外景観と館内の説明展示を見比べる。大きな港湾機能を室内でどう伝えるかが対象。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E5%B3%A1%E3%83%89%E3%83%A9%E3%83%9E%E3%82%B7%E3%83%83%E3%83%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "福岡県",
@@ -1171,12 +1259,13 @@ window.FACILITY_DATASET={
           "name": "関門海峡ミュージアム",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "港湾展示と大規模吹き抜け。",
+          "note": "港湾展示と大規模吹き抜け。\n狙い目：見上げる位置と離れて眺める位置を変え、空間の高さと通路の関係を比べたい。",
           "official": "https://mojiko-retoro9.jp/spot/kanmon_kaikyo_museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%A2%E9%96%80%E6%B5%B7%E5%B3%A1%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://mojiko-retoro9.jp/spot/kanmon_kaikyo_museum/"
         },
         {
           "prefecture": "山口県",
@@ -1184,12 +1273,13 @@ window.FACILITY_DATASET={
           "name": "関門トンネル人道",
           "type": "インフラ・PR館",
           "rank": "S",
-          "note": "海底を歩く長い人道トンネル。",
+          "note": "海底を歩く長い人道トンネル。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%A2%E9%96%80%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E4%BA%BA%E9%81%93%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "青森県",
@@ -1197,12 +1287,13 @@ window.FACILITY_DATASET={
           "name": "青函トンネル記念館",
           "type": "インフラ・PR館",
           "rank": "S",
-          "note": "トンネル展示＋地下体験坑道。",
+          "note": "トンネル展示＋地下体験坑道。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
           "official": "http://seikan-tunnel-museum.jp/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E5%87%BD%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%A4%96%E3%83%B6%E6%B5%9C%E7%94%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://seikan-tunnel-museum.jp/index.html"
         },
         {
           "prefecture": "富山県",
@@ -1210,12 +1301,13 @@ window.FACILITY_DATASET={
           "name": "黒部ダム 展示・トンネル動線",
           "type": "インフラ・PR館",
           "rank": "S",
-          "note": "巨大ダムと地下通路。",
+          "note": "巨大ダムと地下通路。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
           "official": "http://www.kurobe-dam.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%BB%92%E9%83%A8%E3%83%80%E3%83%A0%20%E5%B1%95%E7%A4%BA%E3%83%BB%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E5%8B%95%E7%B7%9A%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E7%AB%8B%E5%B1%B1%E7%94%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kurobe-dam.com/"
         },
         {
           "prefecture": "富山県",
@@ -1223,12 +1315,13 @@ window.FACILITY_DATASET={
           "name": "立山カルデラ砂防博物館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "砂防・山岳インフラ展示。",
+          "note": "砂防・山岳インフラ展示。\n狙い目：地形の説明と災害・噴火の記録を照合する。目の前の地形を時間の経過とともに読む展示が狙い目。",
           "official": "http://www.tatecal.or.jp/tatecal/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%87%E3%83%A9%E7%A0%82%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E7%AB%8B%E5%B1%B1%E7%94%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.tatecal.or.jp/tatecal/index.html"
         },
         {
           "prefecture": "静岡県",
@@ -1236,12 +1329,13 @@ window.FACILITY_DATASET={
           "name": "佐久間電力館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "ダム横の電力PR館。",
+          "note": "ダム横の電力PR館。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "https://www.jpower.co.jp/learn/facilities/sakuma.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E4%B9%85%E9%96%93%E9%9B%BB%E5%8A%9B%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%B5%9C%E6%9D%BE%E5%B8%82%E5%A4%A9%E7%AB%9C%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.jpower.co.jp/learn/facilities/sakuma.html"
         },
         {
           "prefecture": "静岡県",
@@ -1249,12 +1343,13 @@ window.FACILITY_DATASET={
           "name": "浜岡原子力館",
           "type": "インフラ・PR館",
           "rank": "S",
-          "note": "巨大エネルギーPR施設。",
+          "note": "巨大エネルギーPR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "http://www.chuden.co.jp/hamaoka-pr/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%9C%E5%B2%A1%E5%8E%9F%E5%AD%90%E5%8A%9B%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E5%BE%A1%E5%89%8D%E5%B4%8E%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.chuden.co.jp/hamaoka-pr/"
         },
         {
           "prefecture": "佐賀県",
@@ -1262,12 +1357,13 @@ window.FACILITY_DATASET={
           "name": "玄海エネルギーパーク",
           "type": "インフラ・PR館",
           "rank": "S",
-          "note": "地方の巨大エネルギーPR施設。",
+          "note": "地方の巨大エネルギーPR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "http://www.kyuden.co.jp/life_pavilion_enepark_index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%8E%84%E6%B5%B7%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E7%8E%84%E6%B5%B7%E7%94%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kyuden.co.jp/life_pavilion_enepark_index.html"
         },
         {
           "prefecture": "鹿児島県",
@@ -1275,12 +1371,13 @@ window.FACILITY_DATASET={
           "name": "川内原子力発電所展示館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "原子力PR館。",
+          "note": "原子力PR館。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "http://www.kyuden.co.jp/life_pavilion_sendai_index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%86%85%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80%E5%B1%95%E7%A4%BA%E9%A4%A8%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kyuden.co.jp/life_pavilion_sendai_index.html"
         },
         {
           "prefecture": "愛媛県",
@@ -1288,12 +1385,13 @@ window.FACILITY_DATASET={
           "name": "四国電力 伊方ビジターズハウス",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "半島の電力PR施設。",
+          "note": "半島の電力PR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "https://www.yonden.co.jp/energy/atom/tour/ikata_visitorshouse.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E5%9B%BD%E9%9B%BB%E5%8A%9B%20%E4%BC%8A%E6%96%B9%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BA%E3%83%8F%E3%82%A6%E3%82%B9%20%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E4%BC%8A%E6%96%B9%E7%94%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.yonden.co.jp/energy/atom/tour/ikata_visitorshouse.html"
         },
         {
           "prefecture": "新潟県",
@@ -1301,12 +1399,13 @@ window.FACILITY_DATASET={
           "name": "J-POWER 電源開発 奥只見電力館",
           "type": "インフラ・PR館",
           "rank": "A",
-          "note": "山奥のダム・電力展示。",
+          "note": "山奥のダム・電力展示。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=J-POWER%20%E9%9B%BB%E6%BA%90%E9%96%8B%E7%99%BA%20%E5%A5%A5%E5%8F%AA%E8%A6%8B%E9%9B%BB%E5%8A%9B%E9%A4%A8%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E9%AD%9A%E6%B2%BC%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "千葉県",
@@ -1314,12 +1413,13 @@ window.FACILITY_DATASET={
           "name": "千葉大学環境健康フィールド科学センター",
           "type": "研究・植物施設",
           "rank": "B",
-          "note": "大学の研究・栽培施設としての雰囲気が中心",
+          "note": "大学の研究・栽培施設としての雰囲気が中心。\n狙い目：植物の分類や生育環境の説明と、育てる区画の関係を見る。自然を施設内で管理して見せる構成が対象。",
           "official": "http://www.fc.chiba-u.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E5%A4%A7%E5%AD%A6%E7%92%B0%E5%A2%83%E5%81%A5%E5%BA%B7%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9F%8F%E5%B8%82%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.fc.chiba-u.jp/"
         },
         {
           "prefecture": "北海道",
@@ -1327,12 +1427,13 @@ window.FACILITY_DATASET={
           "name": "札幌市青少年科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.ssc.slp.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.ssc.slp.or.jp/"
         },
         {
           "prefecture": "北海道",
@@ -1340,12 +1441,13 @@ window.FACILITY_DATASET={
           "name": "旭川市科学館 サイパル",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://www.city.asahikawa.hokkaido.jp/science/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%AD%E5%B7%9D%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%B5%E3%82%A4%E3%83%91%E3%83%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%AD%E5%B7%9D%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.asahikawa.hokkaido.jp/science/"
         },
         {
           "prefecture": "北海道",
@@ -1353,12 +1455,13 @@ window.FACILITY_DATASET={
           "name": "苫小牧市科学センター",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.city.tomakomai.hokkaido.jp/kagaku/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.tomakomai.hokkaido.jp/kagaku/"
         },
         {
           "prefecture": "北海道",
@@ -1366,12 +1469,13 @@ window.FACILITY_DATASET={
           "name": "DENZAI環境科学館",
           "type": "科学・環境",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.kujiran.net/emiran/kagakukan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=DENZAI%E7%92%B0%E5%A2%83%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%AE%A4%E8%98%AD%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kujiran.net/emiran/kagakukan/"
         },
         {
           "prefecture": "北海道",
@@ -1379,12 +1483,13 @@ window.FACILITY_DATASET={
           "name": "釧路市こども遊学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://kodomoyugakukan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%A7%E8%B7%AF%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E9%81%8A%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://kodomoyugakukan.jp/"
         },
         {
           "prefecture": "北海道",
@@ -1392,12 +1497,13 @@ window.FACILITY_DATASET={
           "name": "ウトナイ湖サンクチュアリ ネイチャーセンター",
           "type": "自然観察",
           "rank": "B",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://utonai-nc.sakura.ne.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A6%E3%83%88%E3%83%8A%E3%82%A4%E6%B9%96%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AA%20%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://utonai-nc.sakura.ne.jp/"
         },
         {
           "prefecture": "青森県",
@@ -1405,12 +1511,13 @@ window.FACILITY_DATASET={
           "name": "青森県立三沢航空科学館",
           "type": "航空・科学",
           "rank": "A",
-          "note": "航空・船舶・産業機械の構造と技術史を扱う。",
+          "note": "航空・船舶・産業機械の構造と技術史を扱う。\n狙い目：機械の構造と用途の説明を対応させて見る。部品や模型が技術の大きさをどう伝えるかが対象。",
           "official": "https://kokukagaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%E7%AB%8B%E4%B8%89%E6%B2%A2%E8%88%AA%E7%A9%BA%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E9%9D%92%E6%A3%AE%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://kokukagaku.jp/"
         },
         {
           "prefecture": "青森県",
@@ -1418,12 +1525,13 @@ window.FACILITY_DATASET={
           "name": "むつ科学技術館",
           "type": "科学・エネルギー",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://msm720.jaea.go.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%80%E3%81%A4%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E3%82%80%E3%81%A4%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://msm720.jaea.go.jp/"
         },
         {
           "prefecture": "青森県",
@@ -1431,12 +1539,13 @@ window.FACILITY_DATASET={
           "name": "六ヶ所原燃PRセンター",
           "type": "エネルギー",
           "rank": "C",
-          "note": "エネルギーを扱う地域施設。",
+          "note": "エネルギーを扱う地域施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "https://6prc.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E3%83%B6%E6%89%80%E5%8E%9F%E7%87%83PR%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%85%AD%E3%83%B6%E6%89%80%E6%9D%91",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://6prc.jp/"
         },
         {
           "prefecture": "岩手県",
@@ -1444,12 +1553,13 @@ window.FACILITY_DATASET={
           "name": "盛岡市子ども科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://www.kodomokagakukan.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%9B%E5%B2%A1%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E7%9B%9B%E5%B2%A1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kodomokagakukan.com/"
         },
         {
           "prefecture": "岩手県",
@@ -1457,12 +1567,13 @@ window.FACILITY_DATASET={
           "name": "奥州宇宙遊学館",
           "type": "宇宙・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://uchuyugakukan.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E5%B7%9E%E5%AE%87%E5%AE%99%E9%81%8A%E5%AD%A6%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A5%A5%E5%B7%9E%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://uchuyugakukan.com/"
         },
         {
           "prefecture": "秋田県",
@@ -1470,12 +1581,13 @@ window.FACILITY_DATASET={
           "name": "秋田県立農業科学館",
           "type": "農業科学",
           "rank": "A",
-          "note": "農業技術、土地利用、地域産業の変化を扱う。",
+          "note": "農業技術、土地利用、地域産業の変化を扱う。\n狙い目：土地の使い方と農業の技術を結び付けて読む。地域産業の変化が道具や資料にどう表れるかを見たい。",
           "official": "https://www.obako.or.jp/sun-agrin/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%E7%AB%8B%E8%BE%B2%E6%A5%AD%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E5%A4%A7%E4%BB%99%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.obako.or.jp/sun-agrin/"
         },
         {
           "prefecture": "宮城県",
@@ -1483,12 +1595,13 @@ window.FACILITY_DATASET={
           "name": "HOKUSHU仙台市科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://www.kagakukan.sendai-c.ed.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=HOKUSHU%E4%BB%99%E5%8F%B0%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kagakukan.sendai-c.ed.jp/"
         },
         {
           "prefecture": "宮城県",
@@ -1496,12 +1609,13 @@ window.FACILITY_DATASET={
           "name": "仙台市天文台",
           "type": "天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.sendai-astro.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E5%B8%82%E5%A4%A9%E6%96%87%E5%8F%B0%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sendai-astro.jp/"
         },
         {
           "prefecture": "福島県",
@@ -1509,12 +1623,13 @@ window.FACILITY_DATASET={
           "name": "いわき市石炭・化石館 ほるる",
           "type": "化石・鉱業",
           "rank": "S",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://www.sekitankasekikan.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%E7%9F%B3%E7%82%AD%E3%83%BB%E5%8C%96%E7%9F%B3%E9%A4%A8%20%E3%81%BB%E3%82%8B%E3%82%8B%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sekitankasekikan.or.jp/"
         },
         {
           "prefecture": "茨城県",
@@ -1522,12 +1637,13 @@ window.FACILITY_DATASET={
           "name": "地質標本館",
           "type": "地質",
           "rank": "A",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "http://www.gsj.jp/Muse/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E8%B3%AA%E6%A8%99%E6%9C%AC%E9%A4%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.gsj.jp/Muse/"
         },
         {
           "prefecture": "茨城県",
@@ -1535,12 +1651,13 @@ window.FACILITY_DATASET={
           "name": "つくばエキスポセンター",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://www.expocenter.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A4%E3%81%8F%E3%81%B0%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%9D%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.expocenter.or.jp/"
         },
         {
           "prefecture": "茨城県",
@@ -1548,12 +1665,13 @@ window.FACILITY_DATASET={
           "name": "大洗わくわく科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.jaea.go.jp/09/wakuwaku/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%B4%97%E3%82%8F%E3%81%8F%E3%82%8F%E3%81%8F%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E5%A4%A7%E6%B4%97%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.jaea.go.jp/09/wakuwaku/"
         },
         {
           "prefecture": "茨城県",
@@ -1561,12 +1679,13 @@ window.FACILITY_DATASET={
           "name": "日立シビックセンター科学館サクリエ",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://www.civic.jp/science/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E7%AB%8B%E3%82%B7%E3%83%93%E3%83%83%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%82%B5%E3%82%AF%E3%83%AA%E3%82%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E6%97%A5%E7%AB%8B%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.civic.jp/science/"
         },
         {
           "prefecture": "栃木県",
@@ -1574,12 +1693,13 @@ window.FACILITY_DATASET={
           "name": "栃木県子ども総合科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://t-csm.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AD%90%E3%81%A9%E3%82%82%E7%B7%8F%E5%90%88%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://t-csm.jp/"
         },
         {
           "prefecture": "栃木県",
@@ -1587,12 +1707,13 @@ window.FACILITY_DATASET={
           "name": "大田原市ふれあいの丘天文館",
           "type": "天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://www.fureai-tenmonkan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%B0%E5%8E%9F%E5%B8%82%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E3%81%AE%E4%B8%98%E5%A4%A9%E6%96%87%E9%A4%A8%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%A4%A7%E7%94%B0%E5%8E%9F%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.fureai-tenmonkan.jp/"
         },
         {
           "prefecture": "群馬県",
@@ -1600,12 +1721,13 @@ window.FACILITY_DATASET={
           "name": "下仁田町自然史館",
           "type": "地質・自然史",
           "rank": "A",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "http://www.shimonita-geopark.jp/shizenshikan/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8B%E4%BB%81%E7%94%B0%E7%94%BA%E8%87%AA%E7%84%B6%E5%8F%B2%E9%A4%A8%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%B8%8B%E4%BB%81%E7%94%B0%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.shimonita-geopark.jp/shizenshikan/index.html"
         },
         {
           "prefecture": "埼玉県",
@@ -1613,12 +1735,13 @@ window.FACILITY_DATASET={
           "name": "加須未来館",
           "type": "科学・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.city.kazo.lg.jp/soshiki/shougai/kazomiraikan/6606.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8A%A0%E9%A0%88%E6%9C%AA%E6%9D%A5%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%8A%A0%E9%A0%88%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kazo.lg.jp/soshiki/shougai/kazomiraikan/6606.html"
         },
         {
           "prefecture": "埼玉県",
@@ -1626,12 +1749,13 @@ window.FACILITY_DATASET={
           "name": "川口市立科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://www.kawaguchi.science.museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%B7%9D%E5%8F%A3%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kawaguchi.science.museum/"
         },
         {
           "prefecture": "埼玉県",
@@ -1639,12 +1763,13 @@ window.FACILITY_DATASET={
           "name": "越谷市科学技術体験センター ミラクル",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.city.koshigaya.saitama.jp/gigakoshigaya/miracle/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%8A%E8%B0%B7%E5%B8%82%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E4%BD%93%E9%A8%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E8%B6%8A%E8%B0%B7%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.koshigaya.saitama.jp/gigakoshigaya/miracle/"
         },
         {
           "prefecture": "千葉県",
@@ -1652,12 +1777,13 @@ window.FACILITY_DATASET={
           "name": "市川市少年自然の家 プラネタリウム",
           "type": "天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.city.ichikawa.lg.jp/page/52380.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B8%82%E5%B7%9D%E5%B8%82%E5%B0%91%E5%B9%B4%E8%87%AA%E7%84%B6%E3%81%AE%E5%AE%B6%20%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%B8%82%E5%B7%9D%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.ichikawa.lg.jp/page/52380.html"
         },
         {
           "prefecture": "千葉県",
@@ -1665,12 +1791,13 @@ window.FACILITY_DATASET={
           "name": "船橋市総合教育センタープラネタリウム館",
           "type": "天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://www.city.funabashi.lg.jp/shisetsu/bunka/0002/0002/0001/p011085.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%88%B9%E6%A9%8B%E5%B8%82%E7%B7%8F%E5%90%88%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E8%88%B9%E6%A9%8B%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.funabashi.lg.jp/shisetsu/bunka/0002/0002/0001/p011085.html"
         },
         {
           "prefecture": "千葉県",
@@ -1678,12 +1805,13 @@ window.FACILITY_DATASET={
           "name": "東金こども科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://www.tsc.tobunspo.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E9%87%91%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%9D%B1%E9%87%91%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.tsc.tobunspo.or.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -1691,12 +1819,13 @@ window.FACILITY_DATASET={
           "name": "神奈川工科大学厚木市子ども科学館",
           "type": "科学館",
           "rank": "A",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.city.atsugi.kanagawa.jp/acsc/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%8E%9A%E6%9C%A8%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.atsugi.kanagawa.jp/acsc/index.html"
         },
         {
           "prefecture": "神奈川県",
@@ -1704,12 +1833,13 @@ window.FACILITY_DATASET={
           "name": "かわさき宙と緑の科学館",
           "type": "天文・自然",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://www.nature-kawasaki.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%82%8F%E3%81%95%E3%81%8D%E5%AE%99%E3%81%A8%E7%B7%91%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.nature-kawasaki.jp/"
         },
         {
           "prefecture": "新潟県",
@@ -1717,12 +1847,13 @@ window.FACILITY_DATASET={
           "name": "新潟県立自然科学館",
           "type": "科学・自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.sciencemuseum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sciencemuseum.jp/"
         },
         {
           "prefecture": "新潟県",
@@ -1730,12 +1861,13 @@ window.FACILITY_DATASET={
           "name": "十日町市立里山科学館 越後松之山「森の学校」キョロロ",
           "type": "生態・自然",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.matsunoyama.com/kyororo/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82%E7%AB%8B%E9%87%8C%E5%B1%B1%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E8%B6%8A%E5%BE%8C%E6%9D%BE%E4%B9%8B%E5%B1%B1%E3%80%8C%E6%A3%AE%E3%81%AE%E5%AD%A6%E6%A0%A1%E3%80%8D%E3%82%AD%E3%83%A7%E3%83%AD%E3%83%AD%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.matsunoyama.com/kyororo/"
         },
         {
           "prefecture": "富山県",
@@ -1743,12 +1875,13 @@ window.FACILITY_DATASET={
           "name": "吉田科学館",
           "type": "科学・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://kysm.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%89%E7%94%B0%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E9%BB%92%E9%83%A8%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://kysm.or.jp/"
         },
         {
           "prefecture": "石川県",
@@ -1756,12 +1889,13 @@ window.FACILITY_DATASET={
           "name": "いしかわ動物園 動物学習センター",
           "type": "生物",
           "rank": "B",
-          "note": "地域の生物、生態、保全活動を扱う。",
+          "note": "地域の生物、生態、保全活動を扱う。\n狙い目：生物の姿だけでなく、生息環境や保全の説明を合わせて読む。地域と生き物の関係を伝える構成を見る。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%97%E3%81%8B%E3%82%8F%E5%8B%95%E7%89%A9%E5%9C%92%20%E5%8B%95%E7%89%A9%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E8%83%BD%E7%BE%8E%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "石川県",
@@ -1769,12 +1903,13 @@ window.FACILITY_DATASET={
           "name": "サイエンスヒルズこまつ",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://science-hills-komatsu.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%92%E3%83%AB%E3%82%BA%E3%81%93%E3%81%BE%E3%81%A4%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E5%B0%8F%E6%9D%BE%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://science-hills-komatsu.jp/"
         },
         {
           "prefecture": "福井県",
@@ -1782,12 +1917,13 @@ window.FACILITY_DATASET={
           "name": "福井県児童科学館 エンゼルランドふくい",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://angelland.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%E5%85%90%E7%AB%A5%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E3%81%B5%E3%81%8F%E3%81%84%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E5%9D%82%E4%BA%95%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://angelland.or.jp/"
         },
         {
           "prefecture": "福井県",
@@ -1795,12 +1931,13 @@ window.FACILITY_DATASET={
           "name": "福井県自然保護センター",
           "type": "自然・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://fncc.pref.fukui.lg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%E8%87%AA%E7%84%B6%E4%BF%9D%E8%AD%B7%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E5%A4%A7%E9%87%8E%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://fncc.pref.fukui.lg.jp/"
         },
         {
           "prefecture": "山梨県",
@@ -1808,12 +1945,13 @@ window.FACILITY_DATASET={
           "name": "山梨県立科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.kagakukan.pref.yamanashi.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E7%94%B2%E5%BA%9C%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kagakukan.pref.yamanashi.jp/"
         },
         {
           "prefecture": "長野県",
@@ -1821,12 +1959,13 @@ window.FACILITY_DATASET={
           "name": "佐久市子ども未来館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://kodomomiraikan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E4%B9%85%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E6%9C%AA%E6%9D%A5%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%BD%90%E4%B9%85%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://kodomomiraikan.jp/"
         },
         {
           "prefecture": "長野県",
@@ -1834,12 +1973,13 @@ window.FACILITY_DATASET={
           "name": "御嶽山ビジターセンター さとテラス三岳",
           "type": "火山・自然",
           "rank": "A",
-          "note": "火山活動、噴火資料、周辺地形を扱う。",
+          "note": "火山活動、噴火資料、周辺地形を扱う。\n狙い目：地形の説明と災害・噴火の記録を照合する。目の前の地形を時間の経過とともに読む展示が狙い目。",
           "official": "https://ontake-vc.jp/sato/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%A1%E5%B6%BD%E5%B1%B1%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%95%E3%81%A8%E3%83%86%E3%83%A9%E3%82%B9%E4%B8%89%E5%B2%B3%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9C%A8%E6%9B%BD%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://ontake-vc.jp/sato/"
         },
         {
           "prefecture": "静岡県",
@@ -1847,12 +1987,13 @@ window.FACILITY_DATASET={
           "name": "静岡科学館る・く・る",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.rukuru.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%82%8B%E3%83%BB%E3%81%8F%E3%83%BB%E3%82%8B%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.rukuru.jp/"
         },
         {
           "prefecture": "静岡県",
@@ -1860,12 +2001,13 @@ window.FACILITY_DATASET={
           "name": "浜松科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.mirai-ra.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%9C%E6%9D%BE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%B5%9C%E6%9D%BE%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.mirai-ra.jp/"
         },
         {
           "prefecture": "静岡県",
@@ -1873,12 +2015,13 @@ window.FACILITY_DATASET={
           "name": "ディスカバリーパーク焼津天文科学館",
           "type": "天文・科学",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.discoverypark.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E7%84%BC%E6%B4%A5%E5%A4%A9%E6%96%87%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%84%BC%E6%B4%A5%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.discoverypark.jp/"
         },
         {
           "prefecture": "静岡県",
@@ -1886,12 +2029,13 @@ window.FACILITY_DATASET={
           "name": "熱川バナナワニ園",
           "type": "生物・植物",
           "rank": "B",
-          "note": "植物、生態系、人工環境での育成を扱う。",
+          "note": "植物、生態系、人工環境での育成を扱う。\n狙い目：生物の姿だけでなく、生息環境や保全の説明を合わせて読む。地域と生き物の関係を伝える構成を見る。",
           "official": "http://bananawani.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%B1%E5%B7%9D%E3%83%90%E3%83%8A%E3%83%8A%E3%83%AF%E3%83%8B%E5%9C%92%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%9D%B1%E4%BC%8A%E8%B1%86%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://bananawani.jp/"
         },
         {
           "prefecture": "愛知県",
@@ -1899,12 +2043,13 @@ window.FACILITY_DATASET={
           "name": "蒲郡市生命の海科学館",
           "type": "地球科学",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://www.city.gamagori.lg.jp/site/kagakukan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%92%B2%E9%83%A1%E5%B8%82%E7%94%9F%E5%91%BD%E3%81%AE%E6%B5%B7%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%92%B2%E9%83%A1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.gamagori.lg.jp/site/kagakukan/"
         },
         {
           "prefecture": "愛知県",
@@ -1912,12 +2057,13 @@ window.FACILITY_DATASET={
           "name": "豊橋市地下資源館",
           "type": "資源・地質",
           "rank": "S",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://www.toyohaku.gr.jp/chika/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%A9%8B%E5%B8%82%E5%9C%B0%E4%B8%8B%E8%B3%87%E6%BA%90%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E6%A9%8B%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.toyohaku.gr.jp/chika/"
         },
         {
           "prefecture": "愛知県",
@@ -1925,12 +2071,13 @@ window.FACILITY_DATASET={
           "name": "半田空の科学館",
           "type": "天文・科学",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://sky-handa.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%8A%E7%94%B0%E7%A9%BA%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%8D%8A%E7%94%B0%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://sky-handa.com/"
         },
         {
           "prefecture": "愛知県",
@@ -1938,12 +2085,13 @@ window.FACILITY_DATASET={
           "name": "一宮地域文化広場 プラネタリウム館",
           "type": "天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.hamada-sports.com/ichinomiya_chiikibunka/ichi?tab",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E5%AE%AE%E5%9C%B0%E5%9F%9F%E6%96%87%E5%8C%96%E5%BA%83%E5%A0%B4%20%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E4%B8%80%E5%AE%AE%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.hamada-sports.com/ichinomiya_chiikibunka/ichi?tab"
         },
         {
           "prefecture": "京都府",
@@ -1951,12 +2099,13 @@ window.FACILITY_DATASET={
           "name": "京都産業大学神山天文台",
           "type": "天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.kyoto-su.ac.jp/observatory/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E7%94%A3%E6%A5%AD%E5%A4%A7%E5%AD%A6%E7%A5%9E%E5%B1%B1%E5%A4%A9%E6%96%87%E5%8F%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kyoto-su.ac.jp/observatory/"
         },
         {
           "prefecture": "大阪府",
@@ -1964,12 +2113,13 @@ window.FACILITY_DATASET={
           "name": "貝塚市立自然遊学館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.city.kaizuka.lg.jp/shizen/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B2%9D%E5%A1%9A%E5%B8%82%E7%AB%8B%E8%87%AA%E7%84%B6%E9%81%8A%E5%AD%A6%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E8%B2%9D%E5%A1%9A%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.kaizuka.lg.jp/shizen/"
         },
         {
           "prefecture": "大阪府",
@@ -1977,12 +2127,13 @@ window.FACILITY_DATASET={
           "name": "すばるホール プラネタリウム",
           "type": "天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://subaruhall.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%B0%E3%82%8B%E3%83%9B%E3%83%BC%E3%83%AB%20%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%AF%8C%E7%94%B0%E6%9E%97%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://subaruhall.org/"
         },
         {
           "prefecture": "兵庫県",
@@ -1990,12 +2141,13 @@ window.FACILITY_DATASET={
           "name": "明石市立天文科学館",
           "type": "天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.am12.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E7%9F%B3%E5%B8%82%E7%AB%8B%E5%A4%A9%E6%96%87%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%98%8E%E7%9F%B3%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.am12.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -2003,12 +2155,13 @@ window.FACILITY_DATASET={
           "name": "伊丹市昆虫館",
           "type": "昆虫",
           "rank": "A",
-          "note": "地域の生物、生態、保全活動を扱う。",
+          "note": "地域の生物、生態、保全活動を扱う。\n狙い目：生物の姿だけでなく、生息環境や保全の説明を合わせて読む。地域と生き物の関係を伝える構成を見る。",
           "official": "http://www.itakon.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E4%B8%B9%E5%B8%82%E6%98%86%E8%99%AB%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E4%BC%8A%E4%B8%B9%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.itakon.com/"
         },
         {
           "prefecture": "兵庫県",
@@ -2016,12 +2169,13 @@ window.FACILITY_DATASET={
           "name": "姫路科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://www.city.himeji.lg.jp/atom/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A7%AB%E8%B7%AF%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%A7%AB%E8%B7%AF%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.himeji.lg.jp/atom/"
         },
         {
           "prefecture": "兵庫県",
@@ -2029,12 +2183,13 @@ window.FACILITY_DATASET={
           "name": "兵庫県立コウノトリの郷公園",
           "type": "生態・保全",
           "rank": "A",
-          "note": "地域の生物、生態、保全活動を扱う。",
+          "note": "地域の生物、生態、保全活動を扱う。\n狙い目：生物の姿だけでなく、生息環境や保全の説明を合わせて読む。地域と生き物の関係を伝える構成を見る。",
           "official": "https://satokouen.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%82%B3%E3%82%A6%E3%83%8E%E3%83%88%E3%83%AA%E3%81%AE%E9%83%B7%E5%85%AC%E5%9C%92%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%B1%8A%E5%B2%A1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://satokouen.jp/"
         },
         {
           "prefecture": "奈良県",
@@ -2042,12 +2197,13 @@ window.FACILITY_DATASET={
           "name": "橿原市立こども科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.city.kashihara.nara.jp/kanko_bunka_sports/kodomokagakukan/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A9%BF%E5%8E%9F%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%A5%88%E8%89%AF%E7%9C%8C%20%E6%A9%BF%E5%8E%9F%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kashihara.nara.jp/kanko_bunka_sports/kodomokagakukan/index.html"
         },
         {
           "prefecture": "和歌山県",
@@ -2055,12 +2211,13 @@ window.FACILITY_DATASET={
           "name": "和歌山市立こども科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://kodomo123.jp/wordpress/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://kodomo123.jp/wordpress/"
         },
         {
           "prefecture": "鳥取県",
@@ -2068,12 +2225,13 @@ window.FACILITY_DATASET={
           "name": "鳥取市さじアストロパーク",
           "type": "天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.city.tottori.lg.jp/www/contents/1425466200201/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E5%B8%82%E3%81%95%E3%81%98%E3%82%A2%E3%82%B9%E3%83%88%E3%83%AD%E3%83%91%E3%83%BC%E3%82%AF%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E9%B3%A5%E5%8F%96%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.tottori.lg.jp/www/contents/1425466200201/"
         },
         {
           "prefecture": "鳥取県",
@@ -2081,12 +2239,13 @@ window.FACILITY_DATASET={
           "name": "米子市児童文化センター",
           "type": "科学・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://yonagobunka.net/jibun/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E5%AD%90%E5%B8%82%E5%85%90%E7%AB%A5%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E7%B1%B3%E5%AD%90%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://yonagobunka.net/jibun/"
         },
         {
           "prefecture": "島根県",
@@ -2094,12 +2253,13 @@ window.FACILITY_DATASET={
           "name": "出雲科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.izumo.ed.jp/kagaku/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BA%E9%9B%B2%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%87%BA%E9%9B%B2%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.izumo.ed.jp/kagaku/"
         },
         {
           "prefecture": "島根県",
@@ -2107,12 +2267,13 @@ window.FACILITY_DATASET={
           "name": "日原天文台",
           "type": "天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://www.sun-net.jp/~polaris/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%8E%9F%E5%A4%A9%E6%96%87%E5%8F%B0%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%B4%A5%E5%92%8C%E9%87%8E%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.sun-net.jp/~polaris/?utm_source"
         },
         {
           "prefecture": "岡山県",
@@ -2120,12 +2281,13 @@ window.FACILITY_DATASET={
           "name": "倉敷科学センター",
           "type": "科学・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%80%89%E6%95%B7%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "岡山県",
@@ -2133,12 +2295,13 @@ window.FACILITY_DATASET={
           "name": "つやま自然のふしぎ館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.fushigikan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A4%E3%82%84%E3%81%BE%E8%87%AA%E7%84%B6%E3%81%AE%E3%81%B5%E3%81%97%E3%81%8E%E9%A4%A8%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E6%B4%A5%E5%B1%B1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.fushigikan.jp/"
         },
         {
           "prefecture": "広島県",
@@ -2146,12 +2309,13 @@ window.FACILITY_DATASET={
           "name": "広島市江波山気象館",
           "type": "気象",
           "rank": "S",
-          "note": "気象観測と災害、測定機器を扱う。",
+          "note": "気象観測と災害、測定機器を扱う。\n狙い目：測定機器がどの現象を記録するのかを説明と照合する。日常の天候を観測値に置き換える仕組みが対象。",
           "official": "http://www.ebayama.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.ebayama.jp/"
         },
         {
           "prefecture": "広島県",
@@ -2159,12 +2323,13 @@ window.FACILITY_DATASET={
           "name": "広島市健康科学館",
           "type": "人体・健康科学",
           "rank": "B",
-          "note": "人体、医学、薬と産業の歴史を扱う。",
+          "note": "人体、医学、薬と産業の歴史を扱う。\n狙い目：研究や製造の道具と、人体・薬の説明を対応させて読む。専門的な内容を来館者へ伝える展示方法を見る。",
           "official": "http://www.kenkou.city.hiroshima.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E5%81%A5%E5%BA%B7%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kenkou.city.hiroshima.jp/"
         },
         {
           "prefecture": "香川県",
@@ -2172,12 +2337,13 @@ window.FACILITY_DATASET={
           "name": "さぬきこどもの国 スペースシアター",
           "type": "科学・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.sanuki.or.jp/guide/kidshouse/spacetheater.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%AC%E3%81%8D%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%20%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E3%81%95%E3%81%AC%E3%81%8D%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sanuki.or.jp/guide/kidshouse/spacetheater.html"
         },
         {
           "prefecture": "福岡県",
@@ -2185,12 +2351,13 @@ window.FACILITY_DATASET={
           "name": "福岡県青少年科学館",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "http://www.science.pref.fukuoka.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.science.pref.fukuoka.jp/"
         },
         {
           "prefecture": "福岡県",
@@ -2198,12 +2365,13 @@ window.FACILITY_DATASET={
           "name": "北九州市科学館 スペースLABO",
           "type": "科学館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://www.kitakyushuspacelabo.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9LABO%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kitakyushuspacelabo.jp/"
         },
         {
           "prefecture": "佐賀県",
@@ -2211,12 +2379,13 @@ window.FACILITY_DATASET={
           "name": "佐賀県立宇宙科学館 ゆめぎんが",
           "type": "宇宙・科学",
           "rank": "B",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.yumeginga.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E7%AB%8B%E5%AE%87%E5%AE%99%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%86%E3%82%81%E3%81%8E%E3%82%93%E3%81%8C%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E6%AD%A6%E9%9B%84%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.yumeginga.jp/"
         },
         {
           "prefecture": "長崎県",
@@ -2224,12 +2393,13 @@ window.FACILITY_DATASET={
           "name": "長崎市科学館",
           "type": "科学・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.nagasaki-kagakukan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E9%95%B7%E5%B4%8E%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.nagasaki-kagakukan.jp/"
         },
         {
           "prefecture": "東京都",
@@ -2237,12 +2407,13 @@ window.FACILITY_DATASET={
           "name": "水元公園 水辺の生きもの館",
           "type": "自然観察",
           "rank": "B",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.tokyo-park.or.jp/park/format/facilities041.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E5%85%83%E5%85%AC%E5%9C%92%20%E6%B0%B4%E8%BE%BA%E3%81%AE%E7%94%9F%E3%81%8D%E3%82%82%E3%81%AE%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%91%9B%E9%A3%BE%E5%8C%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.tokyo-park.or.jp/park/format/facilities041.html"
         },
         {
           "prefecture": "東京都",
@@ -2250,12 +2421,13 @@ window.FACILITY_DATASET={
           "name": "小平市ふれあい下水道館",
           "type": "下水道・インフラ",
           "rank": "S",
-          "note": "水処理・供給設備と都市インフラの仕組みを扱う。",
+          "note": "水処理・供給設備と都市インフラの仕組みを扱う。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B9%B3%E5%B8%82%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html"
         },
         {
           "prefecture": "東京都",
@@ -2263,12 +2435,13 @@ window.FACILITY_DATASET={
           "name": "目黒寄生虫館",
           "type": "寄生虫・生物",
           "rank": "S",
-          "note": "寄生生物の標本と生活史を扱う。",
+          "note": "寄生生物の標本と生活史を扱う。\n狙い目：標本の見せ方と説明の組み合わせを見る。小さな生物を読み解くための観覧距離と展示の密度が対象。",
           "official": "https://www.kiseichu.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%AF%84%E7%94%9F%E8%99%AB%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kiseichu.org/"
         },
         {
           "prefecture": "東京都",
@@ -2276,12 +2449,13 @@ window.FACILITY_DATASET={
           "name": "IHIものづくり館 i-muse",
           "type": "産業技術",
           "rank": "C",
-          "note": "航空・船舶・産業機械の構造と技術史を扱う。",
+          "note": "航空・船舶・産業機械の構造と技術史を扱う。\n狙い目：機械の構造と用途の説明を対応させて見る。部品や模型が技術の大きさをどう伝えるかが対象。",
           "official": "http://www.ihi.co.jp/i-muse/",
           "maps": "https://www.google.com/maps/search/?api=1&query=IHI%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E9%A4%A8%20i-muse%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.ihi.co.jp/i-muse/"
         },
         {
           "prefecture": "青森県",
@@ -2289,12 +2463,13 @@ window.FACILITY_DATASET={
           "name": "八戸市水産科学館マリエント",
           "type": "海洋・水産",
           "rank": "B",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "地域の海・川に生息する生物と水環境を扱う。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%B8%82%E6%B0%B4%E7%94%A3%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%83%9E%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%85%AB%E6%88%B8%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -2302,12 +2477,13 @@ window.FACILITY_DATASET={
           "name": "東京海洋大学マリンサイエンスミュージアム",
           "type": "海洋・大学",
           "rank": "A",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "地域の海・川に生息する生物と水環境を扱う。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://www.s.kaiyodai.ac.jp/msm/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6%E3%83%9E%E3%83%AA%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.s.kaiyodai.ac.jp/msm/index.html"
         },
         {
           "prefecture": "北海道",
@@ -2315,12 +2491,13 @@ window.FACILITY_DATASET={
           "name": "北網圏北見文化センター",
           "type": "科学館・児童科学館",
           "rank": "S",
-          "note": "科学館・博物館・美術館・プラネタリウム複合施設 開館年：1984年。",
+          "note": "科学館・博物館・美術館・プラネタリウム複合施設 開館年：1984年。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
           "official": "https://hokumouken.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E7%B6%B2%E5%9C%8F%E5%8C%97%E8%A6%8B%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E8%A6%8B%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://hokumouken.com/"
         },
         {
           "prefecture": "京都府",
@@ -2328,12 +2505,13 @@ window.FACILITY_DATASET={
           "name": "京都市青少年科学センター",
           "type": "科学館・児童科学館",
           "rank": "S",
-          "note": "1960年代開館の青少年科学センター 開館年：1969年。",
+          "note": "1960年代開館の青少年科学センター 開館年：1969年。\n狙い目：開館時期と現在の展示を分けて見たい。科学を学ぶ施設が、来館者にどんな順番で内容を見せるかを観察する。",
           "official": "http://www.edu.city.kyoto.jp/science/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.edu.city.kyoto.jp/science/"
         },
         {
           "prefecture": "京都府",
@@ -2341,12 +2519,13 @@ window.FACILITY_DATASET={
           "name": "福知山市児童科学館",
           "type": "科学館・児童科学館",
           "rank": "S",
-          "note": "地方児童科学館",
+          "note": "地方児童科学館。\n狙い目：子ども向けの科学館として、説明の言葉と展示物を見る距離に注目。小規模な館内での見せ方を読む。",
           "official": "https://www.sandanike-kouen.or.jp/science-museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%E5%85%90%E7%AB%A5%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sandanike-kouen.or.jp/science-museum/"
         },
         {
           "prefecture": "岐阜県",
@@ -2354,12 +2533,13 @@ window.FACILITY_DATASET={
           "name": "岐阜市科学館",
           "type": "科学館・児童科学館",
           "rank": "S",
-          "note": "前身は1955年。児童科学館の古い系譜 開館年：1980年。",
+          "note": "前身は1955年。児童科学館の古い系譜 開館年：1980年。\n狙い目：前身施設から続く科学教育の場として、現在の展示の構成を見る。沿革の古さをそのまま設備の古さとは捉えない。",
           "official": "https://www.city.gifu.lg.jp/kankoubunka/kagakukan/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%B2%90%E9%98%9C%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.gifu.lg.jp/kankoubunka/kagakukan/index.html"
         },
         {
           "prefecture": "兵庫県",
@@ -2367,12 +2547,13 @@ window.FACILITY_DATASET={
           "name": "伊丹市立こども文化科学館",
           "type": "科学館・児童科学館",
           "rank": "S",
-          "note": "平成初期型の公共科学施設 開館年：1990年。",
+          "note": "平成初期型の公共科学施設 開館年：1990年。\n狙い目：文化と科学を扱う公共施設として、館内案内と来館者の移動経路を見たい。開館年代と現状の意匠を分けて観察する。",
           "official": "https://www.city.itami.lg.jp/SOSIKI/KODOMO/kodomobunka_kagakukan/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E4%B8%B9%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E6%96%87%E5%8C%96%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E4%BC%8A%E4%B8%B9%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.itami.lg.jp/SOSIKI/KODOMO/kodomobunka_kagakukan/index.html"
         },
         {
           "prefecture": "兵庫県",
@@ -2380,12 +2561,13 @@ window.FACILITY_DATASET={
           "name": "加古川総合文化センター",
           "type": "文化センター・公共施設",
           "rank": "S",
-          "note": "文化施設と科学・宇宙展示の複合 開館年：1985年。",
+          "note": "文化施設と科学・宇宙展示の複合 開館年：1985年。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
           "official": "https://www.kakogawa-sougoubunka.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8A%A0%E5%8F%A4%E5%B7%9D%E7%B7%8F%E5%90%88%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kakogawa-sougoubunka.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -2393,12 +2575,13 @@ window.FACILITY_DATASET={
           "name": "東大阪市立児童文化スポーツセンター ドリーム21",
           "type": "科学館・児童科学館",
           "rank": "A",
-          "note": "平成初期型児童施設 開館年：1991年。",
+          "note": "平成初期型児童施設 開館年：1991年。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E5%85%90%E7%AB%A5%E6%96%87%E5%8C%96%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A021%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "大阪府",
@@ -2406,12 +2589,13 @@ window.FACILITY_DATASET={
           "name": "すばるホール",
           "type": "文化センター・公共施設",
           "rank": "A",
-          "note": "文化ホール＋プラネタリウム 開館年：1991年。",
+          "note": "文化ホール＋プラネタリウム 開館年：1991年。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
           "official": "http://subaruhall.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%B0%E3%82%8B%E3%83%9B%E3%83%BC%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%AF%8C%E7%94%B0%E6%9E%97%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://subaruhall.org/"
         },
         {
           "prefecture": "京都府",
@@ -2419,12 +2603,13 @@ window.FACILITY_DATASET={
           "name": "向日市天文館",
           "type": "天文台・プラネタリウム",
           "rank": "A",
-          "note": "小規模自治体天文館 開館年：1993年。",
+          "note": "小規模自治体天文館 開館年：1993年。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "https://www.city.muko.kyoto.jp/site/tenmonkan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%91%E6%97%A5%E5%B8%82%E5%A4%A9%E6%96%87%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E5%90%91%E6%97%A5%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.muko.kyoto.jp/site/tenmonkan/"
         },
         {
           "prefecture": "福岡県",
@@ -2432,12 +2617,13 @@ window.FACILITY_DATASET={
           "name": "大牟田文化会館",
           "type": "文化センター・公共施設",
           "rank": "A",
-          "note": "文化会館内プラネタリウム 開館年：1986年。",
+          "note": "文化会館内プラネタリウム 開館年：1986年。\n狙い目：文化会館の中でプラネタリウムがどのように位置付けられているかを見る。投影を観る場所と会館の共用部の切り替わりが対象。",
           "official": "https://omuta-bunka-kaikan.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%89%9F%E7%94%B0%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%A4%A7%E7%89%9F%E7%94%B0%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://omuta-bunka-kaikan.or.jp/"
         },
         {
           "prefecture": "福岡県",
@@ -2445,12 +2631,13 @@ window.FACILITY_DATASET={
           "name": "宗像ユリックス",
           "type": "文化センター・公共施設",
           "rank": "A",
-          "note": "平成初期の大型複合公共施設 開館年：1993年。",
+          "note": "平成初期の大型複合公共施設 開館年：1993年。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
           "official": "https://yurix.munakata.com/index.php",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%97%E5%83%8F%E3%83%A6%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%AE%97%E5%83%8F%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://yurix.munakata.com/index.php"
         },
         {
           "prefecture": "石川県",
@@ -2458,12 +2645,13 @@ window.FACILITY_DATASET={
           "name": "コスモアイル羽咋",
           "type": "宇宙・産業展示",
           "rank": "A",
-          "note": "地方都市の大型宇宙展示施設 開館年：1996年。",
+          "note": "地方都市の大型宇宙展示施設 開館年：1996年。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://www.hakui.ne.jp/ufo/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%A2%E3%82%A4%E3%83%AB%E7%BE%BD%E5%92%8B%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E7%BE%BD%E5%92%8B%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.hakui.ne.jp/ufo/?utm_source"
         },
         {
           "prefecture": "東京都",
@@ -2471,12 +2659,13 @@ window.FACILITY_DATASET={
           "name": "科学技術館",
           "type": "科学館・児童科学館",
           "rank": "A",
-          "note": "高度経済成長期の科学教育施設 開館年：1964年。",
+          "note": "高度経済成長期の科学教育施設 開館年：1964年。\n狙い目：科学教育を担ってきた施設として、現在の展示テーマと観覧順路をたどる。開館当時の沿革と現在の展示を区別して見る。",
           "official": "https://www.jsf.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.jsf.or.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -2484,12 +2673,13 @@ window.FACILITY_DATASET={
           "name": "大阪市立科学館",
           "type": "科学館・児童科学館",
           "rank": "B",
-          "note": "平成初期建築。改装あり 開館年：1989年。",
+          "note": "平成初期建築。改装あり 開館年：1989年。\n狙い目：改装後の展示と建築全体の関係を読む。現在の順路をたどり、科学の内容を見せる空間の構成を観察する。",
           "official": "https://www.sci-museum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
           "kind": "リミナル科学館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sci-museum.jp/"
         },
         {
           "prefecture": "東京都",
@@ -2497,12 +2687,13 @@ window.FACILITY_DATASET={
           "name": "東京都立第五福竜丸展示館",
           "type": "都立展示施設",
           "rank": "S",
-          "note": "独立展示館・大空間・船体展示。建物内部の空間体験が強い",
+          "note": "独立展示館・大空間・船体展示。建物内部の空間体験が強い。\n狙い目：船体全体が見える位置と近づいて細部を見る位置を比べる。実物の船を包む展示館の大きさが狙い目。",
           "official": "http://d5f.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%AC%AC%E4%BA%94%E7%A6%8F%E7%AB%9C%E4%B8%B8%E5%B1%95%E7%A4%BA%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://d5f.org/"
         },
         {
           "prefecture": "茨城県",
@@ -2510,12 +2701,13 @@ window.FACILITY_DATASET={
           "name": "地図と測量の科学館",
           "type": "国土地理院・展示施設",
           "rank": "A",
-          "note": "一般入館。国土地理院構内にある測量・地図の専門施設",
+          "note": "一般入館。国土地理院構内にある測量・地図の専門施設。\n狙い目：地図に表された土地と、それを測るための技術を対応させて読む。測量の結果を一般向けに伝える展示が対象。",
           "official": "http://www.gsi.go.jp/MUSEUM/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E5%9B%B3%E3%81%A8%E6%B8%AC%E9%87%8F%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.gsi.go.jp/MUSEUM/"
         },
         {
           "prefecture": "東京都",
@@ -2523,12 +2715,13 @@ window.FACILITY_DATASET={
           "name": "国立極地研究所 南極・北極科学館",
           "type": "国立研究機関・展示施設",
           "rank": "A",
-          "note": "一般入館。極地観測機器・雪上車などを収蔵する研究所系施設",
+          "note": "一般入館。極地観測機器・雪上車などを収蔵する研究所系施設。\n狙い目：探検・観測の記録と極地の環境を結び付けて読む。遠い場所での活動を室内展示に置き換える方法が対象。",
           "official": "http://www.nipr.ac.jp/science-museum",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E6%A5%B5%E5%9C%B0%E7%A0%94%E7%A9%B6%E6%89%80%20%E5%8D%97%E6%A5%B5%E3%83%BB%E5%8C%97%E6%A5%B5%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.nipr.ac.jp/science-museum"
         }
       ]
     },
@@ -2546,12 +2739,13 @@ window.FACILITY_DATASET={
           "name": "串本海中公園 海中展望塔",
           "type": "海中展望塔",
           "rank": "S",
-          "note": "沖合140m、水深6.3m。海底基地感が強い。",
+          "note": "沖合140m、水深6.3m。海底基地感が強い。\n狙い目：海上から海中へ視点が下がる過程と、観察窓の向こうの自然の海が狙い目。水槽展示とは異なる光や見通しを比べたい。",
           "official": "https://www.kushimoto.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B2%E6%9C%AC%E6%B5%B7%E4%B8%AD%E5%85%AC%E5%9C%92%20%E6%B5%B7%E4%B8%AD%E5%B1%95%E6%9C%9B%E5%A1%94%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E6%9D%B1%E7%89%9F%E5%A9%81%E9%83%A1%E4%B8%B2%E6%9C%AC%E7%94%BA%E6%9C%89%E7%94%B01157",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kushimoto.co.jp/"
         },
         {
           "prefecture": "千葉県",
@@ -2559,12 +2753,13 @@ window.FACILITY_DATASET={
           "name": "かつうら海中公園 海中展望塔",
           "type": "海中展望塔",
           "rank": "S",
-          "note": "海中まで降りる展望塔。東京から比較的行きやすい。",
+          "note": "海中まで降りる展望塔。東京から比較的行きやすい。\n狙い目：海上の風景から海中の観察空間へ降りる切り替わりを見る。海況によって窓の外の見え方が変わる施設として捉える。",
           "official": "http://www.katsuura.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%81%A4%E3%81%86%E3%82%89%E6%B5%B7%E4%B8%AD%E5%85%AC%E5%9C%92%20%E6%B5%B7%E4%B8%AD%E5%B1%95%E6%9C%9B%E5%A1%94%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%8B%9D%E6%B5%A6%E5%B8%82%E5%90%89%E5%B0%BE174",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.katsuura.org/"
         },
         {
           "prefecture": "沖縄県",
@@ -2572,12 +2767,13 @@ window.FACILITY_DATASET={
           "name": "ブセナ海中公園 海中展望塔",
           "type": "海中展望塔",
           "rank": "S",
-          "note": "海上桟橋と海中観察窓。",
+          "note": "海上桟橋と海中観察窓。\n狙い目：桟橋を進む開放的な視界と、海中観察窓の限られた視界を対比して見たい。",
           "official": "https://www.busena-marinepark.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%96%E3%82%BB%E3%83%8A%E6%B5%B7%E4%B8%AD%E5%85%AC%E5%9C%92%20%E6%B5%B7%E4%B8%AD%E5%B1%95%E6%9C%9B%E5%A1%94%20%E6%B2%96%E7%B8%84%E7%9C%8C%E5%90%8D%E8%AD%B7%E5%B8%82%E5%96%9C%E7%80%AC1744-1",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.busena-marinepark.com/"
         },
         {
           "prefecture": "佐賀県",
@@ -2585,12 +2781,13 @@ window.FACILITY_DATASET={
           "name": "玄海海中展望塔",
           "type": "海中展望塔",
           "rank": "S",
-          "note": "地方観光施設感が濃い。",
+          "note": "地方観光施設感が濃い。\n狙い目：海中展望塔という観光施設として、陸側の入口から観察空間へ移る経路を見る。外の海と建築内部の境目が対象。",
           "official": "https://hadomisaki.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%8E%84%E6%B5%B7%E6%B5%B7%E4%B8%AD%E5%B1%95%E6%9C%9B%E5%A1%94%20%E4%BD%90%E8%B3%80%E7%9C%8C%E5%94%90%E6%B4%A5%E5%B8%82%E9%8E%AE%E8%A5%BF%E7%94%BA%E6%B3%A2%E6%88%B81628-1",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://hadomisaki.jp/"
         },
         {
           "prefecture": "静岡県",
@@ -2598,12 +2795,13 @@ window.FACILITY_DATASET={
           "name": "下田海中水族館",
           "type": "水族館",
           "rank": "S",
-          "note": "自然の入り江と浮遊型アクアドーム。",
+          "note": "自然の入り江と浮遊型アクアドーム。\n狙い目：入り江の自然の水面とアクアドームの人工的な囲いを比べたい。水上に展示空間が置かれる構成に注目。",
           "official": "https://shimoda-aquarium.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8B%E7%94%B0%E6%B5%B7%E4%B8%AD%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%E4%B8%8B%E7%94%B0%E5%B8%823-22-31",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shimoda-aquarium.com/"
         },
         {
           "prefecture": "富山県",
@@ -2611,12 +2809,13 @@ window.FACILITY_DATASET={
           "name": "魚津水族館",
           "type": "水族館",
           "rank": "S",
-          "note": "地方博物館型の古い水族館系譜。",
+          "note": "地方博物館型の古い水族館系譜。\n狙い目：展示をたどり、地方の水族館として水生生物をどう分類して見せているかを見る。生物と説明表示の関係も対象。",
           "official": "http://www.uozu-aquarium.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AD%9A%E6%B4%A5%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%E9%AD%9A%E6%B4%A5%E5%B8%82%E4%B8%89%E3%82%B11390",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.uozu-aquarium.jp/"
         },
         {
           "prefecture": "北海道",
@@ -2624,12 +2823,13 @@ window.FACILITY_DATASET={
           "name": "おたる水族館",
           "type": "水族館",
           "rank": "S",
-          "note": "昭和観光施設の系譜。",
+          "note": "昭和観光施設の系譜。\n狙い目：海辺の観光施設として敷地と展示の位置関係を見たい。古さは現存する意匠を観察し、施設の沿革と区別する。",
           "official": "http://otaru-aq.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%81%9F%E3%82%8B%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%B0%8F%E6%A8%BD%E5%B8%82%E7%A5%9D%E6%B4%A53-303",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://otaru-aq.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -2637,12 +2837,13 @@ window.FACILITY_DATASET={
           "name": "姫路市立水族館",
           "type": "水族館",
           "rank": "S",
-          "note": "市立公共施設型。",
+          "note": "市立公共施設型。\n狙い目：市立施設としての解説と水槽展示の構成を読む。水槽の前で立ち止まる場所と回遊経路の関係を見る。",
           "official": "https://www.city.himeji.lg.jp/aqua/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A7%AB%E8%B7%AF%E5%B8%82%E7%AB%8B%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%A7%AB%E8%B7%AF%E5%B8%82%E8%A5%BF%E5%BB%B6%E6%9C%AB440",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.himeji.lg.jp/aqua/"
         },
         {
           "prefecture": "静岡県",
@@ -2650,12 +2851,13 @@ window.FACILITY_DATASET={
           "name": "伊豆・三津シーパラダイス",
           "type": "水族館",
           "rank": "S",
-          "note": "老舗の海辺レジャー水族館。",
+          "note": "老舗の海辺レジャー水族館。\n狙い目：海辺の立地と水族展示のつながりが対象。海を眺める視線と生物を近くで見る視線を切り替えたい。",
           "official": "https://www.mitosea.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E8%B1%86%E3%83%BB%E4%B8%89%E6%B4%A5%E3%82%B7%E3%83%BC%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9%20%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%B2%BC%E6%B4%A5%E5%B8%82%E5%86%85%E6%B5%A6%E9%95%B7%E6%B5%9C3-1",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.mitosea.com/"
         },
         {
           "prefecture": "福井県",
@@ -2663,12 +2865,13 @@ window.FACILITY_DATASET={
           "name": "越前松島水族館",
           "type": "水族館",
           "rank": "S",
-          "note": "海岸沿いに施設が分散。",
+          "note": "海岸沿いに施設が分散。\n狙い目：分散した施設間を歩く移動も対象。海岸の開放感と個々の展示空間の囲われ方を比べる。",
           "official": "http://www.echizen-aquarium.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%8A%E5%89%8D%E6%9D%BE%E5%B3%B6%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E7%A6%8F%E4%BA%95%E7%9C%8C%E5%9D%82%E4%BA%95%E5%B8%82%E4%B8%89%E5%9B%BD%E7%94%BA%E5%B4%8E74-2-3",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.echizen-aquarium.com/"
         },
         {
           "prefecture": "高知県",
@@ -2676,12 +2879,13 @@ window.FACILITY_DATASET={
           "name": "桂浜水族館",
           "type": "水族館",
           "rank": "A",
-          "note": "海辺の小規模観光水族館。",
+          "note": "海辺の小規模観光水族館。\n狙い目：海岸の景観と小さな水族展示の近さに注目。短い移動の中で屋外と展示空間が切り替わる構成を見る。",
           "official": "http://katurahama-aq.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%82%E6%B5%9C%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%9F%A5%E5%B8%82%E6%B5%A6%E6%88%B8778",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://katurahama-aq.jp/"
         },
         {
           "prefecture": "新潟県",
@@ -2689,12 +2893,13 @@ window.FACILITY_DATASET={
           "name": "寺泊水族博物館",
           "type": "水族館",
           "rank": "A",
-          "note": "水族博物館型。",
+          "note": "水族博物館型。\n狙い目：水生生物の展示と博物館的な解説の関係を見る。地域の海をどのような順序で紹介するかを追いたい。",
           "official": "http://www.aquarium-teradomari.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%BA%E6%B3%8A%E6%B0%B4%E6%97%8F%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%96%B0%E6%BD%9F%E7%9C%8C%E9%95%B7%E5%B2%A1%E5%B8%82%E5%AF%BA%E6%B3%8A%E8%8A%B1%E7%AB%8B9353-158",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.aquarium-teradomari.jp/"
         },
         {
           "prefecture": "長野県",
@@ -2702,12 +2907,13 @@ window.FACILITY_DATASET={
           "name": "蓼科アミューズメント水族館",
           "type": "水族館",
           "rank": "S",
-          "note": "山中にある水族館という異物感。",
+          "note": "山中にある水族館という異物感。\n狙い目：山中の周辺景観と水族展示の対比が対象。海辺ではない場所で水中環境をつくる構成として見る。",
           "official": "http://tateshina-aquarium.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%93%BC%E7%A7%91%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%E8%8C%85%E9%87%8E%E5%B8%82%E5%8C%97%E5%B1%B14035-2409",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://tateshina-aquarium.jp/"
         },
         {
           "prefecture": "北海道",
@@ -2715,12 +2921,13 @@ window.FACILITY_DATASET={
           "name": "登別マリンパークニクス",
           "type": "水族館",
           "rank": "A",
-          "note": "1990年代テーマパーク型。",
+          "note": "1990年代テーマパーク型。\n狙い目：テーマパークとしての演出と水族展示の接続を見たい。施設全体の景観と個々の観覧空間を比べる。",
           "official": "https://www.nixe.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%99%BB%E5%88%A5%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8B%E3%82%AF%E3%82%B9%20%E5%8C%97%E6%B5%B7%E9%81%93%E7%99%BB%E5%88%A5%E5%B8%82%E7%99%BB%E5%88%A5%E6%9D%B1%E7%94%BA1-22",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.nixe.co.jp/"
         },
         {
           "prefecture": "千葉県",
@@ -2728,12 +2935,13 @@ window.FACILITY_DATASET={
           "name": "鴨川シーワールド",
           "type": "水族館",
           "rank": "B",
-          "note": "大型海辺レジャー施設。",
+          "note": "大型海辺レジャー施設。\n狙い目：海沿いに展開する大規模施設として、展示間の距離と屋内外の移動を観察する。",
           "official": "http://www.kamogawa-seaworld.jp/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B4%A8%E5%B7%9D%E3%82%B7%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E5%8D%83%E8%91%89%E7%9C%8C%E9%B4%A8%E5%B7%9D%E5%B8%82%E6%9D%B1%E7%94%BA1464-18",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kamogawa-seaworld.jp/?utm_source"
         },
         {
           "prefecture": "東京都",
@@ -2741,12 +2949,13 @@ window.FACILITY_DATASET={
           "name": "しながわ水族館",
           "type": "水族館",
           "rank": "A",
-          "note": "1991年型の都市公園水族館。",
+          "note": "1991年型の都市公園水族館。\n狙い目：都市公園から水族館へ入る際の景観の変化を見る。公園の散策と水槽の観覧がつながる立地が対象。",
           "official": "http://www.aquarium.gr.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%97%E3%81%AA%E3%81%8C%E3%82%8F%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8B%9D%E5%B3%B63-2-1",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.aquarium.gr.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -2754,12 +2963,13 @@ window.FACILITY_DATASET={
           "name": "横浜・八景島シーパラダイス",
           "type": "水族館・遊園地",
           "rank": "A",
-          "note": "1993年大型複合施設。",
+          "note": "1993年大型複合施設。\n狙い目：複数の施設を巡る動線と水族展示への出入りが対象。島の広がりと屋内の観覧経路を対比する。",
           "official": "https://www.seaparadise.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%83%BB%E5%85%AB%E6%99%AF%E5%B3%B6%E3%82%B7%E3%83%BC%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E5%85%AB%E6%99%AF%E5%B3%B6",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.seaparadise.co.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -2767,12 +2977,13 @@ window.FACILITY_DATASET={
           "name": "海遊館",
           "type": "水族館",
           "rank": "B",
-          "note": "1990年型の暗い回廊と巨大水槽。",
+          "note": "1990年型の暗い回廊と巨大水槽。\n狙い目：暗い回廊から大水槽を見る視線に注目。通路の囲われ方と水槽の大きさの差が狙い目。",
           "official": "https://www.kaiyukan.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E9%81%8A%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B8%AF%E5%8C%BA%E6%B5%B7%E5%B2%B8%E9%80%9A1-1-10",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kaiyukan.com/"
         },
         {
           "prefecture": "和歌山県",
@@ -2780,12 +2991,13 @@ window.FACILITY_DATASET={
           "name": "串本海中公園",
           "type": "海中公園・水族館",
           "rank": "S",
-          "note": "水族館＋海中展望塔＋観光船。",
+          "note": "水族館＋海中展望塔＋観光船。\n狙い目：水槽・海中展望塔・観光船という異なる観察方法を比べたい。人工水槽で見る海と自然の海を直接見る体験の違いが対象。",
           "official": "https://www.kushimoto.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B2%E6%9C%AC%E6%B5%B7%E4%B8%AD%E5%85%AC%E5%9C%92%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E6%9D%B1%E7%89%9F%E5%A9%81%E9%83%A1%E4%B8%B2%E6%9C%AC%E7%94%BA%E6%9C%89%E7%94%B01157",
           "kind": "水族館・海中施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kushimoto.co.jp/"
         },
         {
           "prefecture": "北海道",
@@ -2793,12 +3005,13 @@ window.FACILITY_DATASET={
           "name": "サケのふるさと千歳水族館",
           "type": "水生生物",
           "rank": "B",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "サケの仲間と北海道の淡水魚を中心とする水族館。千歳川の中を直接見る「水中観察ゾーン」があり、水槽展示と自然の川を同じ施設で見比べられる。\n狙い目：室内の観察窓を境に、管理された展示空間と流れる川が接する構成。",
           "official": "https://chitose-aq.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%82%B1%E3%81%AE%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E5%8D%83%E6%AD%B3%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8D%83%E6%AD%B3%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://chitose-aq.jp/\n公式資料：https://chitose-aq.jp/archives/26574.html"
         },
         {
           "prefecture": "山形県",
@@ -2806,12 +3019,13 @@ window.FACILITY_DATASET={
           "name": "鶴岡市立加茂水族館",
           "type": "海洋生物",
           "rank": "B",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "庄内の川・池・海の生物と、クラゲを扱う水族館。「クラネタリウム」「クラゲドリームシアター」などの展示区画がある。\n狙い目：地域の水環境を紹介する展示からクラゲの観覧空間へ進む際の、光と見せ方の切り替わり。",
           "official": "https://kamo-kurage.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B6%B4%E5%B2%A1%E5%B8%82%E7%AB%8B%E5%8A%A0%E8%8C%82%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E5%B1%B1%E5%BD%A2%E7%9C%8C%20%E9%B6%B4%E5%B2%A1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://kamo-kurage.jp/\n公式資料：https://kamo-kurage.jp/wp/wp-content/uploads/2026/04/pamphlet_J_2026.pdf"
         },
         {
           "prefecture": "福島県",
@@ -2819,12 +3033,13 @@ window.FACILITY_DATASET={
           "name": "アクアマリンふくしま",
           "type": "海洋科学",
           "rank": "B",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "福島県沖で黒潮と親潮が出会う「潮目」をテーマにする水族館。「潮目の海」では二つの大水槽と三角形のトンネルで海流の境目を表している。\n狙い目：トンネルから両側の水槽を見る構図と、水槽の規模に対する観覧通路の大きさ。",
           "official": "https://www.aquamarine.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%9E%E3%83%AA%E3%83%B3%E3%81%B5%E3%81%8F%E3%81%97%E3%81%BE%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.aquamarine.or.jp/\n公式資料：https://www.aquamarine.or.jp/exhibitions/sea-of-current-rip/"
         },
         {
           "prefecture": "和歌山県",
@@ -2832,12 +3047,13 @@ window.FACILITY_DATASET={
           "name": "京都大学白浜水族館",
           "type": "海洋生物",
           "rank": "A",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "地域の海・川に生息する生物と水環境を扱う。\n狙い目：大学の水族館として、展示の分類と解説の関係を見る。観光施設型の演出とは別に、研究と公開展示の接点を読みたい。",
           "official": "https://www.seto.kyoto-u.ac.jp/shirahama_aqua/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%99%BD%E6%B5%9C%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E7%99%BD%E6%B5%9C%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.seto.kyoto-u.ac.jp/shirahama_aqua/"
         },
         {
           "prefecture": "高知県",
@@ -2845,12 +3061,13 @@ window.FACILITY_DATASET={
           "name": "むろと廃校水族館",
           "type": "海洋生物",
           "rank": "B",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "旧椎名小学校を改修した水族館。屋外プールと校舎内の水槽で、地元の定置網にかかった魚やウミガメを展示する。\n狙い目：学校のために造られた校舎・プールを水族展示に使い替えた部分。元の用途と現在の使い方の重なりを見たい。",
           "official": "https://www.city.muroto.kochi.jp/pages/page0343.php",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%80%E3%82%8D%E3%81%A8%E5%BB%83%E6%A0%A1%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E5%AE%A4%E6%88%B8%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.muroto.kochi.jp/pages/page0343.php"
         },
         {
           "prefecture": "沖縄県",
@@ -2858,12 +3075,13 @@ window.FACILITY_DATASET={
           "name": "沖縄美ら海水族館",
           "type": "海洋生物",
           "rank": "B",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "地域の海・川に生息する生物と水環境を扱う。\n狙い目：水槽の大きさと観客側の空間の関係を見る。見る位置を変えたときの水中の奥行きが観察点。",
           "official": "https://churaumi.okinawa/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%BE%8E%E3%82%89%E6%B5%B7%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E6%9C%AC%E9%83%A8%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://churaumi.okinawa/"
         },
         {
           "prefecture": "東京都",
@@ -2871,12 +3089,13 @@ window.FACILITY_DATASET={
           "name": "多摩川ふれあい水族館",
           "type": "下水道・淡水魚",
           "rank": "S",
-          "note": "水処理・供給設備と都市インフラの仕組みを扱う。",
+          "note": "水処理・供給設備と都市インフラの仕組みを扱う。\n狙い目：水処理施設に関係する展示として、地域の水環境と生物の説明をつなげて読みたい。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/s-fureai/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%9A%E6%91%A9%E5%B7%9D%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%98%AD%E5%B3%B6%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/s-fureai/index.html"
         },
         {
           "prefecture": "東京都",
@@ -2884,12 +3103,13 @@ window.FACILITY_DATASET={
           "name": "板橋区立熱帯環境植物館",
           "type": "植物・水生生物",
           "rank": "B",
-          "note": "植物、生態系、人工環境での育成を扱う。",
+          "note": "植物、生態系、人工環境での育成を扱う。\n狙い目：地下の水族展示と温室を行き来し、屋内に異なる生育環境をつくる構成を比べたい。",
           "official": "http://www.seibu-la.co.jp/nettaikan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E7%86%B1%E5%B8%AF%E7%92%B0%E5%A2%83%E6%A4%8D%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.seibu-la.co.jp/nettaikan/"
         }
       ]
     },
@@ -2907,12 +3127,13 @@ window.FACILITY_DATASET={
           "name": "愛媛県総合科学博物館 植物関連展示・周辺施設",
           "type": "博物館・自然施設",
           "rank": "B",
-          "note": "植物園そのものではないが巨大公共建築好き向け",
+          "note": "植物園そのものではないが巨大公共建築好き向け。\n狙い目：個々の建物より、建物間を移動する距離と敷地の使い方を見たい。周辺を含めた公共施設の配置が対象。",
           "official": "https://www.i-kahaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E7%B7%8F%E5%90%88%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%A4%8D%E7%89%A9%E9%96%A2%E9%80%A3%E5%B1%95%E7%A4%BA%E3%83%BB%E5%91%A8%E8%BE%BA%E6%96%BD%E8%A8%AD%20%E6%96%B0%E5%B1%85%E6%B5%9C%E5%B8%82%20%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.i-kahaku.jp/"
         },
         {
           "prefecture": "北海道",
@@ -2920,12 +3141,13 @@ window.FACILITY_DATASET={
           "name": "北網圏北見文化センター",
           "type": "科学・博物館",
           "rank": "B",
-          "note": "身近な物理現象と体験型科学展示を扱う。",
+          "note": "身近な物理現象と体験型科学展示を扱う。\n狙い目：体験装置を操作する前後で現象がどう変わるかを見たい。仕組みを説明する表示と装置の配置を合わせて観察する。",
           "official": "https://hokumouken.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E7%B6%B2%E5%9C%8F%E5%8C%97%E8%A6%8B%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E8%A6%8B%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://hokumouken.com/"
         },
         {
           "prefecture": "北海道",
@@ -2933,12 +3155,13 @@ window.FACILITY_DATASET={
           "name": "帯広百年記念館",
           "type": "自然・博物館",
           "rank": "B",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://museum-obihiro.jp/occm/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B8%AF%E5%BA%83%E7%99%BE%E5%B9%B4%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%B8%AF%E5%BA%83%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://museum-obihiro.jp/occm/"
         },
         {
           "prefecture": "北海道",
@@ -2946,12 +3169,13 @@ window.FACILITY_DATASET={
           "name": "釧路市立博物館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.city.kushiro.lg.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%A7%E8%B7%AF%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.kushiro.lg.jp/museum/"
         },
         {
           "prefecture": "北海道",
@@ -2959,12 +3183,13 @@ window.FACILITY_DATASET={
           "name": "斜里町立知床博物館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://shiretoko-museum.jpn.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%9C%E9%87%8C%E7%94%BA%E7%AB%8B%E7%9F%A5%E5%BA%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%96%9C%E9%87%8C%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shiretoko-museum.jpn.org/"
         },
         {
           "prefecture": "北海道",
@@ -2972,12 +3197,13 @@ window.FACILITY_DATASET={
           "name": "標茶町博物館 ニタイ・ト",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.sip.or.jp/~shibecha-museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%99%E8%8C%B6%E7%94%BA%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E3%83%8B%E3%82%BF%E3%82%A4%E3%83%BB%E3%83%88%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%A8%99%E8%8C%B6%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.sip.or.jp/~shibecha-museum/"
         },
         {
           "prefecture": "北海道",
@@ -2985,12 +3211,13 @@ window.FACILITY_DATASET={
           "name": "日高山脈博物館",
           "type": "地質・自然",
           "rank": "A",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://www.town.hidaka.hokkaido.jp/site/hmc/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E9%AB%98%E5%B1%B1%E8%84%88%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%A5%E9%AB%98%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.town.hidaka.hokkaido.jp/site/hmc/"
         },
         {
           "prefecture": "北海道",
@@ -2998,12 +3225,13 @@ window.FACILITY_DATASET={
           "name": "穂別博物館",
           "type": "化石・恐竜",
           "rank": "A",
-          "note": "地域で見つかった恐竜・古生物資料を扱う。",
+          "note": "地域で見つかった恐竜・古生物資料を扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "http://www.town.mukawa.lg.jp/1908.htm",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A9%82%E5%88%A5%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E3%82%80%E3%81%8B%E3%82%8F%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.town.mukawa.lg.jp/1908.htm"
         },
         {
           "prefecture": "北海道",
@@ -3011,12 +3239,13 @@ window.FACILITY_DATASET={
           "name": "三笠市立博物館",
           "type": "化石・地質",
           "rank": "A",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://www.city.mikasa.hokkaido.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E7%AC%A0%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E4%B8%89%E7%AC%A0%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.mikasa.hokkaido.jp/museum/"
         },
         {
           "prefecture": "北海道",
@@ -3024,12 +3253,13 @@ window.FACILITY_DATASET={
           "name": "厚岸町海事記念館",
           "type": "海事・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "厚岸の海と町の人々との関わりを後世に伝えるために設けられた記念館。役場庁舎前に立地する。\n狙い目：港町の暮らしを海事資料から読む展示の構成と、町の行政拠点との位置関係。",
           "official": "http://edu.town.akkeshi.hokkaido.jp/kaiji/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8E%9A%E5%B2%B8%E7%94%BA%E6%B5%B7%E4%BA%8B%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8E%9A%E5%B2%B8%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://edu.town.akkeshi.hokkaido.jp/kaiji/\n公式資料：https://www.akkeshi-town.jp/file/contents/2778/31216/all-1.pdf"
         },
         {
           "prefecture": "北海道",
@@ -3037,12 +3267,13 @@ window.FACILITY_DATASET={
           "name": "オホーツクミュージアムえさし",
           "type": "自然・考古",
           "rank": "B",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.esashi.jp/tourism/guide/museum.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%9B%E3%83%BC%E3%83%84%E3%82%AF%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%E3%81%88%E3%81%95%E3%81%97%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9E%9D%E5%B9%B8%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.esashi.jp/tourism/guide/museum.html"
         },
         {
           "prefecture": "北海道",
@@ -3050,12 +3281,13 @@ window.FACILITY_DATASET={
           "name": "利尻町立博物館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.town.rishiri.hokkaido.jp/rishiri/1060.htm",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%A9%E5%B0%BB%E7%94%BA%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%88%A9%E5%B0%BB%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.town.rishiri.hokkaido.jp/rishiri/1060.htm"
         },
         {
           "prefecture": "北海道",
@@ -3063,12 +3295,13 @@ window.FACILITY_DATASET={
           "name": "根室市歴史と自然の資料館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%B9%E5%AE%A4%E5%B8%82%E6%AD%B4%E5%8F%B2%E3%81%A8%E8%87%AA%E7%84%B6%E3%81%AE%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%A0%B9%E5%AE%A4%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/index.html"
         },
         {
           "prefecture": "北海道",
@@ -3076,12 +3309,13 @@ window.FACILITY_DATASET={
           "name": "夕張市石炭博物館",
           "type": "産業・鉱業",
           "rank": "S",
-          "note": "採掘・資源産業の歴史と機械を扱う。",
+          "note": "採掘・資源産業の歴史と機械を扱う。\n狙い目：資源を掘り出す工程と機械の役割をつなげて読む。地中の作業を室内でどう見せるかに注目。",
           "official": "https://coal-yubari.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%95%E5%BC%B5%E5%B8%82%E7%9F%B3%E7%82%AD%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%A4%95%E5%BC%B5%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://coal-yubari.jp/"
         },
         {
           "prefecture": "岩手県",
@@ -3089,12 +3323,13 @@ window.FACILITY_DATASET={
           "name": "牛の博物館",
           "type": "畜産・自然",
           "rank": "B",
-          "note": "地域の生物、生態、保全活動を扱う。",
+          "note": "ウシの世界を生物学と人文科学の両面から紹介する専門博物館。動物としてのウシと、人との関係を合わせて扱う。\n狙い目：一つの動物を軸に自然科学と暮らしの歴史がつながる展示の組み立て。",
           "official": "https://www.city.oshu.iwate.jp/section/ushi/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%89%9B%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A5%A5%E5%B7%9E%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.oshu.iwate.jp/section/ushi/"
         },
         {
           "prefecture": "岩手県",
@@ -3102,12 +3337,13 @@ window.FACILITY_DATASET={
           "name": "久慈琥珀博物館",
           "type": "地質・琥珀",
           "rank": "S",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "http://www.kuji.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B9%85%E6%85%88%E7%90%A5%E7%8F%80%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E4%B9%85%E6%85%88%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kuji.co.jp/"
         },
         {
           "prefecture": "岩手県",
@@ -3115,12 +3351,13 @@ window.FACILITY_DATASET={
           "name": "大船渡市立博物館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%88%B9%E6%B8%A1%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A4%A7%E8%88%B9%E6%B8%A1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "岩手県",
@@ -3128,12 +3365,13 @@ window.FACILITY_DATASET={
           "name": "陸前高田市立博物館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.city.rikuzentakata.iwate.jp/soshiki/kyouikusoumuka/hakubutsukan/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.rikuzentakata.iwate.jp/soshiki/kyouikusoumuka/hakubutsukan/index.html"
         },
         {
           "prefecture": "秋田県",
@@ -3141,12 +3379,13 @@ window.FACILITY_DATASET={
           "name": "秋田大学大学院国際資源学研究科附属鉱業博物館",
           "type": "鉱物・鉱業",
           "rank": "S",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://www.mus.akita-u.ac.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%9B%BD%E9%9A%9B%E8%B3%87%E6%BA%90%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91%E9%99%84%E5%B1%9E%E9%89%B1%E6%A5%AD%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%A7%8B%E7%94%B0%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.mus.akita-u.ac.jp/"
         },
         {
           "prefecture": "秋田県",
@@ -3154,12 +3393,13 @@ window.FACILITY_DATASET={
           "name": "白瀬南極探検隊記念館",
           "type": "極地・探検",
           "rank": "S",
-          "note": "南極探検、観測隊、極地環境を扱う。",
+          "note": "南極探検、観測隊、極地環境を扱う。\n狙い目：探検・観測の記録と極地の環境を結び付けて読む。遠い場所での活動を室内展示に置き換える方法が対象。",
           "official": "https://shirase-kinenkan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%99%BD%E7%80%AC%E5%8D%97%E6%A5%B5%E6%8E%A2%E6%A4%9C%E9%9A%8A%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E3%81%AB%E3%81%8B%E3%81%BB%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shirase-kinenkan.jp/"
         },
         {
           "prefecture": "秋田県",
@@ -3167,12 +3407,13 @@ window.FACILITY_DATASET={
           "name": "大潟村干拓博物館",
           "type": "干拓・農業",
           "rank": "S",
-          "note": "農業技術、土地利用、地域産業の変化を扱う。",
+          "note": "農業技術、土地利用、地域産業の変化を扱う。\n狙い目：土地の使い方と農業の技術を結び付けて読む。地域産業の変化が道具や資料にどう表れるかを見たい。",
           "official": "https://museum.vill.ogata.akita.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%BD%9F%E6%9D%91%E5%B9%B2%E6%8B%93%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E5%A4%A7%E6%BD%9F%E6%9D%91",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://museum.vill.ogata.akita.jp/"
         },
         {
           "prefecture": "山形県",
@@ -3180,12 +3421,13 @@ window.FACILITY_DATASET={
           "name": "山形県立博物館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.yamagata-museum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B1%B1%E5%BD%A2%E7%9C%8C%20%E5%B1%B1%E5%BD%A2%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.yamagata-museum.jp/"
         },
         {
           "prefecture": "宮城県",
@@ -3193,12 +3435,13 @@ window.FACILITY_DATASET={
           "name": "宮城県慶長使節船ミュージアム サン・ファン館",
           "type": "海事・造船",
           "rank": "A",
-          "note": "航空・船舶・産業機械の構造と技術史を扱う。",
+          "note": "航空・船舶・産業機械の構造と技術史を扱う。\n狙い目：機械の構造と用途の説明を対応させて見る。部品や模型が技術の大きさをどう伝えるかが対象。",
           "official": "https://www.santjuan.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%E6%85%B6%E9%95%B7%E4%BD%BF%E7%AF%80%E8%88%B9%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E9%A4%A8%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E7%9F%B3%E5%B7%BB%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.santjuan.or.jp/"
         },
         {
           "prefecture": "福島県",
@@ -3206,12 +3449,13 @@ window.FACILITY_DATASET={
           "name": "磐梯山噴火記念館",
           "type": "火山・地学",
           "rank": "A",
-          "note": "火山活動、噴火資料、周辺地形を扱う。",
+          "note": "火山活動、噴火資料、周辺地形を扱う。\n狙い目：地形の説明と災害・噴火の記録を照合する。目の前の地形を時間の経過とともに読む展示が狙い目。",
           "official": "http://www.bandaimuse.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A3%90%E6%A2%AF%E5%B1%B1%E5%99%B4%E7%81%AB%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E5%8C%97%E5%A1%A9%E5%8E%9F%E6%9D%91",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.bandaimuse.jp/"
         },
         {
           "prefecture": "福島県",
@@ -3219,12 +3463,13 @@ window.FACILITY_DATASET={
           "name": "野口英世記念館",
           "type": "医学・科学史",
           "rank": "B",
-          "note": "人体、医学、薬と産業の歴史を扱う。",
+          "note": "人体、医学、薬と産業の歴史を扱う。\n狙い目：研究や製造の道具と、人体・薬の説明を対応させて読む。専門的な内容を来館者へ伝える展示方法を見る。",
           "official": "http://www.noguchihideyo.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%8E%E5%8F%A3%E8%8B%B1%E4%B8%96%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E7%8C%AA%E8%8B%97%E4%BB%A3%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.noguchihideyo.or.jp/"
         },
         {
           "prefecture": "群馬県",
@@ -3232,12 +3477,13 @@ window.FACILITY_DATASET={
           "name": "群馬県立自然史博物館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.gmnh.pref.gunma.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%AF%8C%E5%B2%A1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gmnh.pref.gunma.jp/"
         },
         {
           "prefecture": "群馬県",
@@ -3245,12 +3491,13 @@ window.FACILITY_DATASET={
           "name": "みどり市大間々博物館 コノドント館",
           "type": "化石・地質",
           "rank": "A",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://www.city.midori.gunma.jp/conodont/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%A9%E3%82%8A%E5%B8%82%E5%A4%A7%E9%96%93%E3%80%85%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E3%82%B3%E3%83%8E%E3%83%89%E3%83%B3%E3%83%88%E9%A4%A8%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E3%81%BF%E3%81%A9%E3%82%8A%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.midori.gunma.jp/conodont/"
         },
         {
           "prefecture": "埼玉県",
@@ -3258,12 +3505,13 @@ window.FACILITY_DATASET={
           "name": "日本工業大学工業技術博物館",
           "type": "産業技術",
           "rank": "A",
-          "note": "航空・船舶・産業機械の構造と技術史を扱う。",
+          "note": "航空・船舶・産業機械の構造と技術史を扱う。\n狙い目：機械の構造と用途の説明を対応させて見る。部品や模型が技術の大きさをどう伝えるかが対象。",
           "official": "https://museum.nit.ac.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%AE%AE%E4%BB%A3%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://museum.nit.ac.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -3271,12 +3519,13 @@ window.FACILITY_DATASET={
           "name": "相模原市立博物館",
           "type": "科学・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://sagamiharacitymuseum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://sagamiharacitymuseum.jp/"
         },
         {
           "prefecture": "新潟県",
@@ -3284,12 +3533,13 @@ window.FACILITY_DATASET={
           "name": "フォッサマグナミュージアム",
           "type": "地質",
           "rank": "A",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://fmm.geo-itoigawa.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A9%E3%83%83%E3%82%B5%E3%83%9E%E3%82%B0%E3%83%8A%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%B3%B8%E9%AD%9A%E5%B7%9D%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://fmm.geo-itoigawa.com/"
         },
         {
           "prefecture": "富山県",
@@ -3297,12 +3547,13 @@ window.FACILITY_DATASET={
           "name": "富山市科学博物館",
           "type": "自然史・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://www.tsm.toyama.toyama.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E5%B8%82%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.tsm.toyama.toyama.jp/"
         },
         {
           "prefecture": "福井県",
@@ -3310,12 +3561,13 @@ window.FACILITY_DATASET={
           "name": "福井県立恐竜博物館",
           "type": "恐竜・地質",
           "rank": "A",
-          "note": "地域で見つかった恐竜・古生物資料を扱う。",
+          "note": "地域で見つかった恐竜・古生物資料を扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://www.dinosaur.pref.fukui.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%AB%8B%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E5%8B%9D%E5%B1%B1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.dinosaur.pref.fukui.jp/"
         },
         {
           "prefecture": "山梨県",
@@ -3323,12 +3575,13 @@ window.FACILITY_DATASET={
           "name": "甲斐黄金村・湯之奥金山博物館",
           "type": "鉱山・産業",
           "rank": "S",
-          "note": "採掘・資源産業の歴史と機械を扱う。",
+          "note": "採掘・資源産業の歴史と機械を扱う。\n狙い目：資源を掘り出す工程と機械の役割をつなげて読む。地中の作業を室内でどう見せるかに注目。",
           "official": "https://www.town.minobu.lg.jp/site/kinzan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E6%96%90%E9%BB%84%E9%87%91%E6%9D%91%E3%83%BB%E6%B9%AF%E4%B9%8B%E5%A5%A5%E9%87%91%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E8%BA%AB%E5%BB%B6%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.town.minobu.lg.jp/site/kinzan/"
         },
         {
           "prefecture": "山梨県",
@@ -3336,12 +3589,13 @@ window.FACILITY_DATASET={
           "name": "清泉寮やまねミュージアム",
           "type": "生態",
           "rank": "A",
-          "note": "地域の生物、生態、保全活動を扱う。",
+          "note": "地域の生物、生態、保全活動を扱う。\n狙い目：生物の姿だけでなく、生息環境や保全の説明を合わせて読む。地域と生き物の関係を伝える構成を見る。",
           "official": "https://www.seisenryo.jp/yamane_museum.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%85%E6%B3%89%E5%AF%AE%E3%82%84%E3%81%BE%E3%81%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E5%8C%97%E6%9D%9C%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.seisenryo.jp/yamane_museum.html"
         },
         {
           "prefecture": "長野県",
@@ -3349,12 +3603,13 @@ window.FACILITY_DATASET={
           "name": "飯田市美術博物館",
           "type": "自然史・天文",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://www.iida-museum.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A3%AF%E7%94%B0%E5%B8%82%E7%BE%8E%E8%A1%93%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E9%A3%AF%E7%94%B0%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.iida-museum.org/"
         },
         {
           "prefecture": "長野県",
@@ -3362,12 +3617,13 @@ window.FACILITY_DATASET={
           "name": "大町山岳博物館",
           "type": "山岳・自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.omachi-sanpaku.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%BA%E5%B1%B1%E5%B2%B3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E5%A4%A7%E7%94%BA%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.omachi-sanpaku.com/"
         },
         {
           "prefecture": "長野県",
@@ -3375,12 +3631,13 @@ window.FACILITY_DATASET={
           "name": "八ヶ岳総合博物館",
           "type": "自然・科学",
           "rank": "B",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.city.chino.lg.jp/site/y-hakubutsukan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E3%83%B6%E5%B2%B3%E7%B7%8F%E5%90%88%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E8%8C%85%E9%87%8E%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.chino.lg.jp/site/y-hakubutsukan/"
         },
         {
           "prefecture": "岐阜県",
@@ -3388,12 +3645,13 @@ window.FACILITY_DATASET={
           "name": "中津川市鉱物博物館",
           "type": "鉱物",
           "rank": "B",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://www.city.nakatsugawa.lg.jp/museum/m/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%B4%A5%E5%B7%9D%E5%B8%82%E9%89%B1%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E4%B8%AD%E6%B4%A5%E5%B7%9D%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.nakatsugawa.lg.jp/museum/m/index.html"
         },
         {
           "prefecture": "岐阜県",
@@ -3401,12 +3659,13 @@ window.FACILITY_DATASET={
           "name": "瑞浪市化石博物館",
           "type": "化石",
           "rank": "A",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://www.city.mizunami.lg.jp/kankou_bunka/1004960/kaseki_museum/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%91%9E%E6%B5%AA%E5%B8%82%E5%8C%96%E7%9F%B3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E7%91%9E%E6%B5%AA%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.mizunami.lg.jp/kankou_bunka/1004960/kaseki_museum/index.html"
         },
         {
           "prefecture": "岐阜県",
@@ -3414,12 +3673,13 @@ window.FACILITY_DATASET={
           "name": "岐阜かかみがはら航空宇宙博物館",
           "type": "航空宇宙",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "航空・宇宙を扱う専門博物館。2階の宇宙エリアでは、国際宇宙ステーション、小惑星探査機「はやぶさ2」、H-Ⅱロケットなどを通じて宇宙開発の歴史を紹介する。\n狙い目：異なる役割の宇宙機を比較し、技術の大きさや構造を展示空間でどう伝えるかを見る。",
           "official": "https://www.sorahaku.net/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E3%81%8B%E3%81%8B%E3%81%BF%E3%81%8C%E3%81%AF%E3%82%89%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%90%84%E5%8B%99%E5%8E%9F%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sorahaku.net/\n公式資料：https://www.sorahaku.net/exhibition/permanent/space/"
         },
         {
           "prefecture": "静岡県",
@@ -3427,12 +3687,13 @@ window.FACILITY_DATASET={
           "name": "奇石博物館",
           "type": "地質・鉱物",
           "rank": "S",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "http://www.kiseki-jp.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%87%E7%9F%B3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E5%AF%8C%E5%A3%AB%E5%AE%AE%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kiseki-jp.com/"
         },
         {
           "prefecture": "三重県",
@@ -3440,12 +3701,13 @@ window.FACILITY_DATASET={
           "name": "四日市市立博物館・プラネタリウム",
           "type": "天文・科学",
           "rank": "A",
-          "note": "天文観測と宇宙、投影展示を扱う。",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
           "official": "http://www.city.yokkaichi.mie.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%83%BB%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.yokkaichi.mie.jp/museum/"
         },
         {
           "prefecture": "滋賀県",
@@ -3453,12 +3715,13 @@ window.FACILITY_DATASET={
           "name": "田上鉱物博物館",
           "type": "鉱物",
           "rank": "B",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://sam.shiga.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%B0%E4%B8%8A%E9%89%B1%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://sam.shiga.jp/"
         },
         {
           "prefecture": "滋賀県",
@@ -3466,12 +3729,13 @@ window.FACILITY_DATASET={
           "name": "滋賀県立琵琶湖博物館",
           "type": "湖沼・自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.biwahaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E7%AB%8B%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E8%8D%89%E6%B4%A5%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.biwahaku.jp/"
         },
         {
           "prefecture": "京都府",
@@ -3479,12 +3743,13 @@ window.FACILITY_DATASET={
           "name": "京都大学総合博物館",
           "type": "大学・自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.museum.kyoto-u.ac.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%B7%8F%E5%90%88%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.museum.kyoto-u.ac.jp/"
         },
         {
           "prefecture": "島根県",
@@ -3492,12 +3757,13 @@ window.FACILITY_DATASET={
           "name": "奥出雲多根自然博物館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://tanemuseum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E5%87%BA%E9%9B%B2%E5%A4%9A%E6%A0%B9%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%A5%A5%E5%87%BA%E9%9B%B2%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://tanemuseum.jp/"
         },
         {
           "prefecture": "山口県",
@@ -3505,12 +3771,13 @@ window.FACILITY_DATASET={
           "name": "美祢市立秋吉台科学博物館",
           "type": "地質・自然史",
           "rank": "A",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "http://akihaku.jimdofree.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E7%A5%A2%E5%B8%82%E7%AB%8B%E7%A7%8B%E5%90%89%E5%8F%B0%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E7%BE%8E%E7%A5%A2%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://akihaku.jimdofree.com/"
         },
         {
           "prefecture": "山口県",
@@ -3518,12 +3785,13 @@ window.FACILITY_DATASET={
           "name": "山口県立山口博物館",
           "type": "科学・自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.yamahaku.pref.yamaguchi.lg.jp/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%AB%8B%E5%B1%B1%E5%8F%A3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E5%B1%B1%E5%8F%A3%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.yamahaku.pref.yamaguchi.lg.jp/index.html"
         },
         {
           "prefecture": "愛媛県",
@@ -3531,12 +3799,13 @@ window.FACILITY_DATASET={
           "name": "愛媛県総合科学博物館",
           "type": "科学・自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.i-kahaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E7%B7%8F%E5%90%88%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E6%96%B0%E5%B1%85%E6%B5%9C%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.i-kahaku.jp/"
         },
         {
           "prefecture": "高知県",
@@ -3544,12 +3813,13 @@ window.FACILITY_DATASET={
           "name": "横倉山自然の森博物館",
           "type": "自然史・地質",
           "rank": "A",
-          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。",
+          "note": "岩石・鉱物・化石と土地の成り立ちを扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://www.yokogurayama-museum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E5%80%89%E5%B1%B1%E8%87%AA%E7%84%B6%E3%81%AE%E6%A3%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E8%B6%8A%E7%9F%A5%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.yokogurayama-museum.jp/"
         },
         {
           "prefecture": "佐賀県",
@@ -3557,12 +3827,13 @@ window.FACILITY_DATASET={
           "name": "中冨記念くすり博物館",
           "type": "薬学・産業",
           "rank": "B",
-          "note": "人体、医学、薬と産業の歴史を扱う。",
+          "note": "人体、医学、薬と産業の歴史を扱う。\n狙い目：研究や製造の道具と、人体・薬の説明を対応させて読む。専門的な内容を来館者へ伝える展示方法を見る。",
           "official": "https://nakatomi-museum.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%86%A8%E8%A8%98%E5%BF%B5%E3%81%8F%E3%81%99%E3%82%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E9%B3%A5%E6%A0%96%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://nakatomi-museum.or.jp/"
         },
         {
           "prefecture": "熊本県",
@@ -3570,12 +3841,13 @@ window.FACILITY_DATASET={
           "name": "阿蘇火山博物館",
           "type": "火山・地学",
           "rank": "A",
-          "note": "火山活動、噴火資料、周辺地形を扱う。",
+          "note": "火山活動、噴火資料、周辺地形を扱う。\n狙い目：個々の建物より、建物間を移動する距離と敷地の使い方を見たい。周辺を含めた公共施設の配置が対象。",
           "official": "http://www.asomuse.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E8%98%87%E7%81%AB%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E9%98%BF%E8%98%87%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.asomuse.jp/"
         },
         {
           "prefecture": "熊本県",
@@ -3583,12 +3855,13 @@ window.FACILITY_DATASET={
           "name": "天草市立御所浦恐竜の島博物館",
           "type": "恐竜・地質",
           "rank": "A",
-          "note": "地域で見つかった恐竜・古生物資料を扱う。",
+          "note": "地域で見つかった恐竜・古生物資料を扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://goshouramuseum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E8%8D%89%E5%B8%82%E7%AB%8B%E5%BE%A1%E6%89%80%E6%B5%A6%E6%81%90%E7%AB%9C%E3%81%AE%E5%B3%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E5%A4%A9%E8%8D%89%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://goshouramuseum.jp/"
         },
         {
           "prefecture": "熊本県",
@@ -3596,12 +3869,13 @@ window.FACILITY_DATASET={
           "name": "御船町恐竜博物館",
           "type": "恐竜・地質",
           "rank": "A",
-          "note": "地域で見つかった恐竜・古生物資料を扱う。",
+          "note": "地域で見つかった恐竜・古生物資料を扱う。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "https://mifunemuseum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%A1%E8%88%B9%E7%94%BA%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E5%BE%A1%E8%88%B9%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://mifunemuseum.jp/"
         },
         {
           "prefecture": "大分県",
@@ -3609,12 +3883,13 @@ window.FACILITY_DATASET={
           "name": "日田市立博物館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://www.city.hita.oita.jp/soshiki/kyoikucho/shakaikyoikuka/hakubutsukan/hakubutukan/top.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E7%94%B0%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%A4%A7%E5%88%86%E7%9C%8C%20%E6%97%A5%E7%94%B0%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.hita.oita.jp/soshiki/kyoikucho/shakaikyoikuka/hakubutsukan/hakubutukan/top.html"
         },
         {
           "prefecture": "宮崎県",
@@ -3622,12 +3897,13 @@ window.FACILITY_DATASET={
           "name": "宮崎大学農学部附属農業博物館",
           "type": "農業科学",
           "rank": "A",
-          "note": "農業技術、土地利用、地域産業の変化を扱う。",
+          "note": "農業技術、土地利用、地域産業の変化を扱う。\n狙い目：土地の使い方と農業の技術を結び付けて読む。地域産業の変化が道具や資料にどう表れるかを見たい。",
           "official": "https://www.miyazaki-u.ac.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E5%A4%A7%E5%AD%A6%E8%BE%B2%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E8%BE%B2%E6%A5%AD%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E5%AE%AE%E5%B4%8E%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.miyazaki-u.ac.jp/museum/"
         },
         {
           "prefecture": "宮崎県",
@@ -3635,12 +3911,13 @@ window.FACILITY_DATASET={
           "name": "宮崎県総合博物館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.miyazaki-archive.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E7%B7%8F%E5%90%88%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E5%AE%AE%E5%B4%8E%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.miyazaki-archive.jp/museum/"
         },
         {
           "prefecture": "鹿児島県",
@@ -3648,12 +3925,13 @@ window.FACILITY_DATASET={
           "name": "鹿児島県立博物館",
           "type": "自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.pref.kagoshima.jp/hakubutsukan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.pref.kagoshima.jp/hakubutsukan/"
         },
         {
           "prefecture": "鹿児島県",
@@ -3661,12 +3939,13 @@ window.FACILITY_DATASET={
           "name": "鹿児島大学総合研究博物館",
           "type": "大学・自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.museum.kagoshima-u.ac.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E5%A4%A7%E5%AD%A6%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.museum.kagoshima-u.ac.jp/"
         },
         {
           "prefecture": "沖縄県",
@@ -3674,12 +3953,13 @@ window.FACILITY_DATASET={
           "name": "琉球大学博物館 風樹館",
           "type": "大学・自然史",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://fujukan.skr.u-ryukyu.ac.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%90%89%E7%90%83%E5%A4%A7%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%A2%A8%E6%A8%B9%E9%A4%A8%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E8%A5%BF%E5%8E%9F%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://fujukan.skr.u-ryukyu.ac.jp/"
         },
         {
           "prefecture": "東京都",
@@ -3687,12 +3967,13 @@ window.FACILITY_DATASET={
           "name": "東京都水道歴史館",
           "type": "水道・産業史",
           "rank": "A",
-          "note": "水処理・供給設備と都市インフラの仕組みを扱う。",
+          "note": "水処理・供給設備と都市インフラの仕組みを扱う。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.suidorekishi.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B0%B4%E9%81%93%E6%AD%B4%E5%8F%B2%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.suidorekishi.jp/"
         },
         {
           "prefecture": "北海道",
@@ -3700,12 +3981,13 @@ window.FACILITY_DATASET={
           "name": "札幌市資料館",
           "type": "歴史・建築",
           "rank": "A",
-          "note": "旧控訴院庁舎を利用した資料館。建物内部と法廷展示。",
+          "note": "旧控訴院庁舎を利用した資料館。建物内部と法廷展示。\n狙い目：元の公共建築の用途と現在の資料展示の関係を読む。建築の見学と展示の観覧を一緒に進めたい。",
           "official": "http://www.s-shiryokan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "歴史・建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.s-shiryokan.jp/"
         },
         {
           "prefecture": "山形県",
@@ -3713,12 +3995,13 @@ window.FACILITY_DATASET={
           "name": "山形大学附属博物館",
           "type": "大学・地域史",
           "rank": "A",
-          "note": "大学所蔵の自然史・考古・歴史資料を扱う小規模館。",
+          "note": "大学所蔵の自然史・考古・歴史資料を扱う小規模館。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "http://www.lib.yamagata-u.ac.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B1%B1%E5%BD%A2%E7%9C%8C%20%E5%B1%B1%E5%BD%A2%E5%B8%82",
           "kind": "大学・地域史",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.lib.yamagata-u.ac.jp/museum/"
         },
         {
           "prefecture": "栃木県",
@@ -3726,12 +4009,13 @@ window.FACILITY_DATASET={
           "name": "壬生町おもちゃ博物館",
           "type": "玩具・産業",
           "rank": "A",
-          "note": "玩具の町にある体験展示中心の専門館。",
+          "note": "玩具の町にある体験展示中心の専門館。\n狙い目：遊ぶための品を資料として展示する構成を見る。製作方法や使い方の説明と、展示品の並べ方を比べたい。",
           "official": "https://omohaku.michinoeki-mibu.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A3%AC%E7%94%9F%E7%94%BA%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%A3%AC%E7%94%9F%E7%94%BA",
           "kind": "玩具・産業",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://omohaku.michinoeki-mibu.jp/"
         },
         {
           "prefecture": "群馬県",
@@ -3739,12 +4023,13 @@ window.FACILITY_DATASET={
           "name": "日本絹の里",
           "type": "絹・産業",
           "rank": "A",
-          "note": "養蚕、製糸、染織を扱う地域産業資料館。",
+          "note": "養蚕、製糸、染織を扱う地域産業資料館。\n狙い目：原料から製品に至る流れに沿って展示を読む。道具と完成品の大きさや手触りを想像しながら見比べたい。",
           "official": "https://www.nippon-kinunosato.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E7%B5%B9%E3%81%AE%E9%87%8C%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E9%AB%98%E5%B4%8E%E5%B8%82",
           "kind": "絹・産業",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.nippon-kinunosato.or.jp/"
         },
         {
           "prefecture": "埼玉県",
@@ -3752,12 +4037,13 @@ window.FACILITY_DATASET={
           "name": "さいたま市岩槻人形博物館",
           "type": "人形・工芸",
           "rank": "A",
-          "note": "人形文化と製作技術に特化した公立博物館。",
+          "note": "人形文化と製作技術に特化した公立博物館。\n狙い目：遊ぶための品を資料として展示する構成を見る。製作方法や使い方の説明と、展示品の並べ方を比べたい。",
           "official": "https://ningyo-muse.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%B2%A9%E6%A7%BB%E4%BA%BA%E5%BD%A2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%B2%A9%E6%A7%BB%E5%8C%BA",
           "kind": "人形・工芸",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://ningyo-muse.jp/"
         },
         {
           "prefecture": "千葉県",
@@ -3765,12 +4051,13 @@ window.FACILITY_DATASET={
           "name": "伊能忠敬記念館",
           "type": "測量・人物",
           "rank": "S",
-          "note": "測量図、器具、記録から伊能忠敬の仕事を紹介。",
+          "note": "測量図、器具、記録から伊能忠敬の仕事を紹介。\n狙い目：測量図・器具・記録を対応させ、土地を測って地図にする工程をたどりたい。",
           "official": "https://www.city.katori.lg.jp/smph/sightseeing/museum/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E8%83%BD%E5%BF%A0%E6%95%AC%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E9%A6%99%E5%8F%96%E5%B8%82",
           "kind": "測量・人物",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.katori.lg.jp/smph/sightseeing/museum/index.html"
         },
         {
           "prefecture": "東京都",
@@ -3778,12 +4065,13 @@ window.FACILITY_DATASET={
           "name": "目黒寄生虫館",
           "type": "医学・自然史",
           "rank": "S",
-          "note": "寄生虫標本に特化した小規模専門館。",
+          "note": "寄生虫標本に特化した小規模専門館。\n狙い目：標本の見せ方と説明の組み合わせを見る。小さな生物を読み解くための観覧距離と展示の密度が対象。",
           "official": "https://www.kiseichu.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%AF%84%E7%94%9F%E8%99%AB%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
           "kind": "医学・自然史",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kiseichu.org/"
         },
         {
           "prefecture": "東京都",
@@ -3791,12 +4079,13 @@ window.FACILITY_DATASET={
           "name": "紙の博物館",
           "type": "紙・産業",
           "rank": "A",
-          "note": "紙の歴史、製造技術、紙文化を扱う専門館。",
+          "note": "紙の歴史、製造技術、紙文化を扱う専門館。\n狙い目：原料から製品に至る流れに沿って展示を読む。道具と完成品の大きさや手触りを想像しながら見比べたい。",
           "official": "http://www.papermuseum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
           "kind": "紙・産業",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.papermuseum.jp/"
         },
         {
           "prefecture": "東京都",
@@ -3804,12 +4093,13 @@ window.FACILITY_DATASET={
           "name": "物流博物館",
           "type": "物流・交通",
           "rank": "S",
-          "note": "輸送、荷役、物流の歴史を模型と資料で紹介。",
+          "note": "輸送、荷役、物流の歴史を模型と資料で紹介。\n狙い目：荷物が流れる仕組みと人が見学する経路の関係に注目。実際の作業区域と来訪者の場所を分けて観察する。",
           "official": "https://www.lmuse.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%89%A9%E6%B5%81%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "物流・交通",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.lmuse.or.jp/"
         },
         {
           "prefecture": "東京都",
@@ -3817,12 +4107,13 @@ window.FACILITY_DATASET={
           "name": "切手の博物館",
           "type": "郵便・デザイン",
           "rank": "A",
-          "note": "世界の切手と郵便文化を扱う小規模専門館。",
+          "note": "世界の切手と郵便文化を扱う小規模専門館。\n狙い目：小さな印刷物・貨幣と、それを作る技術の関係を読む。図柄や加工の細部を見せる展示方法にも注目。",
           "official": "https://kitte-museum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%87%E6%89%8B%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
           "kind": "郵便・デザイン",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://kitte-museum.jp/"
         },
         {
           "prefecture": "東京都",
@@ -3830,12 +4121,13 @@ window.FACILITY_DATASET={
           "name": "消防博物館",
           "type": "消防・防災",
           "rank": "A",
-          "note": "消防車両、装備、都市防災の歴史を展示。",
+          "note": "消防車両、装備、都市防災の歴史を展示。\n狙い目：車両の大きさと運行資料の細かさを対比して見る。動く設備を保存・展示するための空間にも注目。",
           "official": "https://www.tfd.metro.tokyo.lg.jp/hp-hkkan/museum.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B6%88%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "消防・防災",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.tfd.metro.tokyo.lg.jp/hp-hkkan/museum.html"
         },
         {
           "prefecture": "神奈川県",
@@ -3843,12 +4135,13 @@ window.FACILITY_DATASET={
           "name": "シルク博物館",
           "type": "絹・貿易",
           "rank": "A",
-          "note": "横浜港と生糸貿易、養蚕、絹製品を扱う専門館。",
+          "note": "横浜港と生糸貿易、養蚕、絹製品を扱う専門館。\n狙い目：原料から製品に至る流れに沿って展示を読む。道具と完成品の大きさや手触りを想像しながら見比べたい。",
           "official": "http://www.silkcenter-kbkk.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%AB%E3%82%AF%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
           "kind": "絹・貿易",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.silkcenter-kbkk.jp/museum/"
         },
         {
           "prefecture": "新潟県",
@@ -3856,12 +4149,13 @@ window.FACILITY_DATASET={
           "name": "新潟市新津鉄道資料館",
           "type": "鉄道・産業",
           "rank": "S",
-          "note": "鉄道の町の機関車、車両、運行資料を収蔵。",
+          "note": "鉄道の町の機関車、車両、運行資料を収蔵。\n狙い目：車両の大きさと運行資料の細かさを対比して見る。動く設備を保存・展示するための空間にも注目。",
           "official": "http://www.ncnrm.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%96%B0%E6%B4%A5%E9%89%84%E9%81%93%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E7%A7%8B%E8%91%89%E5%8C%BA",
           "kind": "鉄道・産業",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.ncnrm.com/"
         },
         {
           "prefecture": "福井県",
@@ -3869,12 +4163,13 @@ window.FACILITY_DATASET={
           "name": "めがねミュージアム",
           "type": "眼鏡・産業",
           "rank": "A",
-          "note": "鯖江の眼鏡製造工程と産業史を紹介。",
+          "note": "鯖江の眼鏡製造工程と産業史を紹介。\n狙い目：眼鏡の製造工程と製品を対応させて読む。日用品の細かな形を産業の技術として見る。",
           "official": "http://www.megane.gr.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%81%E3%81%8C%E3%81%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E9%AF%96%E6%B1%9F%E5%B8%82",
           "kind": "眼鏡・産業",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.megane.gr.jp/museum/"
         },
         {
           "prefecture": "岐阜県",
@@ -3882,12 +4177,13 @@ window.FACILITY_DATASET={
           "name": "博石館",
           "type": "石・鉱物",
           "rank": "S",
-          "note": "石材と鉱物を扱う屋外展示中心の専門館。",
+          "note": "石材と鉱物を扱う屋外展示中心の専門館。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "http://www.hakusekikan.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E7%9F%B3%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E4%B8%AD%E6%B4%A5%E5%B7%9D%E5%B8%82",
           "kind": "石・鉱物",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.hakusekikan.co.jp/"
         },
         {
           "prefecture": "静岡県",
@@ -3895,12 +4191,13 @@ window.FACILITY_DATASET={
           "name": "伊豆アンモナイト博物館",
           "type": "化石・自然史",
           "rank": "S",
-          "note": "アンモナイト化石に特化した私設の小規模館。",
+          "note": "アンモナイト化石に特化した私設の小規模館。\n狙い目：標本の形や大きさと産地・年代の説明を照合して見る。小さな資料から大きな土地の成り立ちを伝える展示の構成が狙い目。",
           "official": "http://www.ammonite-museum.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E8%B1%86%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8A%E3%82%A4%E3%83%88%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E6%9D%B1%E5%B8%82",
           "kind": "化石・自然史",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.ammonite-museum.com/"
         },
         {
           "prefecture": "愛知県",
@@ -3908,12 +4205,13 @@ window.FACILITY_DATASET={
           "name": "名古屋市市政資料館",
           "type": "市政・建築",
           "rank": "A",
-          "note": "旧裁判所建築と市政・司法資料を公開。",
+          "note": "旧裁判所建築と市政・司法資料を公開。\n狙い目：元の公共建築の用途と現在の資料展示の関係を読む。建築の見学と展示の観覧を一緒に進めたい。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%B8%82%E6%94%BF%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%9D%B1%E5%8C%BA",
           "kind": "市政・建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "三重県",
@@ -3921,12 +4219,13 @@ window.FACILITY_DATASET={
           "name": "海の博物館",
           "type": "海洋民俗",
           "rank": "S",
-          "note": "漁業、木造船、海女文化を扱う地域博物館。",
+          "note": "漁業、木造船、海女文化を扱う地域博物館。\n狙い目：海の仕事の道具を、使われる場所や作業と対応させて見る。地域の暮らしと道具の大きさの関係が対象。",
           "official": "http://www.umihaku.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E9%B3%A5%E7%BE%BD%E5%B8%82",
           "kind": "海洋民俗",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.umihaku.com/"
         },
         {
           "prefecture": "滋賀県",
@@ -3934,12 +4233,13 @@ window.FACILITY_DATASET={
           "name": "長浜鉄道スクエア",
           "type": "鉄道・駅舎",
           "rank": "A",
-          "note": "旧長浜駅舎と鉄道車両・資料を展示。",
+          "note": "旧長浜駅舎と鉄道車両・資料を展示。\n狙い目：車両の大きさと運行資料の細かさを対比して見る。動く設備を保存・展示するための空間にも注目。",
           "official": "https://kitabiwako.jp/tetsudou/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E6%B5%9C%E9%89%84%E9%81%93%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E9%95%B7%E6%B5%9C%E5%B8%82",
           "kind": "鉄道・駅舎",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://kitabiwako.jp/tetsudou/"
         },
         {
           "prefecture": "大阪府",
@@ -3947,12 +4247,13 @@ window.FACILITY_DATASET={
           "name": "造幣博物館",
           "type": "貨幣・産業",
           "rank": "S",
-          "note": "貨幣製造、造幣機械、勲章の資料を公開。",
+          "note": "貨幣製造、造幣機械、勲章の資料を公開。\n狙い目：小さな印刷物・貨幣と、それを作る技術の関係を読む。図柄や加工の細部を見せる展示方法にも注目。",
           "official": "https://www.mint.go.jp/enjoy/plant-osaka/plant_visit_museum_h.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%80%A0%E5%B9%A3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
           "kind": "貨幣・産業",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.mint.go.jp/enjoy/plant-osaka/plant_visit_museum_h.html"
         },
         {
           "prefecture": "兵庫県",
@@ -3960,12 +4261,13 @@ window.FACILITY_DATASET={
           "name": "日本玩具博物館",
           "type": "玩具・民俗",
           "rank": "S",
-          "note": "日本と世界の玩具を古い土蔵群に展示。",
+          "note": "日本と世界の玩具を古い土蔵群に展示。\n狙い目：遊ぶための品を資料として展示する構成を見る。製作方法や使い方の説明と、展示品の並べ方を比べたい。",
           "official": "https://japan-toy-museum.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E7%8E%A9%E5%85%B7%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%A7%AB%E8%B7%AF%E5%B8%82",
           "kind": "玩具・民俗",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://japan-toy-museum.org/"
         },
         {
           "prefecture": "奈良県",
@@ -3973,12 +4275,13 @@ window.FACILITY_DATASET={
           "name": "奈良町資料館",
           "type": "地域史・民俗",
           "rank": "A",
-          "note": "町家空間に奈良町の民俗資料を集めた小規模館。",
+          "note": "町家空間に奈良町の民俗資料を集めた小規模館。\n狙い目：町家の部屋の大きさと資料の置き方を比べる。暮らしのための空間に民俗資料を展示する構成が狙い目。",
           "official": "http://naramachi.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E7%94%BA%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%A5%88%E8%89%AF%E7%9C%8C%20%E5%A5%88%E8%89%AF%E5%B8%82",
           "kind": "地域史・民俗",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://naramachi.co.jp/"
         },
         {
           "prefecture": "和歌山県",
@@ -3986,12 +4289,13 @@ window.FACILITY_DATASET={
           "name": "南方熊楠顕彰館",
           "type": "人物・自然史",
           "rank": "A",
-          "note": "南方熊楠の資料、蔵書、研究記録を保存。",
+          "note": "南方熊楠の資料、蔵書、研究記録を保存。\n狙い目：研究者の蔵書と記録を手掛かりに、知識が集められた過程を読む。資料を整理して見せる構成が対象。",
           "official": "http://www.minakata.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%96%B9%E7%86%8A%E6%A5%A0%E9%A1%95%E5%BD%B0%E9%A4%A8%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E7%94%B0%E8%BE%BA%E5%B8%82",
           "kind": "人物・自然史",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.minakata.org/"
         },
         {
           "prefecture": "鳥取県",
@@ -3999,12 +4303,13 @@ window.FACILITY_DATASET={
           "name": "わらべ館",
           "type": "童謡・玩具",
           "rank": "A",
-          "note": "童謡と玩具を扱う旧校舎系の専門館。",
+          "note": "童謡と玩具を扱う専門館。施設管理棟は、昭和5年建設の旧県立図書館の外観を復元している。\n狙い目：復元された外観と、童謡・玩具を紹介する施設としての使われ方の関係。",
           "official": "https://www.warabe.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%8F%E3%82%89%E3%81%B9%E9%A4%A8%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E9%B3%A5%E5%8F%96%E5%B8%82",
           "kind": "童謡・玩具",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.warabe.or.jp/\n公式資料：https://warabe.or.jp/wordpress/wp-content/uploads/pdf/otomu/otomu_1.pdf"
         },
         {
           "prefecture": "島根県",
@@ -4012,12 +4317,13 @@ window.FACILITY_DATASET={
           "name": "奥出雲たたらと刀剣館",
           "type": "たたら・刀剣",
           "rank": "S",
-          "note": "たたら製鉄と日本刀の地域産業史を展示。",
+          "note": "たたら製鉄と日本刀の地域産業史を展示。\n狙い目：製鉄から刀剣へ至る工程を読み、材料・道具・完成品の関係をたどりたい。",
           "official": "https://okuizumo.org/jp/guide/detail/208/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E5%87%BA%E9%9B%B2%E3%81%9F%E3%81%9F%E3%82%89%E3%81%A8%E5%88%80%E5%89%A3%E9%A4%A8%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%A5%A5%E5%87%BA%E9%9B%B2%E7%94%BA",
           "kind": "たたら・刀剣",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://okuizumo.org/jp/guide/detail/208/"
         },
         {
           "prefecture": "高知県",
@@ -4025,12 +4331,13 @@ window.FACILITY_DATASET={
           "name": "いの町紙の博物館",
           "type": "和紙・産業",
           "rank": "A",
-          "note": "土佐和紙の製造工程、道具、製品を紹介。",
+          "note": "土佐和紙の製造工程、道具、製品を紹介。\n狙い目：原料から製品に至る流れに沿って展示を読む。道具と完成品の大きさや手触りを想像しながら見比べたい。",
           "official": "https://kamihaku.com/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%AE%E7%94%BA%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E3%81%84%E3%81%AE%E7%94%BA",
           "kind": "和紙・産業",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://kamihaku.com/?utm_source"
         },
         {
           "prefecture": "福岡県",
@@ -4038,12 +4345,13 @@ window.FACILITY_DATASET={
           "name": "門司電気通信レトロ館",
           "type": "通信・産業",
           "rank": "S",
-          "note": "歴代電話機と通信機器を扱う小規模企業博物館。",
+          "note": "歴代電話機と通信機器を扱う小規模企業博物館。\n狙い目：機器の姿と通信・放送の用途を結び付けて読む。時代ごとの操作部や大きさの違いが狙い目。",
           "official": "https://www.ntt-west.co.jp/kitaQ/moji/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%80%E5%8F%B8%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E3%83%AC%E3%83%88%E3%83%AD%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
           "kind": "通信・産業",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.ntt-west.co.jp/kitaQ/moji/"
         },
         {
           "prefecture": "佐賀県",
@@ -4051,12 +4359,13 @@ window.FACILITY_DATASET={
           "name": "佐賀バルーンミュージアム",
           "type": "気球・航空",
           "rank": "A",
-          "note": "熱気球の構造、競技、佐賀との関係を紹介。",
+          "note": "熱気球の構造、競技、佐賀との関係を紹介。\n狙い目：気球の構造と競技の説明を結び付けて読む。実際の空での動きを室内展示でどう伝えるかが対象。",
           "official": "https://www.sagabai.com/balloon-museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BD%90%E8%B3%80%E5%B8%82",
           "kind": "気球・航空",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sagabai.com/balloon-museum/"
         },
         {
           "prefecture": "大分県",
@@ -4064,12 +4373,13 @@ window.FACILITY_DATASET={
           "name": "大分香りの博物館",
           "type": "香料・生活文化",
           "rank": "A",
-          "note": "香水瓶、香料原料、香りの文化史に特化。",
+          "note": "香水瓶、香料原料、香りの文化史に特化。\n狙い目：香りを瓶・原料・歴史資料でどう伝えるかを見る。目に見えないものを展示にする方法が対象。",
           "official": "http://oita-kaori.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E9%A6%99%E3%82%8A%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%88%A5%E5%BA%9C%E5%B8%82",
           "kind": "香料・生活文化",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://oita-kaori.jp/"
         },
         {
           "prefecture": "沖縄県",
@@ -4077,12 +4387,13 @@ window.FACILITY_DATASET={
           "name": "那覇市立壺屋焼物博物館",
           "type": "陶芸・地域史",
           "rank": "A",
-          "note": "壺屋焼と沖縄の陶業史を扱う地域博物館。",
+          "note": "壺屋焼と沖縄の陶業史を扱う地域博物館。\n狙い目：地域の器づくりの技術と製品の関係を見る。形や用途の違いを並べて見せる構成に注目。",
           "official": "http://www.edu.city.naha.okinawa.jp/tsuboya/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%82%A3%E8%A6%87%E5%B8%82%E7%AB%8B%E5%A3%BA%E5%B1%8B%E7%84%BC%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E9%82%A3%E8%A6%87%E5%B8%82",
           "kind": "陶芸・地域史",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.edu.city.naha.okinawa.jp/tsuboya/"
         },
         {
           "prefecture": "千葉県",
@@ -4090,12 +4401,13 @@ window.FACILITY_DATASET={
           "name": "千葉県立中央博物館分館 海の博物館",
           "type": "海洋自然史",
           "rank": "A",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "地域の海・川に生息する生物と水環境を扱う。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "http://www2.chiba-muse.or.jp/UMIHAKU/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%88%86%E9%A4%A8%20%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8B%9D%E6%B5%A6%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www2.chiba-muse.or.jp/UMIHAKU/"
         },
         {
           "prefecture": "神奈川県",
@@ -4103,12 +4415,13 @@ window.FACILITY_DATASET={
           "name": "観音崎自然博物館",
           "type": "海洋・自然",
           "rank": "B",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "地域の海・川に生息する生物と水環境を扱う。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://kannonzaki-nature-museum.jimdofree.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%A6%B3%E9%9F%B3%E5%B4%8E%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://kannonzaki-nature-museum.jimdofree.com/"
         },
         {
           "prefecture": "三重県",
@@ -4116,12 +4429,13 @@ window.FACILITY_DATASET={
           "name": "鳥羽市立海の博物館",
           "type": "海洋・漁業",
           "rank": "B",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "地域の海・川に生息する生物と水環境を扱う。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "http://www.umihaku.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E7%BE%BD%E5%B8%82%E7%AB%8B%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E9%B3%A5%E7%BE%BD%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.umihaku.com/"
         },
         {
           "prefecture": "大阪府",
@@ -4129,12 +4443,13 @@ window.FACILITY_DATASET={
           "name": "高槻市立自然博物館 あくあぴあ芥川",
           "type": "自然史・淡水",
           "rank": "A",
-          "note": "地域固有の自然史、地形、生物標本を扱う。",
+          "note": "地域固有の自然史、地形、生物標本を扱う。\n狙い目：地域の地形と生物の展示をつなげて読む。標本の産地や採集場所の説明から、周辺の自然へ視野を広げたい。",
           "official": "https://aquapia-akutagawa.blog.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E6%A7%BB%E5%B8%82%E7%AB%8B%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E3%81%82%E3%81%8F%E3%81%82%E3%81%B4%E3%81%82%E8%8A%A5%E5%B7%9D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E9%AB%98%E6%A7%BB%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://aquapia-akutagawa.blog.jp/"
         },
         {
           "prefecture": "岡山県",
@@ -4142,12 +4457,13 @@ window.FACILITY_DATASET={
           "name": "笠岡市立カブトガニ博物館",
           "type": "生物",
           "rank": "S",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "地域の海・川に生息する生物と水環境を扱う。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://www.city.kasaoka.okayama.jp/site/kabutogani/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AC%A0%E5%B2%A1%E5%B8%82%E7%AB%8B%E3%82%AB%E3%83%96%E3%83%88%E3%82%AC%E3%83%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E7%AC%A0%E5%B2%A1%E5%B8%82",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kasaoka.okayama.jp/site/kabutogani/"
         },
         {
           "prefecture": "徳島県",
@@ -4155,12 +4471,13 @@ window.FACILITY_DATASET={
           "name": "日和佐うみがめ博物館カレッタ",
           "type": "生物・海洋",
           "rank": "B",
-          "note": "地域の海・川に生息する生物と水環境を扱う。",
+          "note": "地域の海・川に生息する生物と水環境を扱う。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://caretta.town.minami.lg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%92%8C%E4%BD%90%E3%81%86%E3%81%BF%E3%81%8C%E3%82%81%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%82%AB%E3%83%AC%E3%83%83%E3%82%BF%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E7%BE%8E%E6%B3%A2%E7%94%BA",
           "kind": "科学系施設",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://caretta.town.minami.lg.jp/"
         },
         {
           "prefecture": "東京都",
@@ -4168,12 +4485,13 @@ window.FACILITY_DATASET={
           "name": "大田区立郷土博物館",
           "type": "郷土資料館",
           "rank": "S",
-          "note": "自治体展示・受付・展示ケース・公共施設内装。小規模自治体資料館系",
+          "note": "自治体展示・受付・展示ケース・公共施設内装。小規模自治体資料館系。\n狙い目：展示ケースの並びと説明表示の高さを見たい。展示物だけでなく、自治体資料を見せる室内の構成も対象。",
           "official": "http://www.city.ota.tokyo.jp/seikatsu/manabu/hakubutsukan/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.ota.tokyo.jp/seikatsu/manabu/hakubutsukan/index.html"
         },
         {
           "prefecture": "東京都",
@@ -4181,12 +4499,13 @@ window.FACILITY_DATASET={
           "name": "杉並区立郷土博物館 本館",
           "type": "郷土資料館",
           "rank": "S",
-          "note": "郷土展示・公共展示施設。周辺環境込みでおすすめ",
+          "note": "郷土展示・公共展示施設。周辺環境込みでおすすめ。\n狙い目：個々の建物より、建物間を移動する距離と敷地の使い方を見たい。周辺を含めた公共施設の配置が対象。",
           "official": "http://www.city.suginami.tokyo.jp/histmus/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%89%E4%B8%A6%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9C%AC%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%89%E4%B8%A6%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.suginami.tokyo.jp/histmus/index.html"
         },
         {
           "prefecture": "東京都",
@@ -4194,12 +4513,13 @@ window.FACILITY_DATASET={
           "name": "板橋区立郷土資料館",
           "type": "郷土資料館",
           "rank": "S",
-          "note": "自治体展示・展示ケース・休憩空間。古い公共展示施設感を狙える",
+          "note": "自治体展示・展示ケース・休憩空間。古い公共展示施設感を狙える。\n狙い目：展示ケースの並びと説明表示の高さを見たい。展示物だけでなく、自治体資料を見せる室内の構成も対象。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -4207,12 +4527,13 @@ window.FACILITY_DATASET={
           "name": "世田谷区立郷土資料館",
           "type": "郷土資料館",
           "rank": "S",
-          "note": "郷土展示・公共施設。建築・展示室双方が対象",
+          "note": "郷土展示・公共施設。建築・展示室双方が対象。\n狙い目：地域の資料の並べ方と解説を読み、身近な街の歴史を展示室にどうまとめているかを見る。",
           "official": "https://www.city.setagaya.lg.jp/mokuji/kusei/012/011/002/d00138265.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.setagaya.lg.jp/mokuji/kusei/012/011/002/d00138265.html"
         },
         {
           "prefecture": "東京都",
@@ -4220,12 +4541,13 @@ window.FACILITY_DATASET={
           "name": "葛飾区郷土と天文の博物館",
           "type": "博物館・プラネタリウム",
           "rank": "S",
-          "note": "郷土展示・天文展示・プラネタリウム。複合用途が強い",
+          "note": "郷土展示・天文展示・プラネタリウム。複合用途が強い。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
           "official": "https://www.museum.city.katsushika.lg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%91%9B%E9%A3%BE%E5%8C%BA%E9%83%B7%E5%9C%9F%E3%81%A8%E5%A4%A9%E6%96%87%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%91%9B%E9%A3%BE%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.museum.city.katsushika.lg.jp/"
         },
         {
           "prefecture": "東京都",
@@ -4233,12 +4555,13 @@ window.FACILITY_DATASET={
           "name": "豊島区立郷土資料館",
           "type": "郷土資料館",
           "rank": "A",
-          "note": "産業振興施設内の自治体展示。ビル内公共施設感",
+          "note": "産業振興施設内の自治体展示。ビル内公共施設感。\n狙い目：地域の資料の並べ方と解説を読み、身近な街の歴史を展示室にどうまとめているかを見る。",
           "official": "http://www.city.toshima.lg.jp/bunka/bunka/shiryokan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E5%B3%B6%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.toshima.lg.jp/bunka/bunka/shiryokan/"
         },
         {
           "prefecture": "東京都",
@@ -4246,12 +4569,13 @@ window.FACILITY_DATASET={
           "name": "港区立郷土歴史館",
           "type": "郷土資料館",
           "rank": "A",
-          "note": "旧公衆衛生院を活用。公共建築そのものが見どころ",
+          "note": "旧公衆衛生院を活用。公共建築そのものが見どころ。\n狙い目：元の公共建築の用途と現在の資料展示の関係を読む。建築の見学と展示の観覧を一緒に進めたい。",
           "official": "https://www.minato-rekishi.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%AF%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E6%AD%B4%E5%8F%B2%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.minato-rekishi.com/"
         },
         {
           "prefecture": "東京都",
@@ -4259,12 +4583,13 @@ window.FACILITY_DATASET={
           "name": "NHK放送博物館",
           "type": "企業・放送資料館",
           "rank": "S",
-          "note": "放送機器・展示室・旧式展示施設感。メディア資料館系",
+          "note": "放送機器・展示室・旧式展示施設感。メディア資料館系。\n狙い目：機器の姿と通信・放送の用途を結び付けて読む。時代ごとの操作部や大きさの違いが狙い目。",
           "official": "http://www.nhk.or.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=NHK%E6%94%BE%E9%80%81%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.nhk.or.jp/museum/"
         },
         {
           "prefecture": "東京都",
@@ -4272,12 +4597,13 @@ window.FACILITY_DATASET={
           "name": "お札と切手の博物館",
           "type": "企業・行政資料館",
           "rank": "A",
-          "note": "印刷・紙幣・切手展示。官庁系資料館の雰囲気",
+          "note": "印刷・紙幣・切手展示。官庁系資料館の雰囲気。\n狙い目：小さな印刷物・貨幣と、それを作る技術の関係を読む。図柄や加工の細部を見せる展示方法にも注目。",
           "official": "https://www.npb.go.jp/ja/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E6%9C%AD%E3%81%A8%E5%88%87%E6%89%8B%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.npb.go.jp/ja/museum/"
         },
         {
           "prefecture": "東京都",
@@ -4285,12 +4611,13 @@ window.FACILITY_DATASET={
           "name": "ガスミュージアム",
           "type": "企業資料館",
           "rank": "A",
-          "note": "ガス事業史・歴史展示。企業資料館系",
+          "note": "ガス事業史・歴史展示。企業資料館系。\n狙い目：ガス事業の歴史と家庭・都市の暮らしとの関係を読む。企業の技術を来館者に伝える展示の組み立てを見る。",
           "official": "http://www.gasmuseum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AC%E3%82%B9%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.gasmuseum.jp/"
         },
         {
           "prefecture": "沖縄県",
@@ -4298,12 +4625,13 @@ window.FACILITY_DATASET={
           "name": "宮古島市「地下ダム資料館」",
           "type": "地下施設",
           "rank": "S",
-          "note": "地下ダムの地層断面模型やボーリングコアなどを展示する施設。",
+          "note": "地下ダムの地層断面模型やボーリングコアなどを展示する施設。\n狙い目：地層断面模型と実際のボーリングコアを見比べ、地中の構造を説明図と実物資料の両方から読む。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%8F%A4%E5%B3%B6%E5%B8%82%20%E6%B2%96%E7%B8%84%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "沖縄県",
@@ -4311,12 +4639,13 @@ window.FACILITY_DATASET={
           "name": "地下ダム資料館",
           "type": "地下ダム・資料館",
           "rank": "S",
-          "note": "一般入館。地中に造られた巨大ダムを解説する公的施設",
+          "note": "一般入館。地中に造られた巨大ダムを解説する公的施設。\n狙い目：地上からは見えないダムの仕組みを、地下水と地層の関係から読みたい。巨大インフラを室内で説明する方法が対象。",
           "official": "http://www.city.miyakojima.lg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E4%B8%8B%E3%83%80%E3%83%A0%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E5%AE%AE%E5%8F%A4%E5%B3%B6%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.miyakojima.lg.jp/"
         }
       ]
     },
@@ -4334,12 +4663,13 @@ window.FACILITY_DATASET={
           "name": "浅草地下街",
           "type": "地下街・地下道",
           "rank": "S",
-          "note": "低い天井、配管、古い地下飲食街。",
+          "note": "低い天井、配管、古い地下飲食街。\n狙い目：天井の低さと露出した配管を、店先の連続と合わせて見る。通路の奥まで続く視線が狙い目。",
           "official": "https://asakusachikagai.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://asakusachikagai.com/"
         },
         {
           "prefecture": "東京都",
@@ -4347,12 +4677,13 @@ window.FACILITY_DATASET={
           "name": "新橋駅前ビル 地下街",
           "type": "地下街・地下道",
           "rank": "S",
-          "note": "駅前再開発ビル地下。細い通路と飲食店街。",
+          "note": "駅前再開発ビル地下。細い通路と飲食店街。\n狙い目：細い通路を歩き、飲食店の間口と曲がり角の関係を見る。駅前ビル内部に別の街路があるような構成が対象。",
           "official": "http://www.shinbashi.net/02/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%A9%8B%E9%A7%85%E5%89%8D%E3%83%93%E3%83%AB%20%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.shinbashi.net/02/"
         },
         {
           "prefecture": "東京都",
@@ -4360,12 +4691,13 @@ window.FACILITY_DATASET={
           "name": "ニュー新橋ビル 地下",
           "type": "地下街・地下道",
           "rank": "S",
-          "note": "昭和の駅前ビル。地下〜上層の動線が狙い目。",
+          "note": "昭和の駅前ビル。地下〜上層の動線が狙い目。\n狙い目：地下と上層の往復で、階ごとの用途と人の流れの違いを比べたい。",
           "official": "http://www.shinbashi.net/02/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%A5%E3%83%BC%E6%96%B0%E6%A9%8B%E3%83%93%E3%83%AB%20%E5%9C%B0%E4%B8%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.shinbashi.net/02/"
         },
         {
           "prefecture": "東京都",
@@ -4373,12 +4705,13 @@ window.FACILITY_DATASET={
           "name": "東京交通会館 地下",
           "type": "地下街・地下道",
           "rank": "A",
-          "note": "古い商業ビル地下。通路と飲食街。",
+          "note": "古い商業ビル地下。通路と飲食街。\n狙い目：飲食街の店先と通り抜け動線の関係を観察する。古いビルの地下が街の通路として働く点を見る。",
           "official": "https://www.kotsukaikan.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%BA%A4%E9%80%9A%E4%BC%9A%E9%A4%A8%20%E5%9C%B0%E4%B8%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kotsukaikan.co.jp/"
         },
         {
           "prefecture": "東京都",
@@ -4386,12 +4719,13 @@ window.FACILITY_DATASET={
           "name": "八重洲地下街",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "巨大地下街。閉店間際の長い通路向き。",
+          "note": "巨大地下街。閉店間際の長い通路向き。\n狙い目：通路の反復と遠くの見通しが対象。営業時間と通行できる時間を区別し、公開時間内に観察する。",
           "official": "https://www.yaechika.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E9%87%8D%E6%B4%B2%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.yaechika.com/"
         },
         {
           "prefecture": "東京都",
@@ -4399,12 +4733,13 @@ window.FACILITY_DATASET={
           "name": "新宿サブナード",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "長大な地下商業空間。",
+          "note": "長大な地下商業空間。\n狙い目：長い商業通路を歩き、店舗の連続が途切れる場所や分岐の見え方を比べたい。",
           "official": "https://www.subnade.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%82%B5%E3%83%96%E3%83%8A%E3%83%BC%E3%83%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.subnade.co.jp/"
         },
         {
           "prefecture": "東京都",
@@ -4412,12 +4747,13 @@ window.FACILITY_DATASET={
           "name": "池袋ショッピングパーク",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "地下道と商業が連続する都市型空間。",
+          "note": "地下道と商業が連続する都市型空間。\n狙い目：地下道を通る人と店舗へ向かう人の動線が重なる地点に注目。",
           "official": "http://web-isp.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%A0%E8%A2%8B%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%91%E3%83%BC%E3%82%AF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://web-isp.co.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -4425,12 +4761,13 @@ window.FACILITY_DATASET={
           "name": "横浜マリナード地下街",
           "type": "地下街・地下道",
           "rank": "S",
-          "note": "関内〜伊勢佐木町側の古い地下商店街。",
+          "note": "関内〜伊勢佐木町側の古い地下商店街。\n狙い目：地上の関内・伊勢佐木町側の街路と地下の商店街をつなぐ経路を見たい。",
           "official": "http://www.marinard.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%83%9E%E3%83%AA%E3%83%8A%E3%83%BC%E3%83%89%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.marinard.co.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -4438,12 +4775,13 @@ window.FACILITY_DATASET={
           "name": "横浜ポルタ",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "駅地下の長い動線。",
+          "note": "駅地下の長い動線。\n狙い目：駅から商業区画へ移る動線をたどり、通過する場所と立ち止まる場所を比べる。",
           "official": "http://www.yokohamaporta.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%83%9D%E3%83%AB%E3%82%BF%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.yokohamaporta.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -4451,12 +4789,13 @@ window.FACILITY_DATASET={
           "name": "川崎アゼリア",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "大規模地下街。",
+          "note": "大規模地下街。\n狙い目：大規模地下街を案内表示に沿って歩き、分岐点と直線区間の見え方を比べたい。",
           "official": "http://www.azalea.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%B4%8E%E3%82%A2%E3%82%BC%E3%83%AA%E3%82%A2%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.azalea.co.jp/"
         },
         {
           "prefecture": "北海道",
@@ -4464,12 +4803,13 @@ window.FACILITY_DATASET={
           "name": "さっぽろ地下街 オーロラタウン",
           "type": "地下街・地下道",
           "rank": "A",
-          "note": "1970年代型地下街。",
+          "note": "1970年代型地下街。\n狙い目：地下街の沿革と現在の意匠を区別しつつ、店舗と通路が繰り返す構成を観察する。",
           "official": "https://www.sapporo-chikagai.jp/floorguide/?floor",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sapporo-chikagai.jp/floorguide/?floor"
         },
         {
           "prefecture": "北海道",
@@ -4477,12 +4817,13 @@ window.FACILITY_DATASET={
           "name": "さっぽろ地下街 ポールタウン",
           "type": "地下街・地下道",
           "rank": "A",
-          "note": "長い直線地下空間。",
+          "note": "長い直線地下空間。\n狙い目：直線の先への見通しと、店先が続くリズムに注目。短い区間と長い区間で奥行きの印象を比べる。",
           "official": "https://www.sapporo-chikagai.jp/floorguide/?floor",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sapporo-chikagai.jp/floorguide/?floor"
         },
         {
           "prefecture": "北海道",
@@ -4490,12 +4831,13 @@ window.FACILITY_DATASET={
           "name": "札幌駅前通地下歩行空間",
           "type": "地下街・地下道",
           "rank": "A",
-          "note": "巨大公共地下歩道。時間帯で無機質さが強い。",
+          "note": "巨大公共地下歩道。時間帯で無機質さが強い。\n狙い目：商業施設の店内とは異なる公共歩道として、歩行の幅と人の流れを観察したい。",
           "official": "http://www.sapporo-chikamichi.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E9%A7%85%E5%89%8D%E9%80%9A%E5%9C%B0%E4%B8%8B%E6%AD%A9%E8%A1%8C%E7%A9%BA%E9%96%93%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.sapporo-chikamichi.jp/"
         },
         {
           "prefecture": "宮城県",
@@ -4503,12 +4845,13 @@ window.FACILITY_DATASET={
           "name": "仙台駅前地下道",
           "type": "地下街・地下道",
           "rank": "A",
-          "note": "駅前の地下歩行動線。",
+          "note": "駅前の地下歩行動線。\n狙い目：駅前の地上から地下へ移る地点と、目的地へ分岐する地点が狙い目。",
           "official": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D%E5%9C%B0%E4%B8%8B%E9%81%93%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.jreast.co.jp/estation/station/info.aspx?StationCd"
         },
         {
           "prefecture": "愛知県",
@@ -4516,12 +4859,13 @@ window.FACILITY_DATASET={
           "name": "伏見地下街",
           "type": "地下街・地下道",
           "rank": "S",
-          "note": "小規模で古い地下商店街。",
+          "note": "小規模で古い地下商店街。\n狙い目：小規模な通路の幅と店先の近さを見る。大規模地下街と比べた視線の距離感が対象。",
           "official": "https://fushimi-chikagai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8F%E8%A6%8B%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://fushimi-chikagai.jp/"
         },
         {
           "prefecture": "愛知県",
@@ -4529,12 +4873,13 @@ window.FACILITY_DATASET={
           "name": "ユニモール",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "名駅地下の長い商業通路。",
+          "note": "名駅地下の長い商業通路。\n狙い目：名駅側から通路をたどり、商業区画と移動経路が一体になった構成を見る。",
           "official": "https://www.unimall.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%A6%E3%83%8B%E3%83%A2%E3%83%BC%E3%83%AB%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E6%9D%91%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.unimall.co.jp/"
         },
         {
           "prefecture": "愛知県",
@@ -4542,12 +4887,13 @@ window.FACILITY_DATASET={
           "name": "エスカ地下街",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "新幹線側の地下街。",
+          "note": "新幹線側の地下街。\n狙い目：新幹線側の駅利用と地下商業の関係を観察する。駅から店先へ切り替わる動線が対象。",
           "official": "https://www.esca-sc.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%82%B9%E3%82%AB%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E6%9D%91%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.esca-sc.com/"
         },
         {
           "prefecture": "愛知県",
@@ -4555,12 +4901,13 @@ window.FACILITY_DATASET={
           "name": "セントラルパーク地下街",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "久屋大通地下の広い動線。",
+          "note": "久屋大通地下の広い動線。\n狙い目：地上の久屋大通と地下の広い動線を見比べたい。地上へ出入りする地点で視界が変わる。",
           "official": "https://www.centralpark.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.centralpark.co.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -4568,12 +4915,13 @@ window.FACILITY_DATASET={
           "name": "ホワイティうめだ",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "迷路性のある巨大地下街。",
+          "note": "迷路性のある巨大地下街。\n狙い目：分岐の多い通路を案内表示と照合し、先が見える場所と方向感覚が変わる場所を比べる。",
           "official": "http://whity.osaka-chikagai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%86%E3%82%A3%E3%81%86%E3%82%81%E3%81%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://whity.osaka-chikagai.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -4581,12 +4929,13 @@ window.FACILITY_DATASET={
           "name": "なんばウォーク",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "長い地下商業軸。",
+          "note": "長い地下商業軸。\n狙い目：長い商業軸に沿って歩き、通路の繰り返しと交差する動線の関係を観察する。",
           "official": "http://walk.osaka-chikagai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%82%93%E3%81%B0%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://walk.osaka-chikagai.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -4594,12 +4943,13 @@ window.FACILITY_DATASET={
           "name": "あべちか",
           "type": "地下街・地下道",
           "rank": "A",
-          "note": "規模が比較的小さく古い地下街系。",
+          "note": "規模が比較的小さく古い地下街系。\n狙い目：小さな地下街として、端から端までの距離と店舗の密度を見たい。",
           "official": "http://avetika.osaka-chikagai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%B9%E3%81%A1%E3%81%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://avetika.osaka-chikagai.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -4607,12 +4957,13 @@ window.FACILITY_DATASET={
           "name": "ドージマ地下センター",
           "type": "地下街・地下道",
           "rank": "A",
-          "note": "オフィス街下の地下商店街。",
+          "note": "オフィス街下の地下商店街。\n狙い目：オフィス街の地上と地下商店街の用途の違いを比べる。通勤・通過と飲食の動線の重なりが対象。",
           "official": "https://dotica.osaka-chikagai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%89%E3%83%BC%E3%82%B8%E3%83%9E%E5%9C%B0%E4%B8%8B%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://dotica.osaka-chikagai.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -4620,12 +4971,13 @@ window.FACILITY_DATASET={
           "name": "さんちか",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "三宮の地下街。",
+          "note": "三宮の地下街。\n狙い目：三宮の地上や駅からの接続をたどり、地下商業空間へ入る切り替わりを見る。",
           "official": "http://www.santica.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%82%93%E3%81%A1%E3%81%8B%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.santica.com/"
         },
         {
           "prefecture": "兵庫県",
@@ -4633,12 +4985,13 @@ window.FACILITY_DATASET={
           "name": "デュオこうべ",
           "type": "地下街・地下道",
           "rank": "A",
-          "note": "地下広場と長い連絡動線。",
+          "note": "地下広場と長い連絡動線。\n狙い目：地下広場の開放感と長い連絡動線の囲われ方を比べたい。",
           "official": "https://www.duokobe.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%83%A5%E3%82%AA%E3%81%93%E3%81%86%E3%81%B9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.duokobe.com/"
         },
         {
           "prefecture": "岡山県",
@@ -4646,12 +4999,13 @@ window.FACILITY_DATASET={
           "name": "岡山一番街",
           "type": "地下街・地下道",
           "rank": "A",
-          "note": "1970年代の駅地下商業施設。",
+          "note": "1970年代の駅地下商業施設。\n狙い目：駅地下の移動と買い物が重なる構成を見る。開業年代を現存する内装の年代と混同しないようにしたい。",
           "official": "https://sun-ste.com/okayama-ichibangai/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E4%B8%80%E7%95%AA%E8%A1%97%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://sun-ste.com/okayama-ichibangai/"
         },
         {
           "prefecture": "広島県",
@@ -4659,12 +5013,13 @@ window.FACILITY_DATASET={
           "name": "紙屋町シャレオ",
           "type": "地下街・地下道",
           "rank": "B",
-          "note": "交差型の地下広場。",
+          "note": "交差型の地下広場。\n狙い目：交差型の地下広場で、進行方向を変えたときの見通しを比べる。",
           "official": "http://www.shareo.net/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B4%99%E5%B1%8B%E7%94%BA%E3%82%B7%E3%83%A3%E3%83%AC%E3%82%AA%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.shareo.net/"
         },
         {
           "prefecture": "福岡県",
@@ -4672,12 +5027,13 @@ window.FACILITY_DATASET={
           "name": "天神地下街",
           "type": "地下街・地下道",
           "rank": "A",
-          "note": "照明と石床の人工的な地下都市感。",
+          "note": "照明と石床の人工的な地下都市感。\n狙い目：照明の並びと石床の反復を合わせて眺めたい。人工の地下街路としての遠近感が対象。",
           "official": "http://www.tenchika.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E7%A5%9E%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.tenchika.com/"
         },
         {
           "prefecture": "東京都",
@@ -4685,12 +5041,13 @@ window.FACILITY_DATASET={
           "name": "中野ブロードウェイ",
           "type": "駅前・再開発ビル",
           "rank": "S",
-          "note": "商業階の奥、階段、上層への動線が強い。",
+          "note": "商業階の奥、階段、上層への動線が強い。\n狙い目：商業階の奥から階段へ移り、階ごとの用途と通路の雰囲気を比べたい。",
           "official": "https://nakano-broadway.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E9%87%8E%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://nakano-broadway.com/"
         },
         {
           "prefecture": "東京都",
@@ -4698,12 +5055,13 @@ window.FACILITY_DATASET={
           "name": "東京ニュー新宿ビルディング（新宿西口会館）",
           "type": "駅前・再開発ビル",
           "rank": "A",
-          "note": "古い雑居・商業ビル系。",
+          "note": "古い雑居・商業ビル系。\n狙い目：外から見た雑居ビルの規模と、公開されている商業部の経路を比べる。",
           "official": "https://scb-ichibangai.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%8B%E3%83%A5%E3%83%BC%E6%96%B0%E5%AE%BF%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%88%E6%96%B0%E5%AE%BF%E8%A5%BF%E5%8F%A3%E4%BC%9A%E9%A4%A8%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://scb-ichibangai.com/"
         },
         {
           "prefecture": "神奈川県",
@@ -4711,12 +5069,13 @@ window.FACILITY_DATASET={
           "name": "桜木町ぴおシティ",
           "type": "駅前・再開発ビル",
           "rank": "S",
-          "note": "地下〜上層の昭和商業ビル感。",
+          "note": "地下〜上層の昭和商業ビル感。\n狙い目：地下から上層へ移る際の用途の変化を見たい。商業ビル全体を一つの移動空間として観察する。",
           "official": "http://www.piocity.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%9C%E6%9C%A8%E7%94%BA%E3%81%B4%E3%81%8A%E3%82%B7%E3%83%86%E3%82%A3%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.piocity.com/"
         },
         {
           "prefecture": "神奈川県",
@@ -4724,12 +5083,13 @@ window.FACILITY_DATASET={
           "name": "横浜シァル桜木町 野毛側地下接続部",
           "type": "駅前・再開発ビル",
           "rank": "A",
-          "note": "駅・地下・商業の接続動線。",
+          "note": "駅・地下・商業の接続動線。\n狙い目：駅・地下・商業区画が切り替わる接続部分で、床や案内の変化を見たい。",
           "official": "http://www.jryscc.co.jp/cial/sakuragicho/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%82%B7%E3%82%A1%E3%83%AB%E6%A1%9C%E6%9C%A8%E7%94%BA%20%E9%87%8E%E6%AF%9B%E5%81%B4%E5%9C%B0%E4%B8%8B%E6%8E%A5%E7%B6%9A%E9%83%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.jryscc.co.jp/cial/sakuragicho/"
         },
         {
           "prefecture": "神奈川県",
@@ -4737,12 +5097,13 @@ window.FACILITY_DATASET={
           "name": "ジョイナス地下通路周辺",
           "type": "駅前・再開発ビル",
           "rank": "B",
-          "note": "巨大駅地下の接続空間。",
+          "note": "巨大駅地下の接続空間。\n狙い目：駅地下の通路がどの施設へ分かれるかを案内図と照合して歩く。接続部分の境目が対象。",
           "official": "http://www.sotetsu-joinus.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%8A%E3%82%B9%E5%9C%B0%E4%B8%8B%E9%80%9A%E8%B7%AF%E5%91%A8%E8%BE%BA%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.sotetsu-joinus.com/"
         },
         {
           "prefecture": "東京都",
@@ -4750,12 +5111,13 @@ window.FACILITY_DATASET={
           "name": "光が丘IMA",
           "type": "駅前・再開発ビル",
           "rank": "A",
-          "note": "ニュータウン中心施設。",
+          "note": "ニュータウン中心施設。\n狙い目：ニュータウンの日常的な買い物と移動を受け持つ施設として、外部の歩行路とのつながりを見る。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%89%E3%81%8C%E4%B8%98IMA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -4763,12 +5125,13 @@ window.FACILITY_DATASET={
           "name": "丘の上プラザ",
           "type": "駅前・再開発ビル",
           "rank": "A",
-          "note": "多摩ニュータウンの1980年代商業核。",
+          "note": "多摩ニュータウンの1980年代商業核。\n狙い目：商業核として周辺の歩行空間とどう接するかを見たい。施設の外と中を往復して規模感を比べる。",
           "official": "http://www.okanoueplaza.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%98%E3%81%AE%E4%B8%8A%E3%83%97%E3%83%A9%E3%82%B6%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.okanoueplaza.com/"
         },
         {
           "prefecture": "東京都",
@@ -4776,12 +5139,13 @@ window.FACILITY_DATASET={
           "name": "京王聖蹟桜ヶ丘ショッピングセンター",
           "type": "駅前・再開発ビル",
           "rank": "B",
-          "note": "駅一体型の巨大複合施設。",
+          "note": "駅一体型の巨大複合施設。\n狙い目：駅から商業施設へ移る接続と、複数用途の切り替わりを観察する。",
           "official": "http://www.keio-sc.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E8%81%96%E8%B9%9F%E6%A1%9C%E3%83%B6%E4%B8%98%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.keio-sc.jp/"
         },
         {
           "prefecture": "北海道",
@@ -4789,12 +5153,13 @@ window.FACILITY_DATASET={
           "name": "新さっぽろアークシティ サンピアザ",
           "type": "駅前・再開発ビル",
           "rank": "A",
-          "note": "1970年代副都心型SC。",
+          "note": "1970年代副都心型SC。\n狙い目：副都心の商業施設として、周辺施設との連絡動線と建物の大きさを見る。",
           "official": "http://www.sunpi-duo.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3%20%E3%82%B5%E3%83%B3%E3%83%94%E3%82%A2%E3%82%B6%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8E%9A%E5%88%A5%E5%8C%BA",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.sunpi-duo.com/"
         },
         {
           "prefecture": "山口県",
@@ -4802,12 +5167,13 @@ window.FACILITY_DATASET={
           "name": "シーモール下関",
           "type": "駅前・再開発ビル",
           "rank": "A",
-          "note": "1970年代大型駅前SC。",
+          "note": "1970年代大型駅前SC。\n狙い目：駅前の人の流れが館内でどう分かれるかを見たい。大型SCの移動空間が対象。",
           "official": "https://www.seamall.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%BC%E3%83%A2%E3%83%BC%E3%83%AB%E4%B8%8B%E9%96%A2%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.seamall.jp/"
         },
         {
           "prefecture": "愛知県",
@@ -4815,12 +5181,13 @@ window.FACILITY_DATASET={
           "name": "T-FACE",
           "type": "駅前・再開発ビル",
           "rank": "A",
-          "note": "1980年代駅前再開発ツインビル。",
+          "note": "1980年代駅前再開発ツインビル。\n狙い目：二つのビルを一つの商業施設として利用する経路に注目。棟ごとの見え方を比べる。",
           "official": "https://www.t-face.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=T-FACE%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E7%94%B0%E5%B8%82",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.t-face.com/"
         },
         {
           "prefecture": "兵庫県",
@@ -4828,12 +5195,13 @@ window.FACILITY_DATASET={
           "name": "グンゼタウンセンター つかしん",
           "type": "駅前・再開発ビル",
           "rank": "A",
-          "note": "1980年代大型SCの系譜。",
+          "note": "1980年代大型SCの系譜。\n狙い目：大型SCとしての敷地構成と店の配置を見る。開業時の沿革と現在の姿を分けて観察する。",
           "official": "https://www.tsukashin.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%B3%E3%82%BC%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%A4%E3%81%8B%E3%81%97%E3%82%93%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%B0%BC%E5%B4%8E%E5%B8%82",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.tsukashin.com/"
         },
         {
           "prefecture": "広島県",
@@ -4841,12 +5209,13 @@ window.FACILITY_DATASET={
           "name": "アルパーク",
           "type": "駅前・再開発ビル",
           "rank": "B",
-          "note": "1990年の大規模複合SC。",
+          "note": "1990年の大規模複合SC。\n狙い目：複数用途の施設を歩く際の距離感と、区画間の接続を見たい。",
           "official": "https://www.alpark.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E8%A5%BF%E5%8C%BA",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.alpark.jp/"
         },
         {
           "prefecture": "北海道",
@@ -4854,12 +5223,13 @@ window.FACILITY_DATASET={
           "name": "サッポロファクトリー",
           "type": "駅前・再開発ビル",
           "rank": "A",
-          "note": "1990年代巨大アトリウム。",
+          "note": "1990年代巨大アトリウム。\n狙い目：アトリウムを見上げる位置と横から見る位置を変え、屋内に大きな空隙をつくる構成を観察する。",
           "official": "https://sapporofactory.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://sapporofactory.jp/"
         },
         {
           "prefecture": "千葉県",
@@ -4867,12 +5237,13 @@ window.FACILITY_DATASET={
           "name": "あすみが丘バーズモール",
           "type": "モールコア",
           "rank": "S",
-          "note": "バブル期の駅前モール。カラフルな建築、空き区画、中庭 開業年：1989年。",
+          "note": "バブル期の駅前モール。カラフルな建築、空き区画、中庭 開業年：1989年。\n狙い目：カラフルな外観・中庭・商業区画の関係を見たい。空き区画の状況は訪問時の姿として捉える。",
           "official": "https://asumigaoka-birdsmall.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%99%E3%81%BF%E3%81%8C%E4%B8%98%E3%83%90%E3%83%BC%E3%82%BA%E3%83%A2%E3%83%BC%E3%83%AB%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E7%B7%91%E5%8C%BA%E3%81%82%E3%81%99%E3%81%BF%E3%81%8C%E4%B8%981-20-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://asumigaoka-birdsmall.com/"
         },
         {
           "prefecture": "大阪府",
@@ -4880,12 +5251,13 @@ window.FACILITY_DATASET={
           "name": "あべのベルタ",
           "type": "モールコア",
           "rank": "S",
-          "note": "バブル期再開発モール。低層商業部と豪華な内装 開業年：1987年。",
+          "note": "バブル期再開発モール。低層商業部と豪華な内装 開業年：1987年。\n狙い目：低層商業部の内装と再開発建築全体の関係を見る。装飾と日常の買い物空間が重なる点に注目。",
           "official": "https://abeno-belta.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%B9%E3%81%AE%E3%83%99%E3%83%AB%E3%82%BF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E9%98%BF%E5%80%8D%E9%87%8E%E7%AD%8B3-10-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://abeno-belta.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -4893,12 +5265,13 @@ window.FACILITY_DATASET={
           "name": "出屋敷リベル",
           "type": "モールコア",
           "rank": "S",
-          "note": "駅前再開発モール。空き区画の多いフロアが特徴",
+          "note": "駅前再開発モール。空き区画の多いフロアが特徴。\n狙い目：営業中の店と空き区画の並びを、訪問時の状態で観察する。駅前の移動経路との関係も対象。",
           "official": "http://www.t-kaihatsu.co.jp/company/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BA%E5%B1%8B%E6%95%B7%E3%83%AA%E3%83%99%E3%83%AB%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%B0%BC%E5%B4%8E%E5%B8%82%E7%AB%B9%E8%B0%B7%E7%94%BA2-183",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.t-kaihatsu.co.jp/company/"
         },
         {
           "prefecture": "神奈川県",
@@ -4906,12 +5279,13 @@ window.FACILITY_DATASET={
           "name": "イオン本牧店（旧マイカル本牧）",
           "type": "モールコア",
           "rank": "S",
-          "note": "旧マイカル本牧。バブル期の大規模商業開発の痕跡 開業年：1989年。",
+          "note": "旧マイカル本牧。バブル期の大規模商業開発の痕跡 開業年：1989年。\n狙い目：大規模商業開発の敷地の使い方と、現店舗までの動線に注目。旧施設の沿革と現状を分けて見る。",
           "official": "https://www.aeon.com/store/イオン/イオン本牧店",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%AC%E7%89%A7%E5%BA%97%EF%BC%88%E6%97%A7%E3%83%9E%E3%82%A4%E3%82%AB%E3%83%AB%E6%9C%AC%E7%89%A7%EF%BC%89%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%9C%AC%E7%89%A7%E5%8E%9F7-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン本牧店"
         },
         {
           "prefecture": "千葉県",
@@ -4919,12 +5293,13 @@ window.FACILITY_DATASET={
           "name": "ニッケコルトンプラザ",
           "type": "モールコア",
           "rank": "A",
-          "note": "バブル期開業の大型SC。広場・通路・吹き抜けを観察 開業年：1988年。",
+          "note": "バブル期開業の大型SC。広場・通路・吹き抜けを観察 開業年：1988年。\n狙い目：広場・通路・吹抜けを順にたどり、視界が開く場所と細くなる場所を比べたい。",
           "official": "https://www.nikke-cp.gr.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%83%E3%82%B1%E3%82%B3%E3%83%AB%E3%83%88%E3%83%B3%E3%83%97%E3%83%A9%E3%82%B6%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E9%AC%BC%E9%AB%981-1-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.nikke-cp.gr.jp/"
         },
         {
           "prefecture": "千葉県",
@@ -4932,12 +5307,13 @@ window.FACILITY_DATASET={
           "name": "ユーカリプラザ（YOU!PLA）",
           "type": "モールコア",
           "rank": "A",
-          "note": "ニュータウン型商業施設",
+          "note": "ニュータウン型商業施設。\n狙い目：ニュータウンの生活動線と館内の商業動線がどこで接続するかを見る。",
           "official": "https://www.you-pla.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%A6%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%97%E3%83%A9%E3%82%B6%EF%BC%88YOU%21PLA%EF%BC%89%20%E5%8D%83%E8%91%89%E7%9C%8C%E4%BD%90%E5%80%89%E5%B8%82%E3%83%A6%E3%83%BC%E3%82%AB%E3%83%AA%E3%81%8C%E4%B8%984-1-4",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.you-pla.com/"
         },
         {
           "prefecture": "茨城県",
@@ -4945,12 +5321,13 @@ window.FACILITY_DATASET={
           "name": "ショッピングセンター パルナ",
           "type": "モールコア",
           "rank": "A",
-          "note": "地方大型SC。郊外モール系の空間を観察",
+          "note": "地方大型SC。郊外モール系の空間を観察。\n狙い目：郊外の広い敷地と館内の買い物動線の関係を観察したい。",
           "official": "http://www.palna.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%91%E3%83%AB%E3%83%8A%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E8%A5%BF%E4%BB%A31495",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.palna.co.jp/"
         },
         {
           "prefecture": "滋賀県",
@@ -4958,12 +5335,13 @@ window.FACILITY_DATASET={
           "name": "ピエリ守山",
           "type": "モールコア",
           "rank": "B",
-          "note": "大型郊外モール。改装済みだが巨大空間系",
+          "note": "大型郊外モール。改装済みだが巨大空間系。\n狙い目：改装後の現状を起点に、大きな商業空間の奥行きと歩く距離を見たい。",
           "official": "http://pieri.sc/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%82%A8%E3%83%AA%E5%AE%88%E5%B1%B1%20%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%AE%88%E5%B1%B1%E5%B8%82%E4%BB%8A%E6%B5%9C%E7%94%BA2620-5",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://pieri.sc/"
         },
         {
           "prefecture": "青森県",
@@ -4971,12 +5349,13 @@ window.FACILITY_DATASET={
           "name": "ELM",
           "type": "モールコア",
           "rank": "B",
-          "note": "地方大型モール",
+          "note": "地方大型モール。\n狙い目：地方大型モールとして、館内を移動する距離と各区画の配置を観察する。",
           "official": "https://elm-no-machi.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=ELM%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E4%BA%94%E6%89%80%E5%B7%9D%E5%8E%9F%E5%B8%82%E5%94%90%E7%AC%A0%E6%9F%B3%E8%97%A4%E5%B7%BB517-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://elm-no-machi.jp/"
         },
         {
           "prefecture": "栃木県",
@@ -4984,12 +5363,13 @@ window.FACILITY_DATASET={
           "name": "ベルモール",
           "type": "モールコア",
           "rank": "B",
-          "note": "地方大型モール。館内外の巨大商業空間系",
+          "note": "地方大型モール。館内外の巨大商業空間系。\n狙い目：建物の外から感じる大きさと、館内を歩いて感じる距離を比べたい。",
           "official": "https://www.bellmall.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%AB%E3%83%A2%E3%83%BC%E3%83%AB%20%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E9%99%BD%E6%9D%B16-2-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.bellmall.co.jp/"
         },
         {
           "prefecture": "岐阜県",
@@ -4997,12 +5377,13 @@ window.FACILITY_DATASET={
           "name": "養老ランド",
           "type": "ドリームコア",
           "rank": "S",
-          "note": "小規模レトロ遊園地。屋内遊具・色彩・古い設備",
+          "note": "小規模レトロ遊園地。屋内遊具・色彩・古い設備。\n狙い目：屋内遊具の色彩と周囲の設備の関係を見る。遊具そのものだけでなく置かれた空間も対象。",
           "official": "https://www.yourou-land.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A4%8A%E8%80%81%E3%83%A9%E3%83%B3%E3%83%89%20%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%E9%A4%8A%E8%80%811155-2",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.yourou-land.com/"
         },
         {
           "prefecture": "北海道",
@@ -5010,12 +5391,13 @@ window.FACILITY_DATASET={
           "name": "函館公園こどものくに",
           "type": "ドリームコア",
           "rank": "S",
-          "note": "現役最古級の観覧車を含む小規模遊園地",
+          "note": "現役最古級の観覧車を含む小規模遊園地。\n狙い目：小さな遊園地の中で観覧車が占める大きさと、周囲の遊具配置を見たい。",
           "official": "http://kodomonokuni.sakuraweb.com/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BD%E9%A4%A8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8F%E3%81%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82%E9%9D%92%E6%9F%B3%E7%94%BA17-4",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://kodomonokuni.sakuraweb.com/index.html"
         },
         {
           "prefecture": "宮城県",
@@ -5023,12 +5405,13 @@ window.FACILITY_DATASET={
           "name": "八木山ベニーランド",
           "type": "ドリームコア",
           "rank": "S",
-          "note": "地方都市の老舗遊園地",
+          "note": "地方都市の老舗遊園地。\n狙い目：老舗遊園地としての沿革を踏まえ、現在の遊具と園内経路の関係を観察する。",
           "official": "https://www.benyland.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%9C%A8%E5%B1%B1%E3%83%99%E3%83%8B%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E5%A4%AA%E7%99%BD%E5%8C%BA%E9%95%B7%E7%94%BA%E8%B6%8A%E8%B7%AF19-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.benyland.com/"
         },
         {
           "prefecture": "山形県",
@@ -5036,12 +5419,13 @@ window.FACILITY_DATASET={
           "name": "リナワールド",
           "type": "ドリームコア",
           "rank": "S",
-          "note": "地方遊園地。色彩と遊具配置が狙い目",
+          "note": "地方遊園地。色彩と遊具配置が狙い目。\n狙い目：遊具の色と配置を少し離れた位置から見比べる。移動中に現れる景観の切り替わりが対象。",
           "official": "https://www.linaworld.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E5%B1%B1%E5%BD%A2%E7%9C%8C%E4%B8%8A%E5%B1%B1%E5%B8%82%E9%87%91%E7%93%B6%E6%B0%B4%E4%B8%8A108-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.linaworld.co.jp/"
         },
         {
           "prefecture": "岩手県",
@@ -5049,12 +5433,13 @@ window.FACILITY_DATASET={
           "name": "岩山パークランド",
           "type": "ドリームコア",
           "rank": "S",
-          "note": "山上の地方遊園地。小規模遊具群",
+          "note": "山上の地方遊園地。小規模遊具群。\n狙い目：山上という立地と小さな遊具群の密度を対比して見たい。",
           "official": "https://iwayamapark.hp.peraichi.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E5%B1%B1%E3%83%91%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%20%E5%B2%A9%E6%89%8B%E7%9C%8C%E7%9B%9B%E5%B2%A1%E5%B8%82%E6%96%B0%E5%BA%84%E5%B2%A9%E5%B1%B1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://iwayamapark.hp.peraichi.com/"
         },
         {
           "prefecture": "宮城県",
@@ -5062,12 +5447,13 @@ window.FACILITY_DATASET={
           "name": "チャチャワールドいしこし",
           "type": "ドリームコア",
           "rank": "S",
-          "note": "地方の小規模遊園地",
+          "note": "地方の小規模遊園地。\n狙い目：小規模遊園地として、遊具間の距離と園内を巡る経路を観察する。",
           "official": "http://www.chachaworld.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%81%E3%83%A3%E3%83%81%E3%83%A3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%81%84%E3%81%97%E3%81%93%E3%81%97%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%99%BB%E7%B1%B3%E5%B8%82%E7%9F%B3%E8%B6%8A%E7%94%BA%E5%8D%97%E9%83%B7%E9%AB%98%E6%A3%AE100",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.chachaworld.jp/"
         },
         {
           "prefecture": "青森県",
@@ -5075,12 +5461,13 @@ window.FACILITY_DATASET={
           "name": "八戸公園こどもの国",
           "type": "ドリームコア",
           "rank": "A",
-          "note": "公園内の地方遊園地",
+          "note": "公園内の地方遊園地。\n狙い目：公園の散策空間から遊具のある区画へ移る境目を見る。",
           "official": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koenryokuchika/koen/3884.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%85%AB%E6%88%B8%E5%B8%82%E5%8D%81%E6%97%A5%E5%B8%82%E5%A4%A9%E6%91%A933-2",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koenryokuchika/koen/3884.html"
         },
         {
           "prefecture": "福島県",
@@ -5088,12 +5475,13 @@ window.FACILITY_DATASET={
           "name": "AGCエレクトロニクス郡山カルチャーパーク",
           "type": "ドリームコア",
           "rank": "A",
-          "note": "公共遊園地型。広い園内と遊具",
+          "note": "公共遊園地型。広い園内と遊具。\n狙い目：広い園内で遊具がどう配置されているかを見る。公共公園と遊園地の用途の重なりが対象。",
           "official": "http://www.koriyamaculturepark.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=AGC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E9%83%A1%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%E9%83%A1%E5%B1%B1%E5%B8%82%E5%AE%89%E7%A9%8D%E7%94%BA%E6%88%90%E7%94%B0%E6%9D%B1%E4%B8%B8%E5%B1%B161",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.koriyamaculturepark.com/"
         },
         {
           "prefecture": "群馬県",
@@ -5101,12 +5489,13 @@ window.FACILITY_DATASET={
           "name": "前橋市中央児童遊園 るなぱあく",
           "type": "ドリームコア",
           "rank": "A",
-          "note": "小型遊具と木馬館。昭和児童遊園の原型 開業年：1954年。",
+          "note": "小型遊具と木馬館。昭和児童遊園の原型 開業年：1954年。\n狙い目：木馬館と小型遊具の関係を見たい。建物に包まれた遊び場と屋外の遊び場を比べる。",
           "official": "https://lunapark.maebashi-park.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%89%8D%E6%A9%8B%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%85%90%E7%AB%A5%E9%81%8A%E5%9C%92%20%E3%82%8B%E3%81%AA%E3%81%B1%E3%81%82%E3%81%8F%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%89%8D%E6%A9%8B%E5%B8%82%E5%A4%A7%E6%89%8B%E7%94%BA3-16-3",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://lunapark.maebashi-park.com/"
         },
         {
           "prefecture": "栃木県",
@@ -5114,12 +5503,13 @@ window.FACILITY_DATASET={
           "name": "とちのきファミリーランド",
           "type": "ドリームコア",
           "rank": "A",
-          "note": "県営公園内の遊園地",
+          "note": "県営公園内の遊園地。\n狙い目：県営公園の一部として、遊園地へ出入りする経路と周囲の園地を合わせて観察する。",
           "official": "https://www.park-tochigi.com/tochinoki/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%81%A1%E3%81%AE%E3%81%8D%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E8%A5%BF%E5%B7%9D%E7%94%B04-1-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.park-tochigi.com/tochinoki/"
         },
         {
           "prefecture": "奈良県",
@@ -5127,12 +5517,13 @@ window.FACILITY_DATASET={
           "name": "生駒山上遊園地",
           "type": "ドリームコア",
           "rank": "S",
-          "note": "公式にも『レトロな映画館』等の表現。山上遊園地",
+          "note": "公式にも『レトロな映画館』等の表現。山上遊園地。\n狙い目：山上への移動と園内の遊び場の関係を見る。映画館を含む施設の演出も観察対象。",
           "official": "https://www.ikomasanjou.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%9F%E9%A7%92%E5%B1%B1%E4%B8%8A%E9%81%8A%E5%9C%92%E5%9C%B0%20%E5%A5%88%E8%89%AF%E7%9C%8C%E7%94%9F%E9%A7%92%E5%B8%82%E8%8F%9C%E7%95%91%E7%94%BA2312-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.ikomasanjou.com/"
         },
         {
           "prefecture": "石川県",
@@ -5140,12 +5531,13 @@ window.FACILITY_DATASET={
           "name": "手取フィッシュランド",
           "type": "ドリームコア",
           "rank": "S",
-          "note": "遊園地＋ゲームセンターの複合感",
+          "note": "遊園地＋ゲームセンターの複合感。\n狙い目：遊園地とゲームセンターの屋内外の切り替わりに注目。異なる遊びの用途が連なる構成を見る。",
           "official": "http://www.tedori.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%89%8B%E5%8F%96%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%A9%E3%83%B3%E3%83%89%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%E8%83%BD%E7%BE%8E%E5%B8%82%E7%B2%9F%E7%94%9F%E7%94%BA%E3%83%8458",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.tedori.co.jp/"
         },
         {
           "prefecture": "福岡県",
@@ -5153,12 +5545,13 @@ window.FACILITY_DATASET={
           "name": "だざいふ遊園地",
           "type": "ドリームコア",
           "rank": "A",
-          "note": "小規模遊園地。児童遊具中心",
+          "note": "小規模遊園地。児童遊具中心。\n狙い目：児童向け遊具の小さなスケールと、その間を歩く経路の関係を見たい。",
           "official": "https://www.dazaifuyuuenchi.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A0%E3%81%96%E3%81%84%E3%81%B5%E9%81%8A%E5%9C%92%E5%9C%B0%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%B8%82%E5%AE%B0%E5%BA%9C4-7-8",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.dazaifuyuuenchi.com/"
         },
         {
           "prefecture": "大分県",
@@ -5166,12 +5559,13 @@ window.FACILITY_DATASET={
           "name": "城島高原パーク",
           "type": "ドリームコア",
           "rank": "B",
-          "note": "高原型遊園地。地方レジャー施設系",
+          "note": "高原型遊園地。地方レジャー施設系。\n狙い目：高原の開けた景観と人工的な遊具の配置を対比して見る。",
           "official": "https://www.kijimakogen-park.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%8E%E5%B3%B6%E9%AB%98%E5%8E%9F%E3%83%91%E3%83%BC%E3%82%AF%20%E5%A4%A7%E5%88%86%E7%9C%8C%E5%88%A5%E5%BA%9C%E5%B8%82%E5%9F%8E%E5%B3%B6%E9%AB%98%E5%8E%9F123",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kijimakogen-park.jp/"
         },
         {
           "prefecture": "香川県",
@@ -5179,12 +5573,13 @@ window.FACILITY_DATASET={
           "name": "NEWレオマワールド",
           "type": "ドリームコア",
           "rank": "S",
-          "note": "1990年代地方テーマパークの空気が残る 開業年：1991年。",
+          "note": "1990年代地方テーマパークの空気が残る 開業年：1991年。\n狙い目：テーマパークとしての演出と各区画間の移動を観察する。開業年代と現存設備の年代は分けて読む。",
           "official": "https://www.newreomaworld.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=NEW%E3%83%AC%E3%82%AA%E3%83%9E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E9%A6%99%E5%B7%9D%E7%9C%8C%E4%B8%B8%E4%BA%80%E5%B8%82%E7%B6%BE%E6%AD%8C%E7%94%BA%E6%A0%97%E7%86%8A%E8%A5%BF40-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.newreomaworld.com/"
         },
         {
           "prefecture": "愛知県",
@@ -5192,12 +5587,13 @@ window.FACILITY_DATASET={
           "name": "日本モンキーパーク",
           "type": "ドリームコア",
           "rank": "B",
-          "note": "老舗遊園地。場所によって旧来型遊具の雰囲気",
+          "note": "老舗遊園地。場所によって旧来型遊具の雰囲気。\n狙い目：園内を巡って遊具ごとの見え方を比べる。旧来型の雰囲気は現地の具体的な意匠から読み取りたい。",
           "official": "http://www.japan-monkeypark.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%8A%AC%E5%B1%B1%E5%B8%82%E7%8A%AC%E5%B1%B1%E5%AE%98%E6%9E%9726",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.japan-monkeypark.jp/"
         },
         {
           "prefecture": "青森県",
@@ -5205,12 +5601,13 @@ window.FACILITY_DATASET={
           "name": "ファンタジードーム八戸店",
           "type": "屋内遊技場",
           "rank": "S",
-          "note": "地方SC併設の大型ゲームセンター・屋内遊技場",
+          "note": "地方SC併設の大型ゲームセンター・屋内遊技場。\n狙い目：SC内の買い物空間から遊技場へ移る境目に注目。屋内の大きさと遊具・筐体の密度を見る。",
           "official": "http://www.j-ce.co.jp/service/amusement.php",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%83%89%E3%83%BC%E3%83%A0%E5%85%AB%E6%88%B8%E5%BA%97%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%85%AB%E6%88%B8%E5%B8%82%E6%B1%9F%E9%99%BD2-14-1%20%E3%83%A9%E3%83%94%E3%82%A2%E5%85%AB%E6%88%B8%E5%BA%97%E5%88%A5%E6%A3%9F",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.j-ce.co.jp/service/amusement.php"
         },
         {
           "prefecture": "静岡県",
@@ -5218,12 +5615,13 @@ window.FACILITY_DATASET={
           "name": "熱海後楽園ホテル",
           "type": "リゾート・ホテル",
           "rank": "B",
-          "note": "大型リゾートホテル。館内移動空間・夜間の共用部系",
+          "note": "大型リゾートホテル。館内移動空間・夜間の共用部系。\n狙い目：ホテルの共用部を利用できる範囲で、館内移動の距離と用途の切り替わりを観察する。",
           "official": "https://www.atamikorakuen.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%B1%E6%B5%B7%E5%BE%8C%E6%A5%BD%E5%9C%92%E3%83%9B%E3%83%86%E3%83%AB%20%E9%9D%99%E5%B2%A1%E7%9C%8C%E7%86%B1%E6%B5%B7%E5%B8%82%E5%92%8C%E7%94%B0%E6%B5%9C%E5%8D%97%E7%94%BA10-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.atamikorakuen.co.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -5231,12 +5629,13 @@ window.FACILITY_DATASET={
           "name": "東京九州フェリー 横須賀フェリーターミナル",
           "type": "交通リミナル",
           "rank": "A",
-          "note": "巨大待合・乗船前後の空間。夜便との相性が高い",
+          "note": "巨大待合・乗船前後の空間。夜便との相性が高い。\n狙い目：待合から乗船へ進む流れを見る。乗船前後で人の密度が変わるターミナルとして観察したい。",
           "official": "https://tqf.co.jp/embark/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%B9%9D%E5%B7%9E%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E6%A8%AA%E9%A0%88%E8%B3%80%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%96%B0%E6%B8%AF%E7%94%BA11-4",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://tqf.co.jp/embark/"
         },
         {
           "prefecture": "北海道",
@@ -5244,12 +5643,13 @@ window.FACILITY_DATASET={
           "name": "新日本海フェリー 小樽ターミナル",
           "type": "交通リミナル",
           "rank": "A",
-          "note": "フェリー待合・長い移動動線・夜間照明",
+          "note": "フェリー待合・長い移動動線・夜間照明。\n狙い目：待合と長い移動経路をたどり、夜間照明の下で奥行きがどう見えるかを見る。",
           "official": "http://www.snf.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E5%B0%8F%E6%A8%BD%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%B0%8F%E6%A8%BD%E5%B8%82%E7%AF%89%E6%B8%AF7-2%20%E5%8B%9D%E7%B4%8D%E5%9F%A0%E9%A0%AD",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.snf.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -5257,12 +5657,13 @@ window.FACILITY_DATASET={
           "name": "コースカ ベイサイドストアーズ",
           "type": "モールコア",
           "rank": "B",
-          "note": "港湾部の大型商業施設。旧ショッパーズプラザ系",
+          "note": "港湾部の大型商業施設。旧ショッパーズプラザ系。\n狙い目：港側の景観と館内の商業空間を対比する。旧施設の沿革と現在の使われ方を区別して観察する。",
           "official": "https://coaska.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%AB%20%E3%83%99%E3%82%A4%E3%82%B5%E3%82%A4%E3%83%89%E3%82%B9%E3%83%88%E3%82%A2%E3%83%BC%E3%82%BA%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%9C%AC%E7%94%BA2-1-12",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://coaska.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -5270,12 +5671,13 @@ window.FACILITY_DATASET={
           "name": "ニッケパークタウン",
           "type": "モールコア",
           "rank": "B",
-          "note": "1980年代開業の地域型SC 開業年：1984年。",
+          "note": "1980年代開業の地域型SC 開業年：1984年。\n狙い目：地域の買い物施設として、周囲からの入口と館内動線のつながりを見る。",
           "official": "http://nikke-parktown.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%83%E3%82%B1%E3%83%91%E3%83%BC%E3%82%AF%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%B8%82%E5%8A%A0%E5%8F%A4%E5%B7%9D%E7%94%BA%E5%AF%BA%E5%AE%B6%E7%94%BA173-1",
           "kind": "モールコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://nikke-parktown.com/"
         }
       ]
     },
@@ -5293,12 +5695,13 @@ window.FACILITY_DATASET={
           "name": "江東区総合区民センター",
           "type": "区民センター",
           "rank": "S",
-          "note": "図書館・福祉事務所・児童館・会議室・和室・研修室などが同居。複合公共施設として特におすすめ",
+          "note": "図書館・福祉事務所・児童館・会議室・和室・研修室などが同居。複合公共施設として特におすすめ。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
           "official": "https://www.kcf.or.jp/sogo/access/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E6%9D%B1%E5%8C%BA%E7%B7%8F%E5%90%88%E5%8C%BA%E6%B0%91%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kcf.or.jp/sogo/access/"
         },
         {
           "prefecture": "東京都",
@@ -5306,12 +5709,13 @@ window.FACILITY_DATASET={
           "name": "北区滝野川会館",
           "type": "区民会館",
           "rank": "S",
-          "note": "地下図書館・音楽スタジオ・サンクンガーデン・レストラン・文化センター。用途が混在する大型公共施設",
+          "note": "地下図書館・音楽スタジオ・サンクンガーデン・レストラン・文化センター。用途が混在する大型公共施設。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%8C%BA%E6%BB%9D%E9%87%8E%E5%B7%9D%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -5319,12 +5723,13 @@ window.FACILITY_DATASET={
           "name": "渋谷区立勤労福祉会館",
           "type": "勤労福祉施設",
           "rank": "S",
-          "note": "会議室・和室・体育設備。渋谷中心部に残る公共施設感",
+          "note": "会議室・和室・体育設備。渋谷中心部に残る公共施設感。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
           "official": "https://www.city.shibuya.tokyo.jp/shisetsu/shuro/kinro/kinro.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%AB%8B%E5%8B%A4%E5%8A%B4%E7%A6%8F%E7%A5%89%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.shibuya.tokyo.jp/shisetsu/shuro/kinro/kinro.html"
         },
         {
           "prefecture": "東京都",
@@ -5332,12 +5737,13 @@ window.FACILITY_DATASET={
           "name": "目黒区民センター",
           "type": "区民センター",
           "rank": "S",
-          "note": "図書館や周辺公共施設を含む複合エリア。建物単体より一帯を歩くのがおすすめ",
+          "note": "図書館や周辺公共施設を含む複合エリア。建物単体より一帯を歩くのがおすすめ。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
           "official": "http://www.city.meguro.tokyo.jp/shisetsu/shisetsu/kumin_center/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%8C%BA%E6%B0%91%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.meguro.tokyo.jp/shisetsu/shisetsu/kumin_center/index.html"
         },
         {
           "prefecture": "東京都",
@@ -5345,12 +5751,13 @@ window.FACILITY_DATASET={
           "name": "池上会館",
           "type": "区民会館",
           "rank": "S",
-          "note": "展示ホール・視聴覚室・研修室・調理室・科学室・屋上庭園など。用途構成が多層的",
+          "note": "展示ホール・視聴覚室・研修室・調理室・科学室・屋上庭園など。用途構成が多層的。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
           "official": "http://www.city.ota.tokyo.jp/shisetsu/ikegamikaikan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%A0%E4%B8%8A%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.ota.tokyo.jp/shisetsu/ikegamikaikan/"
         },
         {
           "prefecture": "東京都",
@@ -5358,12 +5765,13 @@ window.FACILITY_DATASET={
           "name": "北とぴあ",
           "type": "文化・区民施設",
           "rank": "A",
-          "note": "ホール・会議室・上層階・展望空間。ホール周辺や廊下が狙い目",
+          "note": "ホール・会議室・上層階・展望空間。ホール周辺や廊下が狙い目。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
           "official": "http://www.hokutopia.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E3%81%A8%E3%81%B4%E3%81%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.hokutopia.jp/"
         },
         {
           "prefecture": "東京都",
@@ -5371,12 +5779,13 @@ window.FACILITY_DATASET={
           "name": "サンパール荒川",
           "type": "区民会館",
           "rank": "A",
-          "note": "大型ホール・区役所隣接。行政施設群として見ると面白い",
+          "note": "大型ホール・区役所隣接。行政施設群として見ると面白い。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
           "official": "http://www.sunpearl-arakawa.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E8%8D%92%E5%B7%9D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.sunpearl-arakawa.com/"
         },
         {
           "prefecture": "東京都",
@@ -5384,12 +5793,13 @@ window.FACILITY_DATASET={
           "name": "板橋区立グリーンホール",
           "type": "区民ホール",
           "rank": "A",
-          "note": "貸しホール・会議室。昭和〜平成の公共ホール感",
+          "note": "貸しホール・会議室。昭和〜平成の公共ホール感。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
           "official": "https://www.itabashi-ci.org/greenhall/access/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.itabashi-ci.org/greenhall/access/"
         },
         {
           "prefecture": "東京都",
@@ -5397,12 +5807,13 @@ window.FACILITY_DATASET={
           "name": "練馬区生涯学習センター",
           "type": "生涯学習施設",
           "rank": "A",
-          "note": "学習室・ホール系空間。生涯学習センター特有の事務的空間",
+          "note": "学習室・ホール系空間。生涯学習センター特有の事務的空間。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
           "official": "https://www.city.nerima.tokyo.jp/shisetsu/bunka/kominkan/kominkan.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%B4%E9%A6%AC%E5%8C%BA%E7%94%9F%E6%B6%AF%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.nerima.tokyo.jp/shisetsu/bunka/kominkan/kominkan.html"
         },
         {
           "prefecture": "東京都",
@@ -5410,12 +5821,13 @@ window.FACILITY_DATASET={
           "name": "なかのZERO",
           "type": "文化複合施設",
           "rank": "A",
-          "note": "ホール・図書館・学習室・プラネタリウム。建物全体を探索する価値あり",
+          "note": "ホール・図書館・学習室・プラネタリウム。建物全体を探索する価値あり。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
           "official": "https://www.naka-lab.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%8B%E3%81%AEZERO%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.naka-lab.jp/"
         },
         {
           "prefecture": "東京都",
@@ -5423,12 +5835,13 @@ window.FACILITY_DATASET={
           "name": "江戸川区郷土資料室",
           "type": "郷土資料室",
           "rank": "S",
-          "note": "自治体資料室・展示ケース。小規模で事務的な雰囲気を狙える",
+          "note": "自治体資料室・展示ケース。小規模で事務的な雰囲気を狙える。\n狙い目：展示ケースの並びと説明表示の高さを見たい。展示物だけでなく、自治体資料を見せる室内の構成も対象。",
           "official": "https://www.city.edogawa.tokyo.jp/e_bunkazai/bunkazai/shiryoshitsu/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E5%AE%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.edogawa.tokyo.jp/e_bunkazai/bunkazai/shiryoshitsu/index.html"
         },
         {
           "prefecture": "東京都",
@@ -5436,12 +5849,13 @@ window.FACILITY_DATASET={
           "name": "東京都公文書館",
           "type": "公文書館",
           "rank": "A",
-          "note": "閲覧・保存・行政資料。アーカイブ施設として面白い",
+          "note": "閲覧・保存・行政資料。アーカイブ施設として面白い。\n狙い目：保存するための機能と、一般に見せる閲覧・展示の機能を分けて読む。公開された資料から建物の役割を理解したい。",
           "official": "https://www.soumu.metro.tokyo.lg.jp/01soumu/archives/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AC%E6%96%87%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E5%88%86%E5%AF%BA%E5%B8%82",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.soumu.metro.tokyo.lg.jp/01soumu/archives/"
         },
         {
           "prefecture": "東京都",
@@ -5449,12 +5863,13 @@ window.FACILITY_DATASET={
           "name": "新宿スポーツセンター",
           "type": "スポーツ施設",
           "rank": "A",
-          "note": "体育館・プール・ロッカー・観覧席。古い総合体育館系を狙う",
+          "note": "体育館・プール・ロッカー・観覧席。古い総合体育館系を狙う。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
           "official": "https://www.shinjuku-sportscenter.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.shinjuku-sportscenter.jp/"
         },
         {
           "prefecture": "東京都",
@@ -5462,12 +5877,13 @@ window.FACILITY_DATASET={
           "name": "渋谷区スポーツセンター",
           "type": "スポーツ施設",
           "rank": "A",
-          "note": "体育館・プール・共用廊下。公共スポーツ施設特有の無機質感",
+          "note": "体育館・プール・共用廊下。公共スポーツ施設特有の無機質感。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
           "official": "https://shibspo.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E5%8C%BA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shibspo.com/"
         },
         {
           "prefecture": "東京都",
@@ -5475,12 +5891,13 @@ window.FACILITY_DATASET={
           "name": "中央区立総合スポーツセンター",
           "type": "スポーツ施設",
           "rank": "A",
-          "note": "体育館・プール・観覧スペース。平日昼間や閉館前が狙い目",
+          "note": "体育館・プール・観覧スペース。平日昼間や閉館前が狙い目。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
           "official": "https://www.chuo-sports.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%AB%8B%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.chuo-sports.jp/"
         },
         {
           "prefecture": "東京都",
@@ -5488,12 +5905,13 @@ window.FACILITY_DATASET={
           "name": "有明スポーツセンター",
           "type": "スポーツ施設",
           "rank": "A",
-          "note": "体育館・プール・大型公共施設。湾岸公共施設の空間感",
+          "note": "体育館・プール・大型公共施設。湾岸公共施設の空間感。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
           "official": "http://www.koto-hsc.or.jp/sports_center4/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.koto-hsc.or.jp/sports_center4/"
         },
         {
           "prefecture": "東京都",
@@ -5501,12 +5919,13 @@ window.FACILITY_DATASET={
           "name": "武蔵野市民文化会館",
           "type": "文化会館",
           "rank": "A",
-          "note": "ホール・ロビー・階段・共用部。文化会館系",
+          "note": "ホール・ロビー・階段・共用部。文化会館系。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
           "official": "https://www.musashino.or.jp/bunka/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E6%B0%91%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.musashino.or.jp/bunka/"
         },
         {
           "prefecture": "東京都",
@@ -5514,12 +5933,13 @@ window.FACILITY_DATASET={
           "name": "新宿文化センター",
           "type": "文化会館",
           "rank": "A",
-          "note": "大型ホール・ロビー・廊下。改修状況は要確認",
+          "note": "大型ホール・ロビー・廊下。改修状況は要確認。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
           "official": "http://www.regasu-shinjuku.or.jp/bunka-center/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.regasu-shinjuku.or.jp/bunka-center/"
         },
         {
           "prefecture": "東京都",
@@ -5527,12 +5947,13 @@ window.FACILITY_DATASET={
           "name": "四谷区民ホール",
           "type": "区民ホール",
           "rank": "A",
-          "note": "ホール・公共複合施設。区民施設系",
+          "note": "ホール・公共複合施設。区民施設系。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
           "official": "https://shinjuku.hall-info.jp/yotsuya/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E8%B0%B7%E5%8C%BA%E6%B0%91%E3%83%9B%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shinjuku.hall-info.jp/yotsuya/"
         },
         {
           "prefecture": "東京都",
@@ -5540,12 +5961,13 @@ window.FACILITY_DATASET={
           "name": "セシオン杉並",
           "type": "文化・社会教育施設",
           "rank": "B",
-          "note": "ホール・会議室・共用空間。改修後は比較的新しい",
+          "note": "ホール・会議室・共用空間。改修後は比較的新しい。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
           "official": "https://www.sesion-suginami.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%82%B7%E3%82%AA%E3%83%B3%E6%9D%89%E4%B8%A6%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%89%E4%B8%A6%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sesion-suginami.jp/"
         },
         {
           "prefecture": "東京都",
@@ -5553,12 +5975,13 @@ window.FACILITY_DATASET={
           "name": "麻布区民センター",
           "type": "区民センター",
           "rank": "A",
-          "note": "区民ホール・会議室。都心に残る区民施設",
+          "note": "区民ホール・会議室。都心に残る区民施設。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
           "official": "https://www.city.minato.tokyo.jp/shisetsu/kumincenter/kumincenter/03.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%BA%BB%E5%B8%83%E5%8C%BA%E6%B0%91%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.minato.tokyo.jp/shisetsu/kumincenter/kumincenter/03.html"
         },
         {
           "prefecture": "東京都",
@@ -5566,12 +5989,13 @@ window.FACILITY_DATASET={
           "name": "台東区生涯学習センター",
           "type": "生涯学習施設",
           "rank": "A",
-          "note": "学習施設・図書館・ホール系空間。複合公共施設として見る",
+          "note": "学習施設・図書館・ホール系空間。複合公共施設として見る。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
           "official": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E6%9D%B1%E5%8C%BA%E7%94%9F%E6%B6%AF%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/index.html"
         },
         {
           "prefecture": "東京都",
@@ -5579,12 +6003,13 @@ window.FACILITY_DATASET={
           "name": "東京文化会館",
           "type": "文化会館",
           "rank": "A",
-          "note": "ロビー・階段・ホール周辺・モダニズム建築。1960年代公共文化施設の完成形",
+          "note": "ロビー・階段・ホール周辺・モダニズム建築。1960年代公共文化施設の完成形。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
           "official": "https://www.t-bunka.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.t-bunka.jp/"
         }
       ]
     },
@@ -5602,12 +6027,13 @@ window.FACILITY_DATASET={
           "name": "札幌市図書・情報館",
           "type": "都心型図書館",
           "rank": "A",
-          "note": "仕事と課題解決に重点を置く都心型の閲覧空間。",
+          "note": "仕事と課題解決に重点を置く都心型の閲覧空間。\n狙い目：閲覧席と情報を探す動線の関係に注目。仕事や課題解決に使う場所として、滞在と通行がどう分かれるかを見る。",
           "official": "https://www.sapporo-community-plaza.jp/library.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%9B%B3%E6%9B%B8%E3%83%BB%E6%83%85%E5%A0%B1%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "都心型図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.sapporo-community-plaza.jp/library.html"
         },
         {
           "prefecture": "宮城県",
@@ -5615,12 +6041,13 @@ window.FACILITY_DATASET={
           "name": "せんだいメディアテーク",
           "type": "複合文化・図書館",
           "rank": "S",
-          "note": "透明な外観とチューブ状構造を持つ複合文化施設。",
+          "note": "透明な外観とチューブ状構造を持つ複合文化施設。\n狙い目：透明な外観越しの見通しと、チューブ状の構造が各階で見せる重なりを比べたい。",
           "official": "http://www.smt.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%9B%E3%82%93%E3%81%A0%E3%81%84%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%86%E3%83%BC%E3%82%AF%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA",
           "kind": "複合文化・図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.smt.jp/"
         },
         {
           "prefecture": "栃木県",
@@ -5628,12 +6055,13 @@ window.FACILITY_DATASET={
           "name": "那須塩原市図書館 みるる",
           "type": "駅前図書館",
           "rank": "A",
-          "note": "本棚と展示が連続する駅前の公共空間。",
+          "note": "本棚と展示が連続する駅前の公共空間。\n狙い目：本棚と展示の境目をたどり、駅前の公共空間が読書の場所へ変わる過程を見る。",
           "official": "https://www.nasushiobara-library.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%82%A3%E9%A0%88%E5%A1%A9%E5%8E%9F%E5%B8%82%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E3%81%BF%E3%82%8B%E3%82%8B%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E9%82%A3%E9%A0%88%E5%A1%A9%E5%8E%9F%E5%B8%82",
           "kind": "駅前図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.nasushiobara-library.jp/"
         },
         {
           "prefecture": "群馬県",
@@ -5641,12 +6069,13 @@ window.FACILITY_DATASET={
           "name": "太田市美術館・図書館",
           "type": "美術館・図書館",
           "rank": "S",
-          "note": "美術館と図書館がスロープ状に連続する複合施設。",
+          "note": "美術館と図書館がスロープ状に連続する複合施設。\n狙い目：スロープを移動する際の視線の高さと、図書・美術の用途が切り替わる地点に注目。",
           "official": "http://www.artmuseumlibraryota.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E7%94%B0%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8%E3%83%BB%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%A4%AA%E7%94%B0%E5%B8%82",
           "kind": "美術館・図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.artmuseumlibraryota.jp/"
         },
         {
           "prefecture": "東京都",
@@ -5654,12 +6083,13 @@ window.FACILITY_DATASET={
           "name": "北区立中央図書館",
           "type": "歴史建築・図書館",
           "rank": "S",
-          "note": "旧陸軍の赤レンガ倉庫を取り込んだ図書館。",
+          "note": "旧陸軍の赤レンガ倉庫を取り込んだ図書館。\n狙い目：赤レンガの旧倉庫部分と図書館として使う部分の接し方を観察する。古い用途と新しい利用の重なりが対象。",
           "official": "https://www.library.city.kita.tokyo.jp/viewer/info.html?id",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%8C%BA%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
           "kind": "歴史建築・図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.library.city.kita.tokyo.jp/viewer/info.html?id"
         },
         {
           "prefecture": "東京都",
@@ -5667,12 +6097,13 @@ window.FACILITY_DATASET={
           "name": "板橋区立中央図書館",
           "type": "公園一体型図書館",
           "rank": "A",
-          "note": "公園と連続し、ボローニャ絵本館を併設。",
+          "note": "公園と連続し、ボローニャ絵本館を併設。\n狙い目：公園から館内へ入る流れと、絵本を扱う区画の配置を見る。屋外の緑と閲覧空間の関係に注目。",
           "official": "https://www.city.itabashi.tokyo.jp/library/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
           "kind": "公園一体型図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.itabashi.tokyo.jp/library/"
         },
         {
           "prefecture": "石川県",
@@ -5680,12 +6111,13 @@ window.FACILITY_DATASET={
           "name": "金沢海みらい図書館",
           "type": "図書館建築",
           "rank": "S",
-          "note": "多数の円窓と大きな一室空間を持つ図書館。",
+          "note": "多数の円窓と大きな一室空間を持つ図書館。\n狙い目：円窓から入る光と大きな一室の奥行きを見たい。書架の間から外壁を見たときの窓の反復も対象。",
           "official": "https://www.lib.kanazawa.ishikawa.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E6%B2%A2%E6%B5%B7%E3%81%BF%E3%82%89%E3%81%84%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E9%87%91%E6%B2%A2%E5%B8%82",
           "kind": "図書館建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.lib.kanazawa.ishikawa.jp/"
         },
         {
           "prefecture": "石川県",
@@ -5693,12 +6125,13 @@ window.FACILITY_DATASET={
           "name": "石川県立図書館",
           "type": "図書館建築",
           "rank": "S",
-          "note": "円形閲覧空間と段状書架を持つ県立図書館。",
+          "note": "円形劇場のような大閲覧空間「グレートホール」と段状の書架を持つ図書館。最上部には一周約160mの回廊式閲覧空間「リング」がある。\n狙い目：異なる高さからの書架の重なりと、回廊から大空間を見渡す視線。",
           "official": "https://www.library.pref.ishikawa.lg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E9%87%91%E6%B2%A2%E5%B8%82",
           "kind": "図書館建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.library.pref.ishikawa.lg.jp/\n公式資料：https://www.library.pref.ishikawa.lg.jp/areanavi/spot/ring/"
         },
         {
           "prefecture": "富山県",
@@ -5706,12 +6139,13 @@ window.FACILITY_DATASET={
           "name": "富山市立図書館本館",
           "type": "複合文化・図書館",
           "rank": "A",
-          "note": "吹抜けを中心に美術館と同居する複合施設。",
+          "note": "吹抜けを中心に美術館と同居する複合施設。\n狙い目：吹抜けを挟んだ各階の見え方と、美術館・図書館をつなぐ動線を観察する。",
           "official": "http://www.library.toyama.toyama.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E5%B8%82%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8%E6%9C%AC%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
           "kind": "複合文化・図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.library.toyama.toyama.jp/"
         },
         {
           "prefecture": "長野県",
@@ -5719,12 +6153,13 @@ window.FACILITY_DATASET={
           "name": "小布施町立図書館 まちとしょテラソ",
           "type": "地域図書館",
           "rank": "S",
-          "note": "曲面屋根と開放的なワンルームを持つ町立図書館。",
+          "note": "曲面屋根と開放的なワンルームを持つ町立図書館。\n狙い目：曲面屋根の下で、書架と閲覧席がどう一室を分けているかを見る。屋根の形を感じられる位置が狙い目。",
           "official": "https://www.town.obuse.nagano.jp/lib/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B8%83%E6%96%BD%E7%94%BA%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E3%81%BE%E3%81%A1%E3%81%A8%E3%81%97%E3%82%87%E3%83%86%E3%83%A9%E3%82%BD%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E5%B0%8F%E5%B8%83%E6%96%BD%E7%94%BA",
           "kind": "地域図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.town.obuse.nagano.jp/lib/index.html"
         },
         {
           "prefecture": "岐阜県",
@@ -5732,12 +6167,13 @@ window.FACILITY_DATASET={
           "name": "みんなの森 ぎふメディアコスモス",
           "type": "複合文化・図書館",
           "rank": "S",
-          "note": "木造格子屋根と大きな傘状閲覧空間が特徴。",
+          "note": "木造格子屋根と大きな傘状閲覧空間が特徴。\n狙い目：木造格子屋根と傘状の閲覧空間の重なりに注目。読書する小さな場所と大きな屋根の関係を見る。",
           "official": "https://g-mediacosmos.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E6%A3%AE%20%E3%81%8E%E3%81%B5%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%B9%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%B2%90%E9%98%9C%E5%B8%82",
           "kind": "複合文化・図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://g-mediacosmos.jp/"
         },
         {
           "prefecture": "愛知県",
@@ -5745,12 +6181,13 @@ window.FACILITY_DATASET={
           "name": "安城市図書情報館 アンフォーレ",
           "type": "複合施設・図書館",
           "rank": "A",
-          "note": "ホールや公共サービスと図書館が接続する複合施設。",
+          "note": "ホールや公共サービスと図書館が接続する複合施設。\n狙い目：図書館からホール・公共サービスへ移る際の用途の切り替わりを見る。共用部の案内と動線が対象。",
           "official": "https://www.library.city.anjo.aichi.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%89%E5%9F%8E%E5%B8%82%E5%9B%B3%E6%9B%B8%E6%83%85%E5%A0%B1%E9%A4%A8%20%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AC%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%AE%89%E5%9F%8E%E5%B8%82",
           "kind": "複合施設・図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.library.city.anjo.aichi.jp/"
         },
         {
           "prefecture": "滋賀県",
@@ -5758,12 +6195,13 @@ window.FACILITY_DATASET={
           "name": "守山市立図書館",
           "type": "図書館建築",
           "rank": "A",
-          "note": "大きな木架構と中庭を持つ市立図書館。",
+          "note": "大きな木架構と中庭を持つ市立図書館。\n狙い目：木架構を見上げる視線と中庭へ向かう視線を比べ、屋根に包まれる場所と外に開く場所を読み取りたい。",
           "official": "http://moriyama-city-lib.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%88%E5%B1%B1%E5%B8%82%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%AE%88%E5%B1%B1%E5%B8%82",
           "kind": "図書館建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://moriyama-city-lib.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -5771,12 +6209,13 @@ window.FACILITY_DATASET={
           "name": "こども本の森 中之島",
           "type": "子ども図書館",
           "rank": "A",
-          "note": "吹抜けの壁面書架を持つ子どものための図書文化施設。",
+          "note": "吹抜けの壁面書架を持つ子どものための図書文化施設。\n狙い目：吹抜けを囲む書架の高さと、本を手に取る位置の違いが対象。壁面が本で覆われた空間を見上げたい。",
           "official": "https://kodomohonnomori.osaka/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%93%E3%81%A9%E3%82%82%E6%9C%AC%E3%81%AE%E6%A3%AE%20%E4%B8%AD%E4%B9%8B%E5%B3%B6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
           "kind": "子ども図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://kodomohonnomori.osaka/"
         },
         {
           "prefecture": "神奈川県",
@@ -5784,12 +6223,13 @@ window.FACILITY_DATASET={
           "name": "大和市文化創造拠点 シリウス",
           "type": "複合文化・図書館",
           "rank": "A",
-          "note": "図書館、ホール、生涯学習施設が縦に重なる複合施設。",
+          "note": "図書館、ホール、生涯学習施設が縦に重なる複合施設。\n狙い目：各階の案内をたどり、図書館・ホール・学習施設の用途が縦に重なる構成を見る。",
           "official": "https://www.yamato-bunka.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%92%8C%E5%B8%82%E6%96%87%E5%8C%96%E5%89%B5%E9%80%A0%E6%8B%A0%E7%82%B9%20%E3%82%B7%E3%83%AA%E3%82%A6%E3%82%B9%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%A4%A7%E5%92%8C%E5%B8%82",
           "kind": "複合文化・図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.yamato-bunka.jp/"
         },
         {
           "prefecture": "岡山県",
@@ -5797,12 +6237,13 @@ window.FACILITY_DATASET={
           "name": "瀬戸内市民図書館 もみわ広場",
           "type": "地域図書館",
           "rank": "A",
-          "note": "地域資料と交流空間を一体化した市民図書館。",
+          "note": "地域資料と交流空間を一体化した市民図書館。\n狙い目：資料を読む場所と交流する場所の配置を見たい。同じ館内で静かな滞在と会話の用途をどう分けるかに注目。",
           "official": "https://lib.city.setouchi.lg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%80%AC%E6%88%B8%E5%86%85%E5%B8%82%E6%B0%91%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E3%82%82%E3%81%BF%E3%82%8F%E5%BA%83%E5%A0%B4%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E7%80%AC%E6%88%B8%E5%86%85%E5%B8%82",
           "kind": "地域図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://lib.city.setouchi.lg.jp/"
         },
         {
           "prefecture": "高知県",
@@ -5810,12 +6251,13 @@ window.FACILITY_DATASET={
           "name": "オーテピア高知図書館",
           "type": "複合図書館",
           "rank": "A",
-          "note": "県市合同図書館と科学館等が同居する複合施設。",
+          "note": "県市合同図書館と科学館等が同居する複合施設。\n狙い目：図書館と科学館の関係を共用部の案内から読む。複数の公共機能が同居する建物として観察する。",
           "official": "https://otepia.kochi.jp/library/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%BC%E3%83%86%E3%83%94%E3%82%A2%E9%AB%98%E7%9F%A5%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E9%AB%98%E7%9F%A5%E5%B8%82",
           "kind": "複合図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://otepia.kochi.jp/library/"
         },
         {
           "prefecture": "佐賀県",
@@ -5823,12 +6265,13 @@ window.FACILITY_DATASET={
           "name": "伊万里市民図書館",
           "type": "地域図書館",
           "rank": "A",
-          "note": "市民参加型運営と滞在空間で知られる公共図書館。",
+          "note": "市民参加型運営と滞在空間で知られる公共図書館。\n狙い目：本を借りる動線だけでなく、腰を落ち着けて過ごす場所の配置を見たい。",
           "official": "https://www.library.city.imari.saga.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E4%B8%87%E9%87%8C%E5%B8%82%E6%B0%91%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BC%8A%E4%B8%87%E9%87%8C%E5%B8%82",
           "kind": "地域図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.library.city.imari.saga.jp/"
         },
         {
           "prefecture": "沖縄県",
@@ -5836,12 +6279,13 @@ window.FACILITY_DATASET={
           "name": "恩納村文化情報センター",
           "type": "観光・地域図書館",
           "rank": "A",
-          "note": "図書館と観光情報機能が海辺で同居する施設。",
+          "note": "図書館と観光情報機能が海辺で同居する施設。\n狙い目：図書館と観光案内の切り替わりに注目。地域の日常利用と来訪者向けの情報が同居する点が対象。",
           "official": "http://www.onna-culture.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%81%A9%E7%B4%8D%E6%9D%91%E6%96%87%E5%8C%96%E6%83%85%E5%A0%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E6%81%A9%E7%B4%8D%E6%9D%91",
           "kind": "観光・地域図書館",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.onna-culture.jp/"
         },
         {
           "prefecture": "東京都",
@@ -5849,12 +6293,13 @@ window.FACILITY_DATASET={
           "name": "東京都立中央図書館",
           "type": "図書館",
           "rank": "S",
-          "note": "巨大閲覧室・長い照明・公共施設的内装・食堂。1970年代大型公共建築の雰囲気",
+          "note": "巨大閲覧室・長い照明・公共施設的内装・食堂。1970年代大型公共建築の雰囲気。\n狙い目：大きな閲覧室と反復する照明を、書架の間から眺めたい。食堂へ移る際の用途の変化も観察点。",
           "official": "https://www.library.metro.tokyo.lg.jp/guide/central_library/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.library.metro.tokyo.lg.jp/guide/central_library/"
         },
         {
           "prefecture": "東京都",
@@ -5862,12 +6307,13 @@ window.FACILITY_DATASET={
           "name": "国立国会図書館 東京本館",
           "type": "図書館",
           "rank": "S",
-          "note": "巨大な資料保存機構・閲覧施設。国家機関系のリミナル感",
+          "note": "巨大な資料保存機構・閲覧施設。国家機関系のリミナル感。\n狙い目：資料を申し込んで読む流れと閲覧空間の関係を見る。書庫は一般閲覧区域とは別の機能として捉える。",
           "official": "https://www.ndl.go.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E6%9C%AC%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.ndl.go.jp/"
         },
         {
           "prefecture": "東京都",
@@ -5875,12 +6321,13 @@ window.FACILITY_DATASET={
           "name": "東京都立多摩図書館",
           "type": "図書館",
           "rank": "B",
-          "note": "大規模閲覧空間・研究施設的雰囲気。比較的新しいが無機質系",
+          "note": "大規模閲覧空間・研究施設的雰囲気。比較的新しいが無機質系。\n狙い目：閲覧空間の広がりと資料を探す経路の関係を観察したい。研究のための滞在場所として席の配置を見る。",
           "official": "https://www.library.metro.tokyo.lg.jp/guide/tama_library/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%A4%9A%E6%91%A9%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E5%88%86%E5%AF%BA%E5%B8%82",
           "kind": "公共空間",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.library.metro.tokyo.lg.jp/guide/tama_library/"
         },
         {
           "prefecture": "東京都",
@@ -5888,12 +6335,13 @@ window.FACILITY_DATASET={
           "name": "東京都立図書館「東京の地域資料に関するリンク集」",
           "type": "郷土資料",
           "rank": "A",
-          "note": "各区市町村の古写真、郷土資料、デジタルアーカイブを掘る入口。",
+          "note": "各区市町村の古写真、郷土資料、デジタルアーカイブを掘る入口。\n狙い目：自治体ごとの古写真・郷土資料の所在を比較する入口。同じ地名を複数の資料でたどると、街の変化を追いやすい。",
           "official": "https://www.library.metro.tokyo.lg.jp/guide/central_library/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.library.metro.tokyo.lg.jp/guide/central_library/"
         },
         {
           "prefecture": "京都府",
@@ -5901,12 +6349,13 @@ window.FACILITY_DATASET={
           "name": "国立国会図書館 関西館",
           "type": "国立図書館・書庫",
           "rank": "S",
-          "note": "一般利用（条件あり）。大規模地下書庫を備える公共建築",
+          "note": "一般利用（条件あり）。大規模地下書庫を備える公共建築。\n狙い目：地下書庫を備える建築の性格を、一般利用できる閲覧部分と案内から読む。書庫自体の自由な立入りは前提にしない。",
           "official": "http://www.ndl.go.jp/jp/service/kansai/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E9%96%A2%E8%A5%BF%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.ndl.go.jp/jp/service/kansai/index.html"
         },
         {
           "prefecture": "東京都",
@@ -5914,12 +6363,13 @@ window.FACILITY_DATASET={
           "name": "武蔵野プレイス「屋上・テラス系空間」",
           "type": "公共図書館・文化施設",
           "rank": "B",
-          "note": "開館時。公共建築として面白い",
+          "note": "開館時。公共建築として面白い。\n狙い目：公共建築として、読書する場所と外部空間の接続を見たい。屋上やテラスは一般公開されている区画を対象にする。",
           "official": "http://www.musashino.or.jp/place/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "武蔵野プレイス"
+          "mapQueryName": "武蔵野プレイス",
+          "references": "公式サイト：http://www.musashino.or.jp/place/"
         },
         {
           "prefecture": "東京都",
@@ -5927,12 +6377,13 @@ window.FACILITY_DATASET={
           "name": "ゆいの森あらかわ「屋上・テラス系読書空間」",
           "type": "公共図書館",
           "rank": "B",
-          "note": "無料。図書館建築＋外部空間",
+          "note": "無料。図書館建築＋外部空間。\n狙い目：屋内の読書空間と外部空間の境目を見たい。席からの見通しと、外へ向かう経路の変化が観察点。",
           "official": "https://www.yuinomori.city.arakawa.tokyo.jp/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%86%E3%81%84%E3%81%AE%E6%A3%AE%E3%81%82%E3%82%89%E3%81%8B%E3%82%8F%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "ゆいの森あらかわ"
+          "mapQueryName": "ゆいの森あらかわ",
+          "references": "公式サイト：https://www.yuinomori.city.arakawa.tokyo.jp/index.html"
         }
       ]
     },
@@ -5950,12 +6401,13 @@ window.FACILITY_DATASET={
           "name": "東京都「東京デジタルアーカイブ」",
           "type": "昔の街",
           "rank": "A",
-          "note": "東京都が撮影してきた都政記録写真。昔の街、公共施設、道路、再開発などを見られる。",
+          "note": "東京都が撮影してきた都政記録写真。昔の街、公共施設、道路、再開発などを見られる。\n狙い目：同じ場所の異なる時期の写真を見比べ、道路・公共施設・周囲の建物の変化を追う。",
           "official": "https://www.koho.metro.tokyo.lg.jp/photo/tokyoarchive/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.koho.metro.tokyo.lg.jp/photo/tokyoarchive/index.html"
         },
         {
           "prefecture": "東京都",
@@ -5963,12 +6415,13 @@ window.FACILITY_DATASET={
           "name": "東京都下水道局「水再生センター一覧」",
           "type": "下水道",
           "rank": "S",
-          "note": "芝浦、三河島、砂町、有明、落合、森ヶ崎などの水再生センターを横断して見られる。",
+          "note": "芝浦、三河島、砂町、有明、落合、森ヶ崎などの水再生センターを横断して見られる。\n狙い目：水処理の流れと施設配置を照合し、普段は見えない都市設備の役割を読む。現地見学の案内とウェブ資料を区別して使う。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/guide/sise-list",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%8B%E6%B0%B4%E9%81%93%E5%B1%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/guide/sise-list"
         },
         {
           "prefecture": "東京都",
@@ -5976,12 +6429,13 @@ window.FACILITY_DATASET={
           "name": "東京都下水道局「見学案内」",
           "type": "下水道",
           "rank": "S",
-          "note": "水再生センター、蔵前水の館、旧三河島汚水処分場喞筒場などへの入口。",
+          "note": "水再生センター、蔵前水の館、旧三河島汚水処分場喞筒場などへの入口。\n狙い目：水処理の流れと施設配置を照合し、普段は見えない都市設備の役割を読む。現地見学の案内とウェブ資料を区別して使う。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/guide",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%8B%E6%B0%B4%E9%81%93%E5%B1%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/guide"
         },
         {
           "prefecture": "東京都",
@@ -5989,12 +6443,13 @@ window.FACILITY_DATASET={
           "name": "東京都下水道局「落合水再生センター」",
           "type": "下水道",
           "rank": "S",
-          "note": "新宿区上落合にある水再生センター。中野からも行きやすい。",
+          "note": "新宿区上落合にある水再生センター。中野からも行きやすい。\n狙い目：水処理の流れと施設配置を照合し、普段は見えない都市設備の役割を読む。現地見学の案内とウェブ資料を区別して使う。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/pr/kouhou/shisetsu/44994",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%8B%E6%B0%B4%E9%81%93%E5%B1%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/pr/kouhou/shisetsu/44994"
         },
         {
           "prefecture": "東京都",
@@ -6002,12 +6457,13 @@ window.FACILITY_DATASET={
           "name": "東京都下水道局「砂町水再生センター」",
           "type": "下水道",
           "rank": "S",
-          "note": "東部スラッジプラントを併設。汚泥処理まで含めて施設構成が面白い。",
+          "note": "東部スラッジプラントを併設。汚泥処理まで含めて施設構成が面白い。\n狙い目：水処理の流れと施設配置を照合し、普段は見えない都市設備の役割を読む。現地見学の案内とウェブ資料を区別して使う。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/pr/kouhou/shisetsu/44991",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%8B%E6%B0%B4%E9%81%93%E5%B1%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/pr/kouhou/shisetsu/44991"
         },
         {
           "prefecture": "東京都",
@@ -6015,12 +6471,13 @@ window.FACILITY_DATASET={
           "name": "東京二十三区清掃一部事務組合「工場見学」",
           "type": "清掃工場",
           "rank": "S",
-          "note": "23区の清掃工場を横断して探せる。各工場の清掃工場だよりなども面白い。",
+          "note": "23区の清掃工場を横断して探せる。各工場の清掃工場だよりなども面白い。\n狙い目：処理工程と設備の役割を読み、都市のごみが運ばれてから処理されるまでの流れを追う。",
           "official": "https://www.union.tokyo23-seisou.lg.jp/kengaku/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E5%8C%BA%E6%B8%85%E6%8E%83%E4%B8%80%E9%83%A8%E4%BA%8B%E5%8B%99%E7%B5%84%E5%90%88%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.union.tokyo23-seisou.lg.jp/kengaku/"
         },
         {
           "prefecture": "東京都",
@@ -6028,12 +6485,13 @@ window.FACILITY_DATASET={
           "name": "東京二十三区清掃一部事務組合「多摩川清掃工場」",
           "type": "清掃工場",
           "rank": "S",
-          "note": "過去の清掃工場だよりが多数残っている。",
+          "note": "過去の清掃工場だよりが多数残っている。\n狙い目：処理工程と設備の役割を読み、都市のごみが運ばれてから処理されるまでの流れを追う。",
           "official": "https://www.union.tokyo23-seisou.lg.jp/kojo/tamagawa/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E5%8C%BA%E6%B8%85%E6%8E%83%E4%B8%80%E9%83%A8%E4%BA%8B%E5%8B%99%E7%B5%84%E5%90%88%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.union.tokyo23-seisou.lg.jp/kojo/tamagawa/index.html"
         },
         {
           "prefecture": "東京都",
@@ -6041,12 +6499,13 @@ window.FACILITY_DATASET={
           "name": "東京都中央卸売市場「市場見学」",
           "type": "市場",
           "rank": "A",
-          "note": "豊洲、大田、豊島、淀橋、足立、板橋、世田谷、北足立など各市場を横断できる。",
+          "note": "豊洲、大田、豊島、淀橋、足立、板橋、世田谷、北足立など各市場を横断できる。\n狙い目：一般見学者と市場の業務動線の分け方を案内から読む。受付や申請に必要な情報も合わせて確認する。",
           "official": "https://www.shijou.metro.tokyo.lg.jp/kengaku",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.shijou.metro.tokyo.lg.jp/kengaku"
         },
         {
           "prefecture": "東京都",
@@ -6054,12 +6513,13 @@ window.FACILITY_DATASET={
           "name": "東京都中央卸売市場「市場見学申請書」",
           "type": "市場",
           "rank": "A",
-          "note": "一般用・学校用などの見学申請様式がまとまっている。",
+          "note": "一般用・学校用などの見学申請様式がまとまっている。\n狙い目：一般見学者と市場の業務動線の分け方を案内から読む。受付や申請に必要な情報も合わせて確認する。",
           "official": "https://www.shijou.metro.tokyo.lg.jp/kengaku/form",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.shijou.metro.tokyo.lg.jp/kengaku/form"
         },
         {
           "prefecture": "東京都",
@@ -6067,12 +6527,13 @@ window.FACILITY_DATASET={
           "name": "千代田区「防災行政無線」",
           "type": "防災無線",
           "rank": "B",
-          "note": "災害放送だけでなく平時の定時放送など、街に何を放送するかが見える。",
+          "note": "災害放送だけでなく平時の定時放送など、街に何を放送するかが見える。\n狙い目：対象となる地域や施設の位置を地図と照合し、日常の建物・街路に防災機能がどう重ねられているかを読む。",
           "official": "https://www.city.chiyoda.lg.jp/koho/kurashi/bosai/johotekyo/musen.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.chiyoda.lg.jp/koho/kurashi/bosai/johotekyo/musen.html"
         },
         {
           "prefecture": "北海道",
@@ -6080,12 +6541,13 @@ window.FACILITY_DATASET={
           "name": "北海道教育委員会「廃校施設の活用事例集」",
           "type": "廃校",
           "rank": "S",
-          "note": "旧学校名、廃校年度、現在の用途が大量に並ぶ。",
+          "note": "旧学校名、廃校年度、現在の用途が大量に並ぶ。\n狙い目：旧学校名と転用後の用途を照合し、学校建築が地域でどう使い直されるかを比較する。",
           "official": "https://www.dokyoi.pref.hokkaido.lg.jp/hk/gst/haiko/jireisyu1.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%95%99%E8%82%B2%E5%A7%94%E5%93%A1%E4%BC%9A%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.dokyoi.pref.hokkaido.lg.jp/hk/gst/haiko/jireisyu1.html"
         },
         {
           "prefecture": "北海道",
@@ -6093,12 +6555,13 @@ window.FACILITY_DATASET={
           "name": "北海道教育委員会「廃校舎・旧教職員住宅等未利用地情報」",
           "type": "未利用施設",
           "rank": "S",
-          "note": "廃校だけでなく旧教職員住宅や未利用地まで見られる。",
+          "note": "廃校だけでなく旧教職員住宅や未利用地まで見られる。\n狙い目：旧用途と所在地を手掛かりに、使われなくなった公共施設が次の用途へ移る過程を読む。",
           "official": "https://www.dokyoi.pref.hokkaido.lg.jp/hk/gst/haikouandjyutaku.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%95%99%E8%82%B2%E5%A7%94%E5%93%A1%E4%BC%9A%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.dokyoi.pref.hokkaido.lg.jp/hk/gst/haikouandjyutaku.html"
         },
         {
           "prefecture": "北海道",
@@ -6106,12 +6569,13 @@ window.FACILITY_DATASET={
           "name": "北海道教育委員会「旧教職員住宅売却対象物件情報」",
           "type": "住宅",
           "rank": "B",
-          "note": "空知、宗谷、根室、留萌など管内別に売却対象の旧教職員住宅が並ぶ。",
+          "note": "空知、宗谷、根室、留萌など管内別に売却対象の旧教職員住宅が並ぶ。\n狙い目：旧用途と所在地を手掛かりに、使われなくなった公共施設が次の用途へ移る過程を読む。",
           "official": "https://www.dokyoi.pref.hokkaido.lg.jp/hk/gst/koutakubaikyaku.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%95%99%E8%82%B2%E5%A7%94%E5%93%A1%E4%BC%9A%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.dokyoi.pref.hokkaido.lg.jp/hk/gst/koutakubaikyaku.html"
         },
         {
           "prefecture": "北海道",
@@ -6119,12 +6583,13 @@ window.FACILITY_DATASET={
           "name": "北海道教育委員会「教育庁施設課 全ページ」",
           "type": "行政深層",
           "rank": "S",
-          "note": "廃校、旧教職員住宅、自販機設置、公有財産、工事発注などに潜れる。",
+          "note": "廃校、旧教職員住宅、自販機設置、公有財産、工事発注などに潜れる。\n狙い目：旧用途と所在地を手掛かりに、使われなくなった公共施設が次の用途へ移る過程を読む。",
           "official": "https://www.dokyoi.pref.hokkaido.lg.jp/hk/gst/docs/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%95%99%E8%82%B2%E5%A7%94%E5%93%A1%E4%BC%9A%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.dokyoi.pref.hokkaido.lg.jp/hk/gst/docs/"
         },
         {
           "prefecture": "北海道",
@@ -6132,12 +6597,13 @@ window.FACILITY_DATASET={
           "name": "札幌市「雪堆積場情報」",
           "type": "雪",
           "rank": "B",
-          "note": "市内各所の雪を捨てる場所を管理するページ。",
+          "note": "市内各所の雪を捨てる場所を管理するページ。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.sapporo.jp/kensetsu/yuki/taisekijou/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.sapporo.jp/kensetsu/yuki/taisekijou/"
         },
         {
           "prefecture": "北海道",
@@ -6145,12 +6611,13 @@ window.FACILITY_DATASET={
           "name": "札幌市「雪堆積場 全箇所開設状況」",
           "type": "雪",
           "rank": "B",
-          "note": "満杯・閉鎖・搬入可能車種・手おろし可否などが並ぶ。",
+          "note": "満杯・閉鎖・搬入可能車種・手おろし可否などが並ぶ。\n狙い目：施設や交通の稼働する時間と休止する時間を読み取る。訪問用の情報に加えて、運用の周期を知る資料として見る。",
           "official": "https://www4.city.sapporo.jp/cgi-bin/kensetsu/yuki/show_taiseki.cgi",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www4.city.sapporo.jp/cgi-bin/kensetsu/yuki/show_taiseki.cgi"
         },
         {
           "prefecture": "北海道",
@@ -6158,12 +6625,13 @@ window.FACILITY_DATASET={
           "name": "札幌市「雪堆積場ライブ映像」",
           "type": "ライブカメラ",
           "rank": "B",
-          "note": "冬季に雪堆積場の出入口映像などを確認できる。",
+          "note": "冬季に雪堆積場の出入口映像などを確認できる。\n狙い目：映像の時刻や季節を意識して、施設の出入口と搬入の動きを見る。静止画では分かりにくい日常の運用が対象。",
           "official": "https://www4.city.sapporo.jp/cgi-bin/kensetsu/yuki/show_taiseki.cgi?type=2",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www4.city.sapporo.jp/cgi-bin/kensetsu/yuki/show_taiseki.cgi?type=2"
         },
         {
           "prefecture": "北海道",
@@ -6171,12 +6639,13 @@ window.FACILITY_DATASET={
           "name": "札幌市「雪対策施設」",
           "type": "都市設備",
           "rank": "B",
-          "note": "雪堆積場、融雪施設、流雪溝、ロードヒーティングなどを一覧できる。",
+          "note": "雪堆積場、融雪施設、流雪溝、ロードヒーティングなどを一覧できる。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.sapporo.jp/kensetsu/yuki/yukishisetsu/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.sapporo.jp/kensetsu/yuki/yukishisetsu/index.html"
         },
         {
           "prefecture": "北海道",
@@ -6184,12 +6653,13 @@ window.FACILITY_DATASET={
           "name": "札幌市「雪堆積場違反車両検知システム」",
           "type": "謎システム",
           "rank": "B",
-          "note": "雪堆積場の違反車両を検知する行政システムの公募ページ。",
+          "note": "雪堆積場の違反車両を検知する行政システムの公募ページ。\n狙い目：作業の範囲と工程の書かれ方を読み、街で見える設備がどのような業務で維持されているかをたどる。",
           "official": "https://www.city.sapporo.jp/kensetsu/yuki/jigyosha/ihansharyou.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.sapporo.jp/kensetsu/yuki/jigyosha/ihansharyou.html"
         },
         {
           "prefecture": "北海道",
@@ -6197,12 +6667,13 @@ window.FACILITY_DATASET={
           "name": "札幌市「建設局 随意契約結果」",
           "type": "行政システム",
           "rank": "B",
-          "note": "除雪作業日報作成支援システム、雪堆積場等選定システムなどが出てくる。",
+          "note": "除雪作業日報作成支援システム、雪堆積場等選定システムなどが出てくる。\n狙い目：作業の範囲と工程の書かれ方を読み、街で見える設備がどのような業務で維持されているかをたどる。",
           "official": "https://www.city.sapporo.jp/kensetsu/stn/dobokubu/kako/simeizuii7.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.sapporo.jp/kensetsu/stn/dobokubu/kako/simeizuii7.html"
         },
         {
           "prefecture": "北海道",
@@ -6210,12 +6681,13 @@ window.FACILITY_DATASET={
           "name": "札幌市「民活型雪堆積場管理業務」",
           "type": "雪",
           "rank": "B",
-          "note": "土地確保から施設整備、雪処理、雪割、閉鎖までを民間に発注する仕様が見える。",
+          "note": "土地確保から施設整備、雪処理、雪割、閉鎖までを民間に発注する仕様が見える。\n狙い目：作業の範囲と工程の書かれ方を読み、街で見える設備がどのような業務で維持されているかをたどる。",
           "official": "https://www.city.sapporo.jp/kensetsu/yuki/jigyosha/minkatsu-r8.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.sapporo.jp/kensetsu/yuki/jigyosha/minkatsu-r8.html"
         },
         {
           "prefecture": "北海道",
@@ -6223,12 +6695,13 @@ window.FACILITY_DATASET={
           "name": "札幌市交通局「地下鉄の概要」",
           "type": "地下鉄",
           "rank": "S",
-          "note": "南北線の地上区間を覆う雪対策シェルターなど、札幌独自の構造が見える。",
+          "note": "南北線の地上区間を覆う雪対策シェルターなど、札幌独自の構造が見える。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.sapporo.jp/st/subway/gaiyo/gaiyo.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.sapporo.jp/st/subway/gaiyo/gaiyo.html"
         },
         {
           "prefecture": "北海道",
@@ -6236,12 +6709,13 @@ window.FACILITY_DATASET={
           "name": "札幌市交通局「真駒内バス施設等除雪業務仕様書」",
           "type": "除雪仕様書",
           "rank": "S",
-          "note": "地下鉄シェルターから雪を下ろす方法など維持管理の裏側が読める。",
+          "note": "地下鉄シェルターから雪を下ろす方法など維持管理の裏側が読める。\n狙い目：作業の範囲と工程の書かれ方を読み、街で見える設備がどのような業務で維持されているかをたどる。",
           "official": "https://www.city.sapporo.jp/st/keiyaku/25kokuji/documents/257510siyousyo.pdf",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.sapporo.jp/st/keiyaku/25kokuji/documents/257510siyousyo.pdf"
         },
         {
           "prefecture": "北海道",
@@ -6249,12 +6723,13 @@ window.FACILITY_DATASET={
           "name": "稚内市「除雪について」",
           "type": "除雪行政",
           "rank": "B",
-          "note": "除雪対象路線、出動目安、地区ごとの担当業者などを公開。",
+          "note": "除雪対象路線、出動目安、地区ごとの担当業者などを公開。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.wakkanai.hokkaido.jp/sangyo/dorokasen/josetsu/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A8%9A%E5%86%85%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.wakkanai.hokkaido.jp/sangyo/dorokasen/josetsu/"
         },
         {
           "prefecture": "青森県",
@@ -6262,12 +6737,13 @@ window.FACILITY_DATASET={
           "name": "青森市「流・融雪溝は適正に利用しましょう」",
           "type": "流雪溝",
           "rank": "B",
-          "note": "道路脇の投雪口に雪を投入する設備の利用ルールが載る。",
+          "note": "道路脇の投雪口に雪を投入する設備の利用ルールが載る。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.aomori.aomori.jp/kurashi_kankyo/kitaguni/1002437/1002446.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E5%B8%82%20%E9%9D%92%E6%A3%AE%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.aomori.aomori.jp/kurashi_kankyo/kitaguni/1002437/1002446.html"
         },
         {
           "prefecture": "青森県",
@@ -6275,12 +6751,13 @@ window.FACILITY_DATASET={
           "name": "青森市「除排雪事業実施計画」",
           "type": "除雪行政",
           "rank": "B",
-          "note": "毎年度の除雪方法や支援制度を計画書として公開。",
+          "note": "毎年度の除雪方法や支援制度を計画書として公開。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.aomori.aomori.jp/kurashi_kankyo/kitaguni/1002456/1002457/1002459.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E5%B8%82%20%E9%9D%92%E6%A3%AE%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.aomori.aomori.jp/kurashi_kankyo/kitaguni/1002456/1002457/1002459.html"
         },
         {
           "prefecture": "青森県",
@@ -6288,12 +6765,13 @@ window.FACILITY_DATASET={
           "name": "青森市「地域コミュニティ除排雪制度」",
           "type": "町内会",
           "rank": "B",
-          "note": "町会・除雪業者・市で除排雪の方法を協定する制度。",
+          "note": "町会・除雪業者・市で除排雪の方法を協定する制度。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.aomori.aomori.jp/kurashi_kankyo/kitaguni/1002413/1002416/1002418.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E5%B8%82%20%E9%9D%92%E6%A3%AE%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.aomori.aomori.jp/kurashi_kankyo/kitaguni/1002413/1002416/1002418.html"
         },
         {
           "prefecture": "群馬県",
@@ -6301,12 +6779,13 @@ window.FACILITY_DATASET={
           "name": "渋川市「旧刀川小学校の利活用事業者公募」",
           "type": "廃校",
           "rank": "S",
-          "note": "廃校の施設図面、貸付条件、申込書、資金計画などまで見られる。",
+          "note": "廃校の施設図面、貸付条件、申込書、資金計画などまで見られる。\n狙い目：図面上の出入口・廊下・居室の配置を読み、建物の使い方と現在の用途を比較したい。",
           "official": "https://www.city.shibukawa.lg.jp/shisei/000276/000283/p010593.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E5%B7%9D%E5%B8%82%20%E7%BE%A4%E9%A6%AC%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.shibukawa.lg.jp/shisei/000276/000283/p010593.html"
         },
         {
           "prefecture": "茨城県",
@@ -6314,12 +6793,13 @@ window.FACILITY_DATASET={
           "name": "かすみがうら市「千代田地区の廃校施設」",
           "type": "廃校",
           "rank": "S",
-          "note": "廃校写真、利活用調査、市民との懇談会議事録などを公開。",
+          "note": "廃校写真、利活用調査、市民との懇談会議事録などを公開。\n狙い目：旧学校名と転用後の用途を照合し、学校建築が地域でどう使い直されるかを比較する。",
           "official": "https://www.city.kasumigaura.lg.jp/page/page013104.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%81%99%E3%81%BF%E3%81%8C%E3%81%86%E3%82%89%E5%B8%82%20%E8%8C%A8%E5%9F%8E%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kasumigaura.lg.jp/page/page013104.html"
         },
         {
           "prefecture": "神奈川県",
@@ -6327,12 +6807,13 @@ window.FACILITY_DATASET={
           "name": "川崎市「浮島処理センター」",
           "type": "清掃工場",
           "rank": "S",
-          "note": "焼却施設と粗大ごみ処理施設。中央制御室なども見学対象。",
+          "note": "焼却施設と粗大ごみ処理施設。中央制御室なども見学対象。\n狙い目：処理工程と設備の役割を読み、都市のごみが運ばれてから処理されるまでの流れを追う。",
           "official": "https://www.city.kawasaki.jp/shisei/category/288-12-1-4-0-0-0-0-0-0.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%B4%8E%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kawasaki.jp/shisei/category/288-12-1-4-0-0-0-0-0-0.html"
         },
         {
           "prefecture": "神奈川県",
@@ -6340,12 +6821,13 @@ window.FACILITY_DATASET={
           "name": "横浜市「水再生センター等一覧」",
           "type": "下水道",
           "rank": "S",
-          "note": "市内の水再生センターと汚泥資源化センターの入口。",
+          "note": "市内の水再生センターと汚泥資源化センターの入口。\n狙い目：水処理の流れと施設配置を照合し、普段は見えない都市設備の役割を読む。現地見学の案内とウェブ資料を区別して使う。",
           "official": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/kasen-gesuido/gesuido/center/saisei_center/centerinfo.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/kasen-gesuido/gesuido/center/saisei_center/centerinfo.html"
         },
         {
           "prefecture": "神奈川県",
@@ -6353,12 +6835,13 @@ window.FACILITY_DATASET={
           "name": "横浜市「南部水再生センター施設見学」",
           "type": "下水道",
           "rank": "S",
-          "note": "処理水、微生物、中央操作室などを見学できる。",
+          "note": "処理水、微生物、中央操作室などを見学できる。\n狙い目：水処理の流れと施設配置を照合し、普段は見えない都市設備の役割を読む。現地見学の案内とウェブ資料を区別して使う。",
           "official": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/kasen-gesuido/gesuido/center/saisei_center/nanbu/visit.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/kasen-gesuido/gesuido/center/saisei_center/nanbu/visit.html"
         },
         {
           "prefecture": "神奈川県",
@@ -6366,12 +6849,13 @@ window.FACILITY_DATASET={
           "name": "横浜市「学校給食 基準献立」",
           "type": "学校給食",
           "rank": "B",
-          "note": "自治体が学校給食をどう設計しているかを献立基準から見られる。",
+          "note": "自治体が学校給食をどう設計しているかを献立基準から見られる。\n狙い目：献立の組み方と基準の関係を読み、学校の日常を支える行政の設計をたどる。",
           "official": "https://www.city.yokohama.lg.jp/kosodate-kyoiku/kyoiku/sesaku/kyusyoku/syogakko-shiengakko/kondate.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.yokohama.lg.jp/kosodate-kyoiku/kyoiku/sesaku/kyusyoku/syogakko-shiengakko/kondate.html"
         },
         {
           "prefecture": "新潟県",
@@ -6379,12 +6863,13 @@ window.FACILITY_DATASET={
           "name": "新潟市「消雪パイプについての市民意見と回答」",
           "type": "消雪パイプ",
           "rank": "B",
-          "note": "水源、維持費、電気代などを市が説明する市民意見回答。",
+          "note": "水源、維持費、電気代などを市が説明する市民意見回答。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.niigata.lg.jp/shisei/kocho/tegami_top/tegami/tegami_r6top/r6_5seikatu/2025112702.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E5%B8%82%20%E6%96%B0%E6%BD%9F%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.niigata.lg.jp/shisei/kocho/tegami_top/tegami/tegami_r6top/r6_5seikatu/2025112702.html"
         },
         {
           "prefecture": "富山県",
@@ -6392,12 +6877,13 @@ window.FACILITY_DATASET={
           "name": "富山市「地下水の節水」",
           "type": "地下水・消雪",
           "rank": "S",
-          "note": "消雪設備稼働による地下水位低下、井戸枯れ、塩水化、地盤沈下などを扱う。",
+          "note": "消雪設備稼働による地下水位低下、井戸枯れ、塩水化、地盤沈下などを扱う。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.toyama.lg.jp/kurashi/gomi/1010244/1010245/1005243.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E5%B8%82%20%E5%AF%8C%E5%B1%B1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.toyama.lg.jp/kurashi/gomi/1010244/1010245/1005243.html"
         },
         {
           "prefecture": "富山県",
@@ -6405,12 +6891,13 @@ window.FACILITY_DATASET={
           "name": "富山市「消雪装置設置補助事業」",
           "type": "町内設備",
           "rank": "B",
-          "note": "町内団体が市道に消雪装置を設置する際の補助制度。",
+          "note": "町内団体が市道に消雪装置を設置する際の補助制度。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.toyama.lg.jp/kurashi/road/1010280/1006953.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E5%B8%82%20%E5%AF%8C%E5%B1%B1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.toyama.lg.jp/kurashi/road/1010280/1006953.html"
         },
         {
           "prefecture": "福井県",
@@ -6418,12 +6905,13 @@ window.FACILITY_DATASET={
           "name": "福井市「除雪」",
           "type": "雪",
           "rank": "B",
-          "note": "市民雪置き場、小型除雪機購入補助、オペレータ育成など雪関連制度の入口。",
+          "note": "市民雪置き場、小型除雪機購入補助、オペレータ育成など雪関連制度の入口。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.fukui.lg.jp/kurasi/koutu/snow/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E5%B8%82%20%E7%A6%8F%E4%BA%95%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.fukui.lg.jp/kurasi/koutu/snow/index.html"
         },
         {
           "prefecture": "福井県",
@@ -6431,12 +6919,13 @@ window.FACILITY_DATASET={
           "name": "福井市「市の道路除雪について」",
           "type": "除雪行政",
           "rank": "B",
-          "note": "除雪対策本部、除雪計画書、除雪状況、雪捨場の開設状況などを管理。",
+          "note": "除雪対策本部、除雪計画書、除雪状況、雪捨場の開設状況などを管理。\n狙い目：施設や交通の稼働する時間と休止する時間を読み取る。訪問用の情報に加えて、運用の周期を知る資料として見る。",
           "official": "https://www.city.fukui.lg.jp/kurasi/koutu/snow/fukuisidourojyosetu.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E5%B8%82%20%E7%A6%8F%E4%BA%95%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.fukui.lg.jp/kurasi/koutu/snow/fukuisidourojyosetu.html"
         },
         {
           "prefecture": "愛知県",
@@ -6444,12 +6933,13 @@ window.FACILITY_DATASET={
           "name": "名古屋市「市営住宅一覧・間取り図」",
           "type": "公営住宅",
           "rank": "B",
-          "note": "市営住宅ごとの建設年度、戸数、間取り図PDFなどを見られる。",
+          "note": "市営住宅ごとの建設年度、戸数、間取り図PDFなどを見られる。\n狙い目：図面上の出入口・廊下・居室の配置を読み、建物の使い方と現在の用途を比較したい。",
           "official": "https://www.city.nagoya.jp/kurashi/juutaku/1014583/1014585/1014586/1014607/1014614.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%20%E6%84%9B%E7%9F%A5%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.nagoya.jp/kurashi/juutaku/1014583/1014585/1014586/1014607/1014614.html"
         },
         {
           "prefecture": "愛知県",
@@ -6457,12 +6947,13 @@ window.FACILITY_DATASET={
           "name": "名古屋市「市営住宅一覧 北区・西区・中村区」",
           "type": "団地アーカイブ",
           "rank": "A",
-          "note": "上飯田荘、黒川荘、柳原荘、黄金荘など多数の団地と間取り図を見られる。",
+          "note": "上飯田荘、黒川荘、柳原荘、黄金荘など多数の団地と間取り図を見られる。\n狙い目：図面上の出入口・廊下・居室の配置を読み、建物の使い方と現在の用途を比較したい。",
           "official": "https://www.city.nagoya.jp/kurashi/juutaku/1014583/1014585/1014586/1014607/1014613.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%20%E6%84%9B%E7%9F%A5%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.nagoya.jp/kurashi/juutaku/1014583/1014585/1014586/1014607/1014613.html"
         },
         {
           "prefecture": "大阪府",
@@ -6470,12 +6961,13 @@ window.FACILITY_DATASET={
           "name": "大阪市「渡船場マップ」",
           "type": "渡船",
           "rank": "B",
-          "note": "市が運営する無料渡船を地図から見られる。",
+          "note": "市が運営する無料渡船を地図から見られる。\n狙い目：航路と船・乗り場の関係をたどり、住民の日常交通を支える仕組みとして読む。",
           "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000011242.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.osaka.lg.jp/kensetsu/page/0000011242.html"
         },
         {
           "prefecture": "大阪府",
@@ -6483,12 +6975,13 @@ window.FACILITY_DATASET={
           "name": "大阪市「渡船の歴史」",
           "type": "渡船史",
           "rank": "B",
-          "note": "かつての渡船数、船舶数、利用者数など都市交通の歴史が分かる。",
+          "note": "かつての渡船数、船舶数、利用者数など都市交通の歴史が分かる。\n狙い目：航路と船・乗り場の関係をたどり、住民の日常交通を支える仕組みとして読む。",
           "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000009414.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.osaka.lg.jp/kensetsu/page/0000009414.html"
         },
         {
           "prefecture": "大阪府",
@@ -6496,12 +6989,13 @@ window.FACILITY_DATASET={
           "name": "大阪市「渡船運送約款」",
           "type": "行政文書",
           "rank": "B",
-          "note": "大阪市営渡船の運送約款。無料運送の規定などが読める。",
+          "note": "大阪市営渡船の運送約款。無料運送の規定などが読める。\n狙い目：観光案内よりも、乗り物を日常の公共交通として運営するための利用条件の書き方に注目。",
           "official": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000030/30851/2025yakkn.pdf",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000030/30851/2025yakkn.pdf"
         },
         {
           "prefecture": "岡山県",
@@ -6509,12 +7003,13 @@ window.FACILITY_DATASET={
           "name": "岡山市「市場施設一般見学」",
           "type": "卸売市場",
           "rank": "A",
-          "note": "守衛室で手続きして見学する方式。駐車場案内図や申請書も公開。",
+          "note": "守衛室で手続きして見学する方式。駐車場案内図や申請書も公開。\n狙い目：一般見学者と市場の業務動線の分け方を案内から読む。受付や申請に必要な情報も合わせて確認する。",
           "official": "https://www.city.okayama.jp/jigyosha/0000022860.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E5%B8%82%20%E5%B2%A1%E5%B1%B1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.okayama.jp/jigyosha/0000022860.html"
         },
         {
           "prefecture": "広島県",
@@ -6522,12 +7017,13 @@ window.FACILITY_DATASET={
           "name": "広島市「被爆建物リスト」",
           "type": "建築・都市史",
           "rank": "B",
-          "note": "学校や銀行だけでなく倉庫、変電所、給水塔、公衆便所なども追える。",
+          "note": "学校や銀行だけでなく倉庫、変電所、給水塔、公衆便所なども追える。\n狙い目：建物名だけでなく構造と位置を比較し、日常的な都市設備まで記録する資料の範囲に注目。",
           "official": "https://www.city.hiroshima.lg.jp/atomicbomb-peace/fukko/1021101/1026920/1026921/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%20%E5%BA%83%E5%B3%B6%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.hiroshima.lg.jp/atomicbomb-peace/fukko/1021101/1026920/1026921/index.html"
         },
         {
           "prefecture": "広島県",
@@ -6535,12 +7031,13 @@ window.FACILITY_DATASET={
           "name": "広島市「被爆建物一覧表」",
           "type": "建築データ",
           "rank": "B",
-          "note": "現在名、当時名、構造、爆心地からの距離などを一覧で見られる。",
+          "note": "現在名、当時名、構造、爆心地からの距離などを一覧で見られる。\n狙い目：建物名だけでなく構造と位置を比較し、日常的な都市設備まで記録する資料の範囲に注目。",
           "official": "https://www.city.hiroshima.lg.jp/atomicbomb-peace/fukko/1021101/1026920/1026921/1003420.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%20%E5%BA%83%E5%B3%B6%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.hiroshima.lg.jp/atomicbomb-peace/fukko/1021101/1026920/1026921/1003420.html"
         },
         {
           "prefecture": "香川県",
@@ -6548,12 +7045,13 @@ window.FACILITY_DATASET={
           "name": "高松市「斎場施設」",
           "type": "斎場",
           "rank": "B",
-          "note": "市が管理する斎場の火葬受入時間、休場日、使用料などを案内。",
+          "note": "市が管理する斎場の火葬受入時間、休場日、使用料などを案内。\n狙い目：施設の配置と行政サービスとしての利用案内を読み、都市が死者のための場所をどう管理しているかを捉える。",
           "official": "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kurashi/bochi/sougi/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E6%9D%BE%E5%B8%82%20%E9%A6%99%E5%B7%9D%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.takamatsu.kagawa.jp/smph/kurashi/kurashi/bochi/sougi/index.html"
         },
         {
           "prefecture": "愛媛県",
@@ -6561,12 +7059,13 @@ window.FACILITY_DATASET={
           "name": "松山市「市営墓地」",
           "type": "墓地行政",
           "rank": "B",
-          "note": "市営墓地の一覧、貸付、利用条件などを確認できる。",
+          "note": "市営墓地の一覧、貸付、利用条件などを確認できる。\n狙い目：施設の配置と行政サービスとしての利用案内を読み、都市が死者のための場所をどう管理しているかを捉える。",
           "official": "https://www.city.matsuyama.ehime.jp/kurashi/kurashi/bochi_noukotsudo/sieiboti1.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B1%B1%E5%B8%82%20%E6%84%9B%E5%AA%9B%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.matsuyama.ehime.jp/kurashi/kurashi/bochi_noukotsudo/sieiboti1.html"
         },
         {
           "prefecture": "高知県",
@@ -6574,12 +7073,13 @@ window.FACILITY_DATASET={
           "name": "高知市「津波避難タワー・津波避難センター」",
           "type": "津波",
           "rank": "B",
-          "note": "避難可能人数、標高などを含む津波避難専用施設の一覧。",
+          "note": "避難可能人数、標高などを含む津波避難専用施設の一覧。\n狙い目：対象となる地域や施設の位置を地図と照合し、日常の建物・街路に防災機能がどう重ねられているかを読む。",
           "official": "https://www.city.kochi.kochi.jp/soshiki/12/tunamihinann-ct.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E5%B8%82%20%E9%AB%98%E7%9F%A5%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kochi.kochi.jp/soshiki/12/tunamihinann-ct.html"
         },
         {
           "prefecture": "高知県",
@@ -6587,12 +7087,13 @@ window.FACILITY_DATASET={
           "name": "高知市「津波避難ビル一覧」",
           "type": "津波ビル",
           "rank": "B",
-          "note": "ホテル、学校、マンションなど指定施設を避難人数とともに管理。",
+          "note": "ホテル、学校、マンションなど指定施設を避難人数とともに管理。\n狙い目：対象となる地域や施設の位置を地図と照合し、日常の建物・街路に防災機能がどう重ねられているかを読む。",
           "official": "https://www.city.kochi.kochi.jp/soshiki/12/tunamihinannbiru.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E5%B8%82%20%E9%AB%98%E7%9F%A5%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kochi.kochi.jp/soshiki/12/tunamihinannbiru.html"
         },
         {
           "prefecture": "高知県",
@@ -6600,12 +7101,13 @@ window.FACILITY_DATASET={
           "name": "高知市「地域防災推進課」",
           "type": "防災部署",
           "rank": "B",
-          "note": "津波避難、標高地形図、大規模盛土造成地、過去の南海地震写真などへ潜れる。",
+          "note": "津波避難、標高地形図、大規模盛土造成地、過去の南海地震写真などへ潜れる。\n狙い目：対象となる地域や施設の位置を地図と照合し、日常の建物・街路に防災機能がどう重ねられているかを読む。",
           "official": "https://www.city.kochi.kochi.jp/soshiki/12/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E5%B8%82%20%E9%AB%98%E7%9F%A5%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kochi.kochi.jp/soshiki/12/"
         },
         {
           "prefecture": "福岡県",
@@ -6613,12 +7115,13 @@ window.FACILITY_DATASET={
           "name": "福岡市「市営渡船航路」",
           "type": "市営船",
           "rank": "B",
-          "note": "博多ふ頭・姪浜などから島へ向かう市営航路。",
+          "note": "博多ふ頭・姪浜などから島へ向かう市営航路。\n狙い目：航路と船・乗り場の関係をたどり、住民の日常交通を支える仕組みとして読む。",
           "official": "https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/kohro_top.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E5%B8%82%20%E7%A6%8F%E5%B2%A1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/kohro_top.html"
         },
         {
           "prefecture": "福岡県",
@@ -6626,12 +7129,13 @@ window.FACILITY_DATASET={
           "name": "福岡市「市営渡船の船舶紹介」",
           "type": "市営船",
           "rank": "B",
-          "note": "市営船の総トン数、全長、速力、定員などを一覧できる。",
+          "note": "市営船の総トン数、全長、速力、定員などを一覧できる。\n狙い目：航路と船・乗り場の関係をたどり、住民の日常交通を支える仕組みとして読む。",
           "official": "https://www.city.fukuoka.lg.jp/kowan/kyakusen/sennpakusyoukai.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E5%B8%82%20%E7%A6%8F%E5%B2%A1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.fukuoka.lg.jp/kowan/kyakusen/sennpakusyoukai.html"
         },
         {
           "prefecture": "福岡県",
@@ -6639,12 +7143,13 @@ window.FACILITY_DATASET={
           "name": "福岡市「博多港」",
           "type": "港湾",
           "rank": "B",
-          "note": "各ふ頭、港湾統計、財政収支、港湾計画、寄港予定などへ潜れる。",
+          "note": "各ふ頭、港湾統計、財政収支、港湾計画、寄港予定などへ潜れる。\n狙い目：港の屋外景観と館内の説明展示を見比べる。大きな港湾機能を室内でどう伝えるかが対象。",
           "official": "https://www.city.fukuoka.lg.jp/kowan/hakata-port/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E5%B8%82%20%E7%A6%8F%E5%B2%A1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.fukuoka.lg.jp/kowan/hakata-port/index.html"
         },
         {
           "prefecture": "福岡県",
@@ -6652,12 +7157,13 @@ window.FACILITY_DATASET={
           "name": "福岡市「福岡市営渡船」",
           "type": "市営船運用",
           "rank": "B",
-          "note": "航路、時刻表、貸切船、納涼船、広告募集、船舶紹介などを一部署で運営。",
+          "note": "航路、時刻表、貸切船、納涼船、広告募集、船舶紹介などを一部署で運営。\n狙い目：施設や交通の稼働する時間と休止する時間を読み取る。訪問用の情報に加えて、運用の周期を知る資料として見る。",
           "official": "https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/ferry_city.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E5%B8%82%20%E7%A6%8F%E5%B2%A1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/ferry_city.html"
         },
         {
           "prefecture": "福岡県",
@@ -6665,12 +7171,13 @@ window.FACILITY_DATASET={
           "name": "福岡市「市営渡船からのお知らせ」",
           "type": "船舶売却",
           "rank": "B",
-          "note": "運航情報に加えて船舶売払い情報なども出る。",
+          "note": "運航情報に加えて船舶売払い情報なども出る。\n狙い目：航路と船・乗り場の関係をたどり、住民の日常交通を支える仕組みとして読む。",
           "official": "https://www.city.fukuoka.lg.jp/kowan/kyakusen/shisei/oshirase.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E5%B8%82%20%E7%A6%8F%E5%B2%A1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.fukuoka.lg.jp/kowan/kyakusen/shisei/oshirase.html"
         },
         {
           "prefecture": "福岡県",
@@ -6678,12 +7185,13 @@ window.FACILITY_DATASET={
           "name": "北九州市「渡船事業所ページ一覧」",
           "type": "市営渡船",
           "rank": "B",
-          "note": "若戸渡船・小倉航路の設備、運送約款、歴史、安全情報などへ潜れる。",
+          "note": "若戸渡船・小倉航路の設備、運送約款、歴史、安全情報などへ潜れる。\n狙い目：観光案内よりも、乗り物を日常の公共交通として運営するための利用条件の書き方に注目。",
           "official": "https://www.city.kitakyushu.lg.jp/contents/division108list.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%20%E7%A6%8F%E5%B2%A1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kitakyushu.lg.jp/contents/division108list.html"
         },
         {
           "prefecture": "福岡県",
@@ -6691,12 +7199,13 @@ window.FACILITY_DATASET={
           "name": "北九州市「北九州市営渡船運送約款」",
           "type": "船の規則",
           "rank": "B",
-          "note": "北九州市が経営する航路の運送約款。",
+          "note": "北九州市が経営する航路の運送約款。\n狙い目：観光案内よりも、乗り物を日常の公共交通として運営するための利用条件の書き方に注目。",
           "official": "https://www.city.kitakyushu.lg.jp/contents/10800047.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%20%E7%A6%8F%E5%B2%A1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kitakyushu.lg.jp/contents/10800047.html"
         },
         {
           "prefecture": "福岡県",
@@ -6704,12 +7213,13 @@ window.FACILITY_DATASET={
           "name": "北九州市「小倉航路の歴史」",
           "type": "島の生活路線",
           "rank": "B",
-          "note": "市営渡船の歴史と、かつての寄港地や生活交通としての役割が分かる。",
+          "note": "市営渡船の歴史と、かつての寄港地や生活交通としての役割が分かる。\n狙い目：航路と船・乗り場の関係をたどり、住民の日常交通を支える仕組みとして読む。",
           "official": "https://www.city.kitakyushu.lg.jp/contents/924_10261.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%20%E7%A6%8F%E5%B2%A1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kitakyushu.lg.jp/contents/924_10261.html"
         },
         {
           "prefecture": "福岡県",
@@ -6717,12 +7227,13 @@ window.FACILITY_DATASET={
           "name": "北九州市「渡船運航状況・お知らせ」",
           "type": "渡船運行",
           "rank": "B",
-          "note": "市営渡船の運航状況、航路改善、安全情報などを公開。",
+          "note": "市営渡船の運航状況、航路改善、安全情報などを公開。\n狙い目：施設や交通の稼働する時間と休止する時間を読み取る。訪問用の情報に加えて、運用の周期を知る資料として見る。",
           "official": "https://www.city.kitakyushu.lg.jp/shisei/menu_00060.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%20%E7%A6%8F%E5%B2%A1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kitakyushu.lg.jp/shisei/menu_00060.html"
         },
         {
           "prefecture": "長崎県",
@@ -6730,12 +7241,13 @@ window.FACILITY_DATASET={
           "name": "長崎市「斜面移送システム」",
           "type": "斜面都市",
           "rank": "B",
-          "note": "階段部分に設置された小型移送機「てんじんくん」などを紹介。",
+          "note": "階段部分に設置された小型移送機「てんじんくん」などを紹介。\n狙い目：街の高低差が交通や住まいの制度にどう表れるかを読む。一般的な平地の都市とは異なる移動条件が対象。",
           "official": "https://www.city.nagasaki.lg.jp/page/1385.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E5%B8%82%20%E9%95%B7%E5%B4%8E%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.nagasaki.lg.jp/page/1385.html"
         },
         {
           "prefecture": "長崎県",
@@ -6743,12 +7255,13 @@ window.FACILITY_DATASET={
           "name": "長崎市「移送支援サービス」",
           "type": "斜面生活",
           "rank": "B",
-          "note": "車道までの階段や距離など、斜面地特有の条件に対応する福祉制度。",
+          "note": "車道までの階段や距離など、斜面地特有の条件に対応する福祉制度。\n狙い目：街の高低差が交通や住まいの制度にどう表れるかを読む。一般的な平地の都市とは異なる移動条件が対象。",
           "official": "https://www.city.nagasaki.lg.jp/page/2575.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E5%B8%82%20%E9%95%B7%E5%B4%8E%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.nagasaki.lg.jp/page/2575.html"
         },
         {
           "prefecture": "長崎県",
@@ -6756,12 +7269,13 @@ window.FACILITY_DATASET={
           "name": "長崎市「市営住宅の申込資格」",
           "type": "斜面住宅",
           "rank": "B",
-          "note": "斜面地住宅の居住状況などを現地調査する規定がある。",
+          "note": "斜面地住宅の居住状況などを現地調査する規定がある。\n狙い目：街の高低差が交通や住まいの制度にどう表れるかを読む。一般的な平地の都市とは異なる移動条件が対象。",
           "official": "https://www.city.nagasaki.lg.jp/page/1818.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E5%B8%82%20%E9%95%B7%E5%B4%8E%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.nagasaki.lg.jp/page/1818.html"
         },
         {
           "prefecture": "大分県",
@@ -6769,12 +7283,13 @@ window.FACILITY_DATASET={
           "name": "別府市「市営温泉」",
           "type": "市営温泉",
           "rank": "B",
-          "note": "竹瓦温泉、不老泉、競輪温泉、鉄輪むし湯などを市が管理。",
+          "note": "竹瓦温泉、不老泉、競輪温泉、鉄輪むし湯などを市が管理。\n狙い目：個々の浴場の案内を比べ、観光資源であると同時に自治体が管理する生活施設として読む。",
           "official": "https://www.city.beppu.oita.jp/sangyou/onsen/detail2.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%A5%E5%BA%9C%E5%B8%82%20%E5%A4%A7%E5%88%86%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.beppu.oita.jp/sangyou/onsen/detail2.html"
         },
         {
           "prefecture": "大分県",
@@ -6782,12 +7297,13 @@ window.FACILITY_DATASET={
           "name": "別府市「市営温泉地図」",
           "type": "市営温泉",
           "rank": "B",
-          "note": "行政施設としての市営温泉を地図から見られる。",
+          "note": "行政施設としての市営温泉を地図から見られる。\n狙い目：個々の浴場の案内を比べ、観光資源であると同時に自治体が管理する生活施設として読む。",
           "official": "https://www.city.beppu.oita.jp/sisetu/shieionsen/05maps_main-map.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%A5%E5%BA%9C%E5%B8%82%20%E5%A4%A7%E5%88%86%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.beppu.oita.jp/sisetu/shieionsen/05maps_main-map.html"
         },
         {
           "prefecture": "大分県",
@@ -6795,12 +7311,13 @@ window.FACILITY_DATASET={
           "name": "別府市「市営温泉休業日カレンダー」",
           "type": "施設運行",
           "rank": "B",
-          "note": "市営温泉の休業日を一元管理。",
+          "note": "市営温泉の休業日を一元管理。\n狙い目：施設や交通の稼働する時間と休止する時間を読み取る。訪問用の情報に加えて、運用の周期を知る資料として見る。",
           "official": "https://www.city.beppu.oita.jp/01onsen/09announce/kiyosen.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%A5%E5%BA%9C%E5%B8%82%20%E5%A4%A7%E5%88%86%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.beppu.oita.jp/01onsen/09announce/kiyosen.html"
         },
         {
           "prefecture": "大分県",
@@ -6808,12 +7325,13 @@ window.FACILITY_DATASET={
           "name": "別府市「温泉課」",
           "type": "温泉行政",
           "rank": "B",
-          "note": "市営温泉、共同温泉、温泉資源量調査、温泉マネジメント計画などへ潜れる。",
+          "note": "市営温泉、共同温泉、温泉資源量調査、温泉マネジメント計画などへ潜れる。\n狙い目：個々の浴場の案内を比べ、観光資源であると同時に自治体が管理する生活施設として読む。",
           "official": "https://www.city.beppu.oita.jp/departments/11.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%A5%E5%BA%9C%E5%B8%82%20%E5%A4%A7%E5%88%86%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.beppu.oita.jp/departments/11.html"
         },
         {
           "prefecture": "鹿児島県",
@@ -6821,12 +7339,13 @@ window.FACILITY_DATASET={
           "name": "鹿児島市「降灰除去対策」",
           "type": "火山灰",
           "rank": "B",
-          "note": "ロードスイーパー、散水車、克灰袋、灰ステーションなど火山灰処理体系の入口。",
+          "note": "ロードスイーパー、散水車、克灰袋、灰ステーションなど火山灰処理体系の入口。\n狙い目：家庭や道路から集めた灰がどこへ移されるかをたどる。火山と暮らす街の維持管理が具体的に見える資料。",
           "official": "https://www.city.kagoshima.lg.jp/kikikanri/kazan/kouhai.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kagoshima.lg.jp/kikikanri/kazan/kouhai.html"
         },
         {
           "prefecture": "鹿児島県",
@@ -6834,12 +7353,13 @@ window.FACILITY_DATASET={
           "name": "鹿児島市「克灰袋の提供」",
           "type": "火山灰",
           "rank": "B",
-          "note": "火山灰専用袋を配布し、指定場所へ排出する制度。",
+          "note": "火山灰専用袋を配布し、指定場所へ排出する制度。\n狙い目：家庭や道路から集めた灰がどこへ移されるかをたどる。火山と暮らす街の維持管理が具体的に見える資料。",
           "official": "https://www.city.kagoshima.lg.jp/kankyo/kankyo/eisei/kurashi/sekatsukankyo/kazanbai/kokuhaibukuro.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kagoshima.lg.jp/kankyo/kankyo/eisei/kurashi/sekatsukankyo/kazanbai/kokuhaibukuro.html"
         },
         {
           "prefecture": "鹿児島県",
@@ -6847,12 +7367,13 @@ window.FACILITY_DATASET={
           "name": "鹿児島市「宅地内降灰指定置場」",
           "type": "灰ステーション",
           "rank": "B",
-          "note": "家庭で集めた火山灰を置く指定場所を市が管理。",
+          "note": "家庭で集めた火山灰を置く指定場所を市が管理。\n狙い目：家庭や道路から集めた灰がどこへ移されるかをたどる。火山と暮らす街の維持管理が具体的に見える資料。",
           "official": "https://www.city.kagoshima.lg.jp/kensetu/douro/douroiji/machizukuri/kotsu/doro/iji/kohai/setchi.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kagoshima.lg.jp/kensetu/douro/douroiji/machizukuri/kotsu/doro/iji/kohai/setchi.html"
         },
         {
           "prefecture": "鹿児島県",
@@ -6860,12 +7381,13 @@ window.FACILITY_DATASET={
           "name": "鹿児島市「事業所敷地内への降灰指定置場」",
           "type": "事業所の灰",
           "rank": "B",
-          "note": "会社や店舗の敷地内に行政公認の灰置場を設け、市が収集する制度。",
+          "note": "会社や店舗の敷地内に行政公認の灰置場を設け、市が収集する制度。\n狙い目：家庭や道路から集めた灰がどこへ移されるかをたどる。火山と暮らす街の維持管理が具体的に見える資料。",
           "official": "https://www.city.kagoshima.lg.jp/kensetu/douro/douroiji/machizukuri/kotsu/doro/iji/kohai/jigyoshonai.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kagoshima.lg.jp/kensetu/douro/douroiji/machizukuri/kotsu/doro/iji/kohai/jigyoshonai.html"
         },
         {
           "prefecture": "鹿児島県",
@@ -6873,12 +7395,13 @@ window.FACILITY_DATASET={
           "name": "鹿児島市「桜島フェリー」",
           "type": "市営船",
           "rank": "B",
-          "note": "時刻表、入札、船員採用、可動橋補修など、市船舶局の事業を横断できる。",
+          "note": "時刻表、入札、船員採用、可動橋補修など、市船舶局の事業を横断できる。\n狙い目：施設や交通の稼働する時間と休止する時間を読み取る。訪問用の情報に加えて、運用の周期を知る資料として見る。",
           "official": "https://www.city.kagoshima.lg.jp/sakurajima-ferry/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kagoshima.lg.jp/sakurajima-ferry/"
         },
         {
           "prefecture": "鹿児島県",
@@ -6886,12 +7409,13 @@ window.FACILITY_DATASET={
           "name": "鹿児島市「桜島フェリー時刻表」",
           "type": "市営船",
           "rank": "B",
-          "note": "鹿児島港と桜島港を結ぶ市営フェリーの時刻表。",
+          "note": "鹿児島港と桜島港を結ぶ市営フェリーの時刻表。\n狙い目：施設や交通の稼働する時間と休止する時間を読み取る。訪問用の情報に加えて、運用の周期を知る資料として見る。",
           "official": "https://www.city.kagoshima.lg.jp/sakurajima-ferry/koro-jikoku/timetable.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kagoshima.lg.jp/sakurajima-ferry/koro-jikoku/timetable.html"
         },
         {
           "prefecture": "沖縄県",
@@ -6899,12 +7423,13 @@ window.FACILITY_DATASET={
           "name": "宮古島市「地下ダム」",
           "type": "地下インフラ",
           "rank": "S",
-          "note": "地下の帯水層に壁を作り地下水をせき止める島特有の巨大インフラ。",
+          "note": "地下の帯水層に壁を作り地下水をせき止める島特有の巨大インフラ。\n狙い目：水処理の流れと施設配置を照合し、普段は見えない都市設備の役割を読む。現地見学の案内とウェブ資料を区別して使う。",
           "official": "https://www.city.miyakojima.lg.jp/jigyousya/nougyo/mizu.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%8F%A4%E5%B3%B6%E5%B8%82%20%E6%B2%96%E7%B8%84%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.miyakojima.lg.jp/jigyousya/nougyo/mizu.html"
         },
         {
           "prefecture": "沖縄県",
@@ -6912,12 +7437,13 @@ window.FACILITY_DATASET={
           "name": "那覇市「那覇市民共同墓」",
           "type": "墓地",
           "rank": "B",
-          "note": "合葬式墓地と短期収蔵納骨室を備える市営の共同墓。",
+          "note": "合葬式墓地と短期収蔵納骨室を備える市営の共同墓。\n狙い目：施設の配置と行政サービスとしての利用案内を読み、都市が死者のための場所をどう管理しているかを捉える。",
           "official": "https://www.city.naha.okinawa.jp/kurasitetuduki/okuyami/1008627.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%82%A3%E8%A6%87%E5%B8%82%20%E6%B2%96%E7%B8%84%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.naha.okinawa.jp/kurasitetuduki/okuyami/1008627.html"
         },
         {
           "prefecture": "東京都",
@@ -6925,12 +7451,13 @@ window.FACILITY_DATASET={
           "name": "東京都下水道局「Webで施設見学！」",
           "type": "下水道・施設見学",
           "rank": "S",
-          "note": "下水道・施設見学に関する自治体・公的機関の公開ページ。写真、施設情報、地域資料をたどる入口。",
+          "note": "下水道・施設見学に関する自治体・公的機関の公開ページ。写真、施設情報、地域資料をたどる入口。\n狙い目：水処理の流れと施設配置を照合し、普段は見えない都市設備の役割を読む。現地見学の案内とウェブ資料を区別して使う。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/web",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/web"
         },
         {
           "prefecture": "北海道",
@@ -6938,12 +7465,13 @@ window.FACILITY_DATASET={
           "name": "雪堆積場ライブ映像",
           "type": "雪・ライブカメラ",
           "rank": "B",
-          "note": "雪・ライブカメラに関する自治体・公的機関の公開ページ。写真、施設情報、地域資料をたどる入口。",
+          "note": "雪・ライブカメラに関する自治体・公的機関の公開ページ。写真、施設情報、地域資料をたどる入口。\n狙い目：映像の時刻や季節を意識して、施設の出入口と搬入の動きを見る。静止画では分かりにくい日常の運用が対象。",
           "official": "https://www4.city.sapporo.jp/cgi-bin/kensetsu/yuki/show_taiseki.cgi?type=4",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www4.city.sapporo.jp/cgi-bin/kensetsu/yuki/show_taiseki.cgi?type=4"
         },
         {
           "prefecture": "富山県",
@@ -6951,12 +7479,13 @@ window.FACILITY_DATASET={
           "name": "消雪装置設置補助事業",
           "type": "消雪設備・町内設備",
           "rank": "B",
-          "note": "消雪設備・町内設備に関する自治体・公的機関の公開ページ。写真、施設情報、地域資料をたどる入口。",
+          "note": "消雪設備・町内設備に関する自治体・公的機関の公開ページ。写真、施設情報、地域資料をたどる入口。\n狙い目：雪を運ぶ・溶かす・置く仕組みを、設備の位置や運用方法の説明と合わせて読む。街の冬季インフラの使われ方が対象。",
           "official": "https://www.city.toyama.lg.jp/kurashi/road/1010280/1006953.html?print=1&temptype=1",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E5%B8%82%20%E5%AF%8C%E5%B1%B1%E7%9C%8C",
           "kind": "自治体ウェブ資料",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.toyama.lg.jp/kurashi/road/1010280/1006953.html?print=1&temptype=1"
         }
       ]
     },
@@ -6974,12 +7503,13 @@ window.FACILITY_DATASET={
           "name": "群馬県立土屋文明記念文学館周辺公共施設群",
           "type": "公共施設",
           "rank": "B",
-          "note": "大規模公共建築群として観察向き。",
+          "note": "大規模公共建築群として観察向き。\n狙い目：個々の建物より、建物間を移動する距離と敷地の使い方を見たい。周辺を含めた公共施設の配置が対象。",
           "official": "http://bungaku.pref.gunma.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E7%AB%8B%E5%9C%9F%E5%B1%8B%E6%96%87%E6%98%8E%E8%A8%98%E5%BF%B5%E6%96%87%E5%AD%A6%E9%A4%A8%E5%91%A8%E8%BE%BA%E5%85%AC%E5%85%B1%E6%96%BD%E8%A8%AD%E7%BE%A4%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E9%AB%98%E5%B4%8E%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://bungaku.pref.gunma.jp/"
         },
         {
           "prefecture": "東京都",
@@ -6987,12 +7517,13 @@ window.FACILITY_DATASET={
           "name": "国立代々木競技場 第二体育館 周辺通路",
           "type": "公共文化・体育",
           "rank": "A",
-          "note": "巨大体育施設の外周・連絡動線。",
+          "note": "巨大体育施設の外周・連絡動線。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
           "official": "http://www.jpnsport.go.jp/yoyogi/sisetu/tabid/76/Default.aspx",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E4%BB%A3%E3%80%85%E6%9C%A8%E7%AB%B6%E6%8A%80%E5%A0%B4%20%E7%AC%AC%E4%BA%8C%E4%BD%93%E8%82%B2%E9%A4%A8%20%E5%91%A8%E8%BE%BA%E9%80%9A%E8%B7%AF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.jpnsport.go.jp/yoyogi/sisetu/tabid/76/Default.aspx"
         },
         {
           "prefecture": "東京都",
@@ -7000,12 +7531,13 @@ window.FACILITY_DATASET={
           "name": "東京体育館",
           "type": "公共文化・体育",
           "rank": "B",
-          "note": "大規模公共体育館。",
+          "note": "大規模公共体育館。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
           "official": "http://www.tef.or.jp/tmg/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%BD%93%E8%82%B2%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.tef.or.jp/tmg/"
         },
         {
           "prefecture": "東京都",
@@ -7013,12 +7545,13 @@ window.FACILITY_DATASET={
           "name": "駒沢オリンピック公園総合運動場 体育館",
           "type": "公共文化・体育",
           "rank": "A",
-          "note": "1960年代公共スポーツ建築。",
+          "note": "1960年代公共スポーツ建築。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
           "official": "https://www.tef.or.jp/kopgp/index.jsp",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A7%92%E6%B2%A2%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%85%AC%E5%9C%92%E7%B7%8F%E5%90%88%E9%81%8B%E5%8B%95%E5%A0%B4%20%E4%BD%93%E8%82%B2%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.tef.or.jp/kopgp/index.jsp"
         },
         {
           "prefecture": "千葉県",
@@ -7026,12 +7559,13 @@ window.FACILITY_DATASET={
           "name": "船橋市運動公園 体育館周辺",
           "type": "公共文化・体育",
           "rank": "B",
-          "note": "地方公共スポーツ施設群。",
+          "note": "地方公共スポーツ施設群。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
           "official": "https://shisetsu.mizuno.jp/m-7628-02",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%88%B9%E6%A9%8B%E5%B8%82%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%20%E4%BD%93%E8%82%B2%E9%A4%A8%E5%91%A8%E8%BE%BA%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E8%88%B9%E6%A9%8B%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shisetsu.mizuno.jp/m-7628-02"
         },
         {
           "prefecture": "神奈川県",
@@ -7039,12 +7573,13 @@ window.FACILITY_DATASET={
           "name": "横浜国際プール",
           "type": "公共文化・体育",
           "rank": "A",
-          "note": "巨大室内プールと観客席。",
+          "note": "巨大室内プールと観客席。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
           "official": "https://yokohama-sport.jp/waterarena/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%9B%BD%E9%9A%9B%E3%83%97%E3%83%BC%E3%83%AB%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%83%BD%E7%AD%91%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://yokohama-sport.jp/waterarena/"
         },
         {
           "prefecture": "東京都",
@@ -7052,12 +7587,13 @@ window.FACILITY_DATASET={
           "name": "東京辰巳アイスアリーナ",
           "type": "公共文化・体育",
           "rank": "A",
-          "note": "旧水泳場系巨大公共空間。",
+          "note": "旧水泳場系巨大公共空間。\n狙い目：旧水泳場の用途と現在のアイスアリーナの使い方を分けて見る。大空間を別の競技へ転用した施設として観察したい。",
           "official": "https://ia-tatsumi.tokyo/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E8%BE%B0%E5%B7%B3%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://ia-tatsumi.tokyo/"
         },
         {
           "prefecture": "東京都",
@@ -7065,12 +7601,13 @@ window.FACILITY_DATASET={
           "name": "アクアパーク品川ではない品川区立総合体育館",
           "type": "公共文化・体育",
           "rank": "B",
-          "note": "公共体育施設のロビー・通路。",
+          "note": "公共体育施設のロビー・通路。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
           "official": "http://www.ssa-or.biz/shisetsu/sougou/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%91%E3%83%BC%E3%82%AF%E5%93%81%E5%B7%9D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E5%93%81%E5%B7%9D%E5%8C%BA%E7%AB%8B%E7%B7%8F%E5%90%88%E4%BD%93%E8%82%B2%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.ssa-or.biz/shisetsu/sougou/index.html"
         },
         {
           "prefecture": "埼玉県",
@@ -7078,12 +7615,13 @@ window.FACILITY_DATASET={
           "name": "さいたまスーパーアリーナ 展示ホール周辺",
           "type": "公共文化・体育",
           "rank": "B",
-          "note": "イベントのない時間の巨大空間。",
+          "note": "イベントのない時間の巨大空間。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
           "official": "https://www.saitama-arena.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%20%E5%B1%95%E7%A4%BA%E3%83%9B%E3%83%BC%E3%83%AB%E5%91%A8%E8%BE%BA%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.saitama-arena.co.jp/"
         },
         {
           "prefecture": "愛知県",
@@ -7091,12 +7629,13 @@ window.FACILITY_DATASET={
           "name": "名古屋市総合体育館 レインボーホール周辺",
           "type": "公共文化・体育",
           "rank": "B",
-          "note": "大規模公共スポーツ施設。",
+          "note": "大規模公共スポーツ施設。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
           "official": "http://www.nespa.or.jp/hall",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%B7%8F%E5%90%88%E4%BD%93%E8%82%B2%E9%A4%A8%20%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E5%91%A8%E8%BE%BA%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%8D%97%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.nespa.or.jp/hall"
         },
         {
           "prefecture": "大阪府",
@@ -7104,12 +7643,13 @@ window.FACILITY_DATASET={
           "name": "大阪市中央体育館（Asueアリーナ大阪）",
           "type": "公共文化・体育",
           "rank": "A",
-          "note": "巨大地下型体育館。",
+          "note": "巨大地下型体育館。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
           "official": "https://www.yahataya-park.jp/osaka_arena/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E4%BD%93%E8%82%B2%E9%A4%A8%EF%BC%88Asue%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E5%A4%A7%E9%98%AA%EF%BC%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B8%AF%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.yahataya-park.jp/osaka_arena/index.html"
         },
         {
           "prefecture": "東京都",
@@ -7117,12 +7657,13 @@ window.FACILITY_DATASET={
           "name": "芝浦水再生センター",
           "type": "水再生センター",
           "rank": "S",
-          "note": "予約見学。下水処理施設そのものに入り、水処理工程を見学できる",
+          "note": "予約見学。下水処理施設そのものに入り、水処理工程を見学できる。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-01/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%9D%E6%B5%A6%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-01/index.html"
         },
         {
           "prefecture": "東京都",
@@ -7130,12 +7671,13 @@ window.FACILITY_DATASET={
           "name": "三河島水再生センター",
           "type": "水再生センター・近代化遺産",
           "rank": "A",
-          "note": "予約見学。現役施設に加え旧三河島汚水処分場喞筒場が残る",
+          "note": "予約見学。現役施設に加え旧三河島汚水処分場喞筒場が残る。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E6%B2%B3%E5%B3%B6%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -7143,12 +7685,13 @@ window.FACILITY_DATASET={
           "name": "砂町水再生センター",
           "type": "水再生センター",
           "rank": "A",
-          "note": "予約見学。巨大な沈殿池・反応槽を含む都市インフラ",
+          "note": "予約見学。巨大な沈殿池・反応槽を含む都市インフラ。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-06/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A0%82%E7%94%BA%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-06/index.html"
         },
         {
           "prefecture": "東京都",
@@ -7156,12 +7699,13 @@ window.FACILITY_DATASET={
           "name": "有明水再生センター",
           "type": "水再生センター",
           "rank": "S",
-          "note": "予約見学。臨海副都心の大型下水処理施設",
+          "note": "予約見学。臨海副都心の大型下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-12/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-12/"
         },
         {
           "prefecture": "東京都",
@@ -7169,12 +7713,13 @@ window.FACILITY_DATASET={
           "name": "落合水再生センター",
           "type": "水再生センター",
           "rank": "A",
-          "note": "予約見学。住宅地の中にある大規模処理施設",
+          "note": "予約見学。住宅地の中にある大規模処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/guide/sise-list/44994",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%90%BD%E5%90%88%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/guide/sise-list/44994"
         },
         {
           "prefecture": "東京都",
@@ -7182,12 +7727,13 @@ window.FACILITY_DATASET={
           "name": "森ヶ崎水再生センター",
           "type": "水再生センター",
           "rank": "A",
-          "note": "予約見学。東京都最大級の水再生センター",
+          "note": "予約見学。東京都最大級の水再生センター。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-11/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A3%AE%E3%83%B6%E5%B4%8E%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-11/index.html"
         },
         {
           "prefecture": "東京都",
@@ -7195,12 +7741,13 @@ window.FACILITY_DATASET={
           "name": "北多摩一号水再生センター",
           "type": "水再生センター",
           "rank": "S",
-          "note": "予約見学。多摩川流域の広域下水処理施設",
+          "note": "予約見学。多摩川流域の広域下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-01/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%A4%9A%E6%91%A9%E4%B8%80%E5%8F%B7%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%BA%9C%E4%B8%AD%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-01/index.html"
         },
         {
           "prefecture": "東京都",
@@ -7208,12 +7755,13 @@ window.FACILITY_DATASET={
           "name": "南多摩水再生センター",
           "type": "水再生センター",
           "rank": "A",
-          "note": "予約見学。処理施設内部を見学可能",
+          "note": "予約見学。処理施設内部を見学可能。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-04/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E5%A4%9A%E6%91%A9%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%A8%B2%E5%9F%8E%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-04/"
         },
         {
           "prefecture": "東京都",
@@ -7221,12 +7769,13 @@ window.FACILITY_DATASET={
           "name": "北多摩二号水再生センター",
           "type": "水再生センター",
           "rank": "S",
-          "note": "予約見学。多摩地域の公共下水処理施設",
+          "note": "予約見学。多摩地域の公共下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%A4%9A%E6%91%A9%E4%BA%8C%E5%8F%B7%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E7%AB%8B%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -7234,12 +7783,13 @@ window.FACILITY_DATASET={
           "name": "浅川水再生センター",
           "type": "水再生センター",
           "rank": "A",
-          "note": "予約見学。水処理設備を実地見学できる",
+          "note": "予約見学。水処理設備を実地見学できる。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-05/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E5%B7%9D%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%97%A5%E9%87%8E%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-05/index.html"
         },
         {
           "prefecture": "北海道",
@@ -7247,12 +7797,13 @@ window.FACILITY_DATASET={
           "name": "アルテピアッツァ美唄（旧栄小学校）",
           "type": "廃校活用・文化施設",
           "rank": "S",
-          "note": "一般利用。木造校舎を再利用した公共性の高い芸術空間",
+          "note": "一般利用。木造校舎を再利用した公共性の高い芸術空間。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
           "official": "https://www.artepiazza.jp/guide/map/art-space/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%86%E3%83%94%E3%82%A2%E3%83%83%E3%83%84%E3%82%A1%E7%BE%8E%E5%94%84%EF%BC%88%E6%97%A7%E6%A0%84%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%BE%8E%E5%94%84%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.artepiazza.jp/guide/map/art-space/"
         },
         {
           "prefecture": "北海道",
@@ -7260,12 +7811,13 @@ window.FACILITY_DATASET={
           "name": "あけぼのアート＆コミュニティセンター（旧曙小学校）",
           "type": "廃校活用・文化施設",
           "rank": "S",
-          "note": "一般利用。旧小学校の教室・廊下を残した文化拠点",
+          "note": "一般利用。旧小学校の教室・廊下を残した文化拠点。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
           "official": "https://akebono.concarino.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%91%E3%81%BC%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%EF%BC%86%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E6%97%A7%E6%9B%99%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://akebono.concarino.or.jp/"
         },
         {
           "prefecture": "北海道",
@@ -7273,12 +7825,13 @@ window.FACILITY_DATASET={
           "name": "まこまる（旧真駒内緑小学校）",
           "type": "廃校活用・複合公共施設",
           "rank": "S",
-          "note": "一般利用。学校建築を子育て・地域施設へ転用",
+          "note": "一般利用。学校建築を子育て・地域施設へ転用。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
           "official": "http://www.city.sapporo.jp/keikaku/kougai/makomanai/makomaru.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%93%E3%81%BE%E3%82%8B%EF%BC%88%E6%97%A7%E7%9C%9F%E9%A7%92%E5%86%85%E7%B7%91%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.sapporo.jp/keikaku/kougai/makomanai/makomaru.html"
         },
         {
           "prefecture": "北海道",
@@ -7286,12 +7839,13 @@ window.FACILITY_DATASET={
           "name": "広葉交流センター いこーよ（旧広葉小学校）",
           "type": "廃校活用・交流施設",
           "rank": "S",
-          "note": "一般利用。ニュータウンの旧学校を地域施設へ転用",
+          "note": "一般利用。ニュータウンの旧学校を地域施設へ転用。\n狙い目：学校として造られた建物を地域施設へ使い替えた点に注目。旧用途を読み取れる部分と現在の案内を照合する。",
           "official": "http://www.city.kitahiroshima.hokkaido.jp/hotnews/detail/00010640.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E8%91%89%E4%BA%A4%E6%B5%81%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%84%E3%81%93%E3%83%BC%E3%82%88%EF%BC%88%E6%97%A7%E5%BA%83%E8%91%89%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E5%BA%83%E5%B3%B6%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.kitahiroshima.hokkaido.jp/hotnews/detail/00010640.html"
         },
         {
           "prefecture": "北海道",
@@ -7299,12 +7853,13 @@ window.FACILITY_DATASET={
           "name": "石狩市学び交流センター（旧紅葉山小学校）",
           "type": "廃校活用・交流施設",
           "rank": "S",
-          "note": "一般利用。学校校舎を学習交流施設として再利用",
+          "note": "一般利用。学校校舎を学習交流施設として再利用。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E7%8B%A9%E5%B8%82%E5%AD%A6%E3%81%B3%E4%BA%A4%E6%B5%81%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E6%97%A7%E7%B4%85%E8%91%89%E5%B1%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%9F%B3%E7%8B%A9%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "北海道",
@@ -7312,12 +7867,13 @@ window.FACILITY_DATASET={
           "name": "太陽の森 ディマシオ美術館（旧太陽小学校）",
           "type": "廃校活用・美術館",
           "rank": "S",
-          "note": "一般利用。山間の旧校舎を巨大絵画の美術館に転用",
+          "note": "一般利用。山間の旧校舎を巨大絵画の美術館に転用。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
           "official": "https://dimaccio-museum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E9%99%BD%E3%81%AE%E6%A3%AE%20%E3%83%87%E3%82%A3%E3%83%9E%E3%82%B7%E3%82%AA%E7%BE%8E%E8%A1%93%E9%A4%A8%EF%BC%88%E6%97%A7%E5%A4%AA%E9%99%BD%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%96%B0%E5%86%A0%E7%94%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://dimaccio-museum.jp/"
         },
         {
           "prefecture": "全国",
@@ -7325,12 +7881,13 @@ window.FACILITY_DATASET={
           "name": "文部科学省 廃校施設等活用事例リンク集掲載施設",
           "type": "廃校活用・全国索引",
           "rank": "S",
-          "note": "施設ごと。全国の廃校転用建築を用途別に追える公式索引",
+          "note": "施設ごと。全国の廃校転用建築を用途別に追える公式索引。\n狙い目：旧学校名と現在の用途を対応させ、用途が変わっても使われ続ける建築の例を比較する。見学条件は掲載施設ごとに異なる。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E9%83%A8%E7%A7%91%E5%AD%A6%E7%9C%81%20%E5%BB%83%E6%A0%A1%E6%96%BD%E8%A8%AD%E7%AD%89%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86%E6%8E%B2%E8%BC%89%E6%96%BD%E8%A8%AD%20%E5%85%A8%E5%9B%BD%20",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -7338,12 +7895,13 @@ window.FACILITY_DATASET={
           "name": "豊洲市場",
           "type": "公設卸売市場",
           "rank": "A",
-          "note": "一般見学。巨大な青果・水産物流施設を見学者通路から観察できる",
+          "note": "一般見学。巨大な青果・水産物流施設を見学者通路から観察できる。\n狙い目：荷物が流れる仕組みと人が見学する経路の関係に注目。実際の作業区域と来訪者の場所を分けて観察する。",
           "official": "https://www.toyosu-market.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.toyosu-market.or.jp/"
         },
         {
           "prefecture": "東京都",
@@ -7351,12 +7909,13 @@ window.FACILITY_DATASET={
           "name": "大田市場",
           "type": "公設卸売市場",
           "rank": "A",
-          "note": "一般見学。青果・花き・水産を扱う巨大市場建築",
+          "note": "一般見学。青果・花き・水産を扱う巨大市場建築。\n狙い目：荷物が流れる仕組みと人が見学する経路の関係に注目。実際の作業区域と来訪者の場所を分けて観察する。",
           "official": "https://www.shijou.metro.tokyo.lg.jp/info/3",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%B0%E5%B8%82%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.shijou.metro.tokyo.lg.jp/info/3"
         },
         {
           "prefecture": "東京都",
@@ -7364,12 +7923,13 @@ window.FACILITY_DATASET={
           "name": "豊島市場",
           "type": "公設卸売市場",
           "rank": "A",
-          "note": "見学可。都市内部に残る青果市場",
+          "note": "見学可。都市内部に残る青果市場。\n狙い目：荷物が流れる仕組みと人が見学する経路の関係に注目。実際の作業区域と来訪者の場所を分けて観察する。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E5%B3%B6%E5%B8%82%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -7377,12 +7937,13 @@ window.FACILITY_DATASET={
           "name": "淀橋市場",
           "type": "公設卸売市場",
           "rank": "A",
-          "note": "見学可。新宿の巨大青果物流拠点",
+          "note": "見学可。新宿の巨大青果物流拠点。\n狙い目：荷物が流れる仕組みと人が見学する経路の関係に注目。実際の作業区域と来訪者の場所を分けて観察する。",
           "official": "https://www.shijou.metro.tokyo.lg.jp/info/5",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B7%80%E6%A9%8B%E5%B8%82%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.shijou.metro.tokyo.lg.jp/info/5"
         },
         {
           "prefecture": "東京都",
@@ -7390,12 +7951,13 @@ window.FACILITY_DATASET={
           "name": "足立市場",
           "type": "公設卸売市場",
           "rank": "A",
-          "note": "見学可。水産物中心の公設市場",
+          "note": "見学可。水産物中心の公設市場。\n狙い目：荷物が流れる仕組みと人が見学する経路の関係に注目。実際の作業区域と来訪者の場所を分けて観察する。",
           "official": "http://www.adachi-shijyo.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%B3%E7%AB%8B%E5%B8%82%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.adachi-shijyo.or.jp/"
         },
         {
           "prefecture": "東京都",
@@ -7403,12 +7965,13 @@ window.FACILITY_DATASET={
           "name": "板橋市場",
           "type": "公設卸売市場",
           "rank": "A",
-          "note": "見学可。住宅地側にある卸売市場施設",
+          "note": "見学可。住宅地側にある卸売市場施設。\n狙い目：荷物が流れる仕組みと人が見学する経路の関係に注目。実際の作業区域と来訪者の場所を分けて観察する。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%B8%82%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -7416,12 +7979,13 @@ window.FACILITY_DATASET={
           "name": "北足立市場",
           "type": "公設卸売市場",
           "rank": "A",
-          "note": "見学可。青果・花きを扱う物流建築",
+          "note": "見学可。青果・花きを扱う物流建築。\n狙い目：荷物が流れる仕組みと人が見学する経路の関係に注目。実際の作業区域と来訪者の場所を分けて観察する。",
           "official": "https://www.shijou.metro.tokyo.lg.jp/info/9",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E8%B6%B3%E7%AB%8B%E5%B8%82%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.shijou.metro.tokyo.lg.jp/info/9"
         },
         {
           "prefecture": "東京都",
@@ -7429,12 +7993,13 @@ window.FACILITY_DATASET={
           "name": "葛西市場",
           "type": "公設卸売市場",
           "rank": "A",
-          "note": "見学可。東部の青果・花き市場",
+          "note": "見学可。東部の青果・花き市場。\n狙い目：荷物が流れる仕組みと人が見学する経路の関係に注目。実際の作業区域と来訪者の場所を分けて観察する。",
           "official": "https://www.shijou.metro.tokyo.lg.jp/info/11/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%91%9B%E8%A5%BF%E5%B8%82%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.shijou.metro.tokyo.lg.jp/info/11/"
         },
         {
           "prefecture": "岡山県",
@@ -7442,12 +8007,13 @@ window.FACILITY_DATASET={
           "name": "岡山市中央卸売市場",
           "type": "公設卸売市場",
           "rank": "A",
-          "note": "受付・見学。守衛室で受付して市場施設を見学できる",
+          "note": "受付・見学。守衛室で受付して市場施設を見学できる。\n狙い目：荷物が流れる仕組みと人が見学する経路の関係に注目。実際の作業区域と来訪者の場所を分けて観察する。",
           "official": "https://okayamaichiba.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%B2%A1%E5%B1%B1%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://okayamaichiba.jp/"
         },
         {
           "prefecture": "東京都",
@@ -7455,12 +8021,13 @@ window.FACILITY_DATASET={
           "name": "東京都虹の下水道館",
           "type": "下水道・体験施設",
           "rank": "S",
-          "note": "一般入館。下水道管・ポンプ所・水再生センターを再現した公共施設",
+          "note": "有明水再生センター5階にある東京都下水道局の広報施設。「レインボータウン」を舞台に、下水道管・ポンプ所・中央監視室・水質検査室での仕事を体験する構成。\n狙い目：普段立ち入れないインフラの仕事場を、来館者向けの室内空間として再現している点。",
           "official": "https://www.nijinogesuidoukan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%99%B9%E3%81%AE%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.nijinogesuidoukan.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -7468,12 +8035,13 @@ window.FACILITY_DATASET={
           "name": "浮島処理センター",
           "type": "ごみ処理施設",
           "rank": "S",
-          "note": "予約見学。焼却・粗大ごみ処理施設の内部と中央制御室を見学",
+          "note": "予約見学。焼却・粗大ごみ処理施設の内部と中央制御室を見学。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%AE%E5%B3%B6%E5%87%A6%E7%90%86%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -7481,12 +8049,13 @@ window.FACILITY_DATASET={
           "name": "多摩川清掃工場",
           "type": "清掃工場",
           "rank": "S",
-          "note": "見学。巨大な都市ごみ焼却施設",
+          "note": "見学。巨大な都市ごみ焼却施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "http://www.union.tokyo23-seisou.lg.jp/kojo/tamagawa/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%9A%E6%91%A9%E5%B7%9D%E6%B8%85%E6%8E%83%E5%B7%A5%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.union.tokyo23-seisou.lg.jp/kojo/tamagawa/index.html"
         },
         {
           "prefecture": "東京都",
@@ -7494,12 +8063,13 @@ window.FACILITY_DATASET={
           "name": "東京23区の清掃工場",
           "type": "清掃工場・見学施設",
           "rank": "S",
-          "note": "施設ごと。複数の現役清掃工場を実際に見学できる公式索引",
+          "note": "施設ごと。複数の現役清掃工場を実際に見学できる公式索引。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "http://www.union.tokyo23-seisou.lg.jp/kojo/nerima/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC23%E5%8C%BA%E3%81%AE%E6%B8%85%E6%8E%83%E5%B7%A5%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%89%B9%E5%88%A5%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.union.tokyo23-seisou.lg.jp/kojo/nerima/"
         },
         {
           "prefecture": "埼玉県",
@@ -7507,12 +8077,13 @@ window.FACILITY_DATASET={
           "name": "首都圏外郭放水路・庄和排水機場",
           "type": "地下放水路・排水機場",
           "rank": "S",
-          "note": "見学会。巨大立坑と地下神殿状の調圧水槽を持つ国の治水施設",
+          "note": "見学会。巨大立坑と地下神殿状の調圧水槽を持つ国の治水施設。\n狙い目：立坑や調圧水槽の大きさと、見学者の通る位置の関係を見たい。見学コース内から設備のスケールを捉える。",
           "official": "https://www.ktr.mlit.go.jp/edogawa/edogawa00233.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%96%E9%83%BD%E5%9C%8F%E5%A4%96%E9%83%AD%E6%94%BE%E6%B0%B4%E8%B7%AF%E3%83%BB%E5%BA%84%E5%92%8C%E6%8E%92%E6%B0%B4%E6%A9%9F%E5%A0%B4%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.ktr.mlit.go.jp/edogawa/edogawa00233.html"
         },
         {
           "prefecture": "東京都",
@@ -7520,12 +8091,13 @@ window.FACILITY_DATASET={
           "name": "環状七号線地下調節池",
           "type": "地下調節池",
           "rank": "S",
-          "note": "見学会時。地下河川トンネル型の巨大治水施設",
+          "note": "見学会時。地下河川トンネル型の巨大治水施設。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
           "official": "http://kanzyou7.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%92%B0%E7%8A%B6%E4%B8%83%E5%8F%B7%E7%B7%9A%E5%9C%B0%E4%B8%8B%E8%AA%BF%E7%AF%80%E6%B1%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://kanzyou7.com/"
         },
         {
           "prefecture": "大阪府",
@@ -7533,12 +8105,13 @@ window.FACILITY_DATASET={
           "name": "天保山渡船場",
           "type": "市営渡船・待合施設",
           "rank": "B",
-          "note": "一般利用。道路扱いの無料渡船に実際に乗れる",
+          "note": "一般利用。道路扱いの無料渡船に実際に乗れる。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
           "official": "http://www.city.osaka.lg.jp/kensetsu/page/0000011249.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E4%BF%9D%E5%B1%B1%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.osaka.lg.jp/kensetsu/page/0000011249.html"
         },
         {
           "prefecture": "大阪府",
@@ -7546,12 +8119,13 @@ window.FACILITY_DATASET={
           "name": "甚兵衛渡船場",
           "type": "市営渡船・待合施設",
           "rank": "B",
-          "note": "一般利用。工業地帯の日常交通として残る無料渡船",
+          "note": "一般利用。工業地帯の日常交通として残る無料渡船。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
           "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000011251.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%9A%E5%85%B5%E8%A1%9B%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.osaka.lg.jp/kensetsu/page/0000011251.html"
         },
         {
           "prefecture": "大阪府",
@@ -7559,12 +8133,13 @@ window.FACILITY_DATASET={
           "name": "千歳渡船場",
           "type": "市営渡船・待合施設",
           "rank": "B",
-          "note": "一般利用。巨大橋梁下の水路を渡る公共交通施設",
+          "note": "一般利用。巨大橋梁下の水路を渡る公共交通施設。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
           "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000011253.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E6%AD%B3%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.osaka.lg.jp/kensetsu/page/0000011253.html"
         },
         {
           "prefecture": "大阪府",
@@ -7572,12 +8147,13 @@ window.FACILITY_DATASET={
           "name": "千本松渡船場",
           "type": "市営渡船・待合施設",
           "rank": "B",
-          "note": "一般利用。ループ橋直下を船で横断する",
+          "note": "一般利用。ループ橋直下を船で横断する。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
           "official": "http://www.city.osaka.lg.jp/kensetsu/page/0000011258.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E6%9C%AC%E6%9D%BE%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.city.osaka.lg.jp/kensetsu/page/0000011258.html"
         },
         {
           "prefecture": "福岡県",
@@ -7585,12 +8161,13 @@ window.FACILITY_DATASET={
           "name": "博多港 市営渡船ターミナル",
           "type": "市営渡船・港湾施設",
           "rank": "B",
-          "note": "一般利用。市営離島航路の公共ターミナル",
+          "note": "一般利用。市営離島航路の公共ターミナル。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
           "official": "https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/ferry_city.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E6%B8%AF%20%E5%B8%82%E5%96%B6%E6%B8%A1%E8%88%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/ferry_city.html"
         },
         {
           "prefecture": "鹿児島県",
@@ -7598,12 +8175,13 @@ window.FACILITY_DATASET={
           "name": "桜島フェリーターミナル",
           "type": "市営フェリー・港湾施設",
           "rank": "B",
-          "note": "一般利用。自治体直営フェリーの旅客施設",
+          "note": "一般利用。自治体直営フェリーの旅客施設。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
           "official": "https://www.city.kagoshima.lg.jp/sakurajima-ferry/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%9C%E5%B3%B6%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kagoshima.lg.jp/sakurajima-ferry/index.html"
         },
         {
           "prefecture": "高知県",
@@ -7611,12 +8189,13 @@ window.FACILITY_DATASET={
           "name": "津波避難センター",
           "type": "津波防災施設",
           "rank": "A",
-          "note": "施設により見学。避難することだけを目的に造られた垂直避難建築",
+          "note": "施設により見学。避難することだけを目的に造られた垂直避難建築。\n狙い目：日常の建築と避難のための用途を分けて見る。一般公開される機会に、避難者の移動経路の構成を読みたい。",
           "official": "https://www.city.kochi.kochi.jp/soshiki/61/misatosunajitawa.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B4%A5%E6%B3%A2%E9%81%BF%E9%9B%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E9%AB%98%E7%9F%A5%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.city.kochi.kochi.jp/soshiki/61/misatosunajitawa.html"
         },
         {
           "prefecture": "東京都",
@@ -7624,12 +8203,13 @@ window.FACILITY_DATASET={
           "name": "国立公文書館",
           "type": "公文書館",
           "rank": "B",
-          "note": "一般入館。国の行政文書を保存・展示する専用建築",
+          "note": "一般入館。国の行政文書を保存・展示する専用建築。\n狙い目：保存するための機能と、一般に見せる閲覧・展示の機能を分けて読む。公開された資料から建物の役割を理解したい。",
           "official": "http://www.archives.go.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E5%85%AC%E6%96%87%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.archives.go.jp/"
         },
         {
           "prefecture": "茨城県",
@@ -7637,12 +8217,13 @@ window.FACILITY_DATASET={
           "name": "地質標本館",
           "type": "国立研究機関・展示施設",
           "rank": "B",
-          "note": "一般入館。産総研の地質研究施設に併設された専門展示館",
+          "note": "一般入館。産総研の地質研究施設に併設された専門展示館。\n狙い目：地質研究の成果を一般向けの標本展示へどう置き換えるかを見る。標本と産地・地層の説明の関係に注目。",
           "official": "http://www.gsj.jp/Muse/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E8%B3%AA%E6%A8%99%E6%9C%AC%E9%A4%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
           "kind": "見学可能な公的建築",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.gsj.jp/Muse/"
         }
       ]
     },
@@ -7660,12 +8241,13 @@ window.FACILITY_DATASET={
           "name": "伊勢丹新宿店「アイ・ガーデン」",
           "type": "百貨店屋上庭園",
           "rank": "A",
-          "note": "無料・営業時間内。芝生・雑木林。ユーザー基準に最も近い",
+          "note": "無料・営業時間内。芝生・雑木林。\n狙い目：植栽や水景の境目と周囲の建物の見え方に注目。地上の庭園とは異なる、建築上の自然のつくり方を見る。",
           "official": "https://www.mistore.jp/store/shinjuku.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E5%8B%A2%E4%B8%B9%E6%96%B0%E5%AE%BF%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "伊勢丹新宿店"
+          "mapQueryName": "伊勢丹新宿店",
+          "references": "公式サイト：https://www.mistore.jp/store/shinjuku.html"
         },
         {
           "prefecture": "東京都",
@@ -7673,12 +8255,13 @@ window.FACILITY_DATASET={
           "name": "新宿マルイ本館「Q-COURT」",
           "type": "商業施設屋上庭園",
           "rank": "A",
-          "note": "無料・営業時間内。英国式庭園系。新宿の屋上定番",
+          "note": "無料・営業時間内。英国式庭園系。新宿の屋上定番。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "https://www.0101.co.jp/003/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%83%9E%E3%83%AB%E3%82%A4%E6%9C%AC%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "新宿マルイ本館"
+          "mapQueryName": "新宿マルイ本館",
+          "references": "公式サイト：https://www.0101.co.jp/003/"
         },
         {
           "prefecture": "東京都",
@@ -7686,12 +8269,13 @@ window.FACILITY_DATASET={
           "name": "京王百貨店 新宿店「京王スカイガーデン」",
           "type": "百貨店屋上",
           "rank": "B",
-          "note": "無料・営業時間内。昔ながらの百貨店屋上感が強い",
+          "note": "無料・営業時間内。昔ながらの百貨店屋上感が強い。\n狙い目：売場から屋外へ移る際の明るさと見通しの変化を観察する。買い物の途中で滞在する屋上としての使われ方を見る。",
           "official": "https://www.keionet.com/info/shinjuku/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%99%BE%E8%B2%A8%E5%BA%97%20%E6%96%B0%E5%AE%BF%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "京王百貨店 新宿店"
+          "mapQueryName": "京王百貨店 新宿店",
+          "references": "公式サイト：https://www.keionet.com/info/shinjuku/"
         },
         {
           "prefecture": "東京都",
@@ -7699,12 +8283,13 @@ window.FACILITY_DATASET={
           "name": "新宿高島屋タイムズスクエア「上層階テラス・屋外空間」",
           "type": "商業施設高層テラス",
           "rank": "B",
-          "note": "無料・営業時間内。新宿駅南口の高層商業施設",
+          "note": "無料・営業時間内。新宿駅南口の高層商業施設。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://www.takashimaya.co.jp/shinjuku/timessquare/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E9%AB%98%E5%B3%B6%E5%B1%8B%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "新宿高島屋タイムズスクエア"
+          "mapQueryName": "新宿高島屋タイムズスクエア",
+          "references": "公式サイト：https://www.takashimaya.co.jp/shinjuku/timessquare/index.html"
         },
         {
           "prefecture": "東京都",
@@ -7712,12 +8297,13 @@ window.FACILITY_DATASET={
           "name": "NEWoMan新宿「上層階屋外テラス」",
           "type": "駅ビル高層テラス",
           "rank": "B",
-          "note": "無料・営業時間内。駅直結で人工地盤感がある",
+          "note": "無料・営業時間内。駅直結で人工地盤感がある。\n狙い目：鉄道の移動空間と人が滞在する屋外空間の関係を見る。駅側から出る際の視界の変化が狙い目。",
           "official": "https://www.newoman.jp/shinjuku/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=NEWoMan%E6%96%B0%E5%AE%BF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "NEWoMan新宿"
+          "mapQueryName": "NEWoMan新宿",
+          "references": "公式サイト：https://www.newoman.jp/shinjuku/?utm_source"
         },
         {
           "prefecture": "東京都",
@@ -7725,12 +8311,13 @@ window.FACILITY_DATASET={
           "name": "東急プラザ表参道「オモカド」「おもはらの森」",
           "type": "商業施設屋上庭園",
           "rank": "A",
-          "note": "無料・営業時間内。木陰と階段状テラス。原宿交差点を見下ろす",
+          "note": "無料・営業時間内。木陰と階段状テラス。原宿交差点を見下ろす。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://www.tokyu-plaza.com/omokado/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E3%83%97%E3%83%A9%E3%82%B6%E8%A1%A8%E5%8F%82%E9%81%93%E3%80%8C%E3%82%AA%E3%83%A2%E3%82%AB%E3%83%89%E3%80%8D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東急プラザ表参道「オモカド」"
+          "mapQueryName": "東急プラザ表参道「オモカド」",
+          "references": "公式サイト：https://www.tokyu-plaza.com/omokado/"
         },
         {
           "prefecture": "東京都",
@@ -7738,12 +8325,13 @@ window.FACILITY_DATASET={
           "name": "東急プラザ原宿「ハラカド」「ルーフトップガーデン」",
           "type": "商業施設屋上庭園",
           "rank": "A",
-          "note": "無料・営業時間内。6・7階屋上庭園。神宮前交差点を見下ろす",
+          "note": "無料・営業時間内。6・7階屋上庭園。神宮前交差点を見下ろす。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "https://www.tokyu-plaza.com/harakado/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E3%83%97%E3%83%A9%E3%82%B6%E5%8E%9F%E5%AE%BF%E3%80%8C%E3%83%8F%E3%83%A9%E3%82%AB%E3%83%89%E3%80%8D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東急プラザ原宿「ハラカド」"
+          "mapQueryName": "東急プラザ原宿「ハラカド」",
+          "references": "公式サイト：https://www.tokyu-plaza.com/harakado/"
         },
         {
           "prefecture": "東京都",
@@ -7751,12 +8339,13 @@ window.FACILITY_DATASET={
           "name": "渋谷PARCO「ROOFTOP PARK」",
           "type": "商業施設屋上公園",
           "rank": "A",
-          "note": "無料・営業時間内。階段・植栽・回遊動線がある屋上公園",
+          "note": "無料・営業時間内。階段・植栽・回遊動線がある屋上公園。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://shibuya.parco.jp/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7PARCO%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "渋谷PARCO"
+          "mapQueryName": "渋谷PARCO",
+          "references": "公式サイト：https://shibuya.parco.jp/?utm_source"
         },
         {
           "prefecture": "東京都",
@@ -7764,12 +8353,13 @@ window.FACILITY_DATASET={
           "name": "渋谷スクランブルスクエア「SHIBUYA SKY SKY STAGE」",
           "type": "屋上展望施設",
           "rank": "A",
-          "note": "有料・チケット制。完全な屋外屋上。高所感は最大級",
+          "note": "有料・チケット制。完全な屋外屋上。高所感は最大級。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://www.shibuya-scramble-square.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "渋谷スクランブルスクエア"
+          "mapQueryName": "渋谷スクランブルスクエア",
+          "references": "公式サイト：https://www.shibuya-scramble-square.com/"
         },
         {
           "prefecture": "東京都",
@@ -7777,12 +8367,13 @@ window.FACILITY_DATASET={
           "name": "MIYASHITA PARK「渋谷区立宮下公園」",
           "type": "屋上都市公園",
           "rank": "A",
-          "note": "無料。商業施設上の都市公園",
+          "note": "無料。商業施設上の都市公園。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://mitsui-shopping-park.com/urban/miyashita/",
           "maps": "https://www.google.com/maps/search/?api=1&query=MIYASHITA%20PARK%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "MIYASHITA PARK"
+          "mapQueryName": "MIYASHITA PARK",
+          "references": "公式サイト：https://mitsui-shopping-park.com/urban/miyashita/"
         },
         {
           "prefecture": "東京都",
@@ -7790,12 +8381,13 @@ window.FACILITY_DATASET={
           "name": "MAGNET by SHIBUYA109「MAG's PARK / CROSSING VIEW」",
           "type": "商業施設屋上",
           "rank": "B",
-          "note": "利用条件あり。スクランブル交差点を上から見る屋上",
+          "note": "利用条件あり。スクランブル交差点を上から見る屋上。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://magnetbyshibuya109.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=MAGNET%20by%20SHIBUYA109%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "MAGNET by SHIBUYA109"
+          "mapQueryName": "MAGNET by SHIBUYA109",
+          "references": "公式サイト：https://magnetbyshibuya109.jp/"
         },
         {
           "prefecture": "東京都",
@@ -7803,12 +8395,13 @@ window.FACILITY_DATASET={
           "name": "渋谷フクラス・東急プラザ渋谷「SHIBU NIWA」",
           "type": "高層屋外テラス",
           "rank": "A",
-          "note": "無料・営業時間内。17階の屋外庭園",
+          "note": "無料・営業時間内。17階の屋外庭園。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "https://www.tokyu-plaza.com/shibuya/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E3%83%95%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%BB%E6%9D%B1%E6%80%A5%E3%83%97%E3%83%A9%E3%82%B6%E6%B8%8B%E8%B0%B7%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "渋谷フクラス・東急プラザ渋谷"
+          "mapQueryName": "渋谷フクラス・東急プラザ渋谷",
+          "references": "公式サイト：https://www.tokyu-plaza.com/shibuya/"
         },
         {
           "prefecture": "東京都",
@@ -7816,12 +8409,13 @@ window.FACILITY_DATASET={
           "name": "恵比寿ガーデンプレイスタワー「SKY LOUNGE周辺屋外眺望空間」",
           "type": "高層展望・テラス",
           "rank": "B",
-          "note": "無料。都市俯瞰系。庭園より眺望重視",
+          "note": "無料。都市俯瞰系。庭園より眺望重視。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "https://gardenplace.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "恵比寿ガーデンプレイスタワー"
+          "mapQueryName": "恵比寿ガーデンプレイスタワー",
+          "references": "公式サイト：https://gardenplace.jp/"
         },
         {
           "prefecture": "東京都",
@@ -7829,12 +8423,13 @@ window.FACILITY_DATASET={
           "name": "GINZA SIX「GINZA SIX ガーデン」",
           "type": "商業施設屋上庭園",
           "rank": "A",
-          "note": "無料。約4,000㎡、回廊・芝生・水盤",
+          "note": "無料。約4,000㎡、回廊・芝生・水盤。\n狙い目：植栽や水景の境目と周囲の建物の見え方に注目。地上の庭園とは異なる、建築上の自然のつくり方を見る。",
           "official": "https://ginza6.tokyo/",
           "maps": "https://www.google.com/maps/search/?api=1&query=GINZA%20SIX%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "GINZA SIX"
+          "mapQueryName": "GINZA SIX",
+          "references": "公式サイト：https://ginza6.tokyo/"
         },
         {
           "prefecture": "東京都",
@@ -7842,12 +8437,13 @@ window.FACILITY_DATASET={
           "name": "銀座三越「銀座テラス」",
           "type": "百貨店屋上庭園",
           "rank": "A",
-          "note": "無料・営業時間内。百貨店屋上らしい休憩空間",
+          "note": "無料・営業時間内。百貨店屋上らしい休憩空間。\n狙い目：売場から屋外へ移る際の明るさと見通しの変化を観察する。買い物の途中で滞在する屋上としての使われ方を見る。",
           "official": "https://www.mistore.jp/store/ginza.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "銀座三越"
+          "mapQueryName": "銀座三越",
+          "references": "公式サイト：https://www.mistore.jp/store/ginza.html"
         },
         {
           "prefecture": "東京都",
@@ -7855,12 +8451,13 @@ window.FACILITY_DATASET={
           "name": "東急プラザ銀座「KIRIKO TERRACE」",
           "type": "商業施設屋上テラス",
           "rank": "A",
-          "note": "無料・営業時間内。銀座数寄屋橋の屋上テラス",
+          "note": "無料・営業時間内。銀座数寄屋橋の屋上テラス。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "http://ginzanovo.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E3%83%97%E3%83%A9%E3%82%B6%E9%8A%80%E5%BA%A7%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東急プラザ銀座"
+          "mapQueryName": "東急プラザ銀座",
+          "references": "公式サイト：http://ginzanovo.com/"
         },
         {
           "prefecture": "東京都",
@@ -7868,12 +8465,13 @@ window.FACILITY_DATASET={
           "name": "東京ミッドタウン日比谷「パークビューガーデン」",
           "type": "商業施設高層庭園",
           "rank": "A",
-          "note": "無料。日比谷公園を見下ろす6階庭園",
+          "note": "無料。日比谷公園を見下ろす6階庭園。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "https://www.hibiya.tokyo-midtown.com/jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%82%A6%E3%83%B3%E6%97%A5%E6%AF%94%E8%B0%B7%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東京ミッドタウン日比谷"
+          "mapQueryName": "東京ミッドタウン日比谷",
+          "references": "公式サイト：https://www.hibiya.tokyo-midtown.com/jp/"
         },
         {
           "prefecture": "東京都",
@@ -7881,12 +8479,13 @@ window.FACILITY_DATASET={
           "name": "有楽町マルイ「屋上・上層階屋外スペース」",
           "type": "商業施設屋外空間",
           "rank": "B",
-          "note": "営業時間内。丸井系の都市屋外空間候補",
+          "note": "営業時間内。丸井系の都市屋外空間候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "https://www.0101.co.jp/086/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%A5%BD%E7%94%BA%E3%83%9E%E3%83%AB%E3%82%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "有楽町マルイ"
+          "mapQueryName": "有楽町マルイ",
+          "references": "公式サイト：https://www.0101.co.jp/086/"
         },
         {
           "prefecture": "東京都",
@@ -7894,12 +8493,13 @@ window.FACILITY_DATASET={
           "name": "日本橋三越本店「日本橋庭園「つながりのもり」」",
           "type": "百貨店屋上庭園",
           "rank": "A",
-          "note": "無料・営業時間内。古い百貨店建築の上に森・池・神社",
+          "note": "無料・営業時間内。古い百貨店建築の上に森・池・神社。\n狙い目：植栽や水景の境目と周囲の建物の見え方に注目。地上の庭園とは異なる、建築上の自然のつくり方を見る。",
           "official": "https://www.mistore.jp/store/nihombashi.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%B8%89%E8%B6%8A%E6%9C%AC%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "日本橋三越本店"
+          "mapQueryName": "日本橋三越本店",
+          "references": "公式サイト：https://www.mistore.jp/store/nihombashi.html"
         },
         {
           "prefecture": "東京都",
@@ -7907,12 +8507,13 @@ window.FACILITY_DATASET={
           "name": "日本橋高島屋S.C.「屋上庭園」",
           "type": "百貨店屋上庭園",
           "rank": "A",
-          "note": "無料・営業時間内。日本橋の老舗百貨店屋上",
+          "note": "無料・営業時間内。日本橋の老舗百貨店屋上。\n狙い目：売場から屋外へ移る際の明るさと見通しの変化を観察する。買い物の途中で滞在する屋上としての使われ方を見る。",
           "official": "https://www.takashimaya.co.jp/nihombashi/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%A9%8B%E9%AB%98%E5%B3%B6%E5%B1%8BS.C.%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "日本橋高島屋S.C."
+          "mapQueryName": "日本橋高島屋S.C.",
+          "references": "公式サイト：https://www.takashimaya.co.jp/nihombashi/index.html"
         },
         {
           "prefecture": "東京都",
@@ -7920,12 +8521,13 @@ window.FACILITY_DATASET={
           "name": "COREDO室町テラス「大屋根広場・上層屋外空間」",
           "type": "商業施設テラス",
           "rank": "B",
-          "note": "無料。日本橋再開発の人工地盤感",
+          "note": "無料。日本橋再開発の人工地盤感。\n狙い目：足元の建築と周辺の街路の高さを比べ、地上のように使われる上層の歩行空間を観察したい。",
           "official": "https://mitsui-shopping-park.com/urban/muromachi/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=COREDO%E5%AE%A4%E7%94%BA%E3%83%86%E3%83%A9%E3%82%B9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "COREDO室町テラス"
+          "mapQueryName": "COREDO室町テラス",
+          "references": "公式サイト：https://mitsui-shopping-park.com/urban/muromachi/index.html"
         },
         {
           "prefecture": "東京都",
@@ -7933,12 +8535,13 @@ window.FACILITY_DATASET={
           "name": "KITTE丸の内「KITTEガーデン」",
           "type": "屋上庭園",
           "rank": "A",
-          "note": "無料。東京駅舎とホームを上から見られる",
+          "note": "無料。東京駅舎とホームを上から見られる。\n狙い目：鉄道の移動空間と人が滞在する屋外空間の関係を見る。駅側から出る際の視界の変化が狙い目。",
           "official": "https://marunouchi.jp-kitte.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=KITTE%E4%B8%B8%E3%81%AE%E5%86%85%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "KITTE丸の内"
+          "mapQueryName": "KITTE丸の内",
+          "references": "公式サイト：https://marunouchi.jp-kitte.jp/"
         },
         {
           "prefecture": "東京都",
@@ -7946,12 +8549,13 @@ window.FACILITY_DATASET={
           "name": "新丸ビル「丸の内ハウス テラス」",
           "type": "高層屋外テラス",
           "rank": "A",
-          "note": "無料・飲食利用可。東京駅正面の屋外テラス",
+          "note": "無料・飲食利用可。東京駅正面の屋外テラス。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://www.marunouchi.com/building/shinmaru/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E4%B8%B8%E3%83%93%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "新丸ビル"
+          "mapQueryName": "新丸ビル",
+          "references": "公式サイト：https://www.marunouchi.com/building/shinmaru/"
         },
         {
           "prefecture": "東京都",
@@ -7959,12 +8563,13 @@ window.FACILITY_DATASET={
           "name": "丸ビル「上層階屋外・展望スペース」",
           "type": "高層テラス",
           "rank": "B",
-          "note": "営業時間内。丸の内俯瞰系",
+          "note": "営業時間内。丸の内俯瞰系。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://www.marunouchi.com/building/marubiru/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B8%E3%83%93%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "丸ビル"
+          "mapQueryName": "丸ビル",
+          "references": "公式サイト：https://www.marunouchi.com/building/marubiru/"
         },
         {
           "prefecture": "東京都",
@@ -7972,12 +8577,13 @@ window.FACILITY_DATASET={
           "name": "Otemachi One「Otemachi One Garden」",
           "type": "人工地盤庭園",
           "rank": "A",
-          "note": "無料。大手町のビル群の中の立体庭園",
+          "note": "無料。大手町のビル群の中の立体庭園。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://otemachi-one.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=Otemachi%20One%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "Otemachi One"
+          "mapQueryName": "Otemachi One",
+          "references": "公式サイト：https://otemachi-one.com/"
         },
         {
           "prefecture": "東京都",
@@ -7985,12 +8591,13 @@ window.FACILITY_DATASET={
           "name": "丸の内テラス「屋上・テラス空間」",
           "type": "商業施設テラス",
           "rank": "B",
-          "note": "営業時間内。低層商業棟上部の屋外空間",
+          "note": "営業時間内。低層商業棟上部の屋外空間。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://www.marunouchi.com/building/marunouchiterrace/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B8%E3%81%AE%E5%86%85%E3%83%86%E3%83%A9%E3%82%B9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "丸の内テラス"
+          "mapQueryName": "丸の内テラス",
+          "references": "公式サイト：https://www.marunouchi.com/building/marunouchiterrace/"
         },
         {
           "prefecture": "東京都",
@@ -7998,12 +8605,13 @@ window.FACILITY_DATASET={
           "name": "アークヒルズ「アークガーデン」",
           "type": "人工地盤・屋上庭園群",
           "rank": "A",
-          "note": "無料・一部公開日限定。複数の屋上庭園が段状にある",
+          "note": "無料・一部公開日限定。複数の屋上庭園が段状にある。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "http://www.arkhills.com/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%92%E3%83%AB%E3%82%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "アークヒルズ"
+          "mapQueryName": "アークヒルズ",
+          "references": "公式サイト：http://www.arkhills.com/?utm_source"
         },
         {
           "prefecture": "東京都",
@@ -8011,12 +8619,13 @@ window.FACILITY_DATASET={
           "name": "虎ノ門ヒルズ「オーバル広場・上層テラス」",
           "type": "人工地盤・屋外広場",
           "rank": "B",
-          "note": "無料。再開発の立体公共空間",
+          "note": "無料。再開発の立体公共空間。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://www.toranomonhills.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "虎ノ門ヒルズ"
+          "mapQueryName": "虎ノ門ヒルズ",
+          "references": "公式サイト：https://www.toranomonhills.com/"
         },
         {
           "prefecture": "東京都",
@@ -8024,12 +8633,13 @@ window.FACILITY_DATASET={
           "name": "麻布台ヒルズ「中央広場・上層庭園」",
           "type": "人工地盤・立体庭園",
           "rank": "B",
-          "note": "無料。建築と庭園が連続する再開発空間",
+          "note": "無料。建築と庭園が連続する再開発空間。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "https://www.azabudai-hills.com/index.html?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%BA%BB%E5%B8%83%E5%8F%B0%E3%83%92%E3%83%AB%E3%82%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "麻布台ヒルズ"
+          "mapQueryName": "麻布台ヒルズ",
+          "references": "公式サイト：https://www.azabudai-hills.com/index.html?utm_source"
         },
         {
           "prefecture": "東京都",
@@ -8037,12 +8647,13 @@ window.FACILITY_DATASET={
           "name": "六本木ヒルズ「屋上スカイデッキ系公開イベント」",
           "type": "高層屋外展望",
           "rank": "B",
-          "note": "開催時・条件あり。通常庭園とは別系統の高所屋外体験",
+          "note": "開催時・条件あり。通常庭園とは別系統の高所屋外体験。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "https://www.roppongihills.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E6%9C%AC%E6%9C%A8%E3%83%92%E3%83%AB%E3%82%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "六本木ヒルズ"
+          "mapQueryName": "六本木ヒルズ",
+          "references": "公式サイト：https://www.roppongihills.com/"
         },
         {
           "prefecture": "東京都",
@@ -8050,12 +8661,13 @@ window.FACILITY_DATASET={
           "name": "東京ミッドタウン「ミッドタウン・ガーデン上部テラス」",
           "type": "人工地盤・庭園",
           "rank": "B",
-          "note": "無料。都市再開発と緑地の混合",
+          "note": "無料。都市再開発と緑地の混合。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "http://www.tokyo-midtown.com/jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%82%A6%E3%83%B3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東京ミッドタウン"
+          "mapQueryName": "東京ミッドタウン",
+          "references": "公式サイト：http://www.tokyo-midtown.com/jp/"
         },
         {
           "prefecture": "東京都",
@@ -8063,12 +8675,13 @@ window.FACILITY_DATASET={
           "name": "西武池袋本店「食と緑の空中庭園」",
           "type": "百貨店屋上庭園",
           "rank": "B",
-          "note": "営業状況要確認。池袋の代表的百貨店屋上",
+          "note": "営業状況要確認。池袋の代表的百貨店屋上。\n狙い目：植栽や水景の境目と周囲の建物の見え方に注目。地上の庭園とは異なる、建築上の自然のつくり方を見る。",
           "official": "https://www.sogo-seibu.jp/seibuikebukuro/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E6%AD%A6%E6%B1%A0%E8%A2%8B%E6%9C%AC%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "西武池袋本店"
+          "mapQueryName": "西武池袋本店",
+          "references": "公式サイト：https://www.sogo-seibu.jp/seibuikebukuro/?utm_source"
         },
         {
           "prefecture": "東京都",
@@ -8076,12 +8689,13 @@ window.FACILITY_DATASET={
           "name": "東武百貨店 池袋店「屋上スカイデッキ」",
           "type": "百貨店屋上",
           "rank": "B",
-          "note": "無料・営業時間内。昔ながらの百貨店屋上系",
+          "note": "無料・営業時間内。昔ながらの百貨店屋上系。\n狙い目：植栽や水景の境目と周囲の建物の見え方に注目。地上の庭園とは異なる、建築上の自然のつくり方を見る。",
           "official": "https://www.tobu-dept.jp/ikebukuro/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%AD%A6%E7%99%BE%E8%B2%A8%E5%BA%97%20%E6%B1%A0%E8%A2%8B%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東武百貨店 池袋店"
+          "mapQueryName": "東武百貨店 池袋店",
+          "references": "公式サイト：https://www.tobu-dept.jp/ikebukuro/"
         },
         {
           "prefecture": "東京都",
@@ -8089,12 +8703,13 @@ window.FACILITY_DATASET={
           "name": "WACCA池袋「上層階テラス」",
           "type": "商業施設テラス",
           "rank": "B",
-          "note": "営業時間内。池袋駅近くの屋外空間候補",
+          "note": "営業時間内。池袋駅近くの屋外空間候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "http://wacca.tokyo/",
           "maps": "https://www.google.com/maps/search/?api=1&query=WACCA%E6%B1%A0%E8%A2%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "WACCA池袋"
+          "mapQueryName": "WACCA池袋",
+          "references": "公式サイト：http://wacca.tokyo/"
         },
         {
           "prefecture": "東京都",
@@ -8102,12 +8717,13 @@ window.FACILITY_DATASET={
           "name": "東急プラザ蒲田「かまたえん」",
           "type": "百貨店系屋上遊園地",
           "rank": "A",
-          "note": "有料遊具あり・入場可。都内唯一の屋上観覧車",
+          "note": "有料遊具あり・入場可。都内唯一の屋上観覧車。\n狙い目：観覧車と屋上の床面、周囲の街の高さを見比べる。建物の上に小さな遊園地がある構成が対象。",
           "official": "https://www.tokyu-plaza.com/kamata/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E3%83%97%E3%83%A9%E3%82%B6%E8%92%B2%E7%94%B0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東急プラザ蒲田"
+          "mapQueryName": "東急プラザ蒲田",
+          "references": "公式サイト：https://www.tokyu-plaza.com/kamata/"
         },
         {
           "prefecture": "東京都",
@@ -8115,12 +8731,13 @@ window.FACILITY_DATASET={
           "name": "玉川高島屋S・C「PARK & TERRACE OSOTO」",
           "type": "商業施設屋上庭園",
           "rank": "A",
-          "note": "無料。南館7・8F、約1,300㎡",
+          "note": "無料。南館7・8F、約1,300㎡。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://www.takashimaya.co.jp/tamagawa/sc/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%8E%89%E5%B7%9D%E9%AB%98%E5%B3%B6%E5%B1%8BS%E3%83%BBC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "玉川高島屋S・C"
+          "mapQueryName": "玉川高島屋S・C",
+          "references": "公式サイト：https://www.takashimaya.co.jp/tamagawa/sc/"
         },
         {
           "prefecture": "東京都",
@@ -8128,12 +8745,13 @@ window.FACILITY_DATASET={
           "name": "二子玉川ライズ「ルーフガーデン」",
           "type": "商業施設屋上庭園",
           "rank": "A",
-          "note": "無料。複数階に連続する屋上緑地",
+          "note": "無料。複数階に連続する屋上緑地。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://www.rise.sc/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E3%83%A9%E3%82%A4%E3%82%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "二子玉川ライズ"
+          "mapQueryName": "二子玉川ライズ",
+          "references": "公式サイト：https://www.rise.sc/"
         },
         {
           "prefecture": "東京都",
@@ -8141,12 +8759,13 @@ window.FACILITY_DATASET={
           "name": "豊洲市場「屋上緑化広場」",
           "type": "市場屋上緑地",
           "rank": "A",
-          "note": "無料・5:00～23:00。巨大市場建築の屋根上に芝生広場",
+          "note": "無料・5:00～23:00。巨大市場建築の屋根上に芝生広場。\n狙い目：基盤となるインフラの用途と、その上の緑地の使われ方を対比する。地上から上部へ移る経路に注目。",
           "official": "https://www.toyosu-market.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "豊洲市場"
+          "mapQueryName": "豊洲市場",
+          "references": "公式サイト：https://www.toyosu-market.or.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8154,12 +8773,13 @@ window.FACILITY_DATASET={
           "name": "そなエリア東京「屋上庭園」",
           "type": "公共施設屋上庭園",
           "rank": "A",
-          "note": "無料。防災体験施設の屋上を自由見学",
+          "note": "無料。防災体験施設の屋上を自由見学。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "https://www.tokyorinkai-koen.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%9D%E3%81%AA%E3%82%A8%E3%83%AA%E3%82%A2%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "そなエリア東京"
+          "mapQueryName": "そなエリア東京",
+          "references": "公式サイト：https://www.tokyorinkai-koen.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8167,12 +8787,13 @@ window.FACILITY_DATASET={
           "name": "ダイバーシティ東京 プラザ「屋上・上層屋外スペース」",
           "type": "商業施設屋外空間",
           "rank": "B",
-          "note": "営業時間内。臨海部の大型商業施設",
+          "note": "営業時間内。臨海部の大型商業施設。\n狙い目：建物側から水辺側へ向いたときの視界を比べる。人工的な床面と水面の広がりの対比が対象。",
           "official": "https://mitsui-shopping-park.com/divercity-tokyo/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%E6%9D%B1%E4%BA%AC%20%E3%83%97%E3%83%A9%E3%82%B6%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "ダイバーシティ東京 プラザ"
+          "mapQueryName": "ダイバーシティ東京 プラザ",
+          "references": "公式サイト：https://mitsui-shopping-park.com/divercity-tokyo/"
         },
         {
           "prefecture": "東京都",
@@ -8180,12 +8801,13 @@ window.FACILITY_DATASET={
           "name": "デックス東京ビーチ「シーサイドデッキ」",
           "type": "高層・人工地盤テラス",
           "rank": "B",
-          "note": "無料。海側のデッキ空間",
+          "note": "無料。海側のデッキ空間。\n狙い目：建物側から水辺側へ向いたときの視界を比べる。人工的な床面と水面の広がりの対比が対象。",
           "official": "https://www.odaiba-decks.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%BC%E3%83%81%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "デックス東京ビーチ"
+          "mapQueryName": "デックス東京ビーチ",
+          "references": "公式サイト：https://www.odaiba-decks.com/"
         },
         {
           "prefecture": "東京都",
@@ -8193,12 +8815,13 @@ window.FACILITY_DATASET={
           "name": "アクアシティお台場「屋上・上層テラス」",
           "type": "商業施設屋外空間",
           "rank": "B",
-          "note": "無料。自由の女神・湾岸眺望",
+          "note": "無料。自由の女神・湾岸眺望。\n狙い目：建物側から水辺側へ向いたときの視界を比べる。人工的な床面と水面の広がりの対比が対象。",
           "official": "https://www.aquacity.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%B7%E3%83%86%E3%82%A3%E3%81%8A%E5%8F%B0%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "アクアシティお台場"
+          "mapQueryName": "アクアシティお台場",
+          "references": "公式サイト：https://www.aquacity.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8206,12 +8829,13 @@ window.FACILITY_DATASET={
           "name": "有明ガーデン「屋上・ガーデンテラス」",
           "type": "商業施設屋上庭園",
           "rank": "B",
-          "note": "無料。大型複合施設の屋外緑地",
+          "note": "無料。大型複合施設の屋外緑地。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "https://www.shopping-sumitomo-rd.com/ariake/shopping",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "有明ガーデン"
+          "mapQueryName": "有明ガーデン",
+          "references": "公式サイト：https://www.shopping-sumitomo-rd.com/ariake/shopping"
         },
         {
           "prefecture": "東京都",
@@ -8219,12 +8843,13 @@ window.FACILITY_DATASET={
           "name": "品川区役所「本庁舎屋上庭園」",
           "type": "区役所屋上庭園",
           "rank": "A",
-          "note": "無料・平日のみ。役所の屋上。畑・植栽・富士山眺望",
+          "note": "無料・平日のみ。役所の屋上。畑・植栽・富士山眺望。\n狙い目：行政施設の業務空間から庭園・眺望空間へ移る動線を見たい。一般利用できる区画と執務区域の分け方も対象。",
           "official": "https://www.city.shinagawa.tokyo.jp/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%93%81%E5%B7%9D%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "品川区役所"
+          "mapQueryName": "品川区役所",
+          "references": "公式サイト：https://www.city.shinagawa.tokyo.jp/?utm_source"
         },
         {
           "prefecture": "東京都",
@@ -8232,12 +8857,13 @@ window.FACILITY_DATASET={
           "name": "中野区役所「11階屋上庭園」",
           "type": "区役所屋上庭園",
           "rank": "A",
-          "note": "無料・平日8:30～17:00。新庁舎の一般開放屋上",
+          "note": "無料・平日8:30～17:00。新庁舎の一般開放屋上。\n狙い目：行政施設の業務空間から庭園・眺望空間へ移る動線を見たい。一般利用できる区画と執務区域の分け方も対象。",
           "official": "https://www.city.tokyo-nakano.lg.jp/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E9%87%8E%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "中野区役所"
+          "mapQueryName": "中野区役所",
+          "references": "公式サイト：https://www.city.tokyo-nakano.lg.jp/index.html"
         },
         {
           "prefecture": "東京都",
@@ -8245,12 +8871,13 @@ window.FACILITY_DATASET={
           "name": "世田谷区役所「東棟屋上庭園」",
           "type": "区役所屋上庭園",
           "rank": "A",
-          "note": "一般開放。新庁舎の屋上庭園",
+          "note": "一般開放。新庁舎の屋上庭園。\n狙い目：行政施設の業務空間から庭園・眺望空間へ移る動線を見たい。一般利用できる区画と執務区域の分け方も対象。",
           "official": "https://www.city.setagaya.lg.jp/mokuji/kusei/012/001/001/d00006140.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "世田谷区役所"
+          "mapQueryName": "世田谷区役所",
+          "references": "公式サイト：https://www.city.setagaya.lg.jp/mokuji/kusei/012/001/001/d00006140.html"
         },
         {
           "prefecture": "東京都",
@@ -8258,12 +8885,13 @@ window.FACILITY_DATASET={
           "name": "渋谷区役所「上層階・屋外スペース」",
           "type": "区役所テラス",
           "rank": "B",
-          "note": "来庁時利用。新庁舎の立体公共空間",
+          "note": "来庁時利用。新庁舎の立体公共空間。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "http://www.city.shibuya.tokyo.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "渋谷区役所"
+          "mapQueryName": "渋谷区役所",
+          "references": "公式サイト：http://www.city.shibuya.tokyo.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8271,12 +8899,13 @@ window.FACILITY_DATASET={
           "name": "豊島区役所「豊島の森」",
           "type": "庁舎屋上庭園",
           "rank": "A",
-          "note": "無料・公開時間あり。区役所10階屋上の生態系庭園",
+          "note": "無料・公開時間あり。区役所10階屋上の生態系庭園。\n狙い目：植栽や水景の境目と周囲の建物の見え方に注目。地上の庭園とは異なる、建築上の自然のつくり方を見る。",
           "official": "http://www.city.toshima.lg.jp/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E5%B3%B6%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "豊島区役所"
+          "mapQueryName": "豊島区役所",
+          "references": "公式サイト：http://www.city.toshima.lg.jp/?utm_source"
         },
         {
           "prefecture": "東京都",
@@ -8284,12 +8913,13 @@ window.FACILITY_DATASET={
           "name": "練馬区役所「屋上・展望ロビー周辺」",
           "type": "庁舎展望・屋外系",
           "rank": "B",
-          "note": "無料。自治体庁舎の眺望施設",
+          "note": "無料。自治体庁舎の眺望施設。\n狙い目：屋内の眺望空間として、窓越しの街の見え方と閲覧・滞在する場所の配置を観察したい。",
           "official": "http://www.city.nerima.tokyo.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%B4%E9%A6%AC%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "練馬区役所"
+          "mapQueryName": "練馬区役所",
+          "references": "公式サイト：http://www.city.nerima.tokyo.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8297,12 +8927,13 @@ window.FACILITY_DATASET={
           "name": "文京シビックセンター「展望ラウンジ周辺」",
           "type": "庁舎展望施設",
           "rank": "B",
-          "note": "無料。屋内中心だが公共高所施設として近い",
+          "note": "無料。屋内中心だが公共高所施設として近い。\n狙い目：屋内の眺望空間として、窓越しの街の見え方と閲覧・滞在する場所の配置を観察したい。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E4%BA%AC%E3%82%B7%E3%83%93%E3%83%83%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "文京シビックセンター"
+          "mapQueryName": "文京シビックセンター",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -8310,12 +8941,13 @@ window.FACILITY_DATASET={
           "name": "北とぴあ「展望ロビー・屋外系イベント」",
           "type": "公共文化施設高所",
           "rank": "B",
-          "note": "無料。公共施設の高所空間",
+          "note": "無料。公共施設の高所空間。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "http://www.hokutopia.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E3%81%A8%E3%81%B4%E3%81%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "北とぴあ"
+          "mapQueryName": "北とぴあ",
+          "references": "公式サイト：http://www.hokutopia.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8323,12 +8955,13 @@ window.FACILITY_DATASET={
           "name": "国営昭和記念公園 花みどり文化センター「浮游の庭」",
           "type": "公共施設屋上庭園",
           "rank": "A",
-          "note": "入園・利用条件による。5,278㎡の巨大緑化屋根。建築的にかなり面白い",
+          "note": "入園・利用条件による。5,278㎡の巨大緑化屋根。建築的にかなり面白い。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "http://www.showakinen-koen.jp/facility/facility_green-culture/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E5%96%B6%E6%98%AD%E5%92%8C%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92%20%E8%8A%B1%E3%81%BF%E3%81%A9%E3%82%8A%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "国営昭和記念公園 花みどり文化センター"
+          "mapQueryName": "国営昭和記念公園 花みどり文化センター",
+          "references": "公式サイト：http://www.showakinen-koen.jp/facility/facility_green-culture/"
         },
         {
           "prefecture": "東京都",
@@ -8336,12 +8969,13 @@ window.FACILITY_DATASET={
           "name": "浅草文化観光センター「8階展望テラス」",
           "type": "公共施設高層テラス",
           "rank": "A",
-          "note": "無料。雷門と仲見世を見下ろす",
+          "note": "無料。雷門と仲見世を見下ろす。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/a-tic-gaiyo.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89%E6%96%87%E5%8C%96%E8%A6%B3%E5%85%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "浅草文化観光センター"
+          "mapQueryName": "浅草文化観光センター",
+          "references": "公式サイト：https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/a-tic-gaiyo.html"
         },
         {
           "prefecture": "東京都",
@@ -8349,12 +8983,13 @@ window.FACILITY_DATASET={
           "name": "すみだリバーサイドホール／墨田区役所「上層展望スペース」",
           "type": "公共施設高所",
           "rank": "B",
-          "note": "無料。隅田川沿い庁舎の眺望空間",
+          "note": "無料。隅田川沿い庁舎の眺望空間。\n狙い目：行政施設の業務空間から庭園・眺望空間へ移る動線を見たい。一般利用できる区画と執務区域の分け方も対象。",
           "official": "http://www.city.sumida.lg.jp/sisetu_info/tamokuteki/sumidariversidehall/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%BF%E3%81%A0%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%8F%E5%A2%A8%E7%94%B0%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "すみだリバーサイドホール／墨田区役所"
+          "mapQueryName": "すみだリバーサイドホール／墨田区役所",
+          "references": "公式サイト：http://www.city.sumida.lg.jp/sisetu_info/tamokuteki/sumidariversidehall/"
         },
         {
           "prefecture": "東京都",
@@ -8362,12 +8997,13 @@ window.FACILITY_DATASET={
           "name": "築地魚河岸「屋上広場」",
           "type": "市場関連施設屋上",
           "rank": "A",
-          "note": "無料・開館時間内。市場施設の上にある広場",
+          "note": "無料・開館時間内。市場施設の上にある広場。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://www.tsukiji.or.jp/professional/uogashi/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AF%89%E5%9C%B0%E9%AD%9A%E6%B2%B3%E5%B2%B8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "築地魚河岸"
+          "mapQueryName": "築地魚河岸",
+          "references": "公式サイト：https://www.tsukiji.or.jp/professional/uogashi/"
         },
         {
           "prefecture": "東京都",
@@ -8375,12 +9011,13 @@ window.FACILITY_DATASET={
           "name": "東京国際フォーラム「屋外デッキ・上層歩行空間」",
           "type": "公共文化施設テラス",
           "rank": "B",
-          "note": "無料。ガラス棟周辺の立体動線",
+          "note": "無料。ガラス棟周辺の立体動線。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://www.t-i-forum.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東京国際フォーラム"
+          "mapQueryName": "東京国際フォーラム",
+          "references": "公式サイト：https://www.t-i-forum.co.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8388,12 +9025,13 @@ window.FACILITY_DATASET={
           "name": "東京交通会館「3階屋上庭園・テラス」",
           "type": "駅前ビル屋上",
           "rank": "A",
-          "note": "無料。新幹線・在来線を近距離で見られる",
+          "note": "無料。新幹線・在来線を近距離で見られる。\n狙い目：鉄道の移動空間と人が滞在する屋外空間の関係を見る。駅側から出る際の視界の変化が狙い目。",
           "official": "https://www.kotsukaikan.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%BA%A4%E9%80%9A%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東京交通会館"
+          "mapQueryName": "東京交通会館",
+          "references": "公式サイト：https://www.kotsukaikan.co.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8401,12 +9039,13 @@ window.FACILITY_DATASET={
           "name": "上野の森さくらテラス「屋上・段状テラス」",
           "type": "商業施設テラス",
           "rank": "B",
-          "note": "無料。上野駅前の段状屋外空間",
+          "note": "無料。上野駅前の段状屋外空間。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "http://ueno-sakura.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E9%87%8E%E3%81%AE%E6%A3%AE%E3%81%95%E3%81%8F%E3%82%89%E3%83%86%E3%83%A9%E3%82%B9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "上野の森さくらテラス"
+          "mapQueryName": "上野の森さくらテラス",
+          "references": "公式サイト：http://ueno-sakura.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8414,12 +9053,13 @@ window.FACILITY_DATASET={
           "name": "PARCO_ya上野「屋外テラス」",
           "type": "商業施設テラス",
           "rank": "B",
-          "note": "営業時間内。御徒町の上層屋外空間",
+          "note": "営業時間内。御徒町の上層屋外空間。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "http://parcoya-ueno.parco.jp/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=PARCO_ya%E4%B8%8A%E9%87%8E%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "PARCO_ya上野"
+          "mapQueryName": "PARCO_ya上野",
+          "references": "公式サイト：http://parcoya-ueno.parco.jp/?utm_source"
         },
         {
           "prefecture": "東京都",
@@ -8427,12 +9067,13 @@ window.FACILITY_DATASET={
           "name": "東京ソラマチ「スカイアリーナ」",
           "type": "商業施設屋外広場",
           "rank": "A",
-          "note": "無料。東京スカイツリー足元の上層人工地盤",
+          "note": "無料。東京スカイツリー足元の上層人工地盤。\n狙い目：足元の建築と周辺の街路の高さを比べ、地上のように使われる上層の歩行空間を観察したい。",
           "official": "http://www.tokyo-solamachi.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%82%BD%E3%83%A9%E3%83%9E%E3%83%81%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東京ソラマチ"
+          "mapQueryName": "東京ソラマチ",
+          "references": "公式サイト：http://www.tokyo-solamachi.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8440,12 +9081,13 @@ window.FACILITY_DATASET={
           "name": "東京スカイツリー「天望回廊周辺屋外イベント空間」",
           "type": "高所展望施設",
           "rank": "B",
-          "note": "有料。屋内中心だが屋上・高所収集の関連候補",
+          "note": "有料。屋内中心だが屋上・高所収集の関連候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "https://www.tokyo-skytree.jp/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%84%E3%83%AA%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東京スカイツリー"
+          "mapQueryName": "東京スカイツリー",
+          "references": "公式サイト：https://www.tokyo-skytree.jp/?utm_source"
         },
         {
           "prefecture": "東京都",
@@ -8453,12 +9095,13 @@ window.FACILITY_DATASET={
           "name": "吉祥寺PARCO「屋上イベントスペース」",
           "type": "商業施設屋上",
           "rank": "B",
-          "note": "イベント時等。PARCO系の古典的屋上空間",
+          "note": "イベント時等。PARCO系の古典的屋上空間。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "https://kichijoji.parco.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%89%E7%A5%A5%E5%AF%BAPARCO%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "吉祥寺PARCO"
+          "mapQueryName": "吉祥寺PARCO",
+          "references": "公式サイト：https://kichijoji.parco.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8466,12 +9109,13 @@ window.FACILITY_DATASET={
           "name": "町田モディ「屋上・上層イベント空間」",
           "type": "商業施設屋上",
           "rank": "B",
-          "note": "営業状況要確認。マルイ系屋上候補",
+          "note": "営業状況要確認。マルイ系屋上候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "https://www.0101.co.jp/723/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%BA%E7%94%B0%E3%83%A2%E3%83%87%E3%82%A3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%94%BA%E7%94%B0%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "町田モディ"
+          "mapQueryName": "町田モディ",
+          "references": "公式サイト：https://www.0101.co.jp/723/"
         },
         {
           "prefecture": "東京都",
@@ -8479,12 +9123,13 @@ window.FACILITY_DATASET={
           "name": "GREEN SPRINGS「スカイデッキ・屋上緑地」",
           "type": "人工地盤・屋上公園",
           "rank": "A",
-          "note": "無料。階段状の水景と屋上緑地が連続",
+          "note": "無料。階段状の水景と屋上緑地が連続。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://greensprings.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=GREEN%20SPRINGS%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "GREEN SPRINGS"
+          "mapQueryName": "GREEN SPRINGS",
+          "references": "公式サイト：https://greensprings.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8492,12 +9137,13 @@ window.FACILITY_DATASET={
           "name": "ルミネ立川「屋上・イベントスペース」",
           "type": "駅ビル屋上",
           "rank": "B",
-          "note": "イベント時等。駅ビル屋上候補",
+          "note": "イベント時等。駅ビル屋上候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "https://www.lumine.ne.jp/tachikawa/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%9F%E3%83%8D%E7%AB%8B%E5%B7%9D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "ルミネ立川"
+          "mapQueryName": "ルミネ立川",
+          "references": "公式サイト：https://www.lumine.ne.jp/tachikawa/"
         },
         {
           "prefecture": "東京都",
@@ -8505,12 +9151,13 @@ window.FACILITY_DATASET={
           "name": "セレオ八王子「屋上庭園・屋外空間」",
           "type": "駅ビル屋上",
           "rank": "B",
-          "note": "営業時間内。駅ビル型の屋上候補",
+          "note": "営業時間内。駅ビル型の屋上候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "https://www.jrccd.co.jp/celeo/hachioji/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%AC%E3%82%AA%E5%85%AB%E7%8E%8B%E5%AD%90%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "セレオ八王子"
+          "mapQueryName": "セレオ八王子",
+          "references": "公式サイト：https://www.jrccd.co.jp/celeo/hachioji/"
         },
         {
           "prefecture": "東京都",
@@ -8518,12 +9165,13 @@ window.FACILITY_DATASET={
           "name": "トリエ京王調布「屋上・テラス」",
           "type": "駅ビル屋外空間",
           "rank": "B",
-          "note": "営業時間内。駅上部の屋外空間",
+          "note": "営業時間内。駅上部の屋外空間。\n狙い目：鉄道の移動空間と人が滞在する屋外空間の関係を見る。駅側から出る際の視界の変化が狙い目。",
           "official": "http://trie-keiochofu.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%83%AA%E3%82%A8%E4%BA%AC%E7%8E%8B%E8%AA%BF%E5%B8%83%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%AA%BF%E5%B8%83%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "トリエ京王調布"
+          "mapQueryName": "トリエ京王調布",
+          "references": "公式サイト：http://trie-keiochofu.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8531,12 +9179,13 @@ window.FACILITY_DATASET={
           "name": "ミッテン府中「屋上・テラス」",
           "type": "商業施設屋上",
           "rank": "B",
-          "note": "営業時間内。旧伊勢丹系建物の屋上候補",
+          "note": "営業時間内。旧伊勢丹系建物の屋上候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "https://mitten-foris.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9F%E3%83%83%E3%83%86%E3%83%B3%E5%BA%9C%E4%B8%AD%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%BA%9C%E4%B8%AD%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "ミッテン府中"
+          "mapQueryName": "ミッテン府中",
+          "references": "公式サイト：https://mitten-foris.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8544,12 +9193,13 @@ window.FACILITY_DATASET={
           "name": "NEWoMan新宿 / JR新宿ミライナタワー「Suicaのペンギン広場」",
           "type": "人工地盤テラス",
           "rank": "A",
-          "note": "無料。線路上の駅ビル屋外広場",
+          "note": "無料。線路上の駅ビル屋外広場。\n狙い目：鉄道の移動空間と人が滞在する屋外空間の関係を見る。駅側から出る際の視界の変化が狙い目。",
           "official": "http://www.jebl.co.jp/building/shinjukumiraina/",
           "maps": "https://www.google.com/maps/search/?api=1&query=NEWoMan%E6%96%B0%E5%AE%BF%20/%20JR%E6%96%B0%E5%AE%BF%E3%83%9F%E3%83%A9%E3%82%A4%E3%83%8A%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "NEWoMan新宿 / JR新宿ミライナタワー"
+          "mapQueryName": "NEWoMan新宿 / JR新宿ミライナタワー",
+          "references": "公式サイト：http://www.jebl.co.jp/building/shinjukumiraina/"
         },
         {
           "prefecture": "東京都",
@@ -8557,12 +9207,13 @@ window.FACILITY_DATASET={
           "name": "東京ミッドタウン八重洲「YAESU TERRACE」",
           "type": "高層屋外テラス",
           "rank": "A",
-          "note": "無料。東京駅八重洲口の上層庭園",
+          "note": "無料。東京駅八重洲口の上層庭園。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "https://www.yaesu.tokyo-midtown.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%82%A6%E3%83%B3%E5%85%AB%E9%87%8D%E6%B4%B2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東京ミッドタウン八重洲"
+          "mapQueryName": "東京ミッドタウン八重洲",
+          "references": "公式サイト：https://www.yaesu.tokyo-midtown.com/"
         },
         {
           "prefecture": "東京都",
@@ -8570,12 +9221,13 @@ window.FACILITY_DATASET={
           "name": "東京スクエアガーデン「京橋の丘」",
           "type": "立体緑地・テラス",
           "rank": "A",
-          "note": "無料。ビル低層部に段状の緑地",
+          "note": "無料。ビル低層部に段状の緑地。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://corporate.palette.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東京スクエアガーデン"
+          "mapQueryName": "東京スクエアガーデン",
+          "references": "公式サイト：https://corporate.palette.co.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8583,12 +9235,13 @@ window.FACILITY_DATASET={
           "name": "SHARE GREEN MINAMI AOYAMA「屋上・テラス系緑地」",
           "type": "商業・複合施設",
           "rank": "B",
-          "note": "無料。低層建築と緑地の組合せ",
+          "note": "無料。低層建築と緑地の組合せ。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "https://share-green.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=SHARE%20GREEN%20MINAMI%20AOYAMA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "SHARE GREEN MINAMI AOYAMA"
+          "mapQueryName": "SHARE GREEN MINAMI AOYAMA",
+          "references": "公式サイト：https://share-green.com/"
         },
         {
           "prefecture": "東京都",
@@ -8596,12 +9249,13 @@ window.FACILITY_DATASET={
           "name": "ウォーターズ竹芝「芝生広場・上層デッキ」",
           "type": "人工地盤テラス",
           "rank": "A",
-          "note": "無料。運河沿いの立体屋外空間",
+          "note": "無料。運河沿いの立体屋外空間。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://waters-takeshiba.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA%E7%AB%B9%E8%8A%9D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "ウォーターズ竹芝"
+          "mapQueryName": "ウォーターズ竹芝",
+          "references": "公式サイト：https://waters-takeshiba.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8609,12 +9263,13 @@ window.FACILITY_DATASET={
           "name": "品川シーズンテラス「イベント広場・人工地盤緑地」",
           "type": "人工地盤公園",
           "rank": "A",
-          "note": "無料。下水処理施設上部の巨大緑地",
+          "note": "無料。下水処理施設上部の巨大緑地。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "https://sr.shinagawa-st.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%93%81%E5%B7%9D%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E3%83%86%E3%83%A9%E3%82%B9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "品川シーズンテラス"
+          "mapQueryName": "品川シーズンテラス",
+          "references": "公式サイト：https://sr.shinagawa-st.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8622,12 +9277,13 @@ window.FACILITY_DATASET={
           "name": "豊洲ベイサイドクロス「屋上・テラス空間」",
           "type": "商業施設テラス",
           "rank": "B",
-          "note": "無料。豊洲駅前の上層屋外空間",
+          "note": "無料。豊洲駅前の上層屋外空間。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://www.toyosu-baysidecross.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E3%83%99%E3%82%A4%E3%82%B5%E3%82%A4%E3%83%89%E3%82%AF%E3%83%AD%E3%82%B9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "豊洲ベイサイドクロス"
+          "mapQueryName": "豊洲ベイサイドクロス",
+          "references": "公式サイト：https://www.toyosu-baysidecross.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8635,12 +9291,13 @@ window.FACILITY_DATASET={
           "name": "ららぽーと豊洲「シーサイドデッキ」",
           "type": "商業施設屋外デッキ",
           "rank": "A",
-          "note": "無料。造船所跡地・海沿いの人工地盤",
+          "note": "無料。造船所跡地・海沿いの人工地盤。\n狙い目：建物側から水辺側へ向いたときの視界を比べる。人工的な床面と水面の広がりの対比が対象。",
           "official": "https://mitsui-shopping-park.com/lalaport/toyosu/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%89%E3%82%89%E3%81%BD%E3%83%BC%E3%81%A8%E8%B1%8A%E6%B4%B2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "ららぽーと豊洲"
+          "mapQueryName": "ららぽーと豊洲",
+          "references": "公式サイト：https://mitsui-shopping-park.com/lalaport/toyosu/"
         },
         {
           "prefecture": "東京都",
@@ -8648,12 +9305,13 @@ window.FACILITY_DATASET={
           "name": "文京グリーンコート「屋上・公開空地テラス」",
           "type": "複合施設屋外空間",
           "rank": "B",
-          "note": "無料。オフィス複合施設の公開空間",
+          "note": "無料。オフィス複合施設の公開空間。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "http://www.bunkyo-greencourt.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E4%BA%AC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%88%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "文京グリーンコート"
+          "mapQueryName": "文京グリーンコート",
+          "references": "公式サイト：http://www.bunkyo-greencourt.com/"
         },
         {
           "prefecture": "東京都",
@@ -8661,12 +9319,13 @@ window.FACILITY_DATASET={
           "name": "御茶ノ水ソラシティ「ソラシティプラザ上層テラス」",
           "type": "人工地盤広場",
           "rank": "A",
-          "note": "無料。駅前再開発の立体公共空間",
+          "note": "無料。駅前再開発の立体公共空間。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "http://plaza.solacity.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4%E3%82%BD%E3%83%A9%E3%82%B7%E3%83%86%E3%82%A3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "御茶ノ水ソラシティ"
+          "mapQueryName": "御茶ノ水ソラシティ",
+          "references": "公式サイト：http://plaza.solacity.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8674,12 +9333,13 @@ window.FACILITY_DATASET={
           "name": "ワテラス「ワテラス広場・上層テラス」",
           "type": "人工地盤広場",
           "rank": "A",
-          "note": "無料。淡路町の段状公共空間",
+          "note": "無料。淡路町の段状公共空間。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://www.waterras.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%AF%E3%83%86%E3%83%A9%E3%82%B9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "ワテラス"
+          "mapQueryName": "ワテラス",
+          "references": "公式サイト：https://www.waterras.com/"
         },
         {
           "prefecture": "東京都",
@@ -8687,12 +9347,13 @@ window.FACILITY_DATASET={
           "name": "東京ポートシティ竹芝「スキップテラス」",
           "type": "立体テラス・屋上庭園",
           "rank": "A",
-          "note": "無料。複数階を連続する緑化テラス",
+          "note": "無料。複数階を連続する緑化テラス。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "http://tokyo-portcity-takeshiba.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B7%E3%83%86%E3%82%A3%E7%AB%B9%E8%8A%9D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東京ポートシティ竹芝"
+          "mapQueryName": "東京ポートシティ竹芝",
+          "references": "公式サイト：http://tokyo-portcity-takeshiba.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8700,12 +9361,13 @@ window.FACILITY_DATASET={
           "name": "WITH HARAJUKU「WITH HARAJUKU PARK」",
           "type": "商業施設テラス",
           "rank": "A",
-          "note": "無料。原宿駅前の段状屋外空間",
+          "note": "無料。原宿駅前の段状屋外空間。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://withharajuku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=WITH%20HARAJUKU%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "WITH HARAJUKU"
+          "mapQueryName": "WITH HARAJUKU",
+          "references": "公式サイト：https://withharajuku.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8713,12 +9375,13 @@ window.FACILITY_DATASET={
           "name": "渋谷キャスト「広場・上層テラス」",
           "type": "複合施設屋外空間",
           "rank": "B",
-          "note": "無料。再開発ビルの公開空地",
+          "note": "無料。再開発ビルの公開空地。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "http://shibuyacast.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "渋谷キャスト"
+          "mapQueryName": "渋谷キャスト",
+          "references": "公式サイト：http://shibuyacast.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8726,12 +9389,13 @@ window.FACILITY_DATASET={
           "name": "渋谷ストリーム「稲荷橋広場・上層デッキ」",
           "type": "人工地盤テラス",
           "rank": "A",
-          "note": "無料。旧東横線高架跡と連続する立体空間",
+          "note": "無料。旧東横線高架跡と連続する立体空間。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://shibuyastream.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "渋谷ストリーム"
+          "mapQueryName": "渋谷ストリーム",
+          "references": "公式サイト：https://shibuyastream.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8739,12 +9403,13 @@ window.FACILITY_DATASET={
           "name": "代官山T-SITE周辺「屋上・テラス系公開空間」",
           "type": "低層商業テラス",
           "rank": "B",
-          "note": "店舗利用。低層建築と外部空間",
+          "note": "店舗利用。低層建築と外部空間。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://store.tsite.jp/daikanyama/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BB%A3%E5%AE%98%E5%B1%B1T-SITE%E5%91%A8%E8%BE%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "代官山T-SITE周辺"
+          "mapQueryName": "代官山T-SITE周辺",
+          "references": "公式サイト：https://store.tsite.jp/daikanyama/"
         },
         {
           "prefecture": "東京都",
@@ -8752,12 +9417,13 @@ window.FACILITY_DATASET={
           "name": "コピス吉祥寺「A館屋上 吉祥空園sora」",
           "type": "商業施設屋上庭園",
           "rank": "A",
-          "note": "無料。吉祥寺中心部の屋上庭園",
+          "note": "無料。吉祥寺中心部の屋上庭園。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
           "official": "http://www.coppice.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%94%E3%82%B9%E5%90%89%E7%A5%A5%E5%AF%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "コピス吉祥寺"
+          "mapQueryName": "コピス吉祥寺",
+          "references": "公式サイト：http://www.coppice.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8765,12 +9431,13 @@ window.FACILITY_DATASET={
           "name": "ココリア多摩センター「屋上・テラス」",
           "type": "商業施設屋上",
           "rank": "B",
-          "note": "営業時間内。ニュータウン商業施設の屋上候補",
+          "note": "営業時間内。ニュータウン商業施設の屋上候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "http://www.cocolia-tamacenter.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%82%B3%E3%83%AA%E3%82%A2%E5%A4%9A%E6%91%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "ココリア多摩センター"
+          "mapQueryName": "ココリア多摩センター",
+          "references": "公式サイト：http://www.cocolia-tamacenter.com/"
         },
         {
           "prefecture": "東京都",
@@ -8778,12 +9445,13 @@ window.FACILITY_DATASET={
           "name": "パルテノン多摩「屋上・大階段上部テラス」",
           "type": "公共文化施設屋外空間",
           "rank": "A",
-          "note": "無料。多摩センター軸線の終端にある立体公共空間",
+          "note": "無料。多摩センター軸線の終端にある立体公共空間。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "http://www.parthenon.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%AB%E3%83%86%E3%83%8E%E3%83%B3%E5%A4%9A%E6%91%A9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "パルテノン多摩"
+          "mapQueryName": "パルテノン多摩",
+          "references": "公式サイト：http://www.parthenon.or.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8791,12 +9459,13 @@ window.FACILITY_DATASET={
           "name": "町田市庁舎「屋上・テラス系公開空間」",
           "type": "市役所屋外空間",
           "rank": "B",
-          "note": "開庁時。自治体庁舎系候補",
+          "note": "開庁時。自治体庁舎系候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%BA%E7%94%B0%E5%B8%82%E5%BA%81%E8%88%8E%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%94%BA%E7%94%B0%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "町田市庁舎"
+          "mapQueryName": "町田市庁舎",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -8804,12 +9473,13 @@ window.FACILITY_DATASET={
           "name": "立川市役所「屋上・テラス系公開空間」",
           "type": "市役所屋外空間",
           "rank": "B",
-          "note": "開庁時。新庁舎型公共建築",
+          "note": "開庁時。新庁舎型公共建築。\n狙い目：行政施設の業務空間から庭園・眺望空間へ移る動線を見たい。一般利用できる区画と執務区域の分け方も対象。",
           "official": "https://www.city.tachikawa.lg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%B7%9D%E5%B8%82%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "立川市役所"
+          "mapQueryName": "立川市役所",
+          "references": "公式サイト：https://www.city.tachikawa.lg.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8817,12 +9487,13 @@ window.FACILITY_DATASET={
           "name": "八王子市役所「屋上・展望系公開空間」",
           "type": "市役所高所",
           "rank": "B",
-          "note": "開庁時。公共建築高所候補",
+          "note": "開庁時。公共建築高所候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "https://www.city.hachioji.tokyo.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "八王子市役所"
+          "mapQueryName": "八王子市役所",
+          "references": "公式サイト：https://www.city.hachioji.tokyo.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8830,12 +9501,13 @@ window.FACILITY_DATASET={
           "name": "三鷹市公会堂 光のホール「屋上・テラス系外部空間」",
           "type": "公共文化施設",
           "rank": "B",
-          "note": "催事・開館時。公共文化施設の外部空間候補",
+          "note": "催事・開館時。公共文化施設の外部空間候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "http://mitaka-sportsandculture.or.jp/kokaido/info/hikari.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%B7%B9%E5%B8%82%E5%85%AC%E4%BC%9A%E5%A0%82%20%E5%85%89%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%89%E9%B7%B9%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "三鷹市公会堂 光のホール"
+          "mapQueryName": "三鷹市公会堂 光のホール",
+          "references": "公式サイト：http://mitaka-sportsandculture.or.jp/kokaido/info/hikari.html"
         },
         {
           "prefecture": "東京都",
@@ -8843,12 +9515,13 @@ window.FACILITY_DATASET={
           "name": "調布市文化会館たづくり「展望ロビー・屋外系空間」",
           "type": "公共文化施設",
           "rank": "B",
-          "note": "無料。高層公共施設・眺望系",
+          "note": "無料。高層公共施設・眺望系。\n狙い目：屋内の眺望空間として、窓越しの街の見え方と閲覧・滞在する場所の配置を観察したい。",
           "official": "https://www.chofu-culture-community.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%AA%BF%E5%B8%83%E5%B8%82%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%E3%81%9F%E3%81%A5%E3%81%8F%E3%82%8A%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%AA%BF%E5%B8%83%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "調布市文化会館たづくり"
+          "mapQueryName": "調布市文化会館たづくり",
+          "references": "公式サイト：https://www.chofu-culture-community.org/"
         },
         {
           "prefecture": "東京都",
@@ -8856,12 +9529,13 @@ window.FACILITY_DATASET={
           "name": "田無アスタ「屋上・上層イベント空間」",
           "type": "商業施設屋上",
           "rank": "B",
-          "note": "営業状況要確認。郊外駅前ビル屋上候補",
+          "note": "営業状況要確認。郊外駅前ビル屋上候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "https://www.asta.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%B0%E7%84%A1%E3%82%A2%E3%82%B9%E3%82%BF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "田無アスタ"
+          "mapQueryName": "田無アスタ",
+          "references": "公式サイト：https://www.asta.co.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8869,12 +9543,13 @@ window.FACILITY_DATASET={
           "name": "東京ガーデンテラス紀尾井町「水の広場・上層テラス」",
           "type": "人工地盤庭園",
           "rank": "A",
-          "note": "無料。高低差を使った再開発庭園",
+          "note": "無料。高低差を使った再開発庭園。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://www.tgt-kioicho.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%86%E3%83%A9%E3%82%B9%E7%B4%80%E5%B0%BE%E4%BA%95%E7%94%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東京ガーデンテラス紀尾井町"
+          "mapQueryName": "東京ガーデンテラス紀尾井町",
+          "references": "公式サイト：https://www.tgt-kioicho.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8882,12 +9557,13 @@ window.FACILITY_DATASET={
           "name": "赤坂インターシティAIR「AIRガーデン上層テラス」",
           "type": "人工地盤庭園",
           "rank": "A",
-          "note": "無料。業務ビルの立体緑地",
+          "note": "無料。業務ビルの立体緑地。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "https://www.intercity-air.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3AIR%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "赤坂インターシティAIR"
+          "mapQueryName": "赤坂インターシティAIR",
+          "references": "公式サイト：https://www.intercity-air.com/"
         },
         {
           "prefecture": "東京都",
@@ -8895,12 +9571,13 @@ window.FACILITY_DATASET={
           "name": "msb Tamachi「デッキ・上層テラス」",
           "type": "人工地盤テラス",
           "rank": "B",
-          "note": "無料。駅直結の立体都市空間",
+          "note": "無料。駅直結の立体都市空間。\n狙い目：鉄道の移動空間と人が滞在する屋外空間の関係を見る。駅側から出る際の視界の変化が狙い目。",
           "official": "https://www.msb-tamachi.net/shopguide.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=msb%20Tamachi%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "msb Tamachi"
+          "mapQueryName": "msb Tamachi",
+          "references": "公式サイト：https://www.msb-tamachi.net/shopguide.html"
         },
         {
           "prefecture": "東京都",
@@ -8908,12 +9585,13 @@ window.FACILITY_DATASET={
           "name": "大崎ニューシティ「屋上・人工地盤庭園」",
           "type": "人工地盤庭園",
           "rank": "B",
-          "note": "無料。1980年代再開発の人工地盤感",
+          "note": "無料。1980年代再開発の人工地盤感。\n狙い目：足元の建築と周辺の街路の高さを比べ、地上のように使われる上層の歩行空間を観察したい。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%B4%8E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "大崎ニューシティ"
+          "mapQueryName": "大崎ニューシティ",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -8921,12 +9599,13 @@ window.FACILITY_DATASET={
           "name": "ゲートシティ大崎「屋上・人工地盤庭園」",
           "type": "人工地盤庭園",
           "rank": "A",
-          "note": "無料。滝・植栽・テラスを備える複合施設",
+          "note": "無料。滝・植栽・テラスを備える複合施設。\n狙い目：植栽や水景の境目と周囲の建物の見え方に注目。地上の庭園とは異なる、建築上の自然のつくり方を見る。",
           "official": "http://www.gatecity.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B2%E3%83%BC%E3%83%88%E3%82%B7%E3%83%86%E3%82%A3%E5%A4%A7%E5%B4%8E%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "ゲートシティ大崎"
+          "mapQueryName": "ゲートシティ大崎",
+          "references": "公式サイト：http://www.gatecity.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8934,12 +9613,13 @@ window.FACILITY_DATASET={
           "name": "大崎ブライトコア「上層テラス・公開空地」",
           "type": "人工地盤テラス",
           "rank": "B",
-          "note": "無料。再開発の公開空間",
+          "note": "無料。再開発の公開空間。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "http://www.brightcore.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%B4%8E%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%82%B3%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "大崎ブライトコア"
+          "mapQueryName": "大崎ブライトコア",
+          "references": "公式サイト：http://www.brightcore.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8947,12 +9627,13 @@ window.FACILITY_DATASET={
           "name": "中目黒GT「GTタワー周辺上層広場」",
           "type": "人工地盤広場",
           "rank": "B",
-          "note": "無料。駅前複合施設の立体公共空間",
+          "note": "無料。駅前複合施設の立体公共空間。\n狙い目：高さを変えながら移動し、植栽・建物・街の重なりがどう変わるかを比べたい。",
           "official": "http://nakamegurogt.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E7%9B%AE%E9%BB%92GT%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "中目黒GT"
+          "mapQueryName": "中目黒GT",
+          "references": "公式サイト：http://nakamegurogt.jp/"
         },
         {
           "prefecture": "東京都",
@@ -8960,12 +9641,13 @@ window.FACILITY_DATASET={
           "name": "目黒天空庭園「首都高速大橋JCT屋上庭園」",
           "type": "屋上都市公園",
           "rank": "A",
-          "note": "無料。ジャンクション屋上にある区立公園",
+          "note": "無料。ジャンクション屋上にある区立公園。\n狙い目：基盤となるインフラの用途と、その上の緑地の使われ方を対比する。地上から上部へ移る経路に注目。",
           "official": "https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/koen/tenku.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%A4%A9%E7%A9%BA%E5%BA%AD%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "目黒天空庭園"
+          "mapQueryName": "目黒天空庭園",
+          "references": "公式サイト：https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/koen/tenku.html"
         },
         {
           "prefecture": "東京都",
@@ -8973,12 +9655,13 @@ window.FACILITY_DATASET={
           "name": "クロスエアタワー「目黒天空庭園連絡部」",
           "type": "屋上公園連絡施設",
           "rank": "A",
-          "note": "無料。巨大JCT屋上公園と高層住宅が接続",
+          "note": "無料。巨大JCT屋上公園と高層住宅が接続。\n狙い目：基盤となるインフラの用途と、その上の緑地の使われ方を対比する。地上から上部へ移る経路に注目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%A8%E3%82%A2%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "クロスエアタワー"
+          "mapQueryName": "クロスエアタワー",
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -8986,12 +9669,13 @@ window.FACILITY_DATASET={
           "name": "板橋区立熱帯環境植物館「屋上・屋外観察空間」",
           "type": "公共植物施設",
           "rank": "B",
-          "note": "入館料あり。公共施設系屋上候補",
+          "note": "入館料あり。公共施設系屋上候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "http://www.seibu-la.co.jp/nettaikan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E7%86%B1%E5%B8%AF%E7%92%B0%E5%A2%83%E6%A4%8D%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "板橋区立熱帯環境植物館"
+          "mapQueryName": "板橋区立熱帯環境植物館",
+          "references": "公式サイト：http://www.seibu-la.co.jp/nettaikan/"
         },
         {
           "prefecture": "東京都",
@@ -8999,12 +9683,13 @@ window.FACILITY_DATASET={
           "name": "タワーホール船堀「展望塔・上層屋外系空間」",
           "type": "公共文化施設",
           "rank": "B",
-          "note": "無料。公共施設高所系",
+          "note": "無料。公共施設高所系。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
           "official": "https://www.towerhall.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E8%88%B9%E5%A0%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "タワーホール船堀"
+          "mapQueryName": "タワーホール船堀",
+          "references": "公式サイト：https://www.towerhall.jp/"
         },
         {
           "prefecture": "東京都",
@@ -9012,12 +9697,13 @@ window.FACILITY_DATASET={
           "name": "赤羽会館「屋上・高層テラス系」",
           "type": "公共施設",
           "rank": "B",
-          "note": "開館時。自治体施設系候補",
+          "note": "開館時。自治体施設系候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "http://www.akabanekaikan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E7%BE%BD%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "赤羽会館"
+          "mapQueryName": "赤羽会館",
+          "references": "公式サイト：http://www.akabanekaikan.jp/"
         },
         {
           "prefecture": "東京都",
@@ -9025,12 +9711,13 @@ window.FACILITY_DATASET={
           "name": "深川ギャザリア「屋上・人工地盤ガーデン」",
           "type": "商業施設庭園",
           "rank": "B",
-          "note": "無料。オフィス商業複合施設の緑地",
+          "note": "無料。オフィス商業複合施設の緑地。\n狙い目：足元の建築と周辺の街路の高さを比べ、地上のように使われる上層の歩行空間を観察したい。",
           "official": "https://www.gatharia.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B7%B1%E5%B7%9D%E3%82%AE%E3%83%A3%E3%82%B6%E3%83%AA%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "深川ギャザリア"
+          "mapQueryName": "深川ギャザリア",
+          "references": "公式サイト：https://www.gatharia.jp/"
         },
         {
           "prefecture": "東京都",
@@ -9038,12 +9725,13 @@ window.FACILITY_DATASET={
           "name": "東京ビッグサイト「屋外デッキ・上層テラス」",
           "type": "公共展示施設",
           "rank": "B",
-          "note": "イベント時・外部無料部あり。巨大展示施設の人工地盤空間",
+          "note": "イベント時・外部無料部あり。巨大展示施設の人工地盤空間。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
           "official": "http://www.bigsight.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "東京ビッグサイト"
+          "mapQueryName": "東京ビッグサイト",
+          "references": "公式サイト：http://www.bigsight.jp/"
         }
       ]
     },
@@ -9061,12 +9749,13 @@ window.FACILITY_DATASET={
           "name": "東京港フェリーターミナル",
           "type": "フェリー・港湾",
           "rank": "S",
-          "note": "待合、長い乗船動線、夜の港。",
+          "note": "待合、長い乗船動線、夜の港。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "http://www.tptc.co.jp/terminal/guide/ferry",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.tptc.co.jp/terminal/guide/ferry"
         },
         {
           "prefecture": "東京都",
@@ -9074,12 +9763,13 @@ window.FACILITY_DATASET={
           "name": "有明客船ターミナル",
           "type": "フェリー・港湾",
           "rank": "A",
-          "note": "湾岸の公共ターミナル空間。",
+          "note": "湾岸の公共ターミナル空間。\n狙い目：地上から展望部へ移る経路と、上から街を見たときの建物の大きさの違いが狙い目。眺望と展望施設そのものを合わせて見る。",
           "official": "https://www.tptc.co.jp/terminal/guide/ariake",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E5%AE%A2%E8%88%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.tptc.co.jp/terminal/guide/ariake"
         },
         {
           "prefecture": "神奈川県",
@@ -9087,12 +9777,13 @@ window.FACILITY_DATASET={
           "name": "横浜港大さん橋国際客船ターミナル",
           "type": "フェリー・港湾",
           "rank": "A",
-          "note": "巨大な乗船施設。人の少ない時間帯向き。",
+          "note": "巨大な乗船施設。人の少ない時間帯向き。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "http://osanbashi.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E6%B8%AF%E5%A4%A7%E3%81%95%E3%82%93%E6%A9%8B%E5%9B%BD%E9%9A%9B%E5%AE%A2%E8%88%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://osanbashi.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -9100,12 +9791,13 @@ window.FACILITY_DATASET={
           "name": "久里浜港フェリーターミナル",
           "type": "フェリー・港湾",
           "rank": "A",
-          "note": "フェリー待合と港湾動線。",
+          "note": "フェリー待合と港湾動線。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "https://www.tokyowanferry.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B9%85%E9%87%8C%E6%B5%9C%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.tokyowanferry.com/"
         },
         {
           "prefecture": "新潟県",
@@ -9113,12 +9805,13 @@ window.FACILITY_DATASET={
           "name": "新潟港 山の下埠頭 新日本海フェリーターミナル",
           "type": "フェリー・港湾",
           "rank": "S",
-          "note": "長距離フェリーの待合・夜間空間。",
+          "note": "長距離フェリーの待合・夜間空間。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "http://www.snf.jp/embark/niigata.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E6%B8%AF%20%E5%B1%B1%E3%81%AE%E4%B8%8B%E5%9F%A0%E9%A0%AD%20%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E6%9D%B1%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.snf.jp/embark/niigata.html"
         },
         {
           "prefecture": "福井県",
@@ -9126,12 +9819,13 @@ window.FACILITY_DATASET={
           "name": "新日本海フェリー 敦賀フェリーターミナル",
           "type": "フェリー・港湾",
           "rank": "S",
-          "note": "深夜便との相性が高い。",
+          "note": "深夜便との相性が高い。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "http://www.snf.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E6%95%A6%E8%B3%80%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E6%95%A6%E8%B3%80%E5%B8%82",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.snf.jp/"
         },
         {
           "prefecture": "京都府",
@@ -9139,12 +9833,13 @@ window.FACILITY_DATASET={
           "name": "新日本海フェリー 舞鶴フェリーターミナル",
           "type": "フェリー・港湾",
           "rank": "S",
-          "note": "夜の長距離フェリーターミナル。",
+          "note": "夜の長距離フェリーターミナル。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "http://www.snf.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E8%88%9E%E9%B6%B4%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E8%88%9E%E9%B6%B4%E5%B8%82",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.snf.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -9152,12 +9847,13 @@ window.FACILITY_DATASET={
           "name": "大阪南港フェリーターミナル",
           "type": "フェリー・港湾",
           "rank": "S",
-          "note": "巨大港湾施設と連絡通路。",
+          "note": "巨大港湾施設と連絡通路。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "http://www.orange-ferry.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%8D%97%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E4%B9%8B%E6%B1%9F%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.orange-ferry.co.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -9165,12 +9861,13 @@ window.FACILITY_DATASET={
           "name": "神戸三宮フェリーターミナル",
           "type": "フェリー・港湾",
           "rank": "A",
-          "note": "都市港の乗船待合。",
+          "note": "都市港の乗船待合。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "http://www.kobe-fc.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E4%B8%89%E5%AE%AE%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kobe-fc.co.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -9178,12 +9875,13 @@ window.FACILITY_DATASET={
           "name": "神戸六甲アイランドフェリーターミナル",
           "type": "フェリー・港湾",
           "rank": "S",
-          "note": "人工島＋長距離フェリー。",
+          "note": "人工島＋長距離フェリー。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "http://www.ferry-sunflower.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E5%85%AD%E7%94%B2%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.ferry-sunflower.co.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -9191,12 +9889,13 @@ window.FACILITY_DATASET={
           "name": "姫路港旅客船ターミナル",
           "type": "フェリー・港湾",
           "rank": "A",
-          "note": "地方港湾待合。",
+          "note": "地方港湾待合。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "http://www.kousoku-ieshima.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A7%AB%E8%B7%AF%E6%B8%AF%E6%97%85%E5%AE%A2%E8%88%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%A7%AB%E8%B7%AF%E5%B8%82",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kousoku-ieshima.jp/"
         },
         {
           "prefecture": "香川県",
@@ -9204,12 +9903,13 @@ window.FACILITY_DATASET={
           "name": "高松港フェリー乗り場",
           "type": "フェリー・港湾",
           "rank": "A",
-          "note": "島航路が集中する港。",
+          "note": "島航路が集中する港。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "https://www.shikokuferry.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E6%9D%BE%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E4%B9%97%E3%82%8A%E5%A0%B4%20%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E9%AB%98%E6%9D%BE%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.shikokuferry.com/"
         },
         {
           "prefecture": "岡山県",
@@ -9217,12 +9917,13 @@ window.FACILITY_DATASET={
           "name": "宇野港フェリーターミナル周辺",
           "type": "フェリー・港湾",
           "rank": "A",
-          "note": "港湾・待合・空地が連続。",
+          "note": "港湾・待合・空地が連続。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "https://www.shodoshima-ferry.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%87%E9%87%8E%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E5%91%A8%E8%BE%BA%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E7%8E%89%E9%87%8E%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.shodoshima-ferry.co.jp/"
         },
         {
           "prefecture": "愛媛県",
@@ -9230,12 +9931,13 @@ window.FACILITY_DATASET={
           "name": "松山観光港ターミナル",
           "type": "フェリー・港湾",
           "rank": "A",
-          "note": "大きな待合と海への動線。",
+          "note": "大きな待合と海への動線。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "https://www.kankoko.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B1%B1%E8%A6%B3%E5%85%89%E6%B8%AF%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E6%9D%BE%E5%B1%B1%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.kankoko.com/"
         },
         {
           "prefecture": "大分県",
@@ -9243,12 +9945,13 @@ window.FACILITY_DATASET={
           "name": "別府国際観光港フェリーターミナル",
           "type": "フェリー・港湾",
           "rank": "A",
-          "note": "観光地の港湾ターミナル。",
+          "note": "観光地の港湾ターミナル。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "http://www.ferry-sunflower.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%A5%E5%BA%9C%E5%9B%BD%E9%9A%9B%E8%A6%B3%E5%85%89%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%88%A5%E5%BA%9C%E5%B8%82",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.ferry-sunflower.co.jp/"
         },
         {
           "prefecture": "鹿児島県",
@@ -9256,12 +9959,13 @@ window.FACILITY_DATASET={
           "name": "鹿児島新港フェリーターミナル",
           "type": "フェリー・港湾",
           "rank": "A",
-          "note": "長距離航路の待合。",
+          "note": "長距離航路の待合。\n狙い目：待合から乗船へ移る流れと、船の発着前後の人の密度を見たい。一般利用できる旅客動線から港の業務空間との境目を観察する。",
           "official": "http://www.aline-ferry.com/kagoshima/access.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E6%96%B0%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82",
           "kind": "バックルーム",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.aline-ferry.com/kagoshima/access.html"
         },
         {
           "prefecture": "茨城県",
@@ -9269,12 +9973,13 @@ window.FACILITY_DATASET={
           "name": "茨城空港",
           "type": "空港",
           "rank": "A",
-          "note": "小規模空港の大きな待合空間。",
+          "note": "小規模空港の大きな待合空間。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
           "official": "http://www.ibaraki-airport.net/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%A9%BA%E6%B8%AF%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E5%B0%8F%E7%BE%8E%E7%8E%89%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.ibaraki-airport.net/"
         },
         {
           "prefecture": "福島県",
@@ -9282,12 +9987,13 @@ window.FACILITY_DATASET={
           "name": "福島空港",
           "type": "空港",
           "rank": "A",
-          "note": "地方空港。展望・ロビーが狙い目。",
+          "note": "地方空港。展望・ロビーが狙い目。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
           "official": "http://www.fks-ab.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%A9%BA%E6%B8%AF%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E7%8E%89%E5%B7%9D%E6%9D%91",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.fks-ab.co.jp/"
         },
         {
           "prefecture": "富山県",
@@ -9295,12 +10001,13 @@ window.FACILITY_DATASET={
           "name": "富山きときと空港",
           "type": "空港",
           "rank": "A",
-          "note": "地方空港ターミナル。",
+          "note": "地方空港ターミナル。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
           "official": "https://www.toyama-airport.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E3%81%8D%E3%81%A8%E3%81%8D%E3%81%A8%E7%A9%BA%E6%B8%AF%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.toyama-airport.co.jp/"
         },
         {
           "prefecture": "石川県",
@@ -9308,12 +10015,13 @@ window.FACILITY_DATASET={
           "name": "能登空港",
           "type": "空港",
           "rank": "A",
-          "note": "小規模地方空港。",
+          "note": "小規模地方空港。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
           "official": "http://www.noto-airport.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%83%BD%E7%99%BB%E7%A9%BA%E6%B8%AF%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E8%BC%AA%E5%B3%B6%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.noto-airport.jp/"
         },
         {
           "prefecture": "鳥取県",
@@ -9321,12 +10029,13 @@ window.FACILITY_DATASET={
           "name": "鳥取砂丘コナン空港",
           "type": "空港",
           "rank": "B",
-          "note": "地方空港の長い待合・展望動線。",
+          "note": "地方空港の長い待合・展望動線。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
           "official": "http://www.ttj-ap-bld.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%A0%82%E4%B8%98%E3%82%B3%E3%83%8A%E3%83%B3%E7%A9%BA%E6%B8%AF%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E9%B3%A5%E5%8F%96%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.ttj-ap-bld.co.jp/"
         },
         {
           "prefecture": "鳥取県",
@@ -9334,12 +10043,13 @@ window.FACILITY_DATASET={
           "name": "米子鬼太郎空港",
           "type": "空港",
           "rank": "B",
-          "note": "地方空港ターミナル。",
+          "note": "地方空港ターミナル。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
           "official": "http://www.yonago-air.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E5%AD%90%E9%AC%BC%E5%A4%AA%E9%83%8E%E7%A9%BA%E6%B8%AF%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E5%A2%83%E6%B8%AF%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.yonago-air.com/"
         },
         {
           "prefecture": "島根県",
@@ -9347,12 +10057,13 @@ window.FACILITY_DATASET={
           "name": "出雲縁結び空港",
           "type": "空港",
           "rank": "B",
-          "note": "地方空港の人工的な待合空間。",
+          "note": "地方空港の人工的な待合空間。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
           "official": "http://www.izumo-airport.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BA%E9%9B%B2%E7%B8%81%E7%B5%90%E3%81%B3%E7%A9%BA%E6%B8%AF%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%87%BA%E9%9B%B2%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.izumo-airport.co.jp/"
         },
         {
           "prefecture": "山口県",
@@ -9360,12 +10071,13 @@ window.FACILITY_DATASET={
           "name": "山口宇部空港",
           "type": "空港",
           "rank": "A",
-          "note": "地方空港・ガラス張りターミナル。",
+          "note": "地方空港・ガラス張りターミナル。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
           "official": "http://www.yamaguchiube-airport.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E5%AE%87%E9%83%A8%E7%A9%BA%E6%B8%AF%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E5%AE%87%E9%83%A8%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.yamaguchiube-airport.jp/"
         },
         {
           "prefecture": "福岡県",
@@ -9373,12 +10085,13 @@ window.FACILITY_DATASET={
           "name": "北九州空港",
           "type": "空港",
           "rank": "A",
-          "note": "人工島空港。夜間が強い。",
+          "note": "人工島空港。夜間が強い。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
           "official": "http://www.kitakyu-air.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E7%A9%BA%E6%B8%AF%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%B0%8F%E5%80%89%E5%8D%97%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.kitakyu-air.jp/"
         },
         {
           "prefecture": "佐賀県",
@@ -9386,12 +10099,13 @@ window.FACILITY_DATASET={
           "name": "佐賀空港",
           "type": "空港",
           "rank": "A",
-          "note": "平野の中の小規模空港。",
+          "note": "平野の中の小規模空港。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
           "official": "http://saga-ab.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%A9%BA%E6%B8%AF%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BD%90%E8%B3%80%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://saga-ab.jp/"
         },
         {
           "prefecture": "千葉県",
@@ -9399,12 +10113,13 @@ window.FACILITY_DATASET={
           "name": "千葉ポートタワー",
           "type": "展望塔・山頂施設",
           "rank": "S",
-          "note": "1980年代タワー。展望階・エレベーターホール。",
+          "note": "1980年代タワー。展望階・エレベーターホール。\n狙い目：地上から展望部へ移る経路と、上から街を見たときの建物の大きさの違いが狙い目。眺望と展望施設そのものを合わせて見る。",
           "official": "https://chiba-porttower.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E3%83%9D%E3%83%BC%E3%83%88%E3%82%BF%E3%83%AF%E3%83%BC%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://chiba-porttower.com/"
         },
         {
           "prefecture": "鳥取県",
@@ -9412,12 +10127,13 @@ window.FACILITY_DATASET={
           "name": "夢みなとタワー",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "港湾博覧会系の展望塔。",
+          "note": "港湾博覧会系の展望塔。\n狙い目：地上から展望部へ移る経路と、上から街を見たときの建物の大きさの違いが狙い目。眺望と展望施設そのものを合わせて見る。",
           "official": "https://www.yumeminatotower.gr.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A2%E3%81%BF%E3%81%AA%E3%81%A8%E3%82%BF%E3%83%AF%E3%83%BC%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E5%A2%83%E6%B8%AF%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.yumeminatotower.gr.jp/"
         },
         {
           "prefecture": "山口県",
@@ -9425,12 +10141,13 @@ window.FACILITY_DATASET={
           "name": "海峡ゆめタワー",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "1990年代の未来的展望塔。",
+          "note": "1990年代の未来的展望塔。\n狙い目：地上から展望部へ移る経路と、上から街を見たときの建物の大きさの違いが狙い目。眺望と展望施設そのものを合わせて見る。",
           "official": "http://www.yumetower.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E5%B3%A1%E3%82%86%E3%82%81%E3%82%BF%E3%83%AF%E3%83%BC%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.yumetower.jp/"
         },
         {
           "prefecture": "富山県",
@@ -9438,12 +10155,13 @@ window.FACILITY_DATASET={
           "name": "クロスランドタワー",
           "type": "展望塔・山頂施設",
           "rank": "S",
-          "note": "地方都市の巨大展望塔。",
+          "note": "地方都市の巨大展望塔。\n狙い目：地上から展望部へ移る経路と、上から街を見たときの建物の大きさの違いが狙い目。眺望と展望施設そのものを合わせて見る。",
           "official": "https://www.cross-oyabe.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BF%E3%83%AF%E3%83%BC%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%B0%8F%E7%9F%A2%E9%83%A8%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.cross-oyabe.jp/"
         },
         {
           "prefecture": "愛知県",
@@ -9451,12 +10169,13 @@ window.FACILITY_DATASET={
           "name": "東山スカイタワー",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "1980年代末の展望塔。",
+          "note": "1980年代末の展望塔。\n狙い目：地上から展望部へ移る経路と、上から街を見たときの建物の大きさの違いが狙い目。眺望と展望施設そのものを合わせて見る。",
           "official": "http://www.higashiyamaskytower.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%B1%B1%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%8D%83%E7%A8%AE%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.higashiyamaskytower.jp/"
         },
         {
           "prefecture": "茨城県",
@@ -9464,12 +10183,13 @@ window.FACILITY_DATASET={
           "name": "水戸芸術館タワー",
           "type": "展望塔・山頂施設",
           "rank": "B",
-          "note": "幾何学的な塔と公共文化施設。",
+          "note": "幾何学的な塔と公共文化施設。\n狙い目：地上から展望部へ移る経路と、上から街を見たときの建物の大きさの違いが狙い目。眺望と展望施設そのものを合わせて見る。",
           "official": "http://www.arttowermito.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E6%88%B8%E8%8A%B8%E8%A1%93%E9%A4%A8%E3%82%BF%E3%83%AF%E3%83%BC%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E6%B0%B4%E6%88%B8%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.arttowermito.or.jp/"
         },
         {
           "prefecture": "北海道",
@@ -9477,12 +10197,13 @@ window.FACILITY_DATASET={
           "name": "五稜郭タワー",
           "type": "展望塔・山頂施設",
           "rank": "B",
-          "note": "展望施設として大型。",
+          "note": "展望施設として大型。\n狙い目：地上から展望部へ移る経路と、上から街を見たときの建物の大きさの違いが狙い目。眺望と展望施設そのものを合わせて見る。",
           "official": "https://www.goryokaku-tower.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E7%A8%9C%E9%83%AD%E3%82%BF%E3%83%AF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%87%BD%E9%A4%A8%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.goryokaku-tower.co.jp/"
         },
         {
           "prefecture": "北海道",
@@ -9490,12 +10211,13 @@ window.FACILITY_DATASET={
           "name": "札幌もいわ山 山頂駅",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "ロープウェイ＋山頂施設。悪天候時も面白い。",
+          "note": "ロープウェイ＋山頂施設。悪天候時も面白い。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "https://mt-moiwa.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E3%82%82%E3%81%84%E3%82%8F%E5%B1%B1%20%E5%B1%B1%E9%A0%82%E9%A7%85%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8D%97%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://mt-moiwa.jp/"
         },
         {
           "prefecture": "北海道",
@@ -9503,12 +10225,13 @@ window.FACILITY_DATASET={
           "name": "函館山ロープウェイ 山頂駅",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "巨大山頂待合・展望施設。",
+          "note": "巨大山頂待合・展望施設。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "http://334.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BD%E9%A4%A8%E5%B1%B1%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4%20%E5%B1%B1%E9%A0%82%E9%A7%85%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%87%BD%E9%A4%A8%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://334.co.jp/"
         },
         {
           "prefecture": "青森県",
@@ -9516,12 +10239,13 @@ window.FACILITY_DATASET={
           "name": "八甲田ロープウェー 山頂公園駅",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "山頂駅という移行空間。",
+          "note": "山頂駅という移行空間。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "https://hakkoda-ropeway.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E7%94%B2%E7%94%B0%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%83%BC%20%E5%B1%B1%E9%A0%82%E5%85%AC%E5%9C%92%E9%A7%85%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E9%9D%92%E6%A3%AE%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://hakkoda-ropeway.jp/"
         },
         {
           "prefecture": "茨城県",
@@ -9529,12 +10253,13 @@ window.FACILITY_DATASET={
           "name": "筑波山ロープウェイ 女体山駅",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "山上交通施設。",
+          "note": "山上交通施設。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "http://www.mt-tsukuba.com/?page_id",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AD%91%E6%B3%A2%E5%B1%B1%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4%20%E5%A5%B3%E4%BD%93%E5%B1%B1%E9%A7%85%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.mt-tsukuba.com/?page_id"
         },
         {
           "prefecture": "神奈川県",
@@ -9542,12 +10267,13 @@ window.FACILITY_DATASET={
           "name": "箱根駒ヶ岳ロープウェー 山頂駅",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "山頂駅と巨大空間。",
+          "note": "山頂駅と巨大空間。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "http://www.princehotels.co.jp/amuse/hakone-en/ropeway/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AE%B1%E6%A0%B9%E9%A7%92%E3%83%B6%E5%B2%B3%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%83%BC%20%E5%B1%B1%E9%A0%82%E9%A7%85%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%AE%B1%E6%A0%B9%E7%94%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.princehotels.co.jp/amuse/hakone-en/ropeway/"
         },
         {
           "prefecture": "静岡県",
@@ -9555,12 +10281,13 @@ window.FACILITY_DATASET={
           "name": "伊豆パノラマパーク 山頂施設",
           "type": "展望塔・山頂施設",
           "rank": "B",
-          "note": "ロープウェイ山頂の人工的レジャー空間。",
+          "note": "ロープウェイ山頂の人工的レジャー空間。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "https://www.panoramapark.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E8%B1%86%E3%83%91%E3%83%8E%E3%83%A9%E3%83%9E%E3%83%91%E3%83%BC%E3%82%AF%20%E5%B1%B1%E9%A0%82%E6%96%BD%E8%A8%AD%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.panoramapark.co.jp/"
         },
         {
           "prefecture": "静岡県",
@@ -9568,12 +10295,13 @@ window.FACILITY_DATASET={
           "name": "日本平ロープウェイ 日本平駅",
           "type": "展望塔・山頂施設",
           "rank": "B",
-          "note": "観光ロープウェイ待合。",
+          "note": "観光ロープウェイ待合。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "https://ropeway.shizutetsu.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E5%B9%B3%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4%20%E6%97%A5%E6%9C%AC%E5%B9%B3%E9%A7%85%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82%E6%B8%85%E6%B0%B4%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://ropeway.shizutetsu.co.jp/"
         },
         {
           "prefecture": "滋賀県",
@@ -9581,12 +10309,13 @@ window.FACILITY_DATASET={
           "name": "びわ湖バレイ ロープウェイ山頂駅",
           "type": "展望塔・山頂施設",
           "rank": "B",
-          "note": "巨大山頂交通施設。",
+          "note": "巨大山頂交通施設。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "http://www.biwako-valley.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%B3%E3%82%8F%E6%B9%96%E3%83%90%E3%83%AC%E3%82%A4%20%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4%E5%B1%B1%E9%A0%82%E9%A7%85%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.biwako-valley.com/"
         },
         {
           "prefecture": "兵庫県",
@@ -9594,12 +10323,13 @@ window.FACILITY_DATASET={
           "name": "六甲有馬ロープウェー 六甲山頂駅",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "山頂の乗換・待合空間。",
+          "note": "山頂の乗換・待合空間。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "https://koberope.jp/rokko/price",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E7%94%B2%E6%9C%89%E9%A6%AC%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%83%BC%20%E5%85%AD%E7%94%B2%E5%B1%B1%E9%A0%82%E9%A7%85%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E7%81%98%E5%8C%BA",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://koberope.jp/rokko/price"
         },
         {
           "prefecture": "徳島県",
@@ -9607,12 +10337,13 @@ window.FACILITY_DATASET={
           "name": "眉山ロープウェイ 山頂口",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "地方都市を見下ろす山頂交通施設。",
+          "note": "地方都市を見下ろす山頂交通施設。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "https://www.awaodori-kaikan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9C%89%E5%B1%B1%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4%20%E5%B1%B1%E9%A0%82%E5%8F%A3%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E5%BE%B3%E5%B3%B6%E5%B8%82",
           "kind": "リミナル",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://www.awaodori-kaikan.jp/"
         },
         {
           "prefecture": "福岡県",
@@ -9620,12 +10351,13 @@ window.FACILITY_DATASET={
           "name": "皿倉山ケーブルカー 山上駅",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "ケーブルカー＋展望施設。",
+          "note": "ケーブルカー＋展望施設。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "http://www.sarakurayama-cablecar.co.jp/about/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9A%BF%E5%80%89%E5%B1%B1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%AB%E3%83%BC%20%E5%B1%B1%E4%B8%8A%E9%A7%85%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%85%AB%E5%B9%A1%E6%9D%B1%E5%8C%BA",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：http://www.sarakurayama-cablecar.co.jp/about/"
         },
         {
           "prefecture": "長崎県",
@@ -9633,12 +10365,13 @@ window.FACILITY_DATASET={
           "name": "長崎ロープウェイ 稲佐岳駅",
           "type": "展望塔・山頂施設",
           "rank": "A",
-          "note": "夜の山頂施設が強い。",
+          "note": "夜の山頂施設が強い。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "https://inasayama.info/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4%20%E7%A8%B2%E4%BD%90%E5%B2%B3%E9%A7%85%20%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E9%95%B7%E5%B4%8E%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://inasayama.info/"
         },
         {
           "prefecture": "大分県",
@@ -9646,12 +10379,13 @@ window.FACILITY_DATASET={
           "name": "別府ラクテンチ ケーブルカー 雲泉寺駅",
           "type": "展望塔・山頂施設",
           "rank": "S",
-          "note": "古いケーブルカーと遊園地接続。",
+          "note": "古いケーブルカーと遊園地接続。\n狙い目：乗り物を降りた場所から屋外へ移る切り替わりに注目。山の景観と人工的な駅・待合の組み合わせを見る。",
           "official": "https://rakutenchi.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%A5%E5%BA%9C%E3%83%A9%E3%82%AF%E3%83%86%E3%83%B3%E3%83%81%20%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%AB%E3%83%BC%20%E9%9B%B2%E6%B3%89%E5%AF%BA%E9%A7%85%20%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%88%A5%E5%BA%9C%E5%B8%82",
           "kind": "ドリームコア",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://rakutenchi.jp/"
         }
       ]
     },
@@ -9669,12 +10403,13 @@ window.FACILITY_DATASET={
           "name": "市立札幌病院店",
           "type": "",
           "rank": "",
-          "note": "市立札幌病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "市立札幌病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%B8%82%E7%AB%8B%E6%9C%AD%E5%B9%8C%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B8%82%E7%AB%8B%E6%9C%AD%E5%B9%8C%E7%97%85%E9%99%A2%E5%BA%97%20%E5%B8%82%E7%AB%8B%E6%9C%AD%E5%B9%8C%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B8%82%E7%AB%8B%E6%9C%AD%E5%B9%8C%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "北海道",
@@ -9682,12 +10417,13 @@ window.FACILITY_DATASET={
           "name": "旭川赤十字病院店",
           "type": "",
           "rank": "",
-          "note": "旭川赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "旭川赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%97%AD%E5%B7%9D%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%AD%E5%B7%9D%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E6%97%AD%E5%B7%9D%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%97%AD%E5%B7%9D%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "宮城県",
@@ -9695,12 +10431,13 @@ window.FACILITY_DATASET={
           "name": "東北大学病院店",
           "type": "",
           "rank": "",
-          "note": "東北大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "東北大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "茨城県",
@@ -9708,12 +10445,13 @@ window.FACILITY_DATASET={
           "name": "水戸赤十字病院店",
           "type": "",
           "rank": "",
-          "note": "水戸赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "水戸赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%B0%B4%E6%88%B8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E6%88%B8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E6%B0%B4%E6%88%B8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%B0%B4%E6%88%B8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "茨城県",
@@ -9721,12 +10459,13 @@ window.FACILITY_DATASET={
           "name": "土浦協同病院店",
           "type": "",
           "rank": "",
-          "note": "総合病院土浦協同病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "総合病院土浦協同病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%9C%9F%E6%B5%A6%E5%8D%94%E5%90%8C%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%9F%E6%B5%A6%E5%8D%94%E5%90%8C%E7%97%85%E9%99%A2%E5%BA%97%20%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%9C%9F%E6%B5%A6%E5%8D%94%E5%90%8C%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%9C%9F%E6%B5%A6%E5%8D%94%E5%90%8C%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "茨城県",
@@ -9734,12 +10473,13 @@ window.FACILITY_DATASET={
           "name": "筑波大学附属病院店",
           "type": "",
           "rank": "",
-          "note": "筑波大学附属病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "筑波大学附属病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97%20%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "埼玉県",
@@ -9747,12 +10487,13 @@ window.FACILITY_DATASET={
           "name": "防衛医大病院店",
           "type": "",
           "rank": "",
-          "note": "防衛医科大学校病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "防衛医科大学校病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E9%98%B2%E8%A1%9B%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%98%B2%E8%A1%9B%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97%20%E9%98%B2%E8%A1%9B%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E6%A0%A1%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%98%B2%E8%A1%9B%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "埼玉県",
@@ -9760,12 +10501,13 @@ window.FACILITY_DATASET={
           "name": "川口市立医療センター店",
           "type": "",
           "rank": "",
-          "note": "川口市立医療センター内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "川口市立医療センター内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
         },
         {
           "prefecture": "埼玉県",
@@ -9773,12 +10515,13 @@ window.FACILITY_DATASET={
           "name": "上尾中央総合病院店",
           "type": "",
           "rank": "",
-          "note": "上尾中央総合病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "上尾中央総合病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E4%B8%8A%E5%B0%BE%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E5%B0%BE%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97%20%E4%B8%8A%E5%B0%BE%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E4%B8%8A%E5%B0%BE%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "千葉県",
@@ -9786,12 +10529,13 @@ window.FACILITY_DATASET={
           "name": "千葉西総合病院店",
           "type": "",
           "rank": "",
-          "note": "千葉西総合病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "千葉西総合病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%8D%83%E8%91%89%E8%A5%BF%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E8%A5%BF%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97%20%E5%8D%83%E8%91%89%E8%A5%BF%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%8D%83%E8%91%89%E8%A5%BF%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "栃木県",
@@ -9799,12 +10543,13 @@ window.FACILITY_DATASET={
           "name": "獨協医科大学病院店",
           "type": "",
           "rank": "",
-          "note": "獨協医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "獨協医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E7%8D%A8%E5%8D%94%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%8D%A8%E5%8D%94%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E7%8D%A8%E5%8D%94%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%8D%A8%E5%8D%94%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "埼玉県",
@@ -9812,12 +10557,13 @@ window.FACILITY_DATASET={
           "name": "戸田中央総合病院店",
           "type": "",
           "rank": "",
-          "note": "戸田中央総合病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "戸田中央総合病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%88%B8%E7%94%B0%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%88%B8%E7%94%B0%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97%20%E6%88%B8%E7%94%B0%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%88%B8%E7%94%B0%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "東京都",
@@ -9825,12 +10571,13 @@ window.FACILITY_DATASET={
           "name": "好仁会東大病院店",
           "type": "",
           "rank": "",
-          "note": "東京大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "東京大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%A5%BD%E4%BB%81%E4%BC%9A%E6%9D%B1%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%BD%E4%BB%81%E4%BC%9A%E6%9D%B1%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%A5%BD%E4%BB%81%E4%BC%9A%E6%9D%B1%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "東京都",
@@ -9838,12 +10585,13 @@ window.FACILITY_DATASET={
           "name": "順天堂大学練馬病院店",
           "type": "",
           "rank": "",
-          "note": "順天堂大学医学部附属練馬病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "順天堂大学医学部附属練馬病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E9%A0%86%E5%A4%A9%E5%A0%82%E5%A4%A7%E5%AD%A6%E7%B7%B4%E9%A6%AC%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A0%86%E5%A4%A9%E5%A0%82%E5%A4%A7%E5%AD%A6%E7%B7%B4%E9%A6%AC%E7%97%85%E9%99%A2%E5%BA%97%20%E9%A0%86%E5%A4%A9%E5%A0%82%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%B7%B4%E9%A6%AC%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%A0%86%E5%A4%A9%E5%A0%82%E5%A4%A7%E5%AD%A6%E7%B7%B4%E9%A6%AC%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "東京都",
@@ -9851,12 +10599,13 @@ window.FACILITY_DATASET={
           "name": "がん研有明病院店",
           "type": "",
           "rank": "",
-          "note": "がん研有明病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "がん研有明病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E3%81%8C%E3%82%93%E7%A0%94%E6%9C%89%E6%98%8E%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8C%E3%82%93%E7%A0%94%E6%9C%89%E6%98%8E%E7%97%85%E9%99%A2%E5%BA%97%20%E3%81%8C%E3%82%93%E7%A0%94%E6%9C%89%E6%98%8E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E3%81%8C%E3%82%93%E7%A0%94%E6%9C%89%E6%98%8E%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "東京都",
@@ -9864,12 +10613,13 @@ window.FACILITY_DATASET={
           "name": "国立国際医療センター店",
           "type": "",
           "rank": "",
-          "note": "国立国際医療センター内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "国立国際医療センター内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%9B%BD%E7%AB%8B%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
         },
         {
           "prefecture": "東京都",
@@ -9877,12 +10627,13 @@ window.FACILITY_DATASET={
           "name": "武蔵野赤十字病院店",
           "type": "",
           "rank": "",
-          "note": "武蔵野赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "武蔵野赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%AD%A6%E8%94%B5%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E6%AD%A6%E8%94%B5%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%AD%A6%E8%94%B5%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "東京都",
@@ -9890,12 +10641,13 @@ window.FACILITY_DATASET={
           "name": "昭和医科大学病院店",
           "type": "",
           "rank": "",
-          "note": "昭和医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "昭和医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "東京都",
@@ -9903,12 +10655,13 @@ window.FACILITY_DATASET={
           "name": "国立精神・神経医療研究センター店",
           "type": "",
           "rank": "",
-          "note": "国立精神・神経医療研究センター内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "国立精神・神経医療研究センター内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%9B%BD%E7%AB%8B%E7%B2%BE%E7%A5%9E%E3%83%BB%E7%A5%9E%E7%B5%8C%E5%8C%BB%E7%99%82%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E7%B2%BE%E7%A5%9E%E3%83%BB%E7%A5%9E%E7%B5%8C%E5%8C%BB%E7%99%82%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%9B%BD%E7%AB%8B%E7%B2%BE%E7%A5%9E%E3%83%BB%E7%A5%9E%E7%B5%8C%E5%8C%BB%E7%99%82%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%9B%BD%E7%AB%8B%E7%B2%BE%E7%A5%9E%E3%83%BB%E7%A5%9E%E7%B5%8C%E5%8C%BB%E7%99%82%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
         },
         {
           "prefecture": "東京都",
@@ -9916,12 +10669,13 @@ window.FACILITY_DATASET={
           "name": "東京医科大学病院店",
           "type": "",
           "rank": "",
-          "note": "東京医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "東京医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "東京都",
@@ -9929,12 +10683,13 @@ window.FACILITY_DATASET={
           "name": "東邦大森病院店",
           "type": "",
           "rank": "",
-          "note": "東邦大学医療センター大森病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "東邦大学医療センター大森病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E9%82%A6%E5%A4%A7%E6%A3%AE%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E9%82%A6%E5%A4%A7%E6%A3%AE%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E9%82%A6%E5%A4%A7%E5%AD%A6%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%A4%A7%E6%A3%AE%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E9%82%A6%E5%A4%A7%E6%A3%AE%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "東京都",
@@ -9942,12 +10697,13 @@ window.FACILITY_DATASET={
           "name": "東京女子医科大学病院店",
           "type": "",
           "rank": "",
-          "note": "東京女子医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "東京女子医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "神奈川県",
@@ -9955,12 +10711,13 @@ window.FACILITY_DATASET={
           "name": "横浜市立みなと赤十字病院店",
           "type": "",
           "rank": "",
-          "note": "横浜市立みなと赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "横浜市立みなと赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%AB%8B%E3%81%BF%E3%81%AA%E3%81%A8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%AB%8B%E3%81%BF%E3%81%AA%E3%81%A8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%AB%8B%E3%81%BF%E3%81%AA%E3%81%A8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%AB%8B%E3%81%BF%E3%81%AA%E3%81%A8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "神奈川県",
@@ -9968,12 +10725,13 @@ window.FACILITY_DATASET={
           "name": "昭和医科大学藤が丘病院店",
           "type": "",
           "rank": "",
-          "note": "昭和医科大学藤が丘病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "昭和医科大学藤が丘病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E8%97%A4%E3%81%8C%E4%B8%98%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E8%97%A4%E3%81%8C%E4%B8%98%E7%97%85%E9%99%A2%E5%BA%97%20%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E8%97%A4%E3%81%8C%E4%B8%98%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E8%97%A4%E3%81%8C%E4%B8%98%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "神奈川県",
@@ -9981,12 +10739,13 @@ window.FACILITY_DATASET={
           "name": "湘南藤沢徳洲会病院店",
           "type": "",
           "rank": "",
-          "note": "湘南藤沢徳洲会病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "湘南藤沢徳洲会病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%B9%98%E5%8D%97%E8%97%A4%E6%B2%A2%E5%BE%B3%E6%B4%B2%E4%BC%9A%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B9%98%E5%8D%97%E8%97%A4%E6%B2%A2%E5%BE%B3%E6%B4%B2%E4%BC%9A%E7%97%85%E9%99%A2%E5%BA%97%20%E6%B9%98%E5%8D%97%E8%97%A4%E6%B2%A2%E5%BE%B3%E6%B4%B2%E4%BC%9A%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%B9%98%E5%8D%97%E8%97%A4%E6%B2%A2%E5%BE%B3%E6%B4%B2%E4%BC%9A%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "神奈川県",
@@ -9994,12 +10753,13 @@ window.FACILITY_DATASET={
           "name": "聖マリアンナ医科大学病院店",
           "type": "",
           "rank": "",
-          "note": "聖マリアンナ医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "聖マリアンナ医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E8%81%96%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8A%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%81%96%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8A%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E8%81%96%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8A%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E8%81%96%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8A%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "富山県",
@@ -10007,12 +10767,13 @@ window.FACILITY_DATASET={
           "name": "富山県立中央病院店",
           "type": "",
           "rank": "",
-          "note": "富山県立中央病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "富山県立中央病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%E5%BA%97%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "石川県",
@@ -10020,12 +10781,13 @@ window.FACILITY_DATASET={
           "name": "金沢大学病院店",
           "type": "",
           "rank": "",
-          "note": "金沢大学附属病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "金沢大学附属病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E9%87%91%E6%B2%A2%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E6%B2%A2%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E9%87%91%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%87%91%E6%B2%A2%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "福井県",
@@ -10033,12 +10795,13 @@ window.FACILITY_DATASET={
           "name": "福井大学病院店",
           "type": "",
           "rank": "",
-          "note": "福井大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "福井大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E7%A6%8F%E4%BA%95%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E7%A6%8F%E4%BA%95%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%A6%8F%E4%BA%95%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "福井県",
@@ -10046,12 +10809,13 @@ window.FACILITY_DATASET={
           "name": "福井赤十字病院店",
           "type": "",
           "rank": "",
-          "note": "福井赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "福井赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E7%A6%8F%E4%BA%95%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E7%A6%8F%E4%BA%95%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%A6%8F%E4%BA%95%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "長野県",
@@ -10059,12 +10823,13 @@ window.FACILITY_DATASET={
           "name": "長野赤十字病院店",
           "type": "",
           "rank": "",
-          "note": "長野赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "長野赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E9%95%B7%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E9%95%B7%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%95%B7%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "京都府",
@@ -10072,12 +10837,13 @@ window.FACILITY_DATASET={
           "name": "京都大学病院店",
           "type": "",
           "rank": "",
-          "note": "京都大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "京都大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "滋賀県",
@@ -10085,12 +10851,13 @@ window.FACILITY_DATASET={
           "name": "滋賀医大病院店",
           "type": "",
           "rank": "",
-          "note": "滋賀医科大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "滋賀医科大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%BB%8B%E8%B3%80%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97%20%E6%BB%8B%E8%B3%80%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%BB%8B%E8%B3%80%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "大阪府",
@@ -10098,12 +10865,13 @@ window.FACILITY_DATASET={
           "name": "JCHO大阪病院店",
           "type": "",
           "rank": "",
-          "note": "JCHO大阪病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "JCHO大阪病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=JCHO%E5%A4%A7%E9%98%AA%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=JCHO%E5%A4%A7%E9%98%AA%E7%97%85%E9%99%A2%E5%BA%97%20JCHO%E5%A4%A7%E9%98%AA%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=JCHO%E5%A4%A7%E9%98%AA%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "大阪府",
@@ -10111,12 +10879,13 @@ window.FACILITY_DATASET={
           "name": "大阪赤十字病院店",
           "type": "",
           "rank": "",
-          "note": "大阪赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "大阪赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%A4%A7%E9%98%AA%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E5%A4%A7%E9%98%AA%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%A4%A7%E9%98%AA%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "大阪府",
@@ -10124,12 +10893,13 @@ window.FACILITY_DATASET={
           "name": "府立総合医療センター店",
           "type": "",
           "rank": "",
-          "note": "大阪府立病院機構大阪急性期・総合医療センター内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "大阪府立病院機構大阪急性期・総合医療センター内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%BA%9C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%9C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AB%8B%E7%97%85%E9%99%A2%E6%A9%9F%E6%A7%8B%E5%A4%A7%E9%98%AA%E6%80%A5%E6%80%A7%E6%9C%9F%E3%83%BB%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%BA%9C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
         },
         {
           "prefecture": "兵庫県",
@@ -10137,12 +10907,13 @@ window.FACILITY_DATASET={
           "name": "神戸中央市民病院店",
           "type": "",
           "rank": "",
-          "note": "神戸市立医療センター中央市民病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "神戸市立医療センター中央市民病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E7%A5%9E%E6%88%B8%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97%20%E7%A5%9E%E6%88%B8%E5%B8%82%E7%AB%8B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%A5%9E%E6%88%B8%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "兵庫県",
@@ -10150,12 +10921,13 @@ window.FACILITY_DATASET={
           "name": "兵庫医科大学病院店",
           "type": "",
           "rank": "",
-          "note": "兵庫医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "兵庫医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%85%B5%E5%BA%AB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E5%85%B5%E5%BA%AB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%85%B5%E5%BA%AB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "兵庫県",
@@ -10163,12 +10935,13 @@ window.FACILITY_DATASET={
           "name": "加古川中央市民病院店",
           "type": "",
           "rank": "",
-          "note": "加古川中央市民病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "加古川中央市民病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%8A%A0%E5%8F%A4%E5%B7%9D%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8A%A0%E5%8F%A4%E5%B7%9D%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97%20%E5%8A%A0%E5%8F%A4%E5%B7%9D%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%8A%A0%E5%8F%A4%E5%B7%9D%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "和歌山県",
@@ -10176,12 +10949,13 @@ window.FACILITY_DATASET={
           "name": "日本赤十字社和歌山医療センター店",
           "type": "",
           "rank": "",
-          "note": "日本赤十字社和歌山医療センター内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "日本赤十字社和歌山医療センター内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%97%A5%E6%9C%AC%E8%B5%A4%E5%8D%81%E5%AD%97%E7%A4%BE%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E8%B5%A4%E5%8D%81%E5%AD%97%E7%A4%BE%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E6%97%A5%E6%9C%AC%E8%B5%A4%E5%8D%81%E5%AD%97%E7%A4%BE%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%97%A5%E6%9C%AC%E8%B5%A4%E5%8D%81%E5%AD%97%E7%A4%BE%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
         },
         {
           "prefecture": "鳥取県",
@@ -10189,12 +10963,13 @@ window.FACILITY_DATASET={
           "name": "鳥取大学医学部附属病院店",
           "type": "",
           "rank": "",
-          "note": "鳥取大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "鳥取大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E9%B3%A5%E5%8F%96%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97%20%E9%B3%A5%E5%8F%96%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%B3%A5%E5%8F%96%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "岡山県",
@@ -10202,12 +10977,13 @@ window.FACILITY_DATASET={
           "name": "岡山市民病院店",
           "type": "",
           "rank": "",
-          "note": "岡山市立市民病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "岡山市立市民病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%B2%A1%E5%B1%B1%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E7%AB%8B%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B2%A1%E5%B1%B1%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "山口県",
@@ -10215,12 +10991,13 @@ window.FACILITY_DATASET={
           "name": "山口大学医学部附属病院店",
           "type": "",
           "rank": "",
-          "note": "山口大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "山口大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%B1%B1%E5%8F%A3%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97%20%E5%B1%B1%E5%8F%A3%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B1%B1%E5%8F%A3%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "山口県",
@@ -10228,12 +11005,13 @@ window.FACILITY_DATASET={
           "name": "山口県立総合医療センター店",
           "type": "",
           "rank": "",
-          "note": "山口県立総合医療センター内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "山口県立総合医療センター内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
         },
         {
           "prefecture": "山口県",
@@ -10241,12 +11019,13 @@ window.FACILITY_DATASET={
           "name": "岩国医療センター店",
           "type": "",
           "rank": "",
-          "note": "国立病院機構岩国医療センター内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "国立病院機構岩国医療センター内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%B2%A9%E5%9B%BD%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E5%9B%BD%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%9B%BD%E7%AB%8B%E7%97%85%E9%99%A2%E6%A9%9F%E6%A7%8B%E5%B2%A9%E5%9B%BD%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B2%A9%E5%9B%BD%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
         },
         {
           "prefecture": "徳島県",
@@ -10254,12 +11033,13 @@ window.FACILITY_DATASET={
           "name": "徳島大学病院店",
           "type": "",
           "rank": "",
-          "note": "徳島大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "徳島大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E5%BE%B3%E5%B3%B6%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E5%BE%B3%E5%B3%B6%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%BE%B3%E5%B3%B6%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "愛媛県",
@@ -10267,12 +11047,13 @@ window.FACILITY_DATASET={
           "name": "松山赤十字病院店",
           "type": "",
           "rank": "",
-          "note": "松山赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "松山赤十字病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%9D%BE%E5%B1%B1%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B1%B1%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%BE%E5%B1%B1%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%9D%BE%E5%B1%B1%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "愛媛県",
@@ -10280,12 +11061,13 @@ window.FACILITY_DATASET={
           "name": "愛媛大学病院店",
           "type": "",
           "rank": "",
-          "note": "愛媛大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "愛媛大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E6%84%9B%E5%AA%9B%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E6%84%9B%E5%AA%9B%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%84%9B%E5%AA%9B%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "高知県",
@@ -10293,12 +11075,13 @@ window.FACILITY_DATASET={
           "name": "高知大学病院店",
           "type": "",
           "rank": "",
-          "note": "高知大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "高知大学医学部附属病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E9%AB%98%E7%9F%A5%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E9%AB%98%E7%9F%A5%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%AB%98%E7%9F%A5%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "福岡県",
@@ -10306,12 +11089,13 @@ window.FACILITY_DATASET={
           "name": "九州大学病院店",
           "type": "",
           "rank": "",
-          "note": "九州大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "九州大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "福岡県",
@@ -10319,12 +11103,13 @@ window.FACILITY_DATASET={
           "name": "産業医科大学病院店",
           "type": "",
           "rank": "",
-          "note": "産業医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "産業医科大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E7%94%A3%E6%A5%AD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%A3%E6%A5%AD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E7%94%A3%E6%A5%AD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%94%A3%E6%A5%AD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "熊本県",
@@ -10332,12 +11117,13 @@ window.FACILITY_DATASET={
           "name": "熊本大学病院店",
           "type": "",
           "rank": "",
-          "note": "熊本大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "熊本大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E7%86%8A%E6%9C%AC%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E7%86%8A%E6%9C%AC%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%86%8A%E6%9C%AC%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         },
         {
           "prefecture": "沖縄県",
@@ -10345,12 +11131,13 @@ window.FACILITY_DATASET={
           "name": "琉球大学病院店",
           "type": "",
           "rank": "",
-          "note": "琉球大学病院内。病院利用者、付き添い、職員が利用する院内店舗。",
+          "note": "琉球大学病院内。病院利用者、付き添い、職員が利用する院内店舗。\n狙い目：院内店舗として、店先と病院側の通行空間の境目、席から見える範囲を観察したい。院内を巡回するのではなく、店舗を利用できる範囲で見る。",
           "official": "https://shop.tullys.co.jp/all?keyword=%E7%90%89%E7%90%83%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%90%89%E7%90%83%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E7%90%89%E7%90%83%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
-          "mapQueryName": ""
+          "mapQueryName": "",
+          "references": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%90%89%E7%90%83%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
         }
       ]
     },
@@ -10368,15 +11155,13 @@ window.FACILITY_DATASET={
           "name": "イオン須坂駅前店",
           "type": "古参総合スーパー・SC",
           "rank": "優先",
-          "note": "駅前の小規模店。2023年訪問記録に旧ジャスコのロゴ入り取っ手。現在の残存状況は現地確認対象。\n開業：1976年12月／旧名称：ジャスコ須坂店／イオン須坂店\n新しいイオンモール須坂・イオンスタイル須坂とは別施設。店内改装あり。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン須坂駅前店/shop_info/hours/\n年代・特徴の根拠：https://aeon-newbusiness.com/prefecture/?pref_id=20 | https://note.com/parus_minor/n/n07db11698976",
-          "official": "",
+          "note": "駅前の小規模店。2023年訪問記録に旧ジャスコのロゴ入り取っ手。現在の残存状況は現地確認対象。\n開業：1976年12月／旧名称：ジャスコ須坂店／イオン須坂店\n新しいイオンモール須坂・イオンスタイル須坂とは別施設。店内改装あり。",
+          "official": "https://www.aeon.com/store/イオン/イオン須坂駅前店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E9%A0%88%E5%9D%82%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%A0%88%E5%9D%82%E9%A7%85%E5%89%8D%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E9%A0%88%E5%9D%82%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%A0%88%E5%9D%82%E9%A7%85%E5%89%8D%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン須坂駅前店/shop_info/hours/\n公式資料：https://aeon-newbusiness.com/prefecture/?pref_id=20"
         },
         {
           "prefecture": "千葉県",
@@ -10384,15 +11169,13 @@ window.FACILITY_DATASET={
           "name": "イオン臼井店",
           "type": "古参総合スーパー・SC",
           "rank": "優先",
-          "note": "レイクピア ウスイの核店舗。駅前の共同型SCと地元専門店街の組み合わせ。\n開業：1984年3月／旧名称：ジャスコ臼井店\nSC組合が1984年3月6日の開業を明記。現在の意匠の残存範囲は未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン臼井店/?is_browser=true\n年代・特徴の根拠：https://www.lakepia.or.jp/about/",
-          "official": "",
+          "note": "レイクピア ウスイの核店舗。駅前の共同型SCと地元専門店街の組み合わせ。\n開業：1984年3月／旧名称：ジャスコ臼井店\nSC組合が1984年3月6日の開業を明記。現在の意匠の残存範囲は未確認。",
+          "official": "https://www.aeon.com/store/イオン/イオン臼井店/?is_browser=true",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E4%BD%90%E5%80%89%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E8%87%BC%E4%BA%95%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E4%BD%90%E5%80%89%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E8%87%BC%E4%BA%95%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン臼井店/?is_browser=true\n公式資料：https://www.lakepia.or.jp/about/"
         },
         {
           "prefecture": "千葉県",
@@ -10400,15 +11183,13 @@ window.FACILITY_DATASET={
           "name": "イオンノア店",
           "type": "古参総合スーパー・SC",
           "rank": "優先",
-          "note": "遊園地併設型。訪問記録では吹き抜けやジャスコの痕跡が紹介されている。\n開業：1989年／旧名称：扇屋ジャスコノア店\n公式に映画館・もりのゆうえんちの営業時間あり。過去記録の意匠が現在も残るかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：B／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.jp/sc/aeon-noa/time/\n年代・特徴の根拠：https://kotobank.jp/word/いおんのあ-714131 | https://ameblo.jp/rairei0312/entry-12851024236.html",
-          "official": "",
+          "note": "遊園地併設型。訪問記録では吹き抜けやジャスコの痕跡が紹介されている。\n開業：1989年／旧名称：扇屋ジャスコノア店\n公式に映画館・もりのゆうえんちの営業時間あり。過去記録の意匠が現在も残るかは未確認。",
+          "official": "https://www.aeon.jp/sc/aeon-noa/time/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E9%87%8E%E7%94%B0%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%8E%E3%82%A2%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E9%87%8E%E7%94%B0%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%8E%E3%82%A2%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.jp/sc/aeon-noa/time/"
         },
         {
           "prefecture": "大阪府",
@@ -10416,15 +11197,13 @@ window.FACILITY_DATASET={
           "name": "イオン鴻池店",
           "type": "古参総合スーパー・SC",
           "rank": "優先",
-          "note": "鴻池新田エリアの古参店。現在も上階に専門店・飲食・ゲーム施設を掲載。\n開業：1977年11月／旧名称：鴻池サティ\n西館など複数区画あり。区画別の築年・改装時期は未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン鴻池店/shop_info/hours/\n年代・特徴の根拠：https://aeon-newbusiness.com/prefecture/?page=2&pref_id=27 | https://www.gigo.co.jp/shops/a-kounoike",
-          "official": "",
+          "note": "鴻池新田エリアの古参店。現在も上階に専門店・飲食・ゲーム施設を掲載。\n開業：1977年11月／旧名称：鴻池サティ\n西館など複数区画あり。区画別の築年・改装時期は未確認。",
+          "official": "https://www.aeon.com/store/イオン/イオン鴻池店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%B4%BB%E6%B1%A0%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%B4%BB%E6%B1%A0%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン鴻池店/shop_info/hours/\n公式資料：https://aeon-newbusiness.com/prefecture/?page=2&pref_id=27\n公式資料：https://www.gigo.co.jp/shops/a-kounoike"
         },
         {
           "prefecture": "宮崎県",
@@ -10432,15 +11211,13 @@ window.FACILITY_DATASET={
           "name": "イオン南宮崎店",
           "type": "古参総合スーパー・SC",
           "rank": "優先",
-          "note": "宮交シティの核店舗。1970年代から続く交通拠点の商業施設。\n開業：1973年11月\n宮交シティは2019年リニューアル。1973年は施設開業年月で全館の築年を保証しない。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://tenpo.aeon-kyushu.info/detail/minamimiyazaki/\n年代・特徴の根拠：https://www.mof.go.jp/public_relations/finance/denshi/202506/pageindices/index65.html",
-          "official": "",
+          "note": "宮交シティの核店舗。1970年代から続く交通拠点の商業施設。\n開業：1973年11月\n宮交シティは2019年リニューアル。1973年は施設開業年月で全館の築年を保証しない。",
+          "official": "https://tenpo.aeon-kyushu.info/detail/minamimiyazaki/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E5%AE%AE%E5%B4%8E%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E5%AE%AE%E5%B4%8E%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E5%AE%AE%E5%B4%8E%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E5%AE%AE%E5%B4%8E%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://tenpo.aeon-kyushu.info/detail/minamimiyazaki/\n公式資料：https://www.mof.go.jp/public_relations/finance/denshi/202506/pageindices/index65.html"
         },
         {
           "prefecture": "北海道",
@@ -10448,15 +11225,13 @@ window.FACILITY_DATASET={
           "name": "イオン千歳店",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "北海道の古参総合スーパー。食品・衣料・暮らしの売場と専門店が集まる。\n開業：1978年11月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon-hokkaido.jp/aeon/shop/chitose/\n年代・特徴の根拠：https://www.aeon-hokkaido.jp/corporation/profile/pdf/pro01.pdf",
-          "official": "",
+          "note": "北海道の古参総合スーパー。食品・衣料・暮らしの売場と専門店が集まる。\n開業：1978年11月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。",
+          "official": "https://www.aeon-hokkaido.jp/aeon/shop/chitose/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8D%83%E6%AD%B3%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%83%E6%AD%B3%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8D%83%E6%AD%B3%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%83%E6%AD%B3%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon-hokkaido.jp/aeon/shop/chitose/\n公式資料：https://www.aeon-hokkaido.jp/corporation/profile/pdf/pro01.pdf"
         },
         {
           "prefecture": "福岡県",
@@ -10464,15 +11239,13 @@ window.FACILITY_DATASET={
           "name": "イオン大野城ショッピングセンター",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "昭和から続く地域SC。映画館や専門店を含む商業集積。\n開業：1977年9月／旧名称：大野城サティ\n2011年にリフレッシュ。増改築・区画別築年は未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://tenpo.aeon-kyushu.info/detail/onojo/\n年代・特徴の根拠：https://www.aeon-kyushu.info/files/management_news/234/pdf.pdf",
-          "official": "",
+          "note": "昭和から続く地域SC。映画館や専門店を含む商業集積。\n開業：1977年9月／旧名称：大野城サティ\n2011年にリフレッシュ。増改築・区画別築年は未確認。",
+          "official": "https://tenpo.aeon-kyushu.info/detail/onojo/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%A4%A7%E9%87%8E%E5%9F%8E%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E9%87%8E%E5%9F%8E%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%A4%A7%E9%87%8E%E5%9F%8E%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E9%87%8E%E5%9F%8E%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://tenpo.aeon-kyushu.info/detail/onojo/\n公式資料：https://www.aeon-kyushu.info/files/management_news/234/pdf.pdf"
         },
         {
           "prefecture": "千葉県",
@@ -10480,15 +11253,13 @@ window.FACILITY_DATASET={
           "name": "イオンマリンピアショッピングセンター",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "稲毛海岸の駅前SC。本館と専門館、上階の飲食・サービス売場を採集対象に。\n開業：1984年4月\n2014年に4階をG.Gモールへ改装。開業年月は本館側の店舗沿革。専門館の築年とは区別。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.jp/sc/marinpia/\n年代・特徴の根拠：https://www.aeonretail.jp/pdf/140423R_1_1.pdf",
-          "official": "",
+          "note": "稲毛海岸の駅前SC。本館と専門館、上階の飲食・サービス売場を採集対象に。\n開業：1984年4月\n2014年に4階をG.Gモールへ改装。開業年月は本館側の店舗沿革。専門館の築年とは区別。",
+          "official": "https://www.aeon.jp/sc/marinpia/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%94%E3%82%A2%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%94%E3%82%A2%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.jp/sc/marinpia/\n公式資料：https://www.aeonretail.jp/pdf/140423R_1_1.pdf"
         },
         {
           "prefecture": "兵庫県",
@@ -10496,15 +11267,13 @@ window.FACILITY_DATASET={
           "name": "イオンスタイル洲本",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "淡路島の中心市街地にある古参店。街の商業空間と合わせた採集候補。\n開業：1985年3月\nイオンスタイルへの転換・改装を経ている。2026年7月からクーリングシェルター指定。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオンスタイル洲本/shop_info/hours/\n年代・特徴の根拠：https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf",
-          "official": "",
+          "note": "淡路島の中心市街地にある古参店。街の商業空間と合わせた採集候補。\n開業：1985年3月\nイオンスタイルへの転換・改装を経ている。2026年7月からクーリングシェルター指定。",
+          "official": "https://www.aeon.com/store/イオン/イオンスタイル洲本/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%B4%B2%E6%9C%AC%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E6%B4%B2%E6%9C%AC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%B4%B2%E6%9C%AC%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E6%B4%B2%E6%9C%AC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオンスタイル洲本/shop_info/hours/"
         },
         {
           "prefecture": "愛知県",
@@ -10512,15 +11281,13 @@ window.FACILITY_DATASET={
           "name": "イオン高橋店",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "高橋地区の地域SC。昭和末期に開業し、現在も総合スーパーと専門店を展開。\n開業：1987年11月\n2026年春に食品売場などを大規模リニューアル。古い内装の残存は未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：B／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン高橋店/shop_info/hours/\n年代・特徴の根拠：https://toyota.keizai.biz/headline/1331/",
-          "official": "",
+          "note": "高橋地区の地域SC。昭和末期に開業し、現在も総合スーパーと専門店を展開。\n開業：1987年11月\n2026年春に食品売場などを大規模リニューアル。古い内装の残存は未確認。",
+          "official": "https://www.aeon.com/store/イオン/イオン高橋店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E7%94%B0%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%AB%98%E6%A9%8B%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E7%94%B0%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%AB%98%E6%A9%8B%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン高橋店/shop_info/hours/"
         },
         {
           "prefecture": "鳥取県",
@@ -10528,15 +11295,13 @@ window.FACILITY_DATASET={
           "name": "イオン米子駅前店",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "米子駅前の複数階型店舗。駅前商業施設の売場構成を記録する候補。\n開業：1989年7月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン米子駅前店/?is_browser=true\n年代・特徴の根拠：https://aeon-newbusiness.com/prefecture/?pref_id=31",
-          "official": "",
+          "note": "米子駅前の複数階型店舗。駅前商業施設の売場構成を記録する候補。\n開業：1989年7月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。",
+          "official": "https://www.aeon.com/store/イオン/イオン米子駅前店/?is_browser=true",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E7%B1%B3%E5%AD%90%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E7%B1%B3%E5%AD%90%E9%A7%85%E5%89%8D%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E7%B1%B3%E5%AD%90%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E7%B1%B3%E5%AD%90%E9%A7%85%E5%89%8D%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン米子駅前店/?is_browser=true\n公式資料：https://aeon-newbusiness.com/prefecture/?pref_id=31"
         },
         {
           "prefecture": "広島県",
@@ -10544,15 +11309,13 @@ window.FACILITY_DATASET={
           "name": "イオン三原店",
           "type": "古参総合スーパー・SC",
           "rank": "改装多め",
-          "note": "三原駅周辺の古参店。現在も2階建ての総合売場・専門店を展開。\n開業：1989年7月／旧名称：ジャスコ三原店\n2025年7月18日リニューアル。フードコートも全面的に見直されており、古い雰囲気の残存は限定的な可能性。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン三原店/shop_info/hours/\n年代・特徴の根拠：https://prtimes.jp/main/html/rd/p/000005218.000007505.html",
-          "official": "",
+          "note": "三原駅周辺の古参店。現在も2階建ての総合売場・専門店を展開。\n開業：1989年7月／旧名称：ジャスコ三原店\n2025年7月18日リニューアル。フードコートも全面的に見直されており、古い雰囲気の残存は限定的な可能性。",
+          "official": "https://www.aeon.com/store/イオン/イオン三原店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E4%B8%89%E5%8E%9F%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E4%B8%89%E5%8E%9F%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E4%B8%89%E5%8E%9F%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E4%B8%89%E5%8E%9F%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン三原店/shop_info/hours/"
         },
         {
           "prefecture": "千葉県",
@@ -10560,15 +11323,13 @@ window.FACILITY_DATASET={
           "name": "イオン稲毛店",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "稲毛駅近くの複数階型SC。地下食品売場と上階売場を持つ駅前店舗。\n開業：1990年11月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン稲毛店/?is_browser=true\n年代・特徴の根拠：https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf",
-          "official": "",
+          "note": "稲毛駅近くの複数階型SC。地下食品売場と上階売場を持つ駅前店舗。\n開業：1990年11月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。",
+          "official": "https://www.aeon.com/store/イオン/イオン稲毛店/?is_browser=true",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E7%A8%B2%E6%AF%9B%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E7%A8%B2%E6%AF%9B%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E7%A8%B2%E6%AF%9B%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E7%A8%B2%E6%AF%9B%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン稲毛店/?is_browser=true"
         },
         {
           "prefecture": "神奈川県",
@@ -10576,15 +11337,13 @@ window.FACILITY_DATASET={
           "name": "イオン金沢八景ショッピングセンター",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "地下食品売場と上階売場を持つ都市型SC。平成初期の商業空間を探す候補。\n開業：1991年9月／旧名称：ダイエー金沢八景店\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.jp/sc/kanazawahakkei/\n年代・特徴の根拠：https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf",
-          "official": "",
+          "note": "地下食品売場と上階売場を持つ都市型SC。平成初期の商業空間を探す候補。\n開業：1991年9月／旧名称：ダイエー金沢八景店\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。",
+          "official": "https://www.aeon.jp/sc/kanazawahakkei/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.jp/sc/kanazawahakkei/"
         },
         {
           "prefecture": "北海道",
@@ -10592,15 +11351,13 @@ window.FACILITY_DATASET={
           "name": "イオン上磯店",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "函館近郊の平面展開型SC。食品・生活用品・専門店が集まる地域店舗。\n開業：1993年10月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon-hokkaido.jp/aeon/shop/kamiiso/\n年代・特徴の根拠：https://www.aeon-hokkaido.jp/corporation/profile/pdf/pro01.pdf",
-          "official": "",
+          "note": "函館近郊の平面展開型SC。食品・生活用品・専門店が集まる地域店舗。\n開業：1993年10月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。",
+          "official": "https://www.aeon-hokkaido.jp/aeon/shop/kamiiso/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E6%96%97%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E4%B8%8A%E7%A3%AF%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E6%96%97%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E4%B8%8A%E7%A3%AF%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon-hokkaido.jp/aeon/shop/kamiiso/\n公式資料：https://www.aeon-hokkaido.jp/corporation/profile/pdf/pro01.pdf"
         },
         {
           "prefecture": "青森県",
@@ -10608,15 +11365,13 @@ window.FACILITY_DATASET={
           "name": "イオンモールつがる柏",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "初期の郊外型イオンモール。ボウリング場・映画館も組み合わさる。\n開業：1992年11月\n増改装を経た現役モール。開業時から残る区画・意匠は未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://tsugarukashiwa.aeonmall.jp/\n年代・特徴の根拠：https://www.aeonmall.com/company/history/",
-          "official": "",
+          "note": "初期の郊外型イオンモール。ボウリング場・映画館も組み合わさる。\n開業：1992年11月\n増改装を経た現役モール。開業時から残る区画・意匠は未確認。",
+          "official": "https://tsugarukashiwa.aeonmall.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E3%81%A4%E3%81%8C%E3%82%8B%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E3%81%A4%E3%81%8C%E3%82%8B%E6%9F%8F",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E3%81%A4%E3%81%8C%E3%82%8B%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E3%81%A4%E3%81%8C%E3%82%8B%E6%9F%8F\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://tsugarukashiwa.aeonmall.jp/\n公式資料：https://www.aeonmall.com/company/history/"
         },
         {
           "prefecture": "千葉県",
@@ -10624,15 +11379,13 @@ window.FACILITY_DATASET={
           "name": "イオンモール富津",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "平成初期の地方モール。専門店街と総合スーパーの組み合わせを採集する候補。\n開業：1993年9月\n改装・売場再編あり。空き区画の多さや静けさを現行事実としては評価していない。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://futtsu.aeonmall.jp/\n年代・特徴の根拠：https://www.aeonmall.com/company/history/",
-          "official": "",
+          "note": "平成初期の地方モール。専門店街と総合スーパーの組み合わせを採集する候補。\n開業：1993年9月\n改装・売場再編あり。空き区画の多さや静けさを現行事実としては評価していない。",
+          "official": "https://futtsu.aeonmall.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%AF%8C%E6%B4%A5%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E5%AF%8C%E6%B4%A5",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%AF%8C%E6%B4%A5%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E5%AF%8C%E6%B4%A5\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://futtsu.aeonmall.jp/\n公式資料：https://www.aeonmall.com/company/history/"
         },
         {
           "prefecture": "秋田県",
@@ -10640,15 +11393,13 @@ window.FACILITY_DATASET={
           "name": "イオンモール秋田",
           "type": "古参総合スーパー・SC",
           "rank": "改装多め",
-          "note": "御所野地区の初期郊外モール。地方大型SCの発展を記録する比較対象。\n開業：1993年9月\n増床・改装を経た大型施設。現在の全館が1993年の建物ではない。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://akita.aeonmall.jp/\n年代・特徴の根拠：https://www.aeonmall.com/company/history/",
-          "official": "",
+          "note": "御所野地区の初期郊外モール。地方大型SCの発展を記録する比較対象。\n開業：1993年9月\n増床・改装を経た大型施設。現在の全館が1993年の建物ではない。",
+          "official": "https://akita.aeonmall.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%A7%8B%E7%94%B0%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E7%A7%8B%E7%94%B0",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%A7%8B%E7%94%B0%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E7%A7%8B%E7%94%B0\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://akita.aeonmall.jp/\n公式資料：https://www.aeonmall.com/company/history/"
         },
         {
           "prefecture": "大阪府",
@@ -10656,15 +11407,13 @@ window.FACILITY_DATASET={
           "name": "イオンモール日根野",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "1990年代半ばに開業した泉州地域のSC。初期モールの空間構成を調べる候補。\n開業：1995年4月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.jp/sc/hineno/\n年代・特徴の根拠：https://www.aeonmall.com/pdf/company/about/aeonmall_data_2025.pdf",
-          "official": "",
+          "note": "1990年代半ばに開業した泉州地域のSC。初期モールの空間構成を調べる候補。\n開業：1995年4月\n開業年月は施設の沿革。現建物の全区画が当初のままかは未確認。",
+          "official": "https://www.aeon.jp/sc/hineno/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%B3%89%E4%BD%90%E9%87%8E%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E6%97%A5%E6%A0%B9%E9%87%8E",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%B3%89%E4%BD%90%E9%87%8E%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E6%97%A5%E6%A0%B9%E9%87%8E\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.jp/sc/hineno/\n公式資料：https://www.aeonmall.com/pdf/company/about/aeonmall_data_2025.pdf"
         },
         {
           "prefecture": "愛媛県",
@@ -10672,15 +11421,13 @@ window.FACILITY_DATASET={
           "name": "イオンスタイル松山",
           "type": "古参総合スーパー・SC",
           "rank": "改装多め",
-          "note": "1990年代の総合スーパー。昭和期の店舗と比較する補助候補。\n開業：1995年11月／旧名称：ジャスコ松山店／イオン松山店\n2016年イオンスタイルへ改装。2024年6月にも1階食品・美と健康を改装。\n営業確認：現行公式店舗案内・営業時間等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオンスタイル松山/shop_info/hours/\n年代・特徴の根拠：https://prtimes.jp/main/html/rd/p/000004418.000007505.html",
-          "official": "",
+          "note": "1990年代の総合スーパー。昭和期の店舗と比較する補助候補。\n開業：1995年11月／旧名称：ジャスコ松山店／イオン松山店\n2016年イオンスタイルへ改装。2024年6月にも1階食品・美と健康を改装。",
+          "official": "https://www.aeon.com/store/イオン/イオンスタイル松山/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E6%9D%BE%E5%B1%B1%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E6%9D%BE%E5%B1%B1",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E6%9D%BE%E5%B1%B1%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E6%9D%BE%E5%B1%B1\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオンスタイル松山/shop_info/hours/"
         },
         {
           "prefecture": "山梨県",
@@ -10688,15 +11435,13 @@ window.FACILITY_DATASET={
           "name": "イオン大月店",
           "type": "古参総合スーパー・SC",
           "rank": "優先",
-          "note": "訪問記録に旧忠実屋・ダイエーのロゴや階段・案内表示の痕跡。小規模な旧総合スーパーの採集候補。\n開業：1973年頃／旧名称：忠実屋／ダイエー大月店\n年代は訪問記録による概数。旧意匠の現在の残存と屋上の利用可否は未確認。2026年5月のイオン公式発表にも現役店として登場。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：B／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン大月店/shop_info/hours/\n年代・特徴の根拠：https://ameblo.jp/rairei0312/entry-12868423348.html",
-          "official": "",
+          "note": "訪問記録に旧忠実屋・ダイエーのロゴや階段・案内表示の痕跡。小規模な旧総合スーパーの採集候補。\n開業：1973年頃／旧名称：忠実屋／ダイエー大月店\n年代は訪問記録による概数。旧意匠の現在の残存と屋上の利用可否は未確認。2026年5月のイオン公式発表にも現役店として登場。",
+          "official": "https://www.aeon.com/store/イオン/イオン大月店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E5%A4%A7%E6%9C%88%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E6%9C%88%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E5%A4%A7%E6%9C%88%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E6%9C%88%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン大月店/shop_info/hours/"
         },
         {
           "prefecture": "長野県",
@@ -10704,15 +11449,13 @@ window.FACILITY_DATASET={
           "name": "イオン木曽福島店",
           "type": "古参総合スーパー・SC",
           "rank": "優先",
-          "note": "食品館・衣料館に分かれた小規模店。山間の駅前商業空間を記録する候補。\n開業：1978年11月\n開業年月は施設の沿革。建物の区画別築年・改装履歴、古い意匠の現在の残存は未確認。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン木曽福島店/shop_info/hours/\n年代・特徴の根拠：https://aeon-newbusiness.com/prefecture/?pref_id=20",
-          "official": "",
+          "note": "食品館・衣料館に分かれた小規模店。山間の駅前商業空間を記録する候補。\n開業：1978年11月\n開業年月は施設の沿革。建物の区画別築年・改装履歴、古い意匠の現在の残存は未確認。",
+          "official": "https://www.aeon.com/store/イオン/イオン木曽福島店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9C%A8%E6%9B%BD%E9%83%A1%E6%9C%A8%E6%9B%BD%E7%94%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%A8%E6%9B%BD%E7%A6%8F%E5%B3%B6%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9C%A8%E6%9B%BD%E9%83%A1%E6%9C%A8%E6%9B%BD%E7%94%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%A8%E6%9B%BD%E7%A6%8F%E5%B3%B6%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン木曽福島店/shop_info/hours/\n公式資料：https://aeon-newbusiness.com/prefecture/?pref_id=20"
         },
         {
           "prefecture": "東京都",
@@ -10720,15 +11463,13 @@ window.FACILITY_DATASET={
           "name": "イオン西新井店",
           "type": "古参総合スーパー・SC",
           "rank": "優先",
-          "note": "駅前の複数階型古参店。1階食品、2・3階総合売場、4階専門店という構成。\n開業：1981年／旧名称：ニチイ西新井店\n現行公式営業時間と2026年9月のチラシ・入居店営業を照合。建物と内装の改装履歴は未確認。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン西新井店/shop_info/hours/\n年代・特徴の根拠：https://www.aeonretail.jp/pdf/240828R_3.pdf",
-          "official": "",
+          "note": "駅前の複数階型古参店。1階食品、2・3階総合売場、4階専門店という構成。\n開業：1981年／旧名称：ニチイ西新井店\n建物と内装の改装履歴は未確認。",
+          "official": "https://www.aeon.com/store/イオン/イオン西新井店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E8%A5%BF%E6%96%B0%E4%BA%95%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E8%A5%BF%E6%96%B0%E4%BA%95%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン西新井店/shop_info/hours/\n公式資料：https://www.aeonretail.jp/pdf/240828R_3.pdf"
         },
         {
           "prefecture": "神奈川県",
@@ -10736,15 +11477,13 @@ window.FACILITY_DATASET={
           "name": "イオン厚木店",
           "type": "古参総合スーパー・SC",
           "rank": "優先",
-          "note": "厚木ガーデンシティビルの核店舗。地下から上層階まで用途が重なる駅前商業ビル。\n開業：1981年11月／旧名称：厚木サティ\n入居店の交代・改装あり。ハローズガーデンの2025年閉店はイオン全店の閉店ではない。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン厚木店/shop_info/hours/\n年代・特徴の根拠：https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf | https://www.garden-citybill.co.jp/",
-          "official": "",
+          "note": "厚木ガーデンシティビルの核店舗。地下から上層階まで用途が重なる駅前商業ビル。\n開業：1981年11月／旧名称：厚木サティ\n入居店の交代・改装あり。ハローズガーデンの2025年閉店はイオン全店の閉店ではない。",
+          "official": "https://www.aeon.com/store/イオン/イオン厚木店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8E%9A%E6%9C%A8%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8E%9A%E6%9C%A8%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン厚木店/shop_info/hours/\n公式資料：https://www.garden-citybill.co.jp/"
         },
         {
           "prefecture": "埼玉県",
@@ -10752,15 +11491,13 @@ window.FACILITY_DATASET={
           "name": "イオン南越谷店",
           "type": "古参総合スーパー・SC",
           "rank": "優先",
-          "note": "越谷サンシティの商業棟。文化施設と一体になった昭和の複合商業施設。\n開業：1979年6月／旧名称：ダイエー南越谷店\n周辺一帯に再整備の検討あり。2026年9月のチラシを確認。改装履歴や今後の営業変更は要確認。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン南越谷店/shop_info/hours/\n年代・特徴の根拠：https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/keikaku/kakushukeikaku/shisei/nankoshisyuhen/files/genzaisuncity_kongosuncity.pdf",
-          "official": "",
+          "note": "越谷サンシティの商業棟。文化施設と一体になった昭和の複合商業施設。\n開業：1979年6月／旧名称：ダイエー南越谷店\n周辺一帯に再整備の検討あり。改装履歴や今後の営業変更は要確認。",
+          "official": "https://www.aeon.com/store/イオン/イオン南越谷店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E8%B6%8A%E8%B0%B7%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E8%B6%8A%E8%B0%B7%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E8%B6%8A%E8%B0%B7%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E8%B6%8A%E8%B0%B7%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン南越谷店/shop_info/hours/\n公式資料：https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/keikaku/kakushukeikaku/shisei/nankoshisyuhen/files/genzaisuncity_kongosuncity.pdf"
         },
         {
           "prefecture": "京都府",
@@ -10768,15 +11505,13 @@ window.FACILITY_DATASET={
           "name": "イオン京都西店（京都ファミリー）",
           "type": "古参総合スーパー・SC",
           "rank": "改装多め",
-          "note": "京都ファミリー内の食品・生活用品売場。昭和期SCと現在の専門店構成を比較する候補。\n開業：1982年11月\n京都ファミリーは2025年春にリフレッシュ。1982年はSC開業年月。現在のイオン売場は主に1階。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン京都西店/?is_browser=true\n年代・特徴の根拠：https://prtimes.jp/main/html/rd/p/000000005.000142828.html | https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf",
-          "official": "",
+          "note": "京都ファミリー内の食品・生活用品売場。昭和期SCと現在の専門店構成を比較する候補。\n開業：1982年11月\n京都ファミリーは2025年春にリフレッシュ。1982年はSC開業年月。現在のイオン売場は主に1階。",
+          "official": "https://www.aeon.com/store/イオン/イオン京都西店/?is_browser=true",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E4%BA%AC%E9%83%BD%E8%A5%BF%E5%BA%97%EF%BC%88%E4%BA%AC%E9%83%BD%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%20%E3%82%A4%E3%82%AA%E3%83%B3%E4%BA%AC%E9%83%BD%E8%A5%BF%E5%BA%97%EF%BC%88%E4%BA%AC%E9%83%BD%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン京都西店/?is_browser=true"
         },
         {
           "prefecture": "岩手県",
@@ -10784,15 +11519,13 @@ window.FACILITY_DATASET={
           "name": "イオン江釣子店（江釣子ショッピングセンター パル）",
           "type": "古参総合スーパー・SC",
           "rank": "改装多め",
-          "note": "地域共同型SCの核店舗。地元専門店との組み合わせを記録する比較候補。\n開業：1981年12月／旧名称：ジャスコ\n2026年4月リニューアル。同年開業のイオンシネマ館は新設棟で、古い建物として扱わない。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://aeontohoku.co.jp/stores/ezuriko\n年代・特徴の根拠：https://iwate-pu.repo.nii.ac.jp/record/4053/files/p57-68.pdf | https://aeontohoku.co.jp/company/uploads/News/news_20260317.pdf",
-          "official": "",
+          "note": "地域共同型SCの核店舗。地元専門店との組み合わせを記録する比較候補。\n開業：1981年12月／旧名称：ジャスコ\n2026年4月リニューアル。同年開業のイオンシネマ館は新設棟で、古い建物として扱わない。",
+          "official": "https://aeontohoku.co.jp/stores/ezuriko",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%8C%97%E4%B8%8A%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E6%B1%9F%E9%87%A3%E5%AD%90%E5%BA%97%EF%BC%88%E6%B1%9F%E9%87%A3%E5%AD%90%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%91%E3%83%AB%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%8C%97%E4%B8%8A%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E6%B1%9F%E9%87%A3%E5%AD%90%E5%BA%97%EF%BC%88%E6%B1%9F%E9%87%A3%E5%AD%90%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%91%E3%83%AB%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://aeontohoku.co.jp/stores/ezuriko\n公式資料：https://aeontohoku.co.jp/company/uploads/News/news_20260317.pdf"
         },
         {
           "prefecture": "新潟県",
@@ -10800,15 +11533,13 @@ window.FACILITY_DATASET={
           "name": "イオン県央店",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "燕三条駅周辺の複数階型店。1～3階の店舗と上階駐車場を持つ地域SC。\n開業：1991年4月\n2026年に3階へ新しい事業者向けスペースが開設。近隣の新施設そよら三条須頃や閉店したイオン三条店とは別施設。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン県央店/shop_info/hours/\n年代・特徴の根拠：https://www.city.sanjo.niigata.jp/material/files/group/19/kakutityuyshajou.pdf",
-          "official": "",
+          "note": "燕三条駅周辺の複数階型店。1～3階の店舗と上階駐車場を持つ地域SC。\n開業：1991年4月\n2026年に3階へ新しい事業者向けスペースが開設。近隣の新施設そよら三条須頃や閉店したイオン三条店とは別施設。",
+          "official": "https://www.aeon.com/store/イオン/イオン県央店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E7%9C%8C%E5%A4%AE%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E7%9C%8C%E5%A4%AE%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン県央店/shop_info/hours/\n公式資料：https://www.city.sanjo.niigata.jp/material/files/group/19/kakutityuyshajou.pdf"
         },
         {
           "prefecture": "長野県",
@@ -10816,15 +11547,13 @@ window.FACILITY_DATASET={
           "name": "イオン南松本店",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "南松本エリアの平成初期の総合スーパー。2017年開業のイオンモール松本とは別施設。\n開業：1993年6月\n開業年月は施設の沿革。建物の区画別築年・改装履歴、古い意匠の現在の残存は未確認。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン南松本店/shop_info/hours/\n年代・特徴の根拠：https://www.jcsc.or.jp/wpjcsc/wp-content/uploads/2025/06/49a1d269dcdebb0b720b6d32cf44b67b.pdf",
-          "official": "",
+          "note": "南松本エリアの平成初期の総合スーパー。2017年開業のイオンモール松本とは別施設。\n開業：1993年6月\n開業年月は施設の沿革。建物の区画別築年・改装履歴、古い意匠の現在の残存は未確認。",
+          "official": "https://www.aeon.com/store/イオン/イオン南松本店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9D%BE%E6%9C%AC%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E6%9D%BE%E6%9C%AC%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9D%BE%E6%9C%AC%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E6%9D%BE%E6%9C%AC%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン南松本店/shop_info/hours/"
         },
         {
           "prefecture": "三重県",
@@ -10832,15 +11561,13 @@ window.FACILITY_DATASET={
           "name": "イオン大安店",
           "type": "古参総合スーパー・SC",
           "rank": "候補",
-          "note": "グリーンプラザ大安の核店舗。地域の専門店・総合スーパーを組み合わせた平成初期SC。\n開業：1993年10月\n開業年月は施設の沿革。建物の区画別築年・改装履歴、古い意匠の現在の残存は未確認。\n営業確認：現行公式営業時間・店舗案内等を確認。現地確認なし。\n調査確度：A／確認日：2026-09-15\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.aeon.com/store/イオン/イオン大安店/shop_info/hours/\n年代・特徴の根拠：https://www.jcsc.or.jp/data/pdf/list_of_shopping_centers.pdf",
-          "official": "",
+          "note": "グリーンプラザ大安の核店舗。地域の専門店・総合スーパーを組み合わせた平成初期SC。\n開業：1993年10月\n開業年月は施設の沿革。建物の区画別築年・改装履歴、古い意匠の現在の残存は未確認。",
+          "official": "https://www.aeon.com/store/イオン/イオン大安店/shop_info/hours/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%20%E3%81%84%E3%81%AA%E3%81%B9%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E5%AE%89%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%20%E3%81%84%E3%81%AA%E3%81%B9%E5%B8%82%20%E3%82%A4%E3%82%AA%E3%83%B3%E5%A4%A7%E5%AE%89%E5%BA%97\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.aeon.com/store/イオン/イオン大安店/shop_info/hours/"
         }
       ]
     },
@@ -10858,15 +11585,13 @@ window.FACILITY_DATASET={
           "name": "高砂温泉 ゲームコーナー",
           "type": "温浴施設内",
           "rank": "中",
-          "note": "アウトラン、ハングオン、パワードリフト等を公式が案内。温浴施設のレトロ改装要素あり。\n利用条件：施設利用・ゲーム別料金。平日は17～21時の案内\n残存・保存の区分：継続・再編集型\n営業・残存確認メモ：公式に稼働機種・利用時間掲載\n確度：A\n確認元URL：https://www.takasagoonsen.com/retro/\n調査日：2026-09-15",
+          "note": "アウトラン、ハングオン、パワードリフト等を公式が案内。温浴施設のレトロ改装要素あり。\n利用条件：施設利用・ゲーム別料金。平日は17～21時の案内",
           "official": "https://www.takasagoonsen.com/retro/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%AD%E5%B7%9D%E5%B8%82%20%E9%AB%98%E7%A0%82%E6%B8%A9%E6%B3%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%AD%E5%B7%9D%E5%B8%82%20%E9%AB%98%E7%A0%82%E6%B8%A9%E6%B3%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://www.takasagoonsen.com/retro/"
-          }
+          "references": "公式サイト：https://www.takasagoonsen.com/retro/"
         },
         {
           "prefecture": "北海道",
@@ -10874,15 +11599,13 @@ window.FACILITY_DATASET={
           "name": "あかん遊久の里 鶴雅 ゲームコーナーうでくらべ",
           "type": "温泉ホテルのゲームコーナー",
           "rank": "中",
-          "note": "本館2階のゲームコーナー。温泉ホテルに残る旧世代ゲームの採集候補。\n利用条件：宿泊・施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式案内に本館2階・15～22時のゲームコーナーを掲載\n確度：A\n確認元URL：https://www.tsuruga.com/facilities/\n調査日：2026-09-15",
+          "note": "本館2階のゲームコーナー。温泉ホテルに残る旧世代ゲームの採集候補。\n利用条件：宿泊・施設利用条件を確認。ゲーム別料金",
           "official": "https://www.tsuruga.com/facilities/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82%20%E3%81%82%E3%81%8B%E3%82%93%E9%81%8A%E4%B9%85%E3%81%AE%E9%87%8C%20%E9%B6%B4%E9%9B%85%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%86%E3%81%A7%E3%81%8F%E3%82%89%E3%81%B9",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82%20%E3%81%82%E3%81%8B%E3%82%93%E9%81%8A%E4%B9%85%E3%81%AE%E9%87%8C%20%E9%B6%B4%E9%9B%85%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%86%E3%81%A7%E3%81%8F%E3%82%89%E3%81%B9\n公式サイト：https://www.tsuruga.com/facilities/"
-          }
+          "references": "公式サイト：https://www.tsuruga.com/facilities/"
         },
         {
           "prefecture": "北海道",
@@ -10890,15 +11613,13 @@ window.FACILITY_DATASET={
           "name": "ニュー阿寒ホテル ゲームコーナー",
           "type": "温泉ホテルのゲームコーナー",
           "rank": "中",
-          "note": "阿寒湖畔ホテル地下1階のゲーム空間。2026年の旧世代ゲーム訪問記録あり。\n利用条件：宿泊・施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式案内にB1階・15～22時のゲームコーナーを掲載\n確度：A\n確認元URL：https://newakanhotel.co.jp/facilities/\n調査日：2026-09-15",
+          "note": "阿寒湖畔ホテル地下1階のゲーム空間。2026年の旧世代ゲーム訪問記録あり。\n利用条件：宿泊・施設利用条件を確認。ゲーム別料金",
           "official": "https://newakanhotel.co.jp/facilities/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82%20%E3%83%8B%E3%83%A5%E3%83%BC%E9%98%BF%E5%AF%92%E3%83%9B%E3%83%86%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82%20%E3%83%8B%E3%83%A5%E3%83%BC%E9%98%BF%E5%AF%92%E3%83%9B%E3%83%86%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://newakanhotel.co.jp/facilities/"
-          }
+          "references": "公式サイト：https://newakanhotel.co.jp/facilities/"
         },
         {
           "prefecture": "北海道",
@@ -10906,15 +11627,13 @@ window.FACILITY_DATASET={
           "name": "ジー・バオア・グー",
           "type": "街のゲームセンター",
           "rank": "中",
-          "note": "古い業務用ゲーム機を扱う会社の直営店。ピンボールや年代物の筐体がある。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に住所・営業時間掲載\n確度：A\n確認元URL：https://pacific-trade.games/\n調査日：2026-09-15",
+          "note": "古い業務用ゲーム機を扱う会社の直営店。ピンボールや年代物の筐体がある。\n利用条件：ゲームごとに課金",
           "official": "https://pacific-trade.games/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%90%E3%82%AA%E3%82%A2%E3%83%BB%E3%82%B0%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%90%E3%82%AA%E3%82%A2%E3%83%BB%E3%82%B0%E3%83%BC\n公式サイト：https://pacific-trade.games/"
-          }
+          "references": "公式サイト：https://pacific-trade.games/"
         },
         {
           "prefecture": "北海道",
@@ -10922,15 +11641,13 @@ window.FACILITY_DATASET={
           "name": "第一滝本館 ゲームプラザ",
           "type": "温泉ホテル内",
           "rank": "低",
-          "note": "登別温泉の大型ホテル内。空間重視の候補で旧作機種は未確認。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に約40台と8～21:45の案内\n確度：A\n確認元URL：https://takimotokan.co.jp/ja/facility/\n補足確認元URL：https://takimotokan.co.jp/ja/facility/\n調査日：2026-09-15",
+          "note": "登別温泉の大型ホテル内。空間重視の候補で旧作機種は未確認。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金",
           "official": "https://takimotokan.co.jp/ja/facility/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%99%BB%E5%88%A5%E5%B8%82%20%E7%AC%AC%E4%B8%80%E6%BB%9D%E6%9C%AC%E9%A4%A8%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%B6",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%99%BB%E5%88%A5%E5%B8%82%20%E7%AC%AC%E4%B8%80%E6%BB%9D%E6%9C%AC%E9%A4%A8%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%B6\n公式サイト：https://takimotokan.co.jp/ja/facility/"
-          }
+          "references": "公式サイト：https://takimotokan.co.jp/ja/facility/"
         },
         {
           "prefecture": "北海道",
@@ -10938,15 +11655,13 @@ window.FACILITY_DATASET={
           "name": "函館公園こどものくに ゲームコーナー",
           "type": "遊園地のゲームコーナー",
           "rank": "低",
-          "note": "古い遊園地に残るゲームコーナー。観覧車や小型遊具と一緒に記録したい。\n利用条件：入園無料。ゲームは別料金。季節・天候による休園あり\n残存・保存の区分：継続型\n営業・残存確認メモ：公式営業案内にゲームコーナーを掲載。2025年市の施設案内も確認\n確度：A\n確認元URL：https://www.city.hakodate.hokkaido.jp/hakosuku-map/info/2025022700132/\n調査日：2026-09-15",
+          "note": "古い遊園地に残るゲームコーナー。観覧車や小型遊具と一緒に記録したい。\n利用条件：入園無料。ゲームは別料金。季節・天候による休園あり",
           "official": "https://kodomonokuni.sakuraweb.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%87%BD%E9%A4%A8%E5%B8%82%20%E5%87%BD%E9%A4%A8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8F%E3%81%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%87%BD%E9%A4%A8%E5%B8%82%20%E5%87%BD%E9%A4%A8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8F%E3%81%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://kodomonokuni.sakuraweb.com/"
-          }
+          "references": "公式サイト：https://kodomonokuni.sakuraweb.com/\n公式資料：https://www.city.hakodate.hokkaido.jp/hakosuku-map/info/2025022700132/"
         },
         {
           "prefecture": "北海道",
@@ -10954,15 +11669,13 @@ window.FACILITY_DATASET={
           "name": "洞爺サンパレスリゾート＆スパ ゲームコーナー",
           "type": "温泉ホテル内",
           "rank": "低",
-          "note": "湖畔の大規模観光ホテル地下。旧作機種と内装の残存度は現地確認。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に地下1階・14～23時と掲載\n確度：A\n確認元URL：https://www.toyasunpalace.co.jp/facilities/\n調査日：2026-09-15",
+          "note": "湖畔の大規模観光ホテル地下。旧作機種と内装の残存度は現地確認。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金",
           "official": "https://www.toyasunpalace.co.jp/facilities/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%89%E7%8F%A0%E9%83%A1%E5%A3%AE%E7%9E%A5%E7%94%BA%20%E6%B4%9E%E7%88%BA%E3%82%B5%E3%83%B3%E3%83%91%E3%83%AC%E3%82%B9%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%EF%BC%86%E3%82%B9%E3%83%91%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%89%E7%8F%A0%E9%83%A1%E5%A3%AE%E7%9E%A5%E7%94%BA%20%E6%B4%9E%E7%88%BA%E3%82%B5%E3%83%B3%E3%83%91%E3%83%AC%E3%82%B9%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%EF%BC%86%E3%82%B9%E3%83%91%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://www.toyasunpalace.co.jp/facilities/"
-          }
+          "references": "公式サイト：https://www.toyasunpalace.co.jp/facilities/"
         },
         {
           "prefecture": "岩手県",
@@ -10970,15 +11683,13 @@ window.FACILITY_DATASET={
           "name": "テクノワールド",
           "type": "ロードサイドゲームセンター",
           "rank": "中",
-          "note": "地方の小さな独立店で新旧ゲームが共存。古いビデオゲームを使い続ける運営方針。\n利用条件：ゲームごとに課金。営業時間・撮影条件は公式SNSを確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年6月の店長取材。2026年9月10日の公式配信告知を検索で補足\n確度：B\n確認元URL：https://note.com/to_write_on/n/n80750ff86540\n補足確認元URL：https://www.ddr-navi.jp/shop/?id=16111620530900\n調査日：2026-09-15",
+          "note": "地方の小さな独立店で新旧ゲームが共存。古いビデオゲームを使い続ける運営方針。\n利用条件：ゲームごとに課金。営業時間・撮影条件は公式SNSを確認",
           "official": "https://x.com/technotectec",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A5%A5%E5%B7%9E%E5%B8%82%20%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A5%A5%E5%B7%9E%E5%B8%82%20%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89\n公式サイト：https://x.com/technotectec"
-          }
+          "references": "公式サイト：https://x.com/technotectec"
         },
         {
           "prefecture": "宮城県",
@@ -10986,15 +11697,13 @@ window.FACILITY_DATASET={
           "name": "ゲームコーナー東部",
           "type": "商業ビル型",
           "rank": "中",
-          "note": "複数階にわたるゲームフロア。古いビデオ・メダルゲームを継続設置。\n利用条件：ゲームごとに課金。9～24時\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年8月の公式営業告知あり\n確度：A\n確認元URL：https://gamecorner-tobu.amebaownd.com/pages/2372502/menu\n調査日：2026-09-15",
+          "note": "複数階にわたるゲームフロア。古いビデオ・メダルゲームを継続設置。\n利用条件：ゲームごとに課金。9～24時",
           "official": "https://gamecorner-tobu.amebaownd.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E8%8B%A5%E6%9E%97%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E6%9D%B1%E9%83%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E8%8B%A5%E6%9E%97%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E6%9D%B1%E9%83%A8\n公式サイト：https://gamecorner-tobu.amebaownd.com/"
-          }
+          "references": "公式サイト：https://gamecorner-tobu.amebaownd.com/\n公式資料：https://gamecorner-tobu.amebaownd.com/pages/2372502/menu"
         },
         {
           "prefecture": "山形県",
@@ -11002,15 +11711,13 @@ window.FACILITY_DATASET={
           "name": "パルケ・デ・アミーゴ！",
           "type": "ロードサイドゲームセンター",
           "rank": "低",
-          "note": "郊外の大型独立店。旧世代音楽ゲームの記録あり。古い内装の残存は現地確認。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型（空間要確認）\n営業・残存確認メモ：現行運営会社店舗一覧と2026年景品取扱案内\n確度：A\n確認元URL：https://bsp-prize.jp/shop/2520/\n補足確認元URL：https://kamihate.net/arcade_db/venue_yamagata/parque_de_amigo/\n調査日：2026-09-15",
+          "note": "郊外の大型独立店。旧世代音楽ゲームの記録あり。古い内装の残存は現地確認。\n利用条件：ゲームごとに課金",
           "official": "https://dreamfactor-df.com/company/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%20%E5%B1%B1%E5%BD%A2%E5%B8%82%20%E3%83%91%E3%83%AB%E3%82%B1%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%83%9F%E3%83%BC%E3%82%B4%EF%BC%81",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%20%E5%B1%B1%E5%BD%A2%E5%B8%82%20%E3%83%91%E3%83%AB%E3%82%B1%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%83%9F%E3%83%BC%E3%82%B4%EF%BC%81\n公式サイト：https://dreamfactor-df.com/company/"
-          }
+          "references": "公式サイト：https://dreamfactor-df.com/company/"
         },
         {
           "prefecture": "福島県",
@@ -11018,15 +11725,13 @@ window.FACILITY_DATASET={
           "name": "嶺宝スポーツセンター",
           "type": "スポーツ施設併設",
           "rank": "中",
-          "note": "バッティングや卓球を併設する従来型の娯楽施設。レトロ機の現存機種は要確認。\n利用条件：ゲームごとに課金。メーカー案内11～23時・火曜休\n残存・保存の区分：継続型\n営業・残存確認メモ：メーカー現行設置店案内。レトロ要素は2022年口コミ\n確度：B\n確認元URL：https://p.eagate.573.jp/game/facility/search/p/detail.html?area=AR-01&fdesc=68e31355a4b6578ade5b47789878c8cd&finder=area&gkey=QMA_HG&paselif=false&pref=JP-07\n調査日：2026-09-15",
+          "note": "バッティングや卓球を併設する従来型の娯楽施設。レトロ機の現存機種は要確認。\n利用条件：ゲームごとに課金。メーカー案内11～23時・火曜休",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%20%E5%B6%BA%E5%AE%9D%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%20%E5%B6%BA%E5%AE%9D%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "福島県",
@@ -11034,15 +11739,13 @@ window.FACILITY_DATASET={
           "name": "飯坂ホテルジュラク ゲームコーナー",
           "type": "温泉ホテルのゲームコーナー",
           "rank": "低",
-          "note": "温泉ホテル内の遊技空間。ゲームコーナーの現存は確認、内装・筐体の古さは要現地確認。\n利用条件：宿泊・施設利用条件の確認が必要。ゲーム別料金\n残存・保存の区分：継続型（空間要確認）\n営業・残存確認メモ：現行公式施設案内にゲームコーナー・利用時間を掲載\n確度：A\n確認元URL：https://hotel-juraku.co.jp/iizaka/facility/\n調査日：2026-09-15",
+          "note": "温泉ホテル内の遊技空間。ゲームコーナーの現存は確認、内装・筐体の古さは要現地確認。\n利用条件：宿泊・施設利用条件の確認が必要。ゲーム別料金",
           "official": "https://hotel-juraku.co.jp/iizaka/facility/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E7%A6%8F%E5%B3%B6%E5%B8%82%20%E9%A3%AF%E5%9D%82%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%A9%E3%82%AF%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E7%A6%8F%E5%B3%B6%E5%B8%82%20%E9%A3%AF%E5%9D%82%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%A9%E3%82%AF%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://hotel-juraku.co.jp/iizaka/facility/"
-          }
+          "references": "公式サイト：https://hotel-juraku.co.jp/iizaka/facility/"
         },
         {
           "prefecture": "栃木県",
@@ -11050,15 +11753,13 @@ window.FACILITY_DATASET={
           "name": "鬼怒川温泉ホテル 懐かしのゲームセンター",
           "type": "温泉ホテル内",
           "rank": "高",
-          "note": "年代物のNEW PENNY FALLSなどを公式が現役機として案内。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金。15～23時\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に稼働機・営業時間掲載\n確度：A\n確認元URL：https://www.kinugawaonsenhotel.com/facilities/view.php?id=12\n調査日：2026-09-15",
+          "note": "年代物のNEW PENNY FALLSなどを公式が現役機として案内。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金。15～23時",
           "official": "https://www.kinugawaonsenhotel.com/facilities/view.php?id=12",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E6%97%A5%E5%85%89%E5%B8%82%20%E9%AC%BC%E6%80%92%E5%B7%9D%E6%B8%A9%E6%B3%89%E3%83%9B%E3%83%86%E3%83%AB%20%E6%87%90%E3%81%8B%E3%81%97%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E6%97%A5%E5%85%89%E5%B8%82%20%E9%AC%BC%E6%80%92%E5%B7%9D%E6%B8%A9%E6%B3%89%E3%83%9B%E3%83%86%E3%83%AB%20%E6%87%90%E3%81%8B%E3%81%97%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\n公式サイト：https://www.kinugawaonsenhotel.com/facilities/view.php?id=12"
-          }
+          "references": "公式サイト：https://www.kinugawaonsenhotel.com/facilities/view.php?id=12"
         },
         {
           "prefecture": "群馬県",
@@ -11066,15 +11767,13 @@ window.FACILITY_DATASET={
           "name": "オレンジハット茂呂店",
           "type": "オートレストラン",
           "rank": "高",
-          "note": "食品自販機コーナーとゲーム機が残る郊外型店舗。\n利用条件：ゲームごとに課金。24時間営業の案内\n残存・保存の区分：継続型\n営業・残存確認メモ：地域記事に営業案内。最新の個別営業日は要確認\n確度：B\n確認元URL：https://we-love.gunma.jp/kanko/orangehat\n調査日：2026-09-15",
+          "note": "食品自販機コーナーとゲーム機が残る郊外型店舗。\n利用条件：ゲームごとに課金。24時間営業の案内",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E8%8C%82%E5%91%82%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E8%8C%82%E5%91%82%E5%BA%97"
-          }
+          "references": ""
         },
         {
           "prefecture": "群馬県",
@@ -11082,15 +11781,13 @@ window.FACILITY_DATASET={
           "name": "阿久津ベンディングサービス",
           "type": "オートレストラン",
           "rank": "高",
-          "note": "平井町の自販機・ゲーム複合施設。日常の休憩場所として残るタイプ。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：地域紹介と2025年訪問記でゲーム営業を確認\n確度：B\n確認元URL：https://we-love.gunma.jp/kanko/akutsubs\n調査日：2026-09-15",
+          "note": "平井町の自販機・ゲーム複合施設。日常の休憩場所として残るタイプ。\n利用条件：ゲームごとに課金",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%20%E9%98%BF%E4%B9%85%E6%B4%A5%E3%83%99%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%20%E9%98%BF%E4%B9%85%E6%B4%A5%E3%83%99%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"
-          }
+          "references": ""
         },
         {
           "prefecture": "群馬県",
@@ -11098,15 +11795,13 @@ window.FACILITY_DATASET={
           "name": "柳屋遊技場",
           "type": "温泉街の遊技場",
           "rank": "高",
-          "note": "四万温泉のスマートボール店。射的も併設。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年8月10日更新の県ロケ地案内\n確度：B\n確認元URL：https://www.gunma-fc.jp/location/yanagiya_yuugijyo/\n補足確認元URL：https://nakanojo-kanko.jp/shima/experience/柳屋遊技場-スマートボール/\n調査日：2026-09-15",
+          "note": "四万温泉のスマートボール店。射的も併設。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%90%BE%E5%A6%BB%E9%83%A1%E4%B8%AD%E4%B9%8B%E6%9D%A1%E7%94%BA%20%E6%9F%B3%E5%B1%8B%E9%81%8A%E6%8A%80%E5%A0%B4",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%90%BE%E5%A6%BB%E9%83%A1%E4%B8%AD%E4%B9%8B%E6%9D%A1%E7%94%BA%20%E6%9F%B3%E5%B1%8B%E9%81%8A%E6%8A%80%E5%A0%B4"
-          }
+          "references": ""
         },
         {
           "prefecture": "群馬県",
@@ -11114,15 +11809,13 @@ window.FACILITY_DATASET={
           "name": "柳香軒",
           "type": "温泉街の遊技場",
           "rank": "高",
-          "note": "伊香保石段街の歴史ある射的・大弓の店。\n利用条件：射的・大弓ごとに課金。営業時刻は季節変動\n残存・保存の区分：継続型\n営業・残存確認メモ：現行観光案内に営業情報。更新日不明\n確度：B\n確認元URL：https://rurubu.jp/andmore/spot/80007764\n調査日：2026-09-15",
+          "note": "伊香保石段街の歴史ある射的・大弓の店。\n利用条件：射的・大弓ごとに課金。営業時刻は季節変動",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E6%B8%8B%E5%B7%9D%E5%B8%82%20%E6%9F%B3%E9%A6%99%E8%BB%92",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E6%B8%8B%E5%B7%9D%E5%B8%82%20%E6%9F%B3%E9%A6%99%E8%BB%92"
-          }
+          "references": ""
         },
         {
           "prefecture": "群馬県",
@@ -11130,15 +11823,13 @@ window.FACILITY_DATASET={
           "name": "るなぱあく もくば館・10えんゆうぐ",
           "type": "遊園地の小型遊技機",
           "rank": "高",
-          "note": "1954年から残る電動木馬など。古い遊技機と小さな遊園地の空間。\n利用条件：入園無料。遊具ごとに課金。もくば等は小学生以下が対象\n残存・保存の区分：継続型\n営業・残存確認メモ：公式施設案内と2026年営業告知を確認\n確度：A\n確認元URL：https://lunapark.maebashi-park.com/\n調査日：2026-09-15",
+          "note": "1954年から残る電動木馬など。古い遊技機と小さな遊園地の空間。\n利用条件：入園無料。遊具ごとに課金。もくば等は小学生以下が対象",
           "official": "https://lunapark.maebashi-park.com/facilities/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82%20%E3%82%8B%E3%81%AA%E3%81%B1%E3%81%82%E3%81%8F%20%E3%82%82%E3%81%8F%E3%81%B0%E9%A4%A8%E3%83%BB10%E3%81%88%E3%82%93%E3%82%86%E3%81%86%E3%81%90",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82%20%E3%82%8B%E3%81%AA%E3%81%B1%E3%81%82%E3%81%8F%20%E3%82%82%E3%81%8F%E3%81%B0%E9%A4%A8%E3%83%BB10%E3%81%88%E3%82%93%E3%82%86%E3%81%86%E3%81%90\n公式サイト：https://lunapark.maebashi-park.com/facilities/"
-          }
+          "references": "公式サイト：https://lunapark.maebashi-park.com/facilities/\n公式資料：https://lunapark.maebashi-park.com/"
         },
         {
           "prefecture": "群馬県",
@@ -11146,15 +11837,13 @@ window.FACILITY_DATASET={
           "name": "駄菓子屋わがじゃん ゲームコーナー",
           "type": "駄菓子屋のゲームコーナー",
           "rank": "高",
-          "note": "駄菓子店にゲームや玩具が残る日常の遊び場。\n利用条件：店舗営業時のみ。ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年7月25日の来店口コミとゲーム設置を紹介する店舗案内\n確度：B\n確認元URL：https://www.gunlabo.net/shop/shop.shtml?s=266\n調査日：2026-09-15",
+          "note": "駄菓子店にゲームや玩具が残る日常の遊び場。\n利用条件：店舗営業時のみ。ゲームごとに課金",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82%20%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B%E3%82%8F%E3%81%8C%E3%81%98%E3%82%83%E3%82%93%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82%20%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B%E3%82%8F%E3%81%8C%E3%81%98%E3%82%83%E3%82%93%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "群馬県",
@@ -11162,15 +11851,13 @@ window.FACILITY_DATASET={
           "name": "オレンジハット沖之郷店",
           "type": "オートレストラン",
           "rank": "高",
-          "note": "田園のロードサイド。食品自販機と古いゲームコーナーが同居。\n利用条件：ゲームごとに課金。24時間営業の案内\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年4月の現地訪問・ゲーム利用記録\n確度：B\n確認元URL：https://retrog-99.hatenablog.com/entry/okinogo\n調査日：2026-09-15",
+          "note": "田園のロードサイド。食品自販機と古いゲームコーナーが同居。\n利用条件：ゲームごとに課金。24時間営業の案内",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%A4%AA%E7%94%B0%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E6%B2%96%E4%B9%8B%E9%83%B7%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%A4%AA%E7%94%B0%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E6%B2%96%E4%B9%8B%E9%83%B7%E5%BA%97"
-          }
+          "references": ""
         },
         {
           "prefecture": "群馬県",
@@ -11178,15 +11865,13 @@ window.FACILITY_DATASET={
           "name": "ドライブイン七輿 ゲームコーナー",
           "type": "ドライブインのゲームコーナー",
           "rank": "高",
-          "note": "食品自販機とワニワニパニック・ドライブゲーム等が同居するロードサイド空間。\n利用条件：ゲームごとに課金。ゲーム区画は深夜営業なし\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年4月3日の現地訪問でゲーム利用を確認\n確度：B\n確認元URL：https://minkara.carview.co.jp/userid/2641247/blog/49027353/\n調査日：2026-09-15",
+          "note": "食品自販機とワニワニパニック・ドライブゲーム等が同居するロードサイド空間。\n利用条件：ゲームごとに課金。ゲーム区画は深夜営業なし",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E8%97%A4%E5%B2%A1%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E4%B8%83%E8%BC%BF%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E8%97%A4%E5%B2%A1%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E4%B8%83%E8%BC%BF%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "埼玉県",
@@ -11194,15 +11879,13 @@ window.FACILITY_DATASET={
           "name": "プレイスポットビッグワンセカンド",
           "type": "街のゲームセンター",
           "rank": "中",
-          "note": "南浦和の旧作対戦ゲーム店。KOF98等の対戦会を継続。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年6月14日の対戦会開催記録\n確度：B\n確認元URL：https://asanoc.lsv.jp/bigone_5on5/index.php\n調査日：2026-09-15",
+          "note": "南浦和の旧作対戦ゲーム店。KOF98等の対戦会を継続。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%8D%97%E5%8C%BA%20%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%93%E3%83%83%E3%82%B0%E3%83%AF%E3%83%B3%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%8D%97%E5%8C%BA%20%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%93%E3%83%83%E3%82%B0%E3%83%AF%E3%83%B3%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89"
-          }
+          "references": ""
         },
         {
           "prefecture": "埼玉県",
@@ -11210,15 +11893,13 @@ window.FACILITY_DATASET={
           "name": "ビデオゲームミュージアム ロボット深谷店",
           "type": "レトロゲームセンター",
           "rank": "中",
-          "note": "郊外の大型店で旧作筐体を多数維持。保存の比重が高い営業施設として区別。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：現行運営会社ページとゲームメーカー店舗案内を照合\n確度：A\n確認元URL：https://www.carddass.com/gundam-ab/location/list.php?shop_id=2191\n調査日：2026-09-15",
+          "note": "郊外の大型店で旧作筐体を多数維持。保存の比重が高い営業施設として区別。\n利用条件：ゲームごとに課金",
           "official": "https://roboto.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%B7%B1%E8%B0%B7%E5%B8%82%20%E3%83%93%E3%83%87%E3%82%AA%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%B7%B1%E8%B0%B7%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%B7%B1%E8%B0%B7%E5%B8%82%20%E3%83%93%E3%83%87%E3%82%AA%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%B7%B1%E8%B0%B7%E5%BA%97\n公式サイト：https://roboto.co.jp/"
-          }
+          "references": "公式サイト：https://roboto.co.jp/"
         },
         {
           "prefecture": "千葉県",
@@ -11226,15 +11907,13 @@ window.FACILITY_DATASET={
           "name": "大慶園",
           "type": "ロードサイド複合遊技施設",
           "rank": "中",
-          "note": "郊外の大型遊技施設。アメリカ風の意図的な演出あり。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続・演出型\n営業・残存確認メモ：2026年の地域紹介と8月の地図口コミ\n確度：B\n確認元URL：https://www.dotline-jp.com/chibanomikata/2009/\n調査日：2026-09-15",
+          "note": "郊外の大型遊技施設。アメリカ風の意図的な演出あり。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "http://www.daikeien.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%B8%82%E5%B7%9D%E5%B8%82%20%E5%A4%A7%E6%85%B6%E5%9C%92",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%B8%82%E5%B7%9D%E5%B8%82%20%E5%A4%A7%E6%85%B6%E5%9C%92\n公式サイト：http://www.daikeien.jp/"
-          }
+          "references": "公式サイト：http://www.daikeien.jp/"
         },
         {
           "prefecture": "千葉県",
@@ -11242,15 +11921,13 @@ window.FACILITY_DATASET={
           "name": "アミューズメントエース津田沼",
           "type": "古い商業ビルのゲームセンター",
           "rank": "中",
-          "note": "駅前ビル1～3階。ビデオ・メダル・音楽ゲームが集まる昔ながらの複合店。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行運営会社ページに営業9～24時・ゲーム種別を掲載\n確度：A\n確認元URL：https://www.leisurelan.co.jp/store/ace-tu/\n調査日：2026-09-15",
+          "note": "駅前ビル1～3階。ビデオ・メダル・音楽ゲームが集まる昔ながらの複合店。\n利用条件：ゲームごとに課金",
           "official": "https://www.leisurelan.co.jp/store/ace-tu/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E8%88%B9%E6%A9%8B%E5%B8%82%20%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%82%A8%E3%83%BC%E3%82%B9%E6%B4%A5%E7%94%B0%E6%B2%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E8%88%B9%E6%A9%8B%E5%B8%82%20%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%82%A8%E3%83%BC%E3%82%B9%E6%B4%A5%E7%94%B0%E6%B2%BC\n公式サイト：https://www.leisurelan.co.jp/store/ace-tu/"
-          }
+          "references": "公式サイト：https://www.leisurelan.co.jp/store/ace-tu/"
         },
         {
           "prefecture": "東京都",
@@ -11258,15 +11935,13 @@ window.FACILITY_DATASET={
           "name": "柴又ハイカラ横丁 ゲームコーナー",
           "type": "再現型レトロ遊技施設",
           "rank": "低",
-          "note": "駄菓子店内の10円ゲーム等。昭和を再現した施設として区別。\n利用条件：ゲームごとに課金。故障・休止機あり\n残存・保存の区分：再現型\n営業・残存確認メモ：2026年9月10日の公式営業案内を確認\n確度：A\n確認元URL：https://haikarayokotyo.com/\n調査日：2026-09-15",
+          "note": "駄菓子店内の10円ゲーム等。昭和を再現した施設として区別。\n利用条件：ゲームごとに課金。故障・休止機あり",
           "official": "https://haikarayokotyo.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%91%9B%E9%A3%BE%E5%8C%BA%20%E6%9F%B4%E5%8F%88%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%A9%E6%A8%AA%E4%B8%81%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%91%9B%E9%A3%BE%E5%8C%BA%20%E6%9F%B4%E5%8F%88%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%A9%E6%A8%AA%E4%B8%81%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://haikarayokotyo.com/"
-          }
+          "references": "公式サイト：https://haikarayokotyo.com/"
         },
         {
           "prefecture": "東京都",
@@ -11274,15 +11949,13 @@ window.FACILITY_DATASET={
           "name": "ゲームインリド Part1",
           "type": "雑居ビル内",
           "rank": "高",
-          "note": "ニュー新橋ビル2階。麻雀やパズルゲーム中心の小規模店。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：商店会掲載と2025年訪問記あり。商店会時刻情報は古い\n確度：B\n確認元URL：https://www.shinbashi.net/shop/10160\n調査日：2026-09-15",
+          "note": "ニュー新橋ビル2階。麻雀やパズルゲーム中心の小規模店。\n利用条件：ゲームごとに課金",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%89%20Part1",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%89%20Part1"
-          }
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -11290,15 +11963,13 @@ window.FACILITY_DATASET={
           "name": "西日暮里ゲームスポットバーサス",
           "type": "雑居ビル内",
           "rank": "中",
-          "note": "駅近くのビル3階にある対戦ゲームの店。旧作対戦文化を記録する対象。\n利用条件：ゲームごとに課金。公式案内10～25時\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に現行タイトル予約・営業案内\n確度：A\n確認元URL：https://game-versus.net/\n調査日：2026-09-15",
+          "note": "駅近くのビル3階にある対戦ゲームの店。旧作対戦文化を記録する対象。\n利用条件：ゲームごとに課金。公式案内10～25時",
           "official": "https://game-versus.net/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA%20%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%90%E3%83%BC%E3%82%B5%E3%82%B9",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA%20%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%90%E3%83%BC%E3%82%B5%E3%82%B9\n公式サイト：https://game-versus.net/"
-          }
+          "references": "公式サイト：https://game-versus.net/"
         },
         {
           "prefecture": "東京都",
@@ -11306,15 +11977,13 @@ window.FACILITY_DATASET={
           "name": "ASO:VIBA! 恵比寿店",
           "type": "街のゲームセンター",
           "rank": "高",
-          "note": "恵比寿のビル内。2026年訪問記事で3階の旧作ゲームを確認。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年4月24日公開の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/85213/\n調査日：2026-09-15",
+          "note": "恵比寿のビル内。2026年訪問記事で3階の旧作ゲームを確認。\n利用条件：ゲームごとに課金",
           "official": "https://www.asoviba.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA%20ASO%3AVIBA!%20%E6%81%B5%E6%AF%94%E5%AF%BF%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA%20ASO%3AVIBA!%20%E6%81%B5%E6%AF%94%E5%AF%BF%E5%BA%97\n公式サイト：https://www.asoviba.com/"
-          }
+          "references": "公式サイト：https://www.asoviba.com/"
         },
         {
           "prefecture": "東京都",
@@ -11322,15 +11991,13 @@ window.FACILITY_DATASET={
           "name": "高田馬場ゲーセンミカド",
           "type": "街のゲームセンター",
           "rank": "中",
-          "note": "旧作ビデオ・体感ゲームを継続運用。収集保存の活動も強い。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：2026年8月30日の営業告知\n確度：A\n確認元URL：https://mi-ka-do.net/\n調査日：2026-09-15",
+          "note": "旧作ビデオ・体感ゲームを継続運用。収集保存の活動も強い。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "https://mi-ka-do.net/baba/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA%20%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B4%E3%82%B2%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%9F%E3%82%AB%E3%83%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA%20%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B4%E3%82%B2%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%9F%E3%82%AB%E3%83%89\n公式サイト：https://mi-ka-do.net/baba/"
-          }
+          "references": "公式サイト：https://mi-ka-do.net/baba/\n公式資料：https://mi-ka-do.net/"
         },
         {
           "prefecture": "東京都",
@@ -11338,15 +12005,13 @@ window.FACILITY_DATASET={
           "name": "DORAMA 瑞穂店",
           "type": "ロードサイドゲームセンター",
           "rank": "中",
-          "note": "郊外型の店内に1980年代のゲームを集めた一角。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続・収集型\n営業・残存確認メモ：2025年3月公開の現地訪問記事。現行Yahoo!マップにも掲載\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/68936/\n補足確認元URL：https://map.yahoo.co.jp/v3/place/o8dvcJYWJqs\n調査日：2026-09-15",
+          "note": "郊外型の店内に1980年代のゲームを集めた一角。\n利用条件：ゲームごとに課金",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%A5%BF%E5%A4%9A%E6%91%A9%E9%83%A1%E7%91%9E%E7%A9%82%E7%94%BA%20DORAMA%20%E7%91%9E%E7%A9%82%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%A5%BF%E5%A4%9A%E6%91%A9%E9%83%A1%E7%91%9E%E7%A9%82%E7%94%BA%20DORAMA%20%E7%91%9E%E7%A9%82%E5%BA%97"
-          }
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -11354,15 +12019,13 @@ window.FACILITY_DATASET={
           "name": "Hey",
           "type": "商業ビルのゲームセンター",
           "rank": "中",
-          "note": "秋葉原の旧作シューティング・格闘ゲーム集積店。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：現行運営会社ページ。旧作は2025年訪問記\n確度：A\n確認元URL：https://www.taito.co.jp/store/00001703\n調査日：2026-09-15",
+          "note": "秋葉原の旧作シューティング・格闘ゲーム集積店。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "https://www.taito.co.jp/store/00001703",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%20Hey",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%20Hey\n公式サイト：https://www.taito.co.jp/store/00001703"
-          }
+          "references": "公式サイト：https://www.taito.co.jp/store/00001703"
         },
         {
           "prefecture": "東京都",
@@ -11370,15 +12033,13 @@ window.FACILITY_DATASET={
           "name": "ゲームインファッツ",
           "type": "街のゲームセンター",
           "rank": "中",
-          "note": "久米川駅近くの昔ながらのビデオゲーム店。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年1～3月の訪問集計。現行地図にも掲載\n確度：B\n確認元URL：https://note.com/akb428/n/nb8d63b1efcf0\n調査日：2026-09-15",
+          "note": "久米川駅近くの昔ながらのビデオゲーム店。\n利用条件：ゲームごとに課金",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A1%E3%83%83%E3%83%84",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A1%E3%83%83%E3%83%84"
-          }
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -11386,15 +12047,13 @@ window.FACILITY_DATASET={
           "name": "駄菓子屋ゲーム博物館",
           "type": "保存型10円ゲーム施設",
           "rank": "低",
-          "note": "住宅街の小さな施設に10円ゲームを集積。駄菓子屋の遊技文化を保存する施設。\n利用条件：入場料・ゲーム料金。営業日の情報に差があり事前確認\n残存・保存の区分：保存・収集型\n営業・残存確認メモ：2025年11月の利用口コミと現行地図案内。公式URLはAppleマップ掲載を確認、本文は取得できず。Googleマップでの登録は未確認\n確度：B\n確認元URL：https://map.yahoo.co.jp/v3/place/1UFLCi0BVzk\n補足確認元URL：https://maps.apple.com/place?place-id=I4C97049FFF9DCEB0\n調査日：2026-09-15",
+          "note": "住宅街の小さな施設に10円ゲームを集積。駄菓子屋の遊技文化を保存する施設。\n利用条件：入場料・ゲーム料金。営業日の情報に差があり事前確認",
           "official": "https://dgmjp.stars.ne.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA%20%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%9A%E7%89%A9%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA%20%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%9A%E7%89%A9%E9%A4%A8\n公式サイト：https://dgmjp.stars.ne.jp/"
-          }
+          "references": "公式サイト：https://dgmjp.stars.ne.jp/"
         },
         {
           "prefecture": "東京都",
@@ -11402,15 +12061,13 @@ window.FACILITY_DATASET={
           "name": "池袋ゲーセンミカド",
           "type": "レトロゲームセンター",
           "rank": "中",
-          "note": "池袋の旧作ゲーム集積店。既存ゲームセンターの場所を引き継いだ保存重視の営業。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：現行公式サイトが店舗案内・営業イベントを掲載\n確度：A\n確認元URL：https://mi-ka-do.net/\n調査日：2026-09-15",
+          "note": "池袋の旧作ゲーム集積店。既存ゲームセンターの場所を引き継いだ保存重視の営業。\n利用条件：ゲームごとに課金",
           "official": "https://mi-ka-do.net/bukuro/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA%20%E6%B1%A0%E8%A2%8B%E3%82%B2%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%9F%E3%82%AB%E3%83%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA%20%E6%B1%A0%E8%A2%8B%E3%82%B2%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%9F%E3%82%AB%E3%83%89\n公式サイト：https://mi-ka-do.net/bukuro/"
-          }
+          "references": "公式サイト：https://mi-ka-do.net/bukuro/\n公式資料：https://mi-ka-do.net/"
         },
         {
           "prefecture": "東京都",
@@ -11418,15 +12075,13 @@ window.FACILITY_DATASET={
           "name": "おもちゃのふくしま ゲームコーナー",
           "type": "商店街のゲームコーナー",
           "rank": "高",
-          "note": "桐ヶ丘中央商店街のおもちゃ店に残る古いビデオゲーム。商店街ごと記録候補。\n利用条件：店舗営業時のみ。ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年12月26日公開の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/80226/\n調査日：2026-09-15",
+          "note": "桐ヶ丘中央商店街のおもちゃ店に残る古いビデオゲーム。商店街ごと記録候補。\n利用条件：店舗営業時のみ。ゲームごとに課金",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA%20%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%AE%E3%81%B5%E3%81%8F%E3%81%97%E3%81%BE%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA%20%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%AE%E3%81%B5%E3%81%8F%E3%81%97%E3%81%BE%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -11434,15 +12089,13 @@ window.FACILITY_DATASET={
           "name": "Game in えびせん",
           "type": "街のゲームセンター",
           "rank": "中",
-          "note": "江古田のシューティング中心の小規模ゲーセン。旧作を長く維持。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年2月更新の地域店舗案内\n確度：B\n確認元URL：https://ekoda-event.jp/detail.php?shop_id=27\n調査日：2026-09-15",
+          "note": "江古田のシューティング中心の小規模ゲーセン。旧作を長く維持。\n利用条件：ゲームごとに課金",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20Game%20in%20%E3%81%88%E3%81%B3%E3%81%9B%E3%82%93",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20Game%20in%20%E3%81%88%E3%81%B3%E3%81%9B%E3%82%93"
-          }
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -11450,15 +12103,13 @@ window.FACILITY_DATASET={
           "name": "あかしや（真野商店）ゲームコーナー",
           "type": "商店のゲームコーナー",
           "rank": "高",
-          "note": "下石神井3丁目の小さな商店に残る10円ゲーム。生活圏の中の軒先空間。\n利用条件：店舗営業時のみ。ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年5月8日公開の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/85997/\n補足確認元URL：https://map.yahoo.co.jp/v3/place/WS4Hh5DJQvs?from_srv=loco_web\n調査日：2026-09-15",
+          "note": "下石神井3丁目の小さな商店に残る10円ゲーム。生活圏の中の軒先空間。\n利用条件：店舗営業時のみ。ゲームごとに課金",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E3%81%82%E3%81%8B%E3%81%97%E3%82%84%EF%BC%88%E7%9C%9F%E9%87%8E%E5%95%86%E5%BA%97%EF%BC%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E3%81%82%E3%81%8B%E3%81%97%E3%82%84%EF%BC%88%E7%9C%9F%E9%87%8E%E5%95%86%E5%BA%97%EF%BC%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -11466,15 +12117,13 @@ window.FACILITY_DATASET={
           "name": "ゲームパーク石神井",
           "type": "商店街のゲームセンター",
           "rank": "高",
-          "note": "絨毯や内装に90年代の面影が残る現役店。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年11月の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/78415/\n調査日：2026-09-15",
+          "note": "絨毯や内装に90年代の面影が残る現役店。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%BC%E3%82%AF%E7%9F%B3%E7%A5%9E%E4%BA%95",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%BC%E3%82%AF%E7%9F%B3%E7%A5%9E%E4%BA%95"
-          }
+          "references": ""
         },
         {
           "prefecture": "東京都",
@@ -11482,15 +12131,13 @@ window.FACILITY_DATASET={
           "name": "久胡商店 ゲームコーナー",
           "type": "商店の軒先ゲームコーナー",
           "rank": "高",
-          "note": "商店の軒先に残る小型ゲーム機。生活圏の中で自然に残った空間。\n利用条件：店舗営業時のみ。ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年5月8日公開の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/85997/\n調査日：2026-09-15",
+          "note": "商店の軒先に残る小型ゲーム機。生活圏の中で自然に残った空間。\n利用条件：店舗営業時のみ。ゲームごとに課金",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E4%B9%85%E8%83%A1%E5%95%86%E5%BA%97%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E4%B9%85%E8%83%A1%E5%95%86%E5%BA%97%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "神奈川県",
@@ -11498,15 +12145,13 @@ window.FACILITY_DATASET={
           "name": "東京バッティングセンターPART.3",
           "type": "バッティングセンター併設",
           "rank": "高",
-          "note": "旧作の電車でGO!や汎用筐体が残る複合スポーツ施設。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2024年秋訪問を2025年1月掲載。NO.3とは別店舗\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/66110/\n調査日：2026-09-15",
+          "note": "旧作の電車でGO!や汎用筐体が残る複合スポーツ施設。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCPART.3",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCPART.3"
-          }
+          "references": ""
         },
         {
           "prefecture": "神奈川県",
@@ -11514,15 +12159,13 @@ window.FACILITY_DATASET={
           "name": "東京バッティングセンターNO.3",
           "type": "バッティングセンター併設",
           "rank": "高",
-          "note": "ロビーに旧作の太鼓・料理系ゲームを設置。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2024年秋訪問を2025年1月掲載\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/66110/\n調査日：2026-09-15",
+          "note": "ロビーに旧作の太鼓・料理系ゲームを設置。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCNO.3",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCNO.3"
-          }
+          "references": ""
         },
         {
           "prefecture": "神奈川県",
@@ -11530,15 +12173,13 @@ window.FACILITY_DATASET={
           "name": "勝瀬観光 ゲームランド",
           "type": "湖畔観光地",
           "rank": "高",
-          "note": "遊覧船乗り場に体感ゲームや古い遊具が残る。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年5月の現地訪問記事。会社案内もゲーム事業を掲載\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/86603/\n補足確認元URL：https://www.kassekanko.jp/company.html\n調査日：2026-09-15",
+          "note": "遊覧船乗り場に体感ゲームや古い遊具が残る。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "https://www.kassekanko.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%B7%91%E5%8C%BA%20%E5%8B%9D%E7%80%AC%E8%A6%B3%E5%85%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%B7%91%E5%8C%BA%20%E5%8B%9D%E7%80%AC%E8%A6%B3%E5%85%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%89\n公式サイト：https://www.kassekanko.jp/"
-          }
+          "references": "公式サイト：https://www.kassekanko.jp/\n公式資料：https://www.kassekanko.jp/company.html"
         },
         {
           "prefecture": "神奈川県",
@@ -11546,15 +12187,13 @@ window.FACILITY_DATASET={
           "name": "振興ボート ゲームコーナー",
           "type": "湖畔観光地",
           "rank": "高",
-          "note": "貸しボート乗り場の古い屋内遊技空間。故障機もある。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年5月の現地訪問記事\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/86603/\n補足確認元URL：https://www.japan47go.travel/ja/detail/abf48a5a-67e0-424b-95de-9ab7720d6480\n調査日：2026-09-15",
+          "note": "貸しボート乗り場の古い屋内遊技空間。故障機もある。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%B7%91%E5%8C%BA%20%E6%8C%AF%E8%88%88%E3%83%9C%E3%83%BC%E3%83%88%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%B7%91%E5%8C%BA%20%E6%8C%AF%E8%88%88%E3%83%9C%E3%83%BC%E3%83%88%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "神奈川県",
@@ -11562,15 +12201,13 @@ window.FACILITY_DATASET={
           "name": "娯楽センター七福",
           "type": "温泉街の遊技場",
           "rank": "高",
-          "note": "大平台に残る射的・スマートボール等の小さな遊技場。\n利用条件：各遊技で課金。水曜休の案内\n残存・保存の区分：継続型\n営業・残存確認メモ：現行観光案内に住所・営業情報。個別更新日不明\n確度：B\n確認元URL：https://www.at-yokohama.net/spots/1236\n調査日：2026-09-15",
+          "note": "大平台に残る射的・スマートボール等の小さな遊技場。\n利用条件：各遊技で課金。水曜休の案内",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E8%B6%B3%E6%9F%84%E4%B8%8B%E9%83%A1%E7%AE%B1%E6%A0%B9%E7%94%BA%20%E5%A8%AF%E6%A5%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E4%B8%83%E7%A6%8F",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E8%B6%B3%E6%9F%84%E4%B8%8B%E9%83%A1%E7%AE%B1%E6%A0%B9%E7%94%BA%20%E5%A8%AF%E6%A5%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E4%B8%83%E7%A6%8F"
-          }
+          "references": ""
         },
         {
           "prefecture": "神奈川県",
@@ -11578,15 +12215,13 @@ window.FACILITY_DATASET={
           "name": "朝日軒",
           "type": "海辺観光地の遊技場",
           "rank": "高",
-          "note": "すばな通りの昔ながらのスマートボール・射的。\n利用条件：不定期営業。通常店内撮影禁止との取材情報あり\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年5月現地営業確認。撮影制限は鉄道会社取材記事\n確度：B\n確認元URL：https://johnnyankoba.blog.fc2.com/blog-entry-1500.html\n補足確認元URL：https://www.shonan-monorail.co.jp/sora_de_bra-n/2017/11/post-17.html\n調査日：2026-09-15",
+          "note": "すばな通りの昔ながらのスマートボール・射的。\n利用条件：不定期営業。通常店内撮影禁止との取材情報あり",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E8%97%A4%E6%B2%A2%E5%B8%82%20%E6%9C%9D%E6%97%A5%E8%BB%92",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E8%97%A4%E6%B2%A2%E5%B8%82%20%E6%9C%9D%E6%97%A5%E8%BB%92"
-          }
+          "references": ""
         },
         {
           "prefecture": "新潟県",
@@ -11594,15 +12229,13 @@ window.FACILITY_DATASET={
           "name": "公楽園 ゲームコーナー",
           "type": "オートレストラン・宿泊施設",
           "rank": "高",
-          "note": "田園の二階建て休憩施設。自販機と旧作筐体が残る。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年12月31日の現地訪問を2026年1月掲載\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/81472/\n調査日：2026-09-15",
+          "note": "田園の二階建て休憩施設。自販機と旧作筐体が残る。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82%20%E5%85%AC%E6%A5%BD%E5%9C%92%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82%20%E5%85%AC%E6%A5%BD%E5%9C%92%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "新潟県",
@@ -11610,15 +12243,13 @@ window.FACILITY_DATASET={
           "name": "イリスボウル ゲームコーナー",
           "type": "ボウリング場併設",
           "rank": "高",
-          "note": "既存ボウリング場にテーブル筐体を集積。保存活動の要素も強い。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続・収集型\n営業・残存確認メモ：2024年末訪問を2025年1月に掲載\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/67225/\n調査日：2026-09-15",
+          "note": "既存ボウリング場にテーブル筐体を集積。保存活動の要素も強い。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E4%B8%89%E6%9D%A1%E5%B8%82%20%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%9C%E3%82%A6%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E4%B8%89%E6%9D%A1%E5%B8%82%20%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%9C%E3%82%A6%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "新潟県",
@@ -11626,15 +12257,13 @@ window.FACILITY_DATASET={
           "name": "プレイハウスエリナ",
           "type": "ロードサイドのゲームセンター",
           "rank": "高",
-          "note": "創業45年目を運営者が案内。古い郊外ゲーセンに現行音楽ゲームが同居。\n利用条件：ゲームごとに課金。原則月曜休・公式X確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式ページと2025年12月31日訪問・2026年1月30日掲載の稼働記録\n確度：A\n確認元URL：https://www.beep-shop.com/column_entry/81472/\n補足確認元URL：https://www.playhouse-erina.com/\n調査日：2026-09-15",
+          "note": "創業45年目を運営者が案内。古い郊外ゲーセンに現行音楽ゲームが同居。\n利用条件：ゲームごとに課金。原則月曜休・公式X確認",
           "official": "https://www.playhouse-erina.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E8%A5%BF%E8%92%B2%E5%8C%BA%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%A8%E3%83%AA%E3%83%8A",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E8%A5%BF%E8%92%B2%E5%8C%BA%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%A8%E3%83%AA%E3%83%8A\n公式サイト：https://www.playhouse-erina.com/"
-          }
+          "references": "公式サイト：https://www.playhouse-erina.com/"
         },
         {
           "prefecture": "新潟県",
@@ -11642,15 +12271,13 @@ window.FACILITY_DATASET={
           "name": "ポピーとよさか",
           "type": "オートレストランのゲームコーナー",
           "rank": "高",
-          "note": "自販機飲食とテーブル筐体が同居。古い空間を使い続けながらゲームを入れ替えている。\n利用条件：ゲームごとに課金。飲食注文と遊技の時間は別\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年2月26日の現地訪問記事でゲーム・自販機を確認\n確度：B\n確認元URL：https://shidho.hatenablog.jp/entry/2026/02/26/173000\n調査日：2026-09-15",
+          "note": "自販機飲食とテーブル筐体が同居。古い空間を使い続けながらゲームを入れ替えている。\n利用条件：ゲームごとに課金。飲食注文と遊技の時間は別",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%83%9D%E3%83%94%E3%83%BC%E3%81%A8%E3%82%88%E3%81%95%E3%81%8B",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%83%9D%E3%83%94%E3%83%BC%E3%81%A8%E3%82%88%E3%81%95%E3%81%8B"
-          }
+          "references": ""
         },
         {
           "prefecture": "新潟県",
@@ -11658,15 +12285,13 @@ window.FACILITY_DATASET={
           "name": "ゲームセンターテクノポリス",
           "type": "旧映画館のゲームセンター",
           "rank": "高",
-          "note": "映画館を転用した建物に旧作・体感機を維持。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年2月市公式取材。公式に9月イベント告知\n確度：A\n確認元URL：https://na-nagaoka.jp/archives/21563\n調査日：2026-09-15",
+          "note": "映画館を転用した建物に旧作・体感機を維持。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "https://am-factory.jp/tecnopolis/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E9%95%B7%E5%B2%A1%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%E3%83%9D%E3%83%AA%E3%82%B9",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E9%95%B7%E5%B2%A1%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%E3%83%9D%E3%83%AA%E3%82%B9\n公式サイト：https://am-factory.jp/tecnopolis/"
-          }
+          "references": "公式サイト：https://am-factory.jp/tecnopolis/"
         },
         {
           "prefecture": "富山県",
@@ -11674,15 +12299,13 @@ window.FACILITY_DATASET={
           "name": "ゲームスポットアップル",
           "type": "街のゲームセンター",
           "rank": "中",
-          "note": "旧筐体と新機種が同居する音楽ゲーム中心店。レトロな空間の程度は要確認。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年12月12日設置確認と現行メーカー案内\n確度：B\n確認元URL：https://www.ddr-navi.jp/shop/?id=13042323501300\n調査日：2026-09-15",
+          "note": "旧筐体と新機種が同居する音楽ゲーム中心店。レトロな空間の程度は要確認。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E9%AD%9A%E6%B4%A5%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E9%AD%9A%E6%B4%A5%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB"
-          }
+          "references": ""
         },
         {
           "prefecture": "富山県",
@@ -11690,15 +12313,13 @@ window.FACILITY_DATASET={
           "name": "オートレストランぞうさん",
           "type": "オートレストラン",
           "rank": "高",
-          "note": "食品自販機とビデオゲーム。テーブル筐体も稼働。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年7月の現地訪問記事。看板更新の追記あり\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/89318/\n調査日：2026-09-15",
+          "note": "食品自販機とビデオゲーム。テーブル筐体も稼働。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E9%AB%98%E5%B2%A1%E5%B8%82%20%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%81%9E%E3%81%86%E3%81%95%E3%82%93",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E9%AB%98%E5%B2%A1%E5%B8%82%20%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%81%9E%E3%81%86%E3%81%95%E3%82%93"
-          }
+          "references": ""
         },
         {
           "prefecture": "石川県",
@@ -11706,15 +12327,13 @@ window.FACILITY_DATASET={
           "name": "バイパスレジャーランド藤江本館・新館",
           "type": "ロードサイドのゲームセンター",
           "rank": "高",
-          "note": "本館は食堂併設ゲーセン由来。旧作筐体が並ぶ2階を優先。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年7月の現地訪問・稼働記録\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/88638/\n補足確認元URL：https://www.yamazakiya.co.jp/shop/hokuriku/\n調査日：2026-09-15",
+          "note": "本館は食堂併設ゲーセン由来。旧作筐体が並ぶ2階を優先。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "https://www.yamazakiya.co.jp/shop/hokuriku/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E9%87%91%E6%B2%A2%E5%B8%82%20%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%97%A4%E6%B1%9F%E6%9C%AC%E9%A4%A8%E3%83%BB%E6%96%B0%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E9%87%91%E6%B2%A2%E5%B8%82%20%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%97%A4%E6%B1%9F%E6%9C%AC%E9%A4%A8%E3%83%BB%E6%96%B0%E9%A4%A8\n公式サイト：https://www.yamazakiya.co.jp/shop/hokuriku/"
-          }
+          "references": "公式サイト：https://www.yamazakiya.co.jp/shop/hokuriku/"
         },
         {
           "prefecture": "石川県",
@@ -11722,15 +12341,13 @@ window.FACILITY_DATASET={
           "name": "ゲームセンターベティ",
           "type": "ロードサイドゲームセンター",
           "rank": "中",
-          "note": "能登の小さな独立店。古い音楽ゲームを維持し、旧筐体と新筐体が共存。\n利用条件：ゲームごとに課金。営業時間の変更は公式SNSで確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年9月5日beatmaniaIII稼働確認。公式LINEは営業時間が古い可能性あり\n確度：B\n確認元URL：https://kani.no.coocan.jp/bm/str.htm\n補足確認元URL：https://2dera.net/iidx_map/index.php?s=2170\n調査日：2026-09-15",
+          "note": "能登の小さな独立店。古い音楽ゲームを維持し、旧筐体と新筐体が共存。\n利用条件：ゲームごとに課金。営業時間の変更は公式SNSで確認",
           "official": "https://page.line.me/ptk3641j",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E4%B8%83%E5%B0%BE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%99%E3%83%86%E3%82%A3",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E4%B8%83%E5%B0%BE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%99%E3%83%86%E3%82%A3\n公式サイト：https://page.line.me/ptk3641j"
-          }
+          "references": "公式サイト：https://page.line.me/ptk3641j"
         },
         {
           "prefecture": "福井県",
@@ -11738,15 +12355,13 @@ window.FACILITY_DATASET={
           "name": "フクイレジャーランド ワイプラザ店",
           "type": "商業施設のゲームセンター",
           "rank": "中",
-          "note": "2001年開設の複合レジャー施設。2026年の現地記事でゲームフロアを確認。\n利用条件：ゲームごとに課金。区画ごとの営業時間を確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年7月3日の現地記事と運営会社の現行店舗案内\n確度：A\n確認元URL：https://www.beep-shop.com/column_entry/88200/\n補足確認元URL：https://www.yamazakiya.co.jp/company/\n調査日：2026-09-15",
+          "note": "2001年開設の複合レジャー施設。2026年の現地記事でゲームフロアを確認。\n利用条件：ゲームごとに課金。区画ごとの営業時間を確認",
           "official": "https://www.yamazakiya.co.jp/shop/hokuriku/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E7%A6%8F%E4%BA%95%E5%B8%82%20%E3%83%95%E3%82%AF%E3%82%A4%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%E3%83%AF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%B6%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E7%A6%8F%E4%BA%95%E5%B8%82%20%E3%83%95%E3%82%AF%E3%82%A4%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%E3%83%AF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%B6%E5%BA%97\n公式サイト：https://www.yamazakiya.co.jp/shop/hokuriku/"
-          }
+          "references": "公式サイト：https://www.yamazakiya.co.jp/shop/hokuriku/\n公式資料：https://www.yamazakiya.co.jp/company/"
         },
         {
           "prefecture": "長野県",
@@ -11754,15 +12369,13 @@ window.FACILITY_DATASET={
           "name": "渋温泉クラブ",
           "type": "温泉街の遊技場",
           "rank": "高",
-          "note": "渋温泉の石畳沿いにある射的遊技場。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行温泉公式案内に住所・営業時間掲載\n確度：B\n確認元URL：https://shibuonsen.net/shop/shibuonsenclub/\n調査日：2026-09-15",
+          "note": "渋温泉の石畳沿いにある射的遊技場。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E5%B1%B1%E3%83%8E%E5%86%85%E7%94%BA%20%E6%B8%8B%E6%B8%A9%E6%B3%89%E3%82%AF%E3%83%A9%E3%83%96",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E5%B1%B1%E3%83%8E%E5%86%85%E7%94%BA%20%E6%B8%8B%E6%B8%A9%E6%B3%89%E3%82%AF%E3%83%A9%E3%83%96"
-          }
+          "references": ""
         },
         {
           "prefecture": "長野県",
@@ -11770,15 +12383,13 @@ window.FACILITY_DATASET={
           "name": "面白屋",
           "type": "温泉街の遊技場",
           "rank": "高",
-          "note": "100年以上の歴史を紹介する昔ながらの射的店。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行温泉公式案内に住所・営業時間掲載\n確度：B\n確認元URL：https://shibuonsen.net/shop/omoshiroya/\n調査日：2026-09-15",
+          "note": "100年以上の歴史を紹介する昔ながらの射的店。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E5%B1%B1%E3%83%8E%E5%86%85%E7%94%BA%20%E9%9D%A2%E7%99%BD%E5%B1%8B",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8B%E9%AB%98%E4%BA%95%E9%83%A1%E5%B1%B1%E3%83%8E%E5%86%85%E7%94%BA%20%E9%9D%A2%E7%99%BD%E5%B1%8B"
-          }
+          "references": ""
         },
         {
           "prefecture": "長野県",
@@ -11786,15 +12397,13 @@ window.FACILITY_DATASET={
           "name": "ニャライズ",
           "type": "街のゲームセンター",
           "rank": "中",
-          "note": "小規模店で旧作基板の入れ替えに対応。\n利用条件：ゲーム別料金・機種入替有料。公式カレンダー確認。店内撮影不可の案内あり\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：2025年11月7日更新の公式ルール\n確度：A\n確認元URL：https://sites.google.com/view/nyarise/ホーム\n調査日：2026-09-15",
+          "note": "小規模店で旧作基板の入れ替えに対応。\n利用条件：ゲーム別料金・機種入替有料。公式カレンダー確認。店内撮影不可の案内あり",
           "official": "https://sites.google.com/view/nyarise/ホーム",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8A%E7%94%B0%E5%B8%82%20%E3%83%8B%E3%83%A3%E3%83%A9%E3%82%A4%E3%82%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%B8%8A%E7%94%B0%E5%B8%82%20%E3%83%8B%E3%83%A3%E3%83%A9%E3%82%A4%E3%82%BA\n公式サイト：https://sites.google.com/view/nyarise/ホーム"
-          }
+          "references": "公式サイト：https://sites.google.com/view/nyarise/ホーム"
         },
         {
           "prefecture": "岐阜県",
@@ -11802,15 +12411,13 @@ window.FACILITY_DATASET={
           "name": "射的屋 藤吉郎",
           "type": "温泉街の遊技場",
           "rank": "高",
-          "note": "下呂温泉街の昔ながらの射的場。小さな店構えを含めて候補。\n利用条件：有料。日曜中心・不定営業のため事前確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年9月8日の地域宿泊事業者による案内と現行地図掲載\n確度：B\n確認元URL：https://iwatoya-takayama.com/gero-onsen-shateki/\n調査日：2026-09-15",
+          "note": "下呂温泉街の昔ながらの射的場。小さな店構えを含めて候補。\n利用条件：有料。日曜中心・不定営業のため事前確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E4%B8%8B%E5%91%82%E5%B8%82%20%E5%B0%84%E7%9A%84%E5%B1%8B%20%E8%97%A4%E5%90%89%E9%83%8E",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E4%B8%8B%E5%91%82%E5%B8%82%20%E5%B0%84%E7%9A%84%E5%B1%8B%20%E8%97%A4%E5%90%89%E9%83%8E"
-          }
+          "references": ""
         },
         {
           "prefecture": "岐阜県",
@@ -11818,15 +12425,13 @@ window.FACILITY_DATASET={
           "name": "飛騨高山レトロミュージアム",
           "type": "保存・再現型遊技施設",
           "rank": "低",
-          "note": "古いアーケードゲームや10円ゲームを実際に遊べる再現施設。自然残存とは別枠。\n利用条件：入館料。体験により追加料金あり\n残存・保存の区分：保存・再現型\n営業・残存確認メモ：現行公式サイトに遊べるゲームと利用案内を掲載\n確度：A\n確認元URL：https://www.retromuseum.jp/\n調査日：2026-09-15",
+          "note": "古いアーケードゲームや10円ゲームを実際に遊べる再現施設。自然残存とは別枠。\n利用条件：入館料。体験により追加料金あり",
           "official": "https://www.retromuseum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E9%AB%98%E5%B1%B1%E5%B8%82%20%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1%E3%83%AC%E3%83%88%E3%83%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E9%AB%98%E5%B1%B1%E5%B8%82%20%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1%E3%83%AC%E3%83%88%E3%83%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0\n公式サイト：https://www.retromuseum.jp/"
-          }
+          "references": "公式サイト：https://www.retromuseum.jp/"
         },
         {
           "prefecture": "岐阜県",
@@ -11834,15 +12439,13 @@ window.FACILITY_DATASET={
           "name": "岐阜レトロミュージアム",
           "type": "保存・再現型遊技施設",
           "rank": "低",
-          "note": "旧作ゲーム・パチンコ・自販機を集めた体験施設。自然残存ではなく保存施設として区別。\n利用条件：時間制の入館料。火～木休業（祝日除く）。最新料金は要確認\n残存・保存の区分：保存・再現型\n営業・残存確認メモ：現行市公式観光案内に遊技・利用条件あり。施設は最新情報をGoogleマップで案内\n確度：B\n確認元URL：https://www.city.yamagata.gifu.jp/site/yamanavi/8058.html\n調査日：2026-09-15",
-          "official": "",
+          "note": "旧作ゲーム・パチンコ・自販機を集めた体験施設。自然残存ではなく保存施設として区別。\n利用条件：時間制の入館料。火～木休業（祝日除く）。最新料金は要確認",
+          "official": "https://www.city.yamagata.gifu.jp/site/yamanavi/8058.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%B1%B1%E7%9C%8C%E5%B8%82%20%E5%B2%90%E9%98%9C%E3%83%AC%E3%83%88%E3%83%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%B1%B1%E7%9C%8C%E5%B8%82%20%E5%B2%90%E9%98%9C%E3%83%AC%E3%83%88%E3%83%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0"
-          }
+          "references": "公式サイト：https://www.city.yamagata.gifu.jp/site/yamanavi/8058.html"
         },
         {
           "prefecture": "岐阜県",
@@ -11850,15 +12453,13 @@ window.FACILITY_DATASET={
           "name": "養老ランド ゲームコーナー",
           "type": "遊園地のゲームコーナー",
           "rank": "中",
-          "note": "昭和の雰囲気を保つ遊園地の屋内ゲーム空間。古い個別筐体の現存は要現地確認。\n利用条件：入園料と遊技料金。休園日あり\n残存・保存の区分：継続型\n営業・残存確認メモ：公式営業案内と2026年8月のゲーム利用口コミ\n確度：A\n確認元URL：https://map.yahoo.co.jp/v3/place/42IympmsKrQ/review\n調査日：2026-09-15",
+          "note": "昭和の雰囲気を保つ遊園地の屋内ゲーム空間。古い個別筐体の現存は要現地確認。\n利用条件：入園料と遊技料金。休園日あり",
           "official": "https://www.yourou-land.com/道案内/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%20%E9%A4%8A%E8%80%81%E3%83%A9%E3%83%B3%E3%83%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%20%E9%A4%8A%E8%80%81%E3%83%A9%E3%83%B3%E3%83%89%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://www.yourou-land.com/道案内/"
-          }
+          "references": "公式サイト：https://www.yourou-land.com/道案内/"
         },
         {
           "prefecture": "静岡県",
@@ -11866,15 +12467,13 @@ window.FACILITY_DATASET={
           "name": "ハトヤホテル ゲームセンター",
           "type": "温泉ホテル内",
           "rank": "高",
-          "note": "昭和の大型観光ホテル内。館内動線とあわせた採集向き。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：公式にゲームセンター16～22時を掲載\n確度：A\n確認元URL：https://www.hatoyahotel.com/shisetsu/\n調査日：2026-09-15",
+          "note": "昭和の大型観光ホテル内。館内動線とあわせた採集向き。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金",
           "official": "https://www.hatoyahotel.com/shisetsu/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E6%9D%B1%E5%B8%82%20%E3%83%8F%E3%83%88%E3%83%A4%E3%83%9B%E3%83%86%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E6%9D%B1%E5%B8%82%20%E3%83%8F%E3%83%88%E3%83%A4%E3%83%9B%E3%83%86%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\n公式サイト：https://www.hatoyahotel.com/shisetsu/"
-          }
+          "references": "公式サイト：https://www.hatoyahotel.com/shisetsu/"
         },
         {
           "prefecture": "静岡県",
@@ -11882,15 +12481,13 @@ window.FACILITY_DATASET={
           "name": "ホテルサンハトヤ ゲームセンター",
           "type": "温泉ホテル内",
           "rank": "高",
-          "note": "海沿いの大型観光ホテルに残る遊技空間。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続型\n営業・残存確認メモ：公式施設案内にゲームセンター掲載\n確度：A\n確認元URL：https://www.sunhatoya.co.jp/shisetu/hoka/index.html\n調査日：2026-09-15",
+          "note": "海沿いの大型観光ホテルに残る遊技空間。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金",
           "official": "https://www.sunhatoya.co.jp/shisetu/hoka/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E6%9D%B1%E5%B8%82%20%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%88%E3%83%A4%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E6%9D%B1%E5%B8%82%20%E3%83%9B%E3%83%86%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%88%E3%83%A4%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\n公式サイト：https://www.sunhatoya.co.jp/shisetu/hoka/index.html"
-          }
+          "references": "公式サイト：https://www.sunhatoya.co.jp/shisetu/hoka/index.html"
         },
         {
           "prefecture": "静岡県",
@@ -11898,15 +12495,13 @@ window.FACILITY_DATASET={
           "name": "初音遊技場",
           "type": "温泉街の遊技場",
           "rank": "高",
-          "note": "修善寺温泉に残る昔ながらの遊技場。射的とスマートボール。\n利用条件：射的・スマートボール等は有料。営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行観光案内に営業情報掲載。直近の日付付き営業証拠は未取得\n確度：B\n確認元URL：https://travel.yahoo.co.jp/kanko/spot-00033542/\n調査日：2026-09-15",
+          "note": "修善寺温泉に残る昔ながらの遊技場。射的とスマートボール。\n利用条件：射的・スマートボール等は有料。営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E8%B1%86%E5%B8%82%20%E5%88%9D%E9%9F%B3%E9%81%8A%E6%8A%80%E5%A0%B4",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E8%B1%86%E5%B8%82%20%E5%88%9D%E9%9F%B3%E9%81%8A%E6%8A%80%E5%A0%B4"
-          }
+          "references": ""
         },
         {
           "prefecture": "静岡県",
@@ -11914,15 +12509,13 @@ window.FACILITY_DATASET={
           "name": "アップル新北街道店",
           "type": "街のゲームセンター",
           "rank": "低",
-          "note": "昔から続く地域のゲームセンター。建物・店内の古さは写真の現地再確認を推奨。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年3月29日の利用口コミを確認\n確度：B\n確認元URL：https://map.yahoo.co.jp/v3/place/xNhplPEhKYI?from_srv=loco_web\n調査日：2026-09-15",
+          "note": "昔から続く地域のゲームセンター。建物・店内の古さは写真の現地再確認を推奨。\n利用条件：ゲームごとに課金",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%20%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E6%96%B0%E5%8C%97%E8%A1%97%E9%81%93%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%20%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E6%96%B0%E5%8C%97%E8%A1%97%E9%81%93%E5%BA%97"
-          }
+          "references": ""
         },
         {
           "prefecture": "静岡県",
@@ -11930,15 +12523,13 @@ window.FACILITY_DATASET={
           "name": "ホテルニューアカオ ゲームコーナー",
           "type": "温泉ホテル内",
           "rank": "中",
-          "note": "オーシャン・ウイング1階。大型観光ホテルの館内ゲーム空間。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金。8～24時\n残存・保存の区分：継続・再開型\n営業・残存確認メモ：公式にゲームコーナーの場所・時刻掲載\n確度：A\n確認元URL：https://hotel-new-akao.com/facilities/\n調査日：2026-09-15",
+          "note": "オーシャン・ウイング1階。大型観光ホテルの館内ゲーム空間。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金。8～24時",
           "official": "https://hotel-new-akao.com/facilities/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%86%B1%E6%B5%B7%E5%B8%82%20%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%82%AB%E3%82%AA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%86%B1%E6%B5%B7%E5%B8%82%20%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%82%AB%E3%82%AA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://hotel-new-akao.com/facilities/"
-          }
+          "references": "公式サイト：https://hotel-new-akao.com/facilities/"
         },
         {
           "prefecture": "静岡県",
@@ -11946,15 +12537,13 @@ window.FACILITY_DATASET={
           "name": "和田たばこ店 ゲームコーナー",
           "type": "たばこ・駄菓子店併設",
           "rank": "高",
-          "note": "古い温泉旅館等のゲーム機を維持する小規模店。撮影用途には制約。\n利用条件：店番がいる時のみ利用可。店内撮影不可\n残存・保存の区分：継続・収集型\n営業・残存確認メモ：静岡新聞の施設案内に利用条件・撮影禁止を掲載\n確度：B\n確認元URL：https://www.at-s.com/spot/article/1619736\n調査日：2026-09-15",
+          "note": "古い温泉旅館等のゲーム機を維持する小規模店。撮影用途には制約。\n利用条件：店番がいる時のみ利用可。店内撮影不可",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%86%B1%E6%B5%B7%E5%B8%82%20%E5%92%8C%E7%94%B0%E3%81%9F%E3%81%B0%E3%81%93%E5%BA%97%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%86%B1%E6%B5%B7%E5%B8%82%20%E5%92%8C%E7%94%B0%E3%81%9F%E3%81%B0%E3%81%93%E5%BA%97%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "愛知県",
@@ -11962,15 +12551,13 @@ window.FACILITY_DATASET={
           "name": "ゲームセンター千秋",
           "type": "オートスナック",
           "rank": "低",
-          "note": "古い郊外店舗の外観・内装。旧筐体に非稼働品が多い点に注意。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年5月訪問記事。ゲーム利用可能範囲は要確認\n確度：C\n確認元URL：https://www.beep-shop.com/column_entry/71609/\n調査日：2026-09-15",
+          "note": "古い郊外店舗の外観・内装。旧筐体に非稼働品が多い点に注意。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E4%B8%80%E5%AE%AE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%8D%83%E7%A7%8B",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E4%B8%80%E5%AE%AE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%8D%83%E7%A7%8B"
-          }
+          "references": ""
         },
         {
           "prefecture": "愛知県",
@@ -11978,15 +12565,13 @@ window.FACILITY_DATASET={
           "name": "天野ゲーム博物館",
           "type": "街のゲームセンター",
           "rank": "中",
-          "note": "1978年のゲームセンターを継承。名称は博物館だが既存店舗の維持型。\n利用条件：限定営業。訪問前に公式の営業日程を確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年8月30日更新。9月4～6日の営業と継続方針掲載\n確度：A\n確認元URL：https://egameippaiamano.crayonsite.info/\n調査日：2026-09-15",
+          "note": "1978年のゲームセンターを継承。名称は博物館だが既存店舗の維持型。\n利用条件：限定営業。訪問前に公式の営業日程を確認",
           "official": "https://egameippaiamano.crayonsite.info/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%A5%BF%E5%B0%BE%E5%B8%82%20%E5%A4%A9%E9%87%8E%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%9A%E7%89%A9%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%A5%BF%E5%B0%BE%E5%B8%82%20%E5%A4%A9%E9%87%8E%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%9A%E7%89%A9%E9%A4%A8\n公式サイト：https://egameippaiamano.crayonsite.info/"
-          }
+          "references": "公式サイト：https://egameippaiamano.crayonsite.info/"
         },
         {
           "prefecture": "愛知県",
@@ -11994,15 +12579,13 @@ window.FACILITY_DATASET={
           "name": "ゲームボックスQ3",
           "type": "街のゲームセンター",
           "rank": "高",
-          "note": "90年代からゲーセンが続く場所。旧作対戦・パズルゲーム。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年5月の現地訪問・プレイ記録\n確度：B\n確認元URL：https://www.beep-shop.com/column_entry/71138/\n調査日：2026-09-15",
+          "note": "90年代からゲーセンが続く場所。旧作対戦・パズルゲーム。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E8%A5%BF%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9Q3",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E8%A5%BF%E5%8C%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9Q3"
-          }
+          "references": ""
         },
         {
           "prefecture": "滋賀県",
@@ -12010,15 +12593,13 @@ window.FACILITY_DATASET={
           "name": "滋賀レジャーランド大津店",
           "type": "ロードサイドゲームセンター",
           "rank": "中",
-          "note": "琵琶湖近くの2階建て施設。上階の音楽・大型ゲーム空間に古いゲームコーナーの雰囲気が残る。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行運営会社ページと2026年3月26日の稼働情報を照合\n確度：A\n確認元URL：https://w.atwiki.jp/taiko13/pages/41.html\n補足確認元URL：https://www.lemon8-app.com/@chiroko_shiga_oyako/7483106563360817669?region=jp\n調査日：2026-09-15",
+          "note": "琵琶湖近くの2階建て施設。上階の音楽・大型ゲーム空間に古いゲームコーナーの雰囲気が残る。\n利用条件：ゲームごとに課金",
           "official": "https://www.leisurelan.co.jp/store/leisurelanootsu.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82%20%E6%BB%8B%E8%B3%80%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%A4%A7%E6%B4%A5%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82%20%E6%BB%8B%E8%B3%80%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%A4%A7%E6%B4%A5%E5%BA%97\n公式サイト：https://www.leisurelan.co.jp/store/leisurelanootsu.html"
-          }
+          "references": "公式サイト：https://www.leisurelan.co.jp/store/leisurelanootsu.html"
         },
         {
           "prefecture": "京都府",
@@ -12026,15 +12607,13 @@ window.FACILITY_DATASET={
           "name": "ドライブインダルマ ゲームコーナー",
           "type": "ドライブインのゲームコーナー",
           "rank": "高",
-          "note": "レトロ自販機と旧作ゲームが並ぶ古いロードサイド施設。\n利用条件：ゲームごとに課金。休業日・営業時間は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年の訪問記でパチンコゲーム利用を確認。6月28日の別訪問記もあり\n確度：B\n確認元URL：https://ameblo.jp/m195617/entry-12951643982.html\n補足確認元URL：https://minkara.carview.co.jp/userid/1540760/blog/49165690/\n調査日：2026-09-15",
+          "note": "レトロ自販機と旧作ゲームが並ぶ古いロードサイド施設。\n利用条件：ゲームごとに課金。休業日・営業時間は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E8%88%9E%E9%B6%B4%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E3%83%80%E3%83%AB%E3%83%9E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E8%88%9E%E9%B6%B4%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E3%83%80%E3%83%AB%E3%83%9E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "大阪府",
@@ -12042,15 +12621,13 @@ window.FACILITY_DATASET={
           "name": "THE SILVER BALL PLANET",
           "type": "ピンボール専門施設",
           "rank": "低",
-          "note": "アメリカ村BIGSTEP内のピンボール集積。意図的な収集・保存型なので採集優先度は低め。\n利用条件：ゲームごとに課金。商業施設の営業日に準拠\n残存・保存の区分：保存・収集型\n営業・残存確認メモ：現行入居商業施設の公式店舗案内を確認\n確度：A\n確認元URL：https://big-step.co.jp/shop/detail/15\n調査日：2026-09-15",
+          "note": "アメリカ村BIGSTEP内のピンボール集積。意図的な収集・保存型なので採集優先度は低め。\n利用条件：ゲームごとに課金。商業施設の営業日に準拠",
           "official": "http://silverballplanet.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20THE%20SILVER%20BALL%20PLANET",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20THE%20SILVER%20BALL%20PLANET\n公式サイト：http://silverballplanet.jp/"
-          }
+          "references": "公式サイト：http://silverballplanet.jp/\n公式資料：https://big-step.co.jp/shop/detail/15"
         },
         {
           "prefecture": "大阪府",
@@ -12058,15 +12635,13 @@ window.FACILITY_DATASET={
           "name": "シャトーEX",
           "type": "古い商業ビルのゲームセンター",
           "rank": "低",
-          "note": "京橋グランシャトービル1・2階。ビルと繁華街の時間の重なりが採集対象。個別旧筐体は要確認。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行運営会社の店舗一覧に所在地・営業案内あり\n確度：A\n確認元URL：https://ones-amuse.co.jp/各店舗のご案内/\n調査日：2026-09-15",
+          "note": "京橋グランシャトービル1・2階。ビルと繁華街の時間の重なりが採集対象。個別旧筐体は要確認。\n利用条件：ゲームごとに課金",
           "official": "https://ones-amuse.co.jp/各店舗のご案内/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA%20%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BCEX",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA%20%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BCEX\n公式サイト：https://ones-amuse.co.jp/各店舗のご案内/"
-          }
+          "references": "公式サイト：https://ones-amuse.co.jp/各店舗のご案内/"
         },
         {
           "prefecture": "大阪府",
@@ -12074,15 +12649,13 @@ window.FACILITY_DATASET={
           "name": "KO-HATSU（コーハツ）",
           "type": "商店街のゲームセンター",
           "rank": "中",
-          "note": "天神橋筋商店街のビデオゲーム主体店。旧作対戦文化。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式に稼働一覧・営業案内\n確度：A\n確認元URL：https://ko-hatsu.sakura.ne.jp/\n調査日：2026-09-15",
+          "note": "天神橋筋商店街のビデオゲーム主体店。旧作対戦文化。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "https://ko-hatsu.sakura.ne.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%20KO-HATSU%EF%BC%88%E3%82%B3%E3%83%BC%E3%83%8F%E3%83%84%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%20KO-HATSU%EF%BC%88%E3%82%B3%E3%83%BC%E3%83%8F%E3%83%84%EF%BC%89\n公式サイト：https://ko-hatsu.sakura.ne.jp/"
-          }
+          "references": "公式サイト：https://ko-hatsu.sakura.ne.jp/"
         },
         {
           "prefecture": "大阪府",
@@ -12090,15 +12663,13 @@ window.FACILITY_DATASET={
           "name": "ロイヤルゲームセンター",
           "type": "地下街のゲームセンター",
           "rank": "高",
-          "note": "大阪駅前第3ビル地下1階。80～90年代のビデオゲームを維持。\n利用条件：ゲームごとに課金。月～土9～22時・日祝10～20時\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年2月1日からの営業時間を公式確認\n確度：A\n確認元URL：https://royalgamecenter.com/en/\n調査日：2026-09-15",
+          "note": "大阪駅前第3ビル地下1階。80～90年代のビデオゲームを維持。\n利用条件：ゲームごとに課金。月～土9～22時・日祝10～20時",
           "official": "https://royalgamecenter.com/en/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\n公式サイト：https://royalgamecenter.com/en/"
-          }
+          "references": "公式サイト：https://royalgamecenter.com/en/"
         },
         {
           "prefecture": "大阪府",
@@ -12106,15 +12677,13 @@ window.FACILITY_DATASET={
           "name": "アテナ日本橋",
           "type": "街のゲームセンター",
           "rank": "中",
-          "note": "日本橋の多層階ゲームセンター。旧作対戦文化を維持する店。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：現行公式アクセス案内。旧作稼働情報も照合\n確度：A\n確認元URL：https://athena-nipponbashi.com/access/\n補足確認元URL：https://wikiwiki.jp/3rd/3rd稼動店情報\n調査日：2026-09-15",
+          "note": "日本橋の多層階ゲームセンター。旧作対戦文化を維持する店。\n利用条件：ゲームごとに課金",
           "official": "https://athena-nipponbashi.com/access/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%82%A2%E3%83%86%E3%83%8A%E6%97%A5%E6%9C%AC%E6%A9%8B",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%82%A2%E3%83%86%E3%83%8A%E6%97%A5%E6%9C%AC%E6%A9%8B\n公式サイト：https://athena-nipponbashi.com/access/"
-          }
+          "references": "公式サイト：https://athena-nipponbashi.com/access/"
         },
         {
           "prefecture": "大阪府",
@@ -12122,15 +12691,13 @@ window.FACILITY_DATASET={
           "name": "かすが娯楽場",
           "type": "商店街のゲームセンター",
           "rank": "高",
-          "note": "新世界ジャンジャン横丁の既存ゲーセン。古いビデオ・メダルゲームの空間。\n利用条件：ゲームごとに課金。10～22時・木曜休\n残存・保存の区分：継続型\n営業・残存確認メモ：公式に現在の営業案内\n確度：A\n確認元URL：https://www.kasugagorakujou.com/access\n調査日：2026-09-15",
+          "note": "新世界ジャンジャン横丁の既存ゲーセン。古いビデオ・メダルゲームの空間。\n利用条件：ゲームごとに課金。10～22時・木曜休",
           "official": "https://www.kasugagorakujou.com/access",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%81%8B%E3%81%99%E3%81%8C%E5%A8%AF%E6%A5%BD%E5%A0%B4",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%81%8B%E3%81%99%E3%81%8C%E5%A8%AF%E6%A5%BD%E5%A0%B4\n公式サイト：https://www.kasugagorakujou.com/access"
-          }
+          "references": "公式サイト：https://www.kasugagorakujou.com/access"
         },
         {
           "prefecture": "大阪府",
@@ -12138,15 +12705,13 @@ window.FACILITY_DATASET={
           "name": "スマートボール ニュースター",
           "type": "商店街の遊技場",
           "rank": "高",
-          "note": "新世界に残るスマートボール専門店。傾斜台が並ぶ昔の遊技場。\n利用条件：有料。18歳未満入場不可\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年1月取材と現行観光情報。住所表記は別資料で照合\n確度：B\n確認元URL：https://www.timeout.com/osaka/attractions/smartball-new-star\n調査日：2026-09-15",
+          "note": "新世界に残るスマートボール専門店。傾斜台が並ぶ昔の遊技場。\n利用条件：有料。18歳未満入場不可",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "兵庫県",
@@ -12154,15 +12719,13 @@ window.FACILITY_DATASET={
           "name": "須磨浦山上遊園 回転展望閣ゲームコーナー",
           "type": "展望施設のゲームコーナー",
           "rank": "高",
-          "note": "1958年開業の回転展望閣内。山上観光施設と昔ながらのゲームが重なる。\n利用条件：展望閣・交通費など別途。ゲーム有料。営業カレンダー確認\n残存・保存の区分：継続型\n営業・残存確認メモ：公式ページがゲームコーナーと設置ゲームを案内\n確度：A\n確認元URL：https://www.sumaura-yuen.jp/facilities/play/gamecorner.html\n調査日：2026-09-15",
+          "note": "1958年開業の回転展望閣内。山上観光施設と昔ながらのゲームが重なる。\n利用条件：展望閣・交通費など別途。ゲーム有料。営業カレンダー確認",
           "official": "https://www.sumaura-yuen.jp/facilities/play/gamecorner.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%20%E9%A0%88%E7%A3%A8%E6%B5%A6%E5%B1%B1%E4%B8%8A%E9%81%8A%E5%9C%92%20%E5%9B%9E%E8%BB%A2%E5%B1%95%E6%9C%9B%E9%96%A3%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%20%E9%A0%88%E7%A3%A8%E6%B5%A6%E5%B1%B1%E4%B8%8A%E9%81%8A%E5%9C%92%20%E5%9B%9E%E8%BB%A2%E5%B1%95%E6%9C%9B%E9%96%A3%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://www.sumaura-yuen.jp/facilities/play/gamecorner.html"
-          }
+          "references": "公式サイト：https://www.sumaura-yuen.jp/facilities/play/gamecorner.html"
         },
         {
           "prefecture": "兵庫県",
@@ -12170,15 +12733,13 @@ window.FACILITY_DATASET={
           "name": "センター遊技場",
           "type": "温泉街の遊技場",
           "rank": "高",
-          "note": "城崎温泉の射的・スマートボール。外湯巡りと続く古い遊び場。\n利用条件：有料。19～22時・不定休\n残存・保存の区分：継続型\n営業・残存確認メモ：現行観光協会掲載。個別更新日不明\n確度：B\n確認元URL：https://kinosaki-spa.gr.jp/directory/center-yugijo/\n調査日：2026-09-15",
+          "note": "城崎温泉の射的・スマートボール。外湯巡りと続く古い遊び場。\n利用条件：有料。19～22時・不定休",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%B1%8A%E5%B2%A1%E5%B8%82%20%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%81%8A%E6%8A%80%E5%A0%B4",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%B1%8A%E5%B2%A1%E5%B8%82%20%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%81%8A%E6%8A%80%E5%A0%B4"
-          }
+          "references": ""
         },
         {
           "prefecture": "兵庫県",
@@ -12186,15 +12747,13 @@ window.FACILITY_DATASET={
           "name": "谷口屋遊技場",
           "type": "温泉街の遊技場",
           "rank": "高",
-          "note": "城崎温泉の個人遊技場。古い射的・玉遊びの空間。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行観光協会・観光ガイド掲載。更新日不明\n確度：B\n確認元URL：https://www.mapple.net/spot/28011389/\n補足確認元URL：https://kinosaki-spa.gr.jp/directory_cat/experience/arcade/\n調査日：2026-09-15",
+          "note": "城崎温泉の個人遊技場。古い射的・玉遊びの空間。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%B1%8A%E5%B2%A1%E5%B8%82%20%E8%B0%B7%E5%8F%A3%E5%B1%8B%E9%81%8A%E6%8A%80%E5%A0%B4",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%B1%8A%E5%B2%A1%E5%B8%82%20%E8%B0%B7%E5%8F%A3%E5%B1%8B%E9%81%8A%E6%8A%80%E5%A0%B4"
-          }
+          "references": ""
         },
         {
           "prefecture": "和歌山県",
@@ -12202,15 +12761,13 @@ window.FACILITY_DATASET={
           "name": "ホテル浦島 ゲームコーナー",
           "type": "温泉ホテル内",
           "rank": "中",
-          "note": "なぎさ館通路の遊技空間。館内は部分改装も進むため現況に注意。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金\n残存・保存の区分：継続・改装型\n営業・残存確認メモ：2026年8月10日の宿側回答で営業18～21:30を確認\n確度：A\n確認元URL：https://www.jalan.net/yad324016/qa/\n補足確認元URL：https://www.jalan.net/yad324016/qa/\n調査日：2026-09-15",
+          "note": "なぎさ館通路の遊技空間。館内は部分改装も進むため現況に注意。\n利用条件：宿泊等の施設利用条件を確認。ゲーム別料金",
           "official": "https://urashimaresortsandspa.jp/wakayama-hotelurashima/facilities/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E6%9D%B1%E7%89%9F%E5%A9%81%E9%83%A1%E9%82%A3%E6%99%BA%E5%8B%9D%E6%B5%A6%E7%94%BA%20%E3%83%9B%E3%83%86%E3%83%AB%E6%B5%A6%E5%B3%B6%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E6%9D%B1%E7%89%9F%E5%A9%81%E9%83%A1%E9%82%A3%E6%99%BA%E5%8B%9D%E6%B5%A6%E7%94%BA%20%E3%83%9B%E3%83%86%E3%83%AB%E6%B5%A6%E5%B3%B6%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://urashimaresortsandspa.jp/wakayama-hotelurashima/facilities/"
-          }
+          "references": "公式サイト：https://urashimaresortsandspa.jp/wakayama-hotelurashima/facilities/"
         },
         {
           "prefecture": "島根県",
@@ -12218,15 +12775,13 @@ window.FACILITY_DATASET={
           "name": "ドライブイン日本海 ゲームコーナー",
           "type": "ドライブインのゲームコーナー",
           "rank": "高",
-          "note": "国道9号沿いに自販機とゲームが残る。使い込まれた壁や掲示物も記録対象。\n利用条件：ゲームごとに課金。各区画の利用時間は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年6月公開記事で2025年春のゲーム確認。2026年8月にも施設訪問記あり\n確度：B\n確認元URL：https://namazutetsudo.fc2.net/blog-entry-634.html\n補足確認元URL：https://minkara.carview.co.jp/userid/1470732/blog/49244368/\n調査日：2026-09-15",
+          "note": "国道9号沿いに自販機とゲームが残る。使い込まれた壁や掲示物も記録対象。\n利用条件：ゲームごとに課金。各区画の利用時間は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%B5%9C%E7%94%B0%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E6%97%A5%E6%9C%AC%E6%B5%B7%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%B5%9C%E7%94%B0%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E6%97%A5%E6%9C%AC%E6%B5%B7%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "岡山県",
@@ -12234,15 +12789,13 @@ window.FACILITY_DATASET={
           "name": "ドライブイン古城 ゲームコーナー",
           "type": "ドライブインのゲームコーナー",
           "rank": "高",
-          "note": "年季の入った建物に自販機と対戦ゲーム・スロットが残る。自然残存のロードサイド空間。\n利用条件：ゲームごとに課金。ゲーム区画の利用時間は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2024年地域記事でゲーム確認。2026年9月8日取材記事と7月来店口コミで施設営業を補強\n確度：B\n確認元URL：https://okayamastyle.com/drivein-kojo/\n補足確認元URL：https://toyokeizai.net/articles/-/956305?page=2\n調査日：2026-09-15",
+          "note": "年季の入った建物に自販機と対戦ゲーム・スロットが残る。自然残存のロードサイド空間。\n利用条件：ゲームごとに課金。ゲーム区画の利用時間は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E5%8F%A4%E5%9F%8E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E5%8F%A4%E5%9F%8E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "岡山県",
@@ -12250,15 +12803,13 @@ window.FACILITY_DATASET={
           "name": "ファンタジスタ",
           "type": "街のゲームセンター",
           "rank": "中",
-          "note": "旧作格闘ゲームと最新作が同居する独立系店舗。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年7月8日の公式稼働タイトル一覧\n確度：A\n確認元URL：https://www.amfantasista.com/\n調査日：2026-09-15",
+          "note": "旧作格闘ゲームと最新作が同居する独立系店舗。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "https://www.amfantasista.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82%20%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%B9%E3%82%BF",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82%20%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%B9%E3%82%BF\n公式サイト：https://www.amfantasista.com/"
-          }
+          "references": "公式サイト：https://www.amfantasista.com/"
         },
         {
           "prefecture": "広島県",
@@ -12266,15 +12817,13 @@ window.FACILITY_DATASET={
           "name": "沖本商会",
           "type": "駄菓子店併設",
           "rank": "高",
-          "note": "駄菓子と小規模ゲームコーナーが共存。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年訪問記。現行店舗地図でも掲載\n確度：B\n確認元URL：https://note.com/akb428/n/nb8d63b1efcf0\n調査日：2026-09-15",
+          "note": "駄菓子と小規模ゲームコーナーが共存。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E8%A5%BF%E5%8C%BA%20%E6%B2%96%E6%9C%AC%E5%95%86%E4%BC%9A",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E8%A5%BF%E5%8C%BA%20%E6%B2%96%E6%9C%AC%E5%95%86%E4%BC%9A"
-          }
+          "references": ""
         },
         {
           "prefecture": "広島県",
@@ -12282,15 +12831,13 @@ window.FACILITY_DATASET={
           "name": "広島ホール",
           "type": "保存型パチンコ・スロットゲームセンター",
           "rank": "低",
-          "note": "旧世代のパチンコ・スロットを遊べる保存施設。歓楽街ビル4階。\n利用条件：時間制料金。金土日祝中心。撮影はスタッフへ申告\n残存・保存の区分：保存・再現型\n営業・残存確認メモ：公式サイトに9～10月の営業日と設置台・入場条件を掲載\n確度：A\n確認元URL：https://hiroshima-hall.wixsite.com/main\n調査日：2026-09-15",
+          "note": "旧世代のパチンコ・スロットを遊べる保存施設。歓楽街ビル4階。\n利用条件：時間制料金。金土日祝中心。撮影はスタッフへ申告",
           "official": "https://hiroshima-hall.wixsite.com/main",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%20%E5%BA%83%E5%B3%B6%E3%83%9B%E3%83%BC%E3%83%AB",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%20%E5%BA%83%E5%B3%B6%E3%83%9B%E3%83%BC%E3%83%AB\n公式サイト：https://hiroshima-hall.wixsite.com/main"
-          }
+          "references": "公式サイト：https://hiroshima-hall.wixsite.com/main"
         },
         {
           "prefecture": "山口県",
@@ -12298,15 +12845,13 @@ window.FACILITY_DATASET={
           "name": "モノハウス（ラッキーセブン）",
           "type": "ロードサイド複合店",
           "rank": "高",
-          "note": "物販と旧作ゲームが混在するロードサイド店。成人向け売場あり。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2024年現地取材と2025年ゲーム訪問記\n確度：B\n確認元URL：https://highcollardive.com/retrospot/monohouse/\n調査日：2026-09-15",
+          "note": "物販と旧作ゲームが混在するロードサイド店。成人向け売場あり。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E5%91%A8%E5%8D%97%E5%B8%82%20%E3%83%A2%E3%83%8E%E3%83%8F%E3%82%A6%E3%82%B9%EF%BC%88%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%82%BB%E3%83%96%E3%83%B3%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E5%91%A8%E5%8D%97%E5%B8%82%20%E3%83%A2%E3%83%8E%E3%83%8F%E3%82%A6%E3%82%B9%EF%BC%88%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%82%BB%E3%83%96%E3%83%B3%EF%BC%89"
-          }
+          "references": ""
         },
         {
           "prefecture": "徳島県",
@@ -12314,15 +12859,13 @@ window.FACILITY_DATASET={
           "name": "アポロゲームセンター沖洲店",
           "type": "ロードサイドのゲームセンター",
           "rank": "低",
-          "note": "ビデオゲーム中心の従来型店舗。古い機種の残存は要確認。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行メーカー設置案内。旧作情報は2018年と古い\n確度：B\n確認元URL：https://p.eagate.573.jp/game/facility/search/p/detail.html?area=AR-06&fdesc=3ef60a72c0e3646c4bd06ebfdaa633af&finder=area&gkey=IIDX&paselif=false&pref=JP-36\n調査日：2026-09-15",
+          "note": "ビデオゲーム中心の従来型店舗。古い機種の残存は要確認。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E5%BE%B3%E5%B3%B6%E5%B8%82%20%E3%82%A2%E3%83%9D%E3%83%AD%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%B2%96%E6%B4%B2%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E5%BE%B3%E5%B3%B6%E5%B8%82%20%E3%82%A2%E3%83%9D%E3%83%AD%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%B2%96%E6%B4%B2%E5%BA%97"
-          }
+          "references": ""
         },
         {
           "prefecture": "香川県",
@@ -12330,15 +12873,13 @@ window.FACILITY_DATASET={
           "name": "ゲームえの木高松店",
           "type": "旧作ゲームを維持する複合店",
           "rank": "中",
-          "note": "ビル内に旧世代音楽ゲームとビデオゲームを集積。古い空間そのものより旧筐体の記録向け。\n利用条件：通常課金・時間貸し。旧ギター／ドラム筐体は稼働予約が必要\n残存・保存の区分：継続・保存型\n営業・残存確認メモ：公式案内に2026年9月7日時点の設置機種と利用条件を掲載\n確度：A\n確認元URL：https://note.com/game_enoki4/n/n57d32d6fd6cd\n調査日：2026-09-15",
-          "official": "https://note.com/game_enoki4/n/n57d32d6fd6cd",
+          "note": "ビル内に旧世代音楽ゲームとビデオゲームを集積。古い空間そのものより旧筐体の記録向け。\n利用条件：通常課金・時間貸し。旧ギター／ドラム筐体は稼働予約が必要",
+          "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E9%AB%98%E6%9D%BE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%88%E3%81%AE%E6%9C%A8%E9%AB%98%E6%9D%BE%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E9%AB%98%E6%9D%BE%E5%B8%82%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%88%E3%81%AE%E6%9C%A8%E9%AB%98%E6%9D%BE%E5%BA%97\n公式サイト：https://note.com/game_enoki4/n/n57d32d6fd6cd"
-          }
+          "references": ""
         },
         {
           "prefecture": "香川県",
@@ -12346,15 +12887,13 @@ window.FACILITY_DATASET={
           "name": "マックスプラザ善通寺",
           "type": "ボウリング場併設",
           "rank": "中",
-          "note": "ボウリング場1階の旧作ビデオゲーム店。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年4月メーカー公認大会。レトロ機は2025年訪問記\n確度：B\n確認元URL：https://sec.carddass.com/club/shoplists/loadMap/12668/\n補足確認元URL：https://twpf.jp/maxplazazen2G\n調査日：2026-09-15",
+          "note": "ボウリング場1階の旧作ビデオゲーム店。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E5%96%84%E9%80%9A%E5%AF%BA%E5%B8%82%20%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%97%E3%83%A9%E3%82%B6%E5%96%84%E9%80%9A%E5%AF%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E5%96%84%E9%80%9A%E5%AF%BA%E5%B8%82%20%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%97%E3%83%A9%E3%82%B6%E5%96%84%E9%80%9A%E5%AF%BA"
-          }
+          "references": ""
         },
         {
           "prefecture": "高知県",
@@ -12362,15 +12901,13 @@ window.FACILITY_DATASET={
           "name": "プレイプラン（コインスナックプラザ併設）",
           "type": "オートスナック併設ゲームセンター",
           "rank": "高",
-          "note": "古い食品自販機の隣に続く地域のゲームセンター。建物と夜間照明を含めた採集候補。\n利用条件：ゲームごとに課金。自販機区画と遊技区画の時間は別途確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年メーカー店舗一覧と2025年7月コインスナック訪問記録。2026年地図一覧にも掲載\n確度：B\n確認元URL：https://p.eagate.573.jp/game/common/event/mfgmfc2025/shoplist/\n補足確認元URL：https://momosakuuponp2.fc2.net/blog-entry-206.html\n調査日：2026-09-15",
+          "note": "古い食品自販機の隣に続く地域のゲームセンター。建物と夜間照明を含めた採集候補。\n利用条件：ゲームごとに課金。自販機区画と遊技区画の時間は別途確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E9%AB%98%E7%9F%A5%E5%B8%82%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%88%E3%82%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%E3%83%97%E3%83%A9%E3%82%B6%E4%BD%B5%E8%A8%AD%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E9%AB%98%E7%9F%A5%E5%B8%82%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%88%E3%82%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%E3%83%97%E3%83%A9%E3%82%B6%E4%BD%B5%E8%A8%AD%EF%BC%89"
-          }
+          "references": ""
         },
         {
           "prefecture": "福岡県",
@@ -12378,15 +12915,13 @@ window.FACILITY_DATASET={
           "name": "G-stage 七隈店",
           "type": "街のゲームセンター",
           "rank": "中",
-          "note": "大学周辺に続く地域のゲームセンター。旧作格闘ゲームの訪問記録あり。\n利用条件：ゲームごとに課金\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式店舗案内と9月の七隈店景品告知。旧作は2024年訪問記事で確認\n確度：A\n確認元URL：https://nextstage2009.com/\n補足確認元URL：https://ameblo.jp/hikolife358/entry-12856230884.html\n調査日：2026-09-15",
+          "note": "大学周辺に続く地域のゲームセンター。旧作格闘ゲームの訪問記録あり。\n利用条件：ゲームごとに課金",
           "official": "https://nextstage2009.com/shop/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9F%8E%E5%8D%97%E5%8C%BA%20G-stage%20%E4%B8%83%E9%9A%88%E5%BA%97",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9F%8E%E5%8D%97%E5%8C%BA%20G-stage%20%E4%B8%83%E9%9A%88%E5%BA%97\n公式サイト：https://nextstage2009.com/shop/"
-          }
+          "references": "公式サイト：https://nextstage2009.com/shop/\n公式資料：https://nextstage2009.com/"
         },
         {
           "prefecture": "長崎県",
@@ -12394,15 +12929,13 @@ window.FACILITY_DATASET={
           "name": "西肥シルバーボウル ゲームコーナー",
           "type": "ボウリング場併設",
           "rank": "中",
-          "note": "古いエレメカで知られるボウリング場。個別機の現在の稼働は要確認。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2026年運営会社概要に掲載。現行地図で遊技場案内\n確度：B\n確認元URL：https://map.yahoo.co.jp/v3/place/jJWGWyzum1c\n調査日：2026-09-15",
+          "note": "古いエレメカで知られるボウリング場。個別機の現在の稼働は要確認。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "https://www.bus.saihigroup.co.jp/company/78.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82%20%E8%A5%BF%E8%82%A5%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%83%9C%E3%82%A6%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82%20%E8%A5%BF%E8%82%A5%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%83%9C%E3%82%A6%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\n公式サイト：https://www.bus.saihigroup.co.jp/company/78.html"
-          }
+          "references": "公式サイト：https://www.bus.saihigroup.co.jp/company/78.html"
         },
         {
           "prefecture": "熊本県",
@@ -12410,15 +12943,13 @@ window.FACILITY_DATASET={
           "name": "大江ゲームセンター",
           "type": "街のゲームセンター",
           "rank": "高",
-          "note": "80年代から続く小規模店。旧作ビデオゲームの空間。\n利用条件：ゲームごとに課金。最新営業日は要確認\n残存・保存の区分：継続型\n営業・残存確認メモ：2025年更新の地域取材記事と2026年7月店舗案内\n確度：B\n確認元URL：https://higojournal.com/archives/ooe-gamecenter.html\n補足確認元URL：https://akinbo777.com/kumamoto/\n調査日：2026-09-15",
+          "note": "80年代から続く小規模店。旧作ビデオゲームの空間。\n利用条件：ゲームごとに課金。最新営業日は要確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E5%A4%A7%E6%B1%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E5%A4%A7%E6%B1%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
-          }
+          "references": ""
         },
         {
           "prefecture": "大分県",
@@ -12426,15 +12957,13 @@ window.FACILITY_DATASET={
           "name": "別府ラクテンチ ゲームセンター",
           "type": "遊園地のゲームコーナー",
           "rank": "中",
-          "note": "長年続く山上遊園地内のゲームセンター。古い観光施設の文脈を含めて採集。\n利用条件：入園料・遊技料金が必要。休園日確認\n残存・保存の区分：継続型\n営業・残存確認メモ：現行公式園内マップにゲームセンターを掲載\n確度：A\n確認元URL：https://rakutenchi.jp/guidance/map/\n調査日：2026-09-15",
+          "note": "長年続く山上遊園地内のゲームセンター。古い観光施設の文脈を含めて採集。\n利用条件：入園料・遊技料金が必要。休園日確認",
           "official": "https://rakutenchi.jp/guidance/map/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%88%A5%E5%BA%9C%E5%B8%82%20%E5%88%A5%E5%BA%9C%E3%83%A9%E3%82%AF%E3%83%86%E3%83%B3%E3%83%81%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%88%A5%E5%BA%9C%E5%B8%82%20%E5%88%A5%E5%BA%9C%E3%83%A9%E3%82%AF%E3%83%86%E3%83%B3%E3%83%81%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\n公式サイト：https://rakutenchi.jp/guidance/map/"
-          }
+          "references": "公式サイト：https://rakutenchi.jp/guidance/map/"
         },
         {
           "prefecture": "宮崎県",
@@ -12442,15 +12971,13 @@ window.FACILITY_DATASET={
           "name": "都城ハイレーンズ ゲームコーナー",
           "type": "ボウリング場のゲームコーナー",
           "rank": "低",
-          "note": "昔から続くボウリング場。2022年利用者がレトロなゲームコーナーを報告。筐体残存は要再確認。\n利用条件：ゲーム別料金。遊技区画の現存・利用時間を事前確認\n残存・保存の区分：継続型（遊技区画要確認）\n営業・残存確認メモ：2025年7月来店口コミで本体営業確認。ゲームコーナーの新しい日付付き証拠は未取得\n確度：C\n確認元URL：https://map.yahoo.co.jp/v3/place/MbRFuR5Iy5I\n補足確認元URL：https://www.jsdc.or.jp/sd/tabid/117/pdid/9500058/Default.aspx\n調査日：2026-09-15",
+          "note": "昔から続くボウリング場。2022年利用者がレトロなゲームコーナーを報告。筐体残存は要再確認。\n利用条件：ゲーム別料金。遊技区画の現存・利用時間を事前確認",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E9%83%BD%E5%9F%8E%E5%B8%82%20%E9%83%BD%E5%9F%8E%E3%83%8F%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E9%83%BD%E5%9F%8E%E5%B8%82%20%E9%83%BD%E5%9F%8E%E3%83%8F%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC"
-          }
+          "references": ""
         }
       ]
     },
@@ -12468,15 +12995,13 @@ window.FACILITY_DATASET={
           "name": "奥尻島津波館",
           "type": "津波・震災伝承館",
           "rank": "A",
-          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。\n利用条件：季節開館。2026年は4月18日～10月31日。冬期休館。\n公的主体：奥尻町\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.town.okushiri.lg.jp/hotnews/detail/00003668.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。 利用条件：季節開館。2026年は4月18日～10月31日。冬期休館。 公的主体：奥尻町",
+          "official": "https://www.town.okushiri.lg.jp/hotnews/detail/00003668.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%A5%A5%E5%B0%BB%E7%94%BA%20%E5%A5%A5%E5%B0%BB%E5%B3%B6%E6%B4%A5%E6%B3%A2%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%A5%A5%E5%B0%BB%E7%94%BA%20%E5%A5%A5%E5%B0%BB%E5%B3%B6%E6%B4%A5%E6%B3%A2%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.town.okushiri.lg.jp/hotnews/detail/00003668.html"
         },
         {
           "prefecture": "北海道",
@@ -12484,15 +13009,13 @@ window.FACILITY_DATASET={
           "name": "釧路市民防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：9名以下も空き状況の事前問い合わせを推奨。10名以上は10日前まで申請。\n公的主体：釧路市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.kushiro.lg.jp/kurashi/shoubou/1003672.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：9名以下も空き状況の事前問い合わせを推奨。10名以上は10日前まで申請。 公的主体：釧路市",
+          "official": "https://www.city.kushiro.lg.jp/kurashi/shoubou/1003672.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82%20%E9%87%A7%E8%B7%AF%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82%20%E9%87%A7%E8%B7%AF%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.kushiro.lg.jp/kurashi/shoubou/1003672.html"
         },
         {
           "prefecture": "北海道",
@@ -12500,15 +13023,13 @@ window.FACILITY_DATASET={
           "name": "江別河川防災ステーション",
           "type": "治水・防災学習施設",
           "rank": "A",
-          "note": "水防拠点の平常時公開展示を訪ね、河川防災の役割を知る。\n利用条件：平常時は展示・休憩施設として一般利用可。団体見学は申請。\n公的主体：江別市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.ebetsu.hokkaido.jp/soshiki/chisui/337.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "水防拠点の平常時公開展示を訪ね、河川防災の役割を知る。 利用条件：平常時は展示・休憩施設として一般利用可。団体見学は申請。 公的主体：江別市",
+          "official": "https://www.city.ebetsu.hokkaido.jp/soshiki/chisui/337.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%B1%9F%E5%88%A5%E5%B8%82%20%E6%B1%9F%E5%88%A5%E6%B2%B3%E5%B7%9D%E9%98%B2%E7%81%BD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%B1%9F%E5%88%A5%E5%B8%82%20%E6%B1%9F%E5%88%A5%E6%B2%B3%E5%B7%9D%E9%98%B2%E7%81%BD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.ebetsu.hokkaido.jp/soshiki/chisui/337.html"
         },
         {
           "prefecture": "北海道",
@@ -12516,15 +13037,13 @@ window.FACILITY_DATASET={
           "name": "札幌市民防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：無料。10名以上は事前申込。2026-09-07地震体験休止、2026-08-28消火体験休止の告知あり。\n公的主体：札幌市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.sapporo-dpc.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：無料。10名以上は事前申込。2026-09-07地震体験休止、2026-08-28消火体験休止の告知あり。 公的主体：札幌市",
+          "official": "https://www.sapporo-dpc.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E7%99%BD%E7%9F%B3%E5%8C%BA%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E7%99%BD%E7%9F%B3%E5%8C%BA%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.sapporo-dpc.jp/"
         },
         {
           "prefecture": "北海道",
@@ -12532,15 +13051,13 @@ window.FACILITY_DATASET={
           "name": "洞爺湖町 火山科学館",
           "type": "火山防災施設",
           "rank": "A",
-          "note": "有珠山の繰り返す噴火を、映像・解説・体感装置で学ぶ。\n利用条件：有料。2025年から月曜休館・冬期開館時間変更。\n公的主体：洞爺湖町\n調査日：2026-09-15／公式検索結果で掲載案内確認／本文取得不可（閉鎖とは未判定）\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.toyako-vc.jp/volcano/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "有珠山の繰り返す噴火を、映像・解説・体感装置で学ぶ。 利用条件：有料。2025年から月曜休館・冬期開館時間変更。 公的主体：洞爺湖町",
+          "official": "https://www.toyako-vc.jp/volcano/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%B4%9E%E7%88%BA%E6%B9%96%E7%94%BA%20%E6%B4%9E%E7%88%BA%E6%B9%96%E7%94%BA%20%E7%81%AB%E5%B1%B1%E7%A7%91%E5%AD%A6%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%B4%9E%E7%88%BA%E6%B9%96%E7%94%BA%20%E6%B4%9E%E7%88%BA%E6%B9%96%E7%94%BA%20%E7%81%AB%E5%B1%B1%E7%A7%91%E5%AD%A6%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.toyako-vc.jp/volcano/"
         },
         {
           "prefecture": "北海道",
@@ -12548,15 +13065,13 @@ window.FACILITY_DATASET={
           "name": "十勝岳火山砂防情報センター（ヴォルガ）",
           "type": "火山防災・砂防資料館",
           "rank": "A",
-          "note": "十勝岳の火山砂防や防災の資料を展示する情報センター。\n利用条件：国の公式案内で一般向け展示を確認。\n公的主体：国土交通省北海道開発局\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.hkd.mlit.go.jp/as/tisui/ho928l0000000oej.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "十勝岳の火山砂防や防災の資料を展示する情報センター。 利用条件：国の公式案内で一般向け展示を確認。 公的主体：国土交通省北海道開発局",
+          "official": "https://www.hkd.mlit.go.jp/as/tisui/ho928l0000000oej.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%BE%8E%E7%91%9B%E7%94%BA%20%E5%8D%81%E5%8B%9D%E5%B2%B3%E7%81%AB%E5%B1%B1%E7%A0%82%E9%98%B2%E6%83%85%E5%A0%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%AC%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%BE%8E%E7%91%9B%E7%94%BA%20%E5%8D%81%E5%8B%9D%E5%B2%B3%E7%81%AB%E5%B1%B1%E7%A0%82%E9%98%B2%E6%83%85%E5%A0%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%AC%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.hkd.mlit.go.jp/as/tisui/ho928l0000000oej.html"
         },
         {
           "prefecture": "青森県",
@@ -12564,15 +13079,13 @@ window.FACILITY_DATASET={
           "name": "青森県防災教育センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：2026年4月リニューアル。7月から運営変更。申込は県ページの利用案内参照。\n公的主体：青森県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.aomori.lg.jp/soshiki/kikikanri/shobogakko/bosaikyoiku.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：2026年4月リニューアル。7月から運営変更。申込は県ページの利用案内参照。 公的主体：青森県",
+          "official": "https://www.pref.aomori.lg.jp/soshiki/kikikanri/shobogakko/bosaikyoiku.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E9%9D%92%E6%A3%AE%E5%B8%82%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E9%98%B2%E7%81%BD%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E9%9D%92%E6%A3%AE%E5%B8%82%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E9%98%B2%E7%81%BD%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.aomori.lg.jp/soshiki/kikikanri/shobogakko/bosaikyoiku.html"
         },
         {
           "prefecture": "岩手県",
@@ -12580,15 +13093,13 @@ window.FACILITY_DATASET={
           "name": "いのちをつなぐ未来館",
           "type": "津波・震災伝承館",
           "rank": "A",
-          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。\n利用条件：市内外の一般来館者を受け入れる防災学習施設。\n公的主体：釜石市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://unosumai-tomosu.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。 利用条件：市内外の一般来館者を受け入れる防災学習施設。 公的主体：釜石市",
+          "official": "https://unosumai-tomosu.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E9%87%9C%E7%9F%B3%E5%B8%82%20%E3%81%84%E3%81%AE%E3%81%A1%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E6%9C%AA%E6%9D%A5%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E9%87%9C%E7%9F%B3%E5%B8%82%20%E3%81%84%E3%81%AE%E3%81%A1%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E6%9C%AA%E6%9D%A5%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://unosumai-tomosu.jp/"
         },
         {
           "prefecture": "岩手県",
@@ -12596,15 +13107,13 @@ window.FACILITY_DATASET={
           "name": "宮古市災害資料伝承館",
           "type": "津波・災害伝承館",
           "rank": "A",
-          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。\n利用条件：無料。展示解説希望・10名以上の団体は事前予約。\n公的主体：宮古市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://385-densho.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。 利用条件：無料。展示解説希望・10名以上の団体は事前予約。 公的主体：宮古市",
+          "official": "https://385-densho.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%AE%AE%E5%8F%A4%E5%B8%82%20%E5%AE%AE%E5%8F%A4%E5%B8%82%E7%81%BD%E5%AE%B3%E8%B3%87%E6%96%99%E4%BC%9D%E6%89%BF%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%AE%AE%E5%8F%A4%E5%B8%82%20%E5%AE%AE%E5%8F%A4%E5%B8%82%E7%81%BD%E5%AE%B3%E8%B3%87%E6%96%99%E4%BC%9D%E6%89%BF%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://385-densho.jp/"
         },
         {
           "prefecture": "岩手県",
@@ -12612,15 +13121,13 @@ window.FACILITY_DATASET={
           "name": "野田村復興展示室",
           "type": "津波・震災伝承館",
           "rank": "B",
-          "note": "保健センター内の復興展示室。予約する震災学習プログラムと併せて訪ねたい。\n利用条件：保健センター3階。見学を含む震災学習プログラムは要予約。単独訪問時の受入条件は村に確認。\n公的主体：野田村\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.vill.noda.iwate.jp/bunka_sports/kanko/1488.html\n補足根拠：https://www.thr.mlit.go.jp/shinsaidensho/facility/iwate-3-017.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "保健センター内の復興展示室。予約する震災学習プログラムと併せて訪ねたい。 利用条件：保健センター3階。見学を含む震災学習プログラムは要予約。単独訪問時の受入条件は村に確認。 公的主体：野田村",
+          "official": "https://www.vill.noda.iwate.jp/bunka_sports/kanko/1488.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E9%87%8E%E7%94%B0%E6%9D%91%20%E9%87%8E%E7%94%B0%E6%9D%91%E5%BE%A9%E8%88%88%E5%B1%95%E7%A4%BA%E5%AE%A4",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E9%87%8E%E7%94%B0%E6%9D%91%20%E9%87%8E%E7%94%B0%E6%9D%91%E5%BE%A9%E8%88%88%E5%B1%95%E7%A4%BA%E5%AE%A4\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.vill.noda.iwate.jp/bunka_sports/kanko/1488.html\n公式資料：https://www.thr.mlit.go.jp/shinsaidensho/facility/iwate-3-017.html"
         },
         {
           "prefecture": "岩手県",
@@ -12628,15 +13135,13 @@ window.FACILITY_DATASET={
           "name": "岩手県立総合防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：無料。個人・少人数は随時入館。研修は事前連絡。2026年度から日曜・月曜休館。\n公的主体：岩手県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.iwa-bousai.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：無料。個人・少人数は随時入館。研修は事前連絡。2026年度から日曜・月曜休館。 公的主体：岩手県",
+          "official": "https://www.iwa-bousai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E7%9F%A2%E5%B7%BE%E7%94%BA%20%E5%B2%A9%E6%89%8B%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E7%9F%A2%E5%B7%BE%E7%94%BA%20%E5%B2%A9%E6%89%8B%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.iwa-bousai.jp/"
         },
         {
           "prefecture": "岩手県",
@@ -12644,15 +13149,13 @@ window.FACILITY_DATASET={
           "name": "東日本大震災津波伝承館（いわてTSUNAMIメモリアル）",
           "type": "津波・震災伝承館",
           "rank": "A",
-          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。\n利用条件：一般観覧・利用案内あり。\n公的主体：岩手県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://iwate-tsunami-memorial.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。 利用条件：一般観覧・利用案内あり。 公的主体：岩手県",
+          "official": "https://iwate-tsunami-memorial.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0%E5%B8%82%20%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E6%B4%A5%E6%B3%A2%E4%BC%9D%E6%89%BF%E9%A4%A8%EF%BC%88%E3%81%84%E3%82%8F%E3%81%A6TSUNAMI%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0%E5%B8%82%20%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E6%B4%A5%E6%B3%A2%E4%BC%9D%E6%89%BF%E9%A4%A8%EF%BC%88%E3%81%84%E3%82%8F%E3%81%A6TSUNAMI%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://iwate-tsunami-memorial.jp/"
         },
         {
           "prefecture": "宮城県",
@@ -12660,15 +13163,13 @@ window.FACILITY_DATASET={
           "name": "気仙沼市東日本大震災遺構・伝承館",
           "type": "津波・震災伝承館",
           "rank": "A",
-          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。\n利用条件：遺構内部と展示を観覧可。語り部ガイドは事前予約。\n公的主体：気仙沼市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://kesennuma-memorial.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。 利用条件：遺構内部と展示を観覧可。語り部ガイドは事前予約。 公的主体：気仙沼市",
+          "official": "https://kesennuma-memorial.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%20%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%E3%83%BB%E4%BC%9D%E6%89%BF%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%20%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%E3%83%BB%E4%BC%9D%E6%89%BF%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://kesennuma-memorial.jp/"
         },
         {
           "prefecture": "宮城県",
@@ -12676,15 +13177,13 @@ window.FACILITY_DATASET={
           "name": "栗駒山麓ジオパークビジターセンター",
           "type": "地震・土砂災害学習施設",
           "rank": "A",
-          "note": "旧小学校を活用した施設で、荒砥沢地すべりなどの大型映像展示を見る。\n利用条件：一般見学可・無料。荒砥沢地すべり等を紹介。2026年4月1日に通常開館再開。\n公的主体：栗原市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.kuriharacity.jp/geopark/060/index.html\n補足根拠：https://www.kuriharacity.jp/geopark/060/030/PAGE000000000000015630.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "旧小学校を活用した施設で、荒砥沢地すべりなどの大型映像展示を見る。 利用条件：一般見学可・無料。荒砥沢地すべり等を紹介。2026年4月1日に通常開館再開。 公的主体：栗原市",
+          "official": "https://www.kuriharacity.jp/geopark/060/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%A0%97%E5%8E%9F%E5%B8%82%20%E6%A0%97%E9%A7%92%E5%B1%B1%E9%BA%93%E3%82%B8%E3%82%AA%E3%83%91%E3%83%BC%E3%82%AF%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%A0%97%E5%8E%9F%E5%B8%82%20%E6%A0%97%E9%A7%92%E5%B1%B1%E9%BA%93%E3%82%B8%E3%82%AA%E3%83%91%E3%83%BC%E3%82%AF%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.kuriharacity.jp/geopark/060/index.html\n公式資料：https://www.kuriharacity.jp/geopark/060/030/PAGE000000000000015630.html"
         },
         {
           "prefecture": "宮城県",
@@ -12692,15 +13191,13 @@ window.FACILITY_DATASET={
           "name": "山元町震災遺構中浜小学校",
           "type": "津波・震災遺構展示施設",
           "rank": "A",
-          "note": "保存・公開された校舎で震災を学ぶ。語り部の案内も確認したい。\n利用条件：校舎保存・公開。語り部ガイドの案内あり。\n公的主体：山元町\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.town.yamamoto.miyagi.jp/site/ruins-nakahama/index.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "保存・公開された校舎で震災を学ぶ。語り部の案内も確認したい。 利用条件：校舎保存・公開。語り部ガイドの案内あり。 公的主体：山元町",
+          "official": "https://www.town.yamamoto.miyagi.jp/site/ruins-nakahama/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E5%B1%B1%E5%85%83%E7%94%BA%20%E5%B1%B1%E5%85%83%E7%94%BA%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%E4%B8%AD%E6%B5%9C%E5%B0%8F%E5%AD%A6%E6%A0%A1",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E5%B1%B1%E5%85%83%E7%94%BA%20%E5%B1%B1%E5%85%83%E7%94%BA%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%E4%B8%AD%E6%B5%9C%E5%B0%8F%E5%AD%A6%E6%A0%A1\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.town.yamamoto.miyagi.jp/site/ruins-nakahama/index.html"
         },
         {
           "prefecture": "宮城県",
@@ -12708,15 +13205,13 @@ window.FACILITY_DATASET={
           "name": "みやぎ東日本大震災津波伝承館",
           "type": "津波・震災伝承館",
           "rank": "A",
-          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。\n利用条件：石巻南浜津波復興祈念公園内。一般向け常設展・企画展。\n公的主体：宮城県・国\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.miyagi.jp/site/denshokan/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。 利用条件：石巻南浜津波復興祈念公園内。一般向け常設展・企画展。 公的主体：宮城県・国",
+          "official": "https://www.pref.miyagi.jp/site/denshokan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E7%9F%B3%E5%B7%BB%E5%B8%82%20%E3%81%BF%E3%82%84%E3%81%8E%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E6%B4%A5%E6%B3%A2%E4%BC%9D%E6%89%BF%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E7%9F%B3%E5%B7%BB%E5%B8%82%20%E3%81%BF%E3%82%84%E3%81%8E%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E6%B4%A5%E6%B3%A2%E4%BC%9D%E6%89%BF%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.miyagi.jp/site/denshokan/"
         },
         {
           "prefecture": "宮城県",
@@ -12724,15 +13219,13 @@ window.FACILITY_DATASET={
           "name": "石巻市震災遺構大川小学校・大川震災伝承館",
           "type": "津波・震災遺構展示施設",
           "rank": "A",
-          "note": "保存校舎と併設伝承館をあわせて訪ね、避難と命を守る判断について学ぶ。\n利用条件：一般公開。校舎遺構と併設伝承館を1件として掲載。公開範囲・開館日は公式案内参照。\n公的主体：石巻市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.ishinomaki.lg.jp/ruins/okawa/page/20251121142407.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "保存校舎と併設伝承館をあわせて訪ね、避難と命を守る判断について学ぶ。 利用条件：一般公開。校舎遺構と併設伝承館を1件として掲載。公開範囲・開館日は公式案内参照。 公的主体：石巻市",
+          "official": "https://www.city.ishinomaki.lg.jp/ruins/okawa/page/20251121142407.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E7%9F%B3%E5%B7%BB%E5%B8%82%20%E7%9F%B3%E5%B7%BB%E5%B8%82%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%E5%A4%A7%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1%E3%83%BB%E5%A4%A7%E5%B7%9D%E9%9C%87%E7%81%BD%E4%BC%9D%E6%89%BF%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E7%9F%B3%E5%B7%BB%E5%B8%82%20%E7%9F%B3%E5%B7%BB%E5%B8%82%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%E5%A4%A7%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1%E3%83%BB%E5%A4%A7%E5%B7%9D%E9%9C%87%E7%81%BD%E4%BC%9D%E6%89%BF%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.ishinomaki.lg.jp/ruins/okawa/page/20251121142407.html"
         },
         {
           "prefecture": "宮城県",
@@ -12740,15 +13233,13 @@ window.FACILITY_DATASET={
           "name": "石巻市震災遺構門脇小学校",
           "type": "津波・震災遺構展示施設",
           "rank": "A",
-          "note": "津波火災の痕跡が残る校舎と展示館を通して、被災時の行動を考える。\n利用条件：一般観覧可。津波火災の遺構と展示館。保存校舎は外部通路から見学。\n公的主体：石巻市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.ishinomaki.lg.jp/ruins/kadowaki/page/20251121112629.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "津波火災の痕跡が残る校舎と展示館を通して、被災時の行動を考える。 利用条件：一般観覧可。津波火災の遺構と展示館。保存校舎は外部通路から見学。 公的主体：石巻市",
+          "official": "https://www.city.ishinomaki.lg.jp/ruins/kadowaki/page/20251121112629.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E7%9F%B3%E5%B7%BB%E5%B8%82%20%E7%9F%B3%E5%B7%BB%E5%B8%82%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%E9%96%80%E8%84%87%E5%B0%8F%E5%AD%A6%E6%A0%A1",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E7%9F%B3%E5%B7%BB%E5%B8%82%20%E7%9F%B3%E5%B7%BB%E5%B8%82%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%E9%96%80%E8%84%87%E5%B0%8F%E5%AD%A6%E6%A0%A1\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.ishinomaki.lg.jp/ruins/kadowaki/page/20251121112629.html"
         },
         {
           "prefecture": "宮城県",
@@ -12756,15 +13247,13 @@ window.FACILITY_DATASET={
           "name": "せんだい3.11メモリアル交流館",
           "type": "震災伝承館",
           "rank": "A",
-          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。\n利用条件：無料。地下鉄東西線荒井駅舎内。\n公的主体：仙台市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://sendai311-memorial.jp/about/overview/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。 利用条件：無料。地下鉄東西線荒井駅舎内。 公的主体：仙台市",
+          "official": "https://sendai311-memorial.jp/about/overview/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E8%8B%A5%E6%9E%97%E5%8C%BA%20%E3%81%9B%E3%82%93%E3%81%A0%E3%81%843.11%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%E4%BA%A4%E6%B5%81%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E8%8B%A5%E6%9E%97%E5%8C%BA%20%E3%81%9B%E3%82%93%E3%81%A0%E3%81%843.11%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%E4%BA%A4%E6%B5%81%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://sendai311-memorial.jp/about/overview/"
         },
         {
           "prefecture": "宮城県",
@@ -12772,15 +13261,13 @@ window.FACILITY_DATASET={
           "name": "震災遺構 仙台市立荒浜小学校",
           "type": "津波・震災遺構展示施設",
           "rank": "A",
-          "note": "一般公開された被災校舎をたどり、学校と地域の避難の記録を読む。\n利用条件：校舎内を一般公開。職員案内希望は事前予約。\n公的主体：仙台市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://arahama.sendai311-memorial.jp/information/index.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "一般公開された被災校舎をたどり、学校と地域の避難の記録を読む。 利用条件：校舎内を一般公開。職員案内希望は事前予約。 公的主体：仙台市",
+          "official": "https://arahama.sendai311-memorial.jp/information/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E8%8B%A5%E6%9E%97%E5%8C%BA%20%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%20%E4%BB%99%E5%8F%B0%E5%B8%82%E7%AB%8B%E8%8D%92%E6%B5%9C%E5%B0%8F%E5%AD%A6%E6%A0%A1",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E8%8B%A5%E6%9E%97%E5%8C%BA%20%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%20%E4%BB%99%E5%8F%B0%E5%B8%82%E7%AB%8B%E8%8D%92%E6%B5%9C%E5%B0%8F%E5%AD%A6%E6%A0%A1\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://arahama.sendai311-memorial.jp/information/index.html"
         },
         {
           "prefecture": "宮城県",
@@ -12788,15 +13275,13 @@ window.FACILITY_DATASET={
           "name": "東松島市震災復興伝承館",
           "type": "津波・震災伝承館",
           "rank": "A",
-          "note": "旧野蒜駅舎を活用した伝承館で、地域の被災と復興の記録を読む。\n利用条件：無料。旧野蒜駅舎を活用した展示施設。\n公的主体：東松島市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.higashimatsushima.miyagi.jp/shisei/shinsaifukko/fukkokinenkoen/fukkodensyokan.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "旧野蒜駅舎を活用した伝承館で、地域の被災と復興の記録を読む。 利用条件：無料。旧野蒜駅舎を活用した展示施設。 公的主体：東松島市",
+          "official": "https://www.city.higashimatsushima.miyagi.jp/shisei/shinsaifukko/fukkokinenkoen/fukkodensyokan.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%9D%B1%E6%9D%BE%E5%B3%B6%E5%B8%82%20%E6%9D%B1%E6%9D%BE%E5%B3%B6%E5%B8%82%E9%9C%87%E7%81%BD%E5%BE%A9%E8%88%88%E4%BC%9D%E6%89%BF%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%9D%B1%E6%9D%BE%E5%B3%B6%E5%B8%82%20%E6%9D%B1%E6%9D%BE%E5%B3%B6%E5%B8%82%E9%9C%87%E7%81%BD%E5%BE%A9%E8%88%88%E4%BC%9D%E6%89%BF%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.higashimatsushima.miyagi.jp/shisei/shinsaifukko/fukkokinenkoen/fukkodensyokan.html"
         },
         {
           "prefecture": "宮城県",
@@ -12804,15 +13289,13 @@ window.FACILITY_DATASET={
           "name": "名取市震災復興伝承館",
           "type": "津波・震災伝承館",
           "rank": "A",
-          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。\n利用条件：無料。開館時間は季節により異なる。\n公的主体：名取市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.natori-denshoukan.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。 利用条件：無料。開館時間は季節により異なる。 公的主体：名取市",
+          "official": "https://www.natori-denshoukan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E5%90%8D%E5%8F%96%E5%B8%82%20%E5%90%8D%E5%8F%96%E5%B8%82%E9%9C%87%E7%81%BD%E5%BE%A9%E8%88%88%E4%BC%9D%E6%89%BF%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E5%90%8D%E5%8F%96%E5%B8%82%20%E5%90%8D%E5%8F%96%E5%B8%82%E9%9C%87%E7%81%BD%E5%BE%A9%E8%88%88%E4%BC%9D%E6%89%BF%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.natori-denshoukan.jp/"
         },
         {
           "prefecture": "秋田県",
@@ -12820,15 +13303,13 @@ window.FACILITY_DATASET={
           "name": "秋田県防災学習館",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：一般体験可。団体は予約。個人も事前予約・電話確認を推奨。\n公的主体：秋田県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://bousai-akita.jp/pages/index.html?article_id=54\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：一般体験可。団体は予約。個人も事前予約・電話確認を推奨。 公的主体：秋田県",
+          "official": "https://bousai-akita.jp/pages/index.html?article_id=54",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%94%B1%E5%88%A9%E6%9C%AC%E8%8D%98%E5%B8%82%20%E7%A7%8B%E7%94%B0%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%94%B1%E5%88%A9%E6%9C%AC%E8%8D%98%E5%B8%82%20%E7%A7%8B%E7%94%B0%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://bousai-akita.jp/pages/index.html?article_id=54"
         },
         {
           "prefecture": "山形県",
@@ -12836,15 +13317,13 @@ window.FACILITY_DATASET={
           "name": "山形県防災学習館",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：無料。団体は事前予約。地震体験は屋外の体験車で天候により中止。\n公的主体：山形県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.yamagata.jp/027007/bosai/kochibou/bousaijouhou/kyouikukeihatsu/gakusyuukann.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：無料。団体は事前予約。地震体験は屋外の体験車で天候により中止。 公的主体：山形県",
+          "official": "https://www.pref.yamagata.jp/027007/bosai/kochibou/bousaijouhou/kyouikukeihatsu/gakusyuukann.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%20%E4%B8%89%E5%B7%9D%E7%94%BA%20%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%20%E4%B8%89%E5%B7%9D%E7%94%BA%20%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.yamagata.jp/027007/bosai/kochibou/bousaijouhou/kyouikukeihatsu/gakusyuukann.html"
         },
         {
           "prefecture": "福島県",
@@ -12852,15 +13331,13 @@ window.FACILITY_DATASET={
           "name": "いわき震災伝承みらい館",
           "type": "震災伝承館",
           "rank": "A",
-          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。\n利用条件：一般向け展示・語り部講話。\n公的主体：いわき市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://memorial-iwaki.com/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。 利用条件：一般向け展示・語り部講話。 公的主体：いわき市",
+          "official": "https://memorial-iwaki.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%20%E3%81%84%E3%82%8F%E3%81%8D%E9%9C%87%E7%81%BD%E4%BC%9D%E6%89%BF%E3%81%BF%E3%82%89%E3%81%84%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%20%E3%81%84%E3%82%8F%E3%81%8D%E9%9C%87%E7%81%BD%E4%BC%9D%E6%89%BF%E3%81%BF%E3%82%89%E3%81%84%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://memorial-iwaki.com/"
         },
         {
           "prefecture": "福島県",
@@ -12868,15 +13345,13 @@ window.FACILITY_DATASET={
           "name": "東日本大震災・原子力災害伝承館",
           "type": "震災・原子力災害伝承館",
           "rank": "A",
-          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。\n利用条件：一般観覧可。入館料金・語り部講話の案内あり。\n公的主体：福島県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.fipo.or.jp/lore/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。 利用条件：一般観覧可。入館料金・語り部講話の案内あり。 公的主体：福島県",
+          "official": "https://www.fipo.or.jp/lore/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E5%8F%8C%E8%91%89%E7%94%BA%20%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E3%83%BB%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%81%BD%E5%AE%B3%E4%BC%9D%E6%89%BF%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E5%8F%8C%E8%91%89%E7%94%BA%20%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E3%83%BB%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%81%BD%E5%AE%B3%E4%BC%9D%E6%89%BF%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.fipo.or.jp/lore/"
         },
         {
           "prefecture": "福島県",
@@ -12884,15 +13359,13 @@ window.FACILITY_DATASET={
           "name": "とみおかアーカイブ・ミュージアム",
           "type": "震災・原子力災害伝承館",
           "rank": "A",
-          "note": "地域の歴史と、震災・原子力災害の複合的な記録をあわせて読む。\n利用条件：一般観覧・企画展・利用案内あり。地域史と複合災害の展示。\n公的主体：富岡町\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.manamori.jp/museum/index.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域の歴史と、震災・原子力災害の複合的な記録をあわせて読む。 利用条件：一般観覧・企画展・利用案内あり。地域史と複合災害の展示。 公的主体：富岡町",
+          "official": "https://www.manamori.jp/museum/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E5%AF%8C%E5%B2%A1%E7%94%BA%20%E3%81%A8%E3%81%BF%E3%81%8A%E3%81%8B%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E5%AF%8C%E5%B2%A1%E7%94%BA%20%E3%81%A8%E3%81%BF%E3%81%8A%E3%81%8B%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.manamori.jp/museum/index.html"
         },
         {
           "prefecture": "福島県",
@@ -12900,15 +13373,13 @@ window.FACILITY_DATASET={
           "name": "震災遺構 浪江町立請戸小学校",
           "type": "津波・震災遺構展示施設",
           "rank": "A",
-          "note": "被災校舎の公開部分を見学し、津波からの避難を学ぶ。\n利用条件：町公式から専用サイトを案内。被災校舎を一般公開。\n公的主体：浪江町\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.town.namie.fukushima.jp/soshiki/35/29757.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "被災校舎の公開部分を見学し、津波からの避難を学ぶ。 利用条件：町公式から専用サイトを案内。被災校舎を一般公開。 公的主体：浪江町",
+          "official": "https://www.town.namie.fukushima.jp/soshiki/35/29757.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E6%B5%AA%E6%B1%9F%E7%94%BA%20%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%20%E6%B5%AA%E6%B1%9F%E7%94%BA%E7%AB%8B%E8%AB%8B%E6%88%B8%E5%B0%8F%E5%AD%A6%E6%A0%A1",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E6%B5%AA%E6%B1%9F%E7%94%BA%20%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%20%E6%B5%AA%E6%B1%9F%E7%94%BA%E7%AB%8B%E8%AB%8B%E6%88%B8%E5%B0%8F%E5%AD%A6%E6%A0%A1\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.town.namie.fukushima.jp/soshiki/35/29757.html"
         },
         {
           "prefecture": "栃木県",
@@ -12916,15 +13387,13 @@ window.FACILITY_DATASET={
           "name": "栃木県防災館",
           "type": "防災館",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：無料。個人申込不要、10名以上は事前申込。\n公的主体：栃木県\n調査日：2026-09-15／公式検索結果で掲載案内確認／本文取得不可（閉鎖とは未判定）\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.t-bousaikan.jp/\n補足根拠：https://www.pref.tochigi.lg.jp/l51/prevent/bousai/chishiki/1183616253771.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：無料。個人申込不要、10名以上は事前申込。 公的主体：栃木県",
+          "official": "https://www.t-bousaikan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%20%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%98%B2%E7%81%BD%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%20%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%98%B2%E7%81%BD%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.t-bousaikan.jp/\n公式資料：https://www.pref.tochigi.lg.jp/l51/prevent/bousai/chishiki/1183616253771.html"
         },
         {
           "prefecture": "栃木県",
@@ -12932,15 +13401,13 @@ window.FACILITY_DATASET={
           "name": "SABOインフォメーションコーナー（日光郷土センター内）",
           "type": "砂防資料展示室",
           "rank": "B",
-          "note": "観光案内施設内の小規模展示。砂防施設のパネルと効果体験模型を見学する。\n利用条件：一般見学可・無料。砂防施設のパネル・効果体験模型を展示。\n公的主体：国土交通省\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.ktr.mlit.go.jp/nikko/nikko00017.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "観光案内施設内の小規模展示。砂防施設のパネルと効果体験模型を見学する。 利用条件：一般見学可・無料。砂防施設のパネル・効果体験模型を展示。 公的主体：国土交通省",
+          "official": "https://www.ktr.mlit.go.jp/nikko/nikko00017.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E6%97%A5%E5%85%89%E5%B8%82%20SABO%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%EF%BC%88%E6%97%A5%E5%85%89%E9%83%B7%E5%9C%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E6%97%A5%E5%85%89%E5%B8%82%20SABO%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%EF%BC%88%E6%97%A5%E5%85%89%E9%83%B7%E5%9C%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.ktr.mlit.go.jp/nikko/nikko00017.html"
         },
         {
           "prefecture": "群馬県",
@@ -12948,15 +13415,13 @@ window.FACILITY_DATASET={
           "name": "やんば天明泥流ミュージアム",
           "type": "火山災害伝承館",
           "rank": "S",
-          "note": "天明泥流の実物資料・模型・映像から、火山災害と当時の暮らしを学ぶ。\n利用条件：一般観覧可・有料。天明泥流の被災資料・映像・模型を展示。\n公的主体：長野原町\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.town.naganohara.gunma.jp/yamba-museum/guide.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "天明泥流の実物資料・模型・映像から、火山災害と当時の暮らしを学ぶ。 利用条件：一般観覧可・有料。天明泥流の被災資料・映像・模型を展示。 公的主体：長野原町",
+          "official": "https://www.town.naganohara.gunma.jp/yamba-museum/guide.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E9%95%B7%E9%87%8E%E5%8E%9F%E7%94%BA%20%E3%82%84%E3%82%93%E3%81%B0%E5%A4%A9%E6%98%8E%E6%B3%A5%E6%B5%81%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E9%95%B7%E9%87%8E%E5%8E%9F%E7%94%BA%20%E3%82%84%E3%82%93%E3%81%B0%E5%A4%A9%E6%98%8E%E6%B3%A5%E6%B5%81%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.town.naganohara.gunma.jp/yamba-museum/guide.html"
         },
         {
           "prefecture": "群馬県",
@@ -12964,15 +13429,13 @@ window.FACILITY_DATASET={
           "name": "浅間山北麓ビジターセンター",
           "type": "火山学習施設",
           "rank": "A",
-          "note": "浅間山の成り立ちをジオラマで学ぶ小規模施設。季節・曜日限定の訪問候補。\n利用条件：有料。2026年は4月24日〜11月30日の金土日祝営業。所在地は公式アクセスに記載の長野原町北軽井沢を採用。旧浅間記念館を改修した現施設。\n公的主体：長野原町（町営浅間園）\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.asamaen.tsumagoi.gunma.jp/kazan.html\n補足根拠：https://www.asamaen.tsumagoi.gunma.jp/access.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "浅間山の成り立ちをジオラマで学ぶ小規模施設。季節・曜日限定の訪問候補。 利用条件：有料。2026年は4月24日〜11月30日の金土日祝営業。所在地は公式アクセスに記載の長野原町北軽井沢を採用。旧浅間記念館を改修した現施設。 公的主体：長野原町（町営浅間園）",
+          "official": "https://www.asamaen.tsumagoi.gunma.jp/kazan.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E9%95%B7%E9%87%8E%E5%8E%9F%E7%94%BA%20%E6%B5%85%E9%96%93%E5%B1%B1%E5%8C%97%E9%BA%93%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E9%95%B7%E9%87%8E%E5%8E%9F%E7%94%BA%20%E6%B5%85%E9%96%93%E5%B1%B1%E5%8C%97%E9%BA%93%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.asamaen.tsumagoi.gunma.jp/kazan.html\n公式資料：https://www.asamaen.tsumagoi.gunma.jp/access.html"
         },
         {
           "prefecture": "埼玉県",
@@ -12980,15 +13443,13 @@ window.FACILITY_DATASET={
           "name": "利根川資料閲覧室（旧・利根川資料館）",
           "type": "治水資料館",
           "rank": "B",
-          "note": "利根川関係の資料を閲覧する予約型の施設。展示巡りより調べもの向け。\n利用条件：事前予約で誰でも閲覧可。7日前まで連絡。利用日・時間は公式利用案内参照。\n公的主体：国土交通省\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.ktr.mlit.go.jp/tonejo/tonejo_index011.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "利根川関係の資料を閲覧する予約型の施設。展示巡りより調べもの向け。 利用条件：事前予約で誰でも閲覧可。7日前まで連絡。利用日・時間は公式利用案内参照。 公的主体：国土交通省",
+          "official": "https://www.ktr.mlit.go.jp/tonejo/tonejo_index011.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E4%B9%85%E5%96%9C%E5%B8%82%20%E5%88%A9%E6%A0%B9%E5%B7%9D%E8%B3%87%E6%96%99%E9%96%B2%E8%A6%A7%E5%AE%A4%EF%BC%88%E6%97%A7%E3%83%BB%E5%88%A9%E6%A0%B9%E5%B7%9D%E8%B3%87%E6%96%99%E9%A4%A8%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E4%B9%85%E5%96%9C%E5%B8%82%20%E5%88%A9%E6%A0%B9%E5%B7%9D%E8%B3%87%E6%96%99%E9%96%B2%E8%A6%A7%E5%AE%A4%EF%BC%88%E6%97%A7%E3%83%BB%E5%88%A9%E6%A0%B9%E5%B7%9D%E8%B3%87%E6%96%99%E9%A4%A8%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.ktr.mlit.go.jp/tonejo/tonejo_index011.html"
         },
         {
           "prefecture": "埼玉県",
@@ -12996,15 +13457,13 @@ window.FACILITY_DATASET={
           "name": "埼玉県防災学習センター（能美防災そなーえ）",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：無料。団体は予約。体験項目に年齢制限あり。\n公的主体：埼玉県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://saitamabousai.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：無料。団体は予約。体験項目に年齢制限あり。 公的主体：埼玉県",
+          "official": "https://saitamabousai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E9%B4%BB%E5%B7%A3%E5%B8%82%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E8%83%BD%E7%BE%8E%E9%98%B2%E7%81%BD%E3%81%9D%E3%81%AA%E3%83%BC%E3%81%88%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E9%B4%BB%E5%B7%A3%E5%B8%82%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E8%83%BD%E7%BE%8E%E9%98%B2%E7%81%BD%E3%81%9D%E3%81%AA%E3%83%BC%E3%81%88%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://saitamabousai.jp/"
         },
         {
           "prefecture": "埼玉県",
@@ -13012,15 +13471,13 @@ window.FACILITY_DATASET={
           "name": "首都圏外郭放水路 龍Q館",
           "type": "治水・防災学習施設",
           "rank": "S",
-          "note": "首都圏外郭放水路を解説する展示を見学。地下施設まで見る場合は別途予約が必要。\n利用条件：展示室は予約不要・無料。地下施設見学は別途予約。月曜は見学会参加者のみ入館可。一部コンテンツ休止案内あり。\n公的主体：国土交通省・春日部市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.ktr.mlit.go.jp/edogawa/edogawa_index042.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "首都圏外郭放水路を解説する展示を見学。地下施設まで見る場合は別途予約が必要。 利用条件：展示室は予約不要・無料。地下施設見学は別途予約。月曜は見学会参加者のみ入館可。一部コンテンツ休止案内あり。 公的主体：国土交通省・春日部市",
+          "official": "https://www.ktr.mlit.go.jp/edogawa/edogawa_index042.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82%20%E9%A6%96%E9%83%BD%E5%9C%8F%E5%A4%96%E9%83%AD%E6%94%BE%E6%B0%B4%E8%B7%AF%20%E9%BE%8DQ%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82%20%E9%A6%96%E9%83%BD%E5%9C%8F%E5%A4%96%E9%83%AD%E6%94%BE%E6%B0%B4%E8%B7%AF%20%E9%BE%8DQ%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.ktr.mlit.go.jp/edogawa/edogawa_index042.html"
         },
         {
           "prefecture": "千葉県",
@@ -13028,15 +13485,13 @@ window.FACILITY_DATASET={
           "name": "千葉県西部防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：無料。体験ツアー事前予約。県案内に地震体験・総合テーマ室休止の記載あり（2025-08-25更新）。\n公的主体：千葉県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.chiba.lg.jp/bousaik/jibun/taiken/seibubousai.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：無料。体験ツアー事前予約。県案内に地震体験・総合テーマ室休止の記載あり（2025-08-25更新）。 公的主体：千葉県",
+          "official": "https://www.pref.chiba.lg.jp/bousaik/jibun/taiken/seibubousai.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%9D%BE%E6%88%B8%E5%B8%82%20%E5%8D%83%E8%91%89%E7%9C%8C%E8%A5%BF%E9%83%A8%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%9D%BE%E6%88%B8%E5%B8%82%20%E5%8D%83%E8%91%89%E7%9C%8C%E8%A5%BF%E9%83%A8%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.chiba.lg.jp/bousaik/jibun/taiken/seibubousai.html"
         },
         {
           "prefecture": "東京都",
@@ -13044,15 +13499,13 @@ window.FACILITY_DATASET={
           "name": "そなエリア東京（東京臨海広域防災公園）",
           "type": "防災体験施設",
           "rank": "S",
-          "note": "「東京直下72h TOUR」で、被災直後を想定した展示空間と防災拠点を見学する。\n利用条件：個人・家族と団体の見学案内あり。混雑時はツアー受付終了の場合あり。\n公的主体：国（国営公園）\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.tokyorinkai-koen.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "「東京直下72h TOUR」で、被災直後を想定した展示空間と防災拠点を見学する。 利用条件：個人・家族と団体の見学案内あり。混雑時はツアー受付終了の場合あり。 公的主体：国（国営公園）",
+          "official": "https://www.tokyorinkai-koen.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA%20%E3%81%9D%E3%81%AA%E3%82%A8%E3%83%AA%E3%82%A2%E6%9D%B1%E4%BA%AC%EF%BC%88%E6%9D%B1%E4%BA%AC%E8%87%A8%E6%B5%B7%E5%BA%83%E5%9F%9F%E9%98%B2%E7%81%BD%E5%85%AC%E5%9C%92%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA%20%E3%81%9D%E3%81%AA%E3%82%A8%E3%83%AA%E3%82%A2%E6%9D%B1%E4%BA%AC%EF%BC%88%E6%9D%B1%E4%BA%AC%E8%87%A8%E6%B5%B7%E5%BA%83%E5%9F%9F%E9%98%B2%E7%81%BD%E5%85%AC%E5%9C%92%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.tokyorinkai-koen.jp/"
         },
         {
           "prefecture": "東京都",
@@ -13060,15 +13513,13 @@ window.FACILITY_DATASET={
           "name": "消防博物館（東京消防庁消防防災資料センター）",
           "type": "消防資料館",
           "rank": "S",
-          "note": "消防車両・消防用具の実物と、江戸から現代への消防展示の変化を見比べる。\n利用条件：個人は予約不要。団体見学は公式利用案内を確認。\n公的主体：東京消防庁\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.tfd.metro.tokyo.lg.jp/taiken/hkkan/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "消防車両・消防用具の実物と、江戸から現代への消防展示の変化を見比べる。 利用条件：個人は予約不要。団体見学は公式利用案内を確認。 公的主体：東京消防庁",
+          "official": "https://www.tfd.metro.tokyo.lg.jp/taiken/hkkan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA%20%E6%B6%88%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%EF%BC%88%E6%9D%B1%E4%BA%AC%E6%B6%88%E9%98%B2%E5%BA%81%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BD%E8%B3%87%E6%96%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA%20%E6%B6%88%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%EF%BC%88%E6%9D%B1%E4%BA%AC%E6%B6%88%E9%98%B2%E5%BA%81%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BD%E8%B3%87%E6%96%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.tfd.metro.tokyo.lg.jp/taiken/hkkan/"
         },
         {
           "prefecture": "東京都",
@@ -13076,15 +13527,13 @@ window.FACILITY_DATASET={
           "name": "伊豆大島ミュージアム ジオノス（旧・伊豆大島火山博物館）",
           "type": "火山防災施設",
           "rank": "A",
-          "note": "旧火山博物館から更新された展示を訪ね、島の火山・自然・暮らしを学ぶ。\n利用条件：2025-07-01リニューアル開館。旧名称での重複掲載なし。\n公的主体：大島町\n調査日：2026-09-15／公式検索結果で掲載案内確認／本文取得不可（閉鎖とは未判定）\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.town.oshima.tokyo.jp/soshiki/kankou/geonous1.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "旧火山博物館から更新された展示を訪ね、島の火山・自然・暮らしを学ぶ。 利用条件：2025-07-01リニューアル開館。旧名称での重複掲載なし。 公的主体：大島町",
+          "official": "https://www.town.oshima.tokyo.jp/soshiki/kankou/geonous1.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E3%82%B8%E3%82%AA%E3%83%8E%E3%82%B9%EF%BC%88%E6%97%A7%E3%83%BB%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6%E7%81%AB%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E3%82%B8%E3%82%AA%E3%83%8E%E3%82%B9%EF%BC%88%E6%97%A7%E3%83%BB%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6%E7%81%AB%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.town.oshima.tokyo.jp/soshiki/kankou/geonous1.html"
         },
         {
           "prefecture": "東京都",
@@ -13092,15 +13541,13 @@ window.FACILITY_DATASET={
           "name": "しながわ防災体験館",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：一般向け展示・体験。団体予約時は貸切・体験制限の場合あり。2026年4月から第3土曜日の翌日曜日も休館。\n公的主体：品川区\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.shinagawa.tokyo.jp/PC/bosai/bosai2/taiken/taikenkan/hpg000027669.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：一般向け展示・体験。団体予約時は貸切・体験制限の場合あり。2026年4月から第3土曜日の翌日曜日も休館。 公的主体：品川区",
+          "official": "https://www.city.shinagawa.tokyo.jp/PC/bosai/bosai2/taiken/taikenkan/hpg000027669.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA%20%E3%81%97%E3%81%AA%E3%81%8C%E3%82%8F%E9%98%B2%E7%81%BD%E4%BD%93%E9%A8%93%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA%20%E3%81%97%E3%81%AA%E3%81%8C%E3%82%8F%E9%98%B2%E7%81%BD%E4%BD%93%E9%A8%93%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.shinagawa.tokyo.jp/PC/bosai/bosai2/taiken/taikenkan/hpg000027669.html"
         },
         {
           "prefecture": "東京都",
@@ -13108,15 +13555,13 @@ window.FACILITY_DATASET={
           "name": "池袋防災館",
           "type": "防災館",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：個人も体験の事前予約を案内。自由見学コーナーあり。\n公的主体：東京都・東京消防庁\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.tfd.metro.tokyo.lg.jp/taiken/ikebukuro/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：個人も体験の事前予約を案内。自由見学コーナーあり。 公的主体：東京都・東京消防庁",
+          "official": "https://www.tfd.metro.tokyo.lg.jp/taiken/ikebukuro/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA%20%E6%B1%A0%E8%A2%8B%E9%98%B2%E7%81%BD%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA%20%E6%B1%A0%E8%A2%8B%E9%98%B2%E7%81%BD%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.tfd.metro.tokyo.lg.jp/taiken/ikebukuro/"
         },
         {
           "prefecture": "東京都",
@@ -13124,15 +13569,13 @@ window.FACILITY_DATASET={
           "name": "荒川知水資料館（amoa）",
           "type": "治水資料館",
           "rank": "A",
-          "note": "荒川の治水を扱う資料館。河川と水防の公共展示に関心がある場合の候補。\n利用条件：無料。季節で閉館時刻変更。2026-08-31に2階通常利用再開の告知。\n公的主体：国土交通省\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.ara-amoa.com/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "荒川の治水を扱う資料館。河川と水防の公共展示に関心がある場合の候補。 利用条件：無料。季節で閉館時刻変更。2026-08-31に2階通常利用再開の告知。 公的主体：国土交通省",
+          "official": "https://www.ara-amoa.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA%20%E8%8D%92%E5%B7%9D%E7%9F%A5%E6%B0%B4%E8%B3%87%E6%96%99%E9%A4%A8%EF%BC%88amoa%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA%20%E8%8D%92%E5%B7%9D%E7%9F%A5%E6%B0%B4%E8%B3%87%E6%96%99%E9%A4%A8%EF%BC%88amoa%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.ara-amoa.com/"
         },
         {
           "prefecture": "東京都",
@@ -13140,15 +13583,13 @@ window.FACILITY_DATASET={
           "name": "東京都北区防災センター（地震の科学館）",
           "type": "地震科学館・防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：無料。一部体験は1名でも事前予約。\n公的主体：北区\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.kita.lg.jp/safety/disaster/1002639/1002675.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：無料。一部体験は1名でも事前予約。 公的主体：北区",
+          "official": "https://www.city.kita.lg.jp/safety/disaster/1002639/1002675.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%97%E5%8C%BA%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E5%9C%B0%E9%9C%87%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%97%E5%8C%BA%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E5%9C%B0%E9%9C%87%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.kita.lg.jp/safety/disaster/1002639/1002675.html"
         },
         {
           "prefecture": "東京都",
@@ -13156,15 +13597,13 @@ window.FACILITY_DATASET={
           "name": "本所防災館",
           "type": "防災館",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：無料。防災体験ツアーは予約制。自由見学あり。\n公的主体：東京都・東京消防庁\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.tfd.metro.tokyo.lg.jp/taiken/honjo/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：無料。防災体験ツアーは予約制。自由見学あり。 公的主体：東京都・東京消防庁",
+          "official": "https://www.tfd.metro.tokyo.lg.jp/taiken/honjo/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA%20%E6%9C%AC%E6%89%80%E9%98%B2%E7%81%BD%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA%20%E6%9C%AC%E6%89%80%E9%98%B2%E7%81%BD%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.tfd.metro.tokyo.lg.jp/taiken/honjo/"
         },
         {
           "prefecture": "東京都",
@@ -13172,15 +13611,13 @@ window.FACILITY_DATASET={
           "name": "立川防災館",
           "type": "防災館",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：一般向け体験・自由見学あり。消火コーナーは2026-04-18再開済み（室内一部立入禁止）。\n公的主体：東京都・東京消防庁\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.tfd.metro.tokyo.lg.jp/taiken/tachikawa/\n補足根拠：https://www.tfd.metro.tokyo.lg.jp/taiken/tachikawa/20240201_00003.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：一般向け体験・自由見学あり。消火コーナーは2026-04-18再開済み（室内一部立入禁止）。 公的主体：東京都・東京消防庁",
+          "official": "https://www.tfd.metro.tokyo.lg.jp/taiken/tachikawa/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E7%AB%8B%E5%B7%9D%E9%98%B2%E7%81%BD%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E7%AB%8B%E5%B7%9D%E9%98%B2%E7%81%BD%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.tfd.metro.tokyo.lg.jp/taiken/tachikawa/\n公式資料：https://www.tfd.metro.tokyo.lg.jp/taiken/tachikawa/20240201_00003.html"
         },
         {
           "prefecture": "東京都",
@@ -13188,15 +13625,13 @@ window.FACILITY_DATASET={
           "name": "練馬区立防災学習センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：無料展示室あり。予約不要の体験講座と要予約コースあり。\n公的主体：練馬区\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.nerima.tokyo.jp/shisetsu/bousai/bousaigaku/index.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：無料展示室あり。予約不要の体験講座と要予約コースあり。 公的主体：練馬区",
+          "official": "https://www.city.nerima.tokyo.jp/shisetsu/bousai/bousaigaku/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%E7%AB%8B%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%20%E7%B7%B4%E9%A6%AC%E5%8C%BA%E7%AB%8B%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.nerima.tokyo.jp/shisetsu/bousai/bousaigaku/index.html"
         },
         {
           "prefecture": "神奈川県",
@@ -13204,15 +13639,13 @@ window.FACILITY_DATASET={
           "name": "横浜市民防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：一般向け体験ツアー・プログラムと予約案内あり。\n公的主体：横浜市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://bo-sai.city.yokohama.lg.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：一般向け体験ツアー・プログラムと予約案内あり。 公的主体：横浜市",
+          "official": "https://bo-sai.city.yokohama.lg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://bo-sai.city.yokohama.lg.jp/"
         },
         {
           "prefecture": "神奈川県",
@@ -13220,15 +13653,13 @@ window.FACILITY_DATASET={
           "name": "神奈川県総合防災センター（防災情報・体験フロア）",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：9名以下予約不要。団体は予約案内参照。2026-12-20臨時休館告知あり。\n公的主体：神奈川県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.kanagawa.jp/docs/zn2/bousaicenter/homepage.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：9名以下予約不要。団体は予約案内参照。2026-12-20臨時休館告知あり。 公的主体：神奈川県",
+          "official": "https://www.pref.kanagawa.jp/docs/zn2/bousaicenter/homepage.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%B7%8F%E5%90%88%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E9%98%B2%E7%81%BD%E6%83%85%E5%A0%B1%E3%83%BB%E4%BD%93%E9%A8%93%E3%83%95%E3%83%AD%E3%82%A2%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%B7%8F%E5%90%88%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E9%98%B2%E7%81%BD%E6%83%85%E5%A0%B1%E3%83%BB%E4%BD%93%E9%A8%93%E3%83%95%E3%83%AD%E3%82%A2%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.kanagawa.jp/docs/zn2/bousaicenter/homepage.html"
         },
         {
           "prefecture": "新潟県",
@@ -13236,15 +13667,13 @@ window.FACILITY_DATASET={
           "name": "信濃川大河津資料館",
           "type": "治水資料館",
           "rank": "A",
-          "note": "大河津分水の常設展示と展望室を訪ね、河川改修の役割を学ぶ。\n利用条件：無料。常設展示・展望室。団体・学習支援は申込案内参照。\n公的主体：国土交通省\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.hrr.mlit.go.jp/shinano/ohkouzu/museum.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "大河津分水の常設展示と展望室を訪ね、河川改修の役割を学ぶ。 利用条件：無料。常設展示・展望室。団体・学習支援は申込案内参照。 公的主体：国土交通省",
+          "official": "https://www.hrr.mlit.go.jp/shinano/ohkouzu/museum.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82%20%E4%BF%A1%E6%BF%83%E5%B7%9D%E5%A4%A7%E6%B2%B3%E6%B4%A5%E8%B3%87%E6%96%99%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82%20%E4%BF%A1%E6%BF%83%E5%B7%9D%E5%A4%A7%E6%B2%B3%E6%B4%A5%E8%B3%87%E6%96%99%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.hrr.mlit.go.jp/shinano/ohkouzu/museum.html"
         },
         {
           "prefecture": "新潟県",
@@ -13252,15 +13681,13 @@ window.FACILITY_DATASET={
           "name": "おぢや震災ミュージアム そなえ館",
           "type": "震災伝承館・防災体験施設",
           "rank": "A",
-          "note": "ソコラテ内へ移転した震災ミュージアム。旧所在地との取り違えに注意して訪問する。\n利用条件：2026-07-01利用開始の移転先を採用。薭生丙299-1ソコラテ内。旧施設と混同注意。\n公的主体：小千谷市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.ojiya.niigata.jp/soshiki/bunkasports/sokorate-sonaekan.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "ソコラテ内へ移転した震災ミュージアム。旧所在地との取り違えに注意して訪問する。 利用条件：2026-07-01利用開始の移転先を採用。薭生丙299-1ソコラテ内。旧施設と混同注意。 公的主体：小千谷市",
+          "official": "https://www.city.ojiya.niigata.jp/soshiki/bunkasports/sokorate-sonaekan.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E5%B0%8F%E5%8D%83%E8%B0%B7%E5%B8%82%20%E8%96%AD%E7%94%9F%E4%B8%99299-1%20%E3%82%BD%E3%82%B3%E3%83%A9%E3%83%86%20%E3%81%9D%E3%81%AA%E3%81%88%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E5%B0%8F%E5%8D%83%E8%B0%B7%E5%B8%82%20%E8%96%AD%E7%94%9F%E4%B8%99299-1%20%E3%82%BD%E3%82%B3%E3%83%A9%E3%83%86%20%E3%81%9D%E3%81%AA%E3%81%88%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.ojiya.niigata.jp/soshiki/bunkasports/sokorate-sonaekan.html"
         },
         {
           "prefecture": "新潟県",
@@ -13268,15 +13695,13 @@ window.FACILITY_DATASET={
           "name": "地すべり資料館",
           "type": "砂防資料館",
           "rank": "S",
-          "note": "映像や模型を通して、地すべりの仕組みと対策工事を学ぶ専門資料館。\n利用条件：一般向け展示。冬季は開館時間短縮。所在地は板倉区猿供養寺。\n公的主体：新潟県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.niigata.lg.jp/sec/jouetsu_sabou/museum.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "映像や模型を通して、地すべりの仕組みと対策工事を学ぶ専門資料館。 利用条件：一般向け展示。冬季は開館時間短縮。所在地は板倉区猿供養寺。 公的主体：新潟県",
+          "official": "https://www.pref.niigata.lg.jp/sec/jouetsu_sabou/museum.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E4%B8%8A%E8%B6%8A%E5%B8%82%20%E5%9C%B0%E3%81%99%E3%81%B9%E3%82%8A%E8%B3%87%E6%96%99%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E4%B8%8A%E8%B6%8A%E5%B8%82%20%E5%9C%B0%E3%81%99%E3%81%B9%E3%82%8A%E8%B3%87%E6%96%99%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.niigata.lg.jp/sec/jouetsu_sabou/museum.html"
         },
         {
           "prefecture": "新潟県",
@@ -13284,15 +13709,13 @@ window.FACILITY_DATASET={
           "name": "新潟市消防局・中央消防署 エントランスホール展示",
           "type": "消防資料館・防災体験施設",
           "rank": "B",
-          "note": "消防署の公開ホールで、消防の歴史や防火・通報の展示を短時間で見学する。\n利用条件：エントランス展示は予約不要。他の施設を含む見学は10名以上の団体で要予約。災害時は中止の場合あり。\n公的主体：新潟市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.niigata.lg.jp/kurashi/bohan/shobo/kohoibentokousyukai/koho/tyousyakenngaku.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "消防署の公開ホールで、消防の歴史や防火・通報の展示を短時間で見学する。 利用条件：エントランス展示は予約不要。他の施設を含む見学は10名以上の団体で要予約。災害時は中止の場合あり。 公的主体：新潟市",
+          "official": "https://www.city.niigata.lg.jp/kurashi/bohan/shobo/kohoibentokousyukai/koho/tyousyakenngaku.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E6%96%B0%E6%BD%9F%E5%B8%82%E6%B6%88%E9%98%B2%E5%B1%80%E3%83%BB%E4%B8%AD%E5%A4%AE%E6%B6%88%E9%98%B2%E7%BD%B2%20%E3%82%A8%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E5%B1%95%E7%A4%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E6%96%B0%E6%BD%9F%E5%B8%82%E6%B6%88%E9%98%B2%E5%B1%80%E3%83%BB%E4%B8%AD%E5%A4%AE%E6%B6%88%E9%98%B2%E7%BD%B2%20%E3%82%A8%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E5%B1%95%E7%A4%BA\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.niigata.lg.jp/kurashi/bohan/shobo/kohoibentokousyukai/koho/tyousyakenngaku.html"
         },
         {
           "prefecture": "新潟県",
@@ -13300,15 +13723,13 @@ window.FACILITY_DATASET={
           "name": "やまこし復興交流館 おらたる",
           "type": "震災伝承館",
           "rank": "A",
-          "note": "山古志の震災と復興を学ぶ交流館。地域の記録を読む訪問先。\n利用条件：無料・予約不要で見学可。団体予約推奨。\n公的主体：長岡市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://orataru.net/information-2/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "山古志の震災と復興を学ぶ交流館。地域の記録を読む訪問先。 利用条件：無料・予約不要で見学可。団体予約推奨。 公的主体：長岡市",
+          "official": "https://orataru.net/information-2/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E9%95%B7%E5%B2%A1%E5%B8%82%20%E3%82%84%E3%81%BE%E3%81%93%E3%81%97%E5%BE%A9%E8%88%88%E4%BA%A4%E6%B5%81%E9%A4%A8%20%E3%81%8A%E3%82%89%E3%81%9F%E3%82%8B",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E9%95%B7%E5%B2%A1%E5%B8%82%20%E3%82%84%E3%81%BE%E3%81%93%E3%81%97%E5%BE%A9%E8%88%88%E4%BA%A4%E6%B5%81%E9%A4%A8%20%E3%81%8A%E3%82%89%E3%81%9F%E3%82%8B\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://orataru.net/information-2/"
         },
         {
           "prefecture": "富山県",
@@ -13316,15 +13737,13 @@ window.FACILITY_DATASET={
           "name": "四季防災館（ALSOKとやま四季防災館）",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：2026-04-21リニューアル。体験予約状況を確認して来館。\n公的主体：富山県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://shikibousaikan.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：2026-04-21リニューアル。体験予約状況を確認して来館。 公的主体：富山県",
+          "official": "https://shikibousaikan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82%20%E5%9B%9B%E5%AD%A3%E9%98%B2%E7%81%BD%E9%A4%A8%EF%BC%88ALSOK%E3%81%A8%E3%82%84%E3%81%BE%E5%9B%9B%E5%AD%A3%E9%98%B2%E7%81%BD%E9%A4%A8%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82%20%E5%9B%9B%E5%AD%A3%E9%98%B2%E7%81%BD%E9%A4%A8%EF%BC%88ALSOK%E3%81%A8%E3%82%84%E3%81%BE%E5%9B%9B%E5%AD%A3%E9%98%B2%E7%81%BD%E9%A4%A8%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://shikibousaikan.jp/"
         },
         {
           "prefecture": "富山県",
@@ -13332,15 +13751,13 @@ window.FACILITY_DATASET={
           "name": "富山県立山カルデラ砂防博物館",
           "type": "砂防資料館",
           "rank": "S",
-          "note": "立山の自然と砂防を扱う博物館。砂防という専門分野の展示をまとまって見たい。\n利用条件：一般観覧可。冬季は閉館時間短縮。屋外体験学習は別途申込。\n公的主体：富山県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.tatecal.or.jp/tatecal/index.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "立山の自然と砂防を扱う博物館。砂防という専門分野の展示をまとまって見たい。 利用条件：一般観覧可。冬季は閉館時間短縮。屋外体験学習は別途申込。 公的主体：富山県",
+          "official": "https://www.tatecal.or.jp/tatecal/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E7%AB%8B%E5%B1%B1%E7%94%BA%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%87%E3%83%A9%E7%A0%82%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E7%AB%8B%E5%B1%B1%E7%94%BA%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%87%E3%83%A9%E7%A0%82%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.tatecal.or.jp/tatecal/index.html"
         },
         {
           "prefecture": "石川県",
@@ -13348,15 +13765,13 @@ window.FACILITY_DATASET={
           "name": "白山砂防科学館",
           "type": "砂防資料館",
           "rank": "A",
-          "note": "白山の災害と砂防を、映像・模型・無人化施工体験などから知る。\n利用条件：一般見学可・無料。団体の説明希望は事前申込。\n公的主体：国土交通省\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.hrr.mlit.go.jp/kanazawa/hakusansabo/08kagakukan/kagakukan01.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "白山の災害と砂防を、映像・模型・無人化施工体験などから知る。 利用条件：一般見学可・無料。団体の説明希望は事前申込。 公的主体：国土交通省",
+          "official": "https://www.hrr.mlit.go.jp/kanazawa/hakusansabo/08kagakukan/kagakukan01.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E7%99%BD%E5%B1%B1%E5%B8%82%20%E7%99%BD%E5%B1%B1%E7%A0%82%E9%98%B2%E7%A7%91%E5%AD%A6%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E7%99%BD%E5%B1%B1%E5%B8%82%20%E7%99%BD%E5%B1%B1%E7%A0%82%E9%98%B2%E7%A7%91%E5%AD%A6%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.hrr.mlit.go.jp/kanazawa/hakusansabo/08kagakukan/kagakukan01.html"
         },
         {
           "prefecture": "福井県",
@@ -13364,15 +13779,13 @@ window.FACILITY_DATASET={
           "name": "福井市防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：防火・防災の学習施設。利用条件は市の施設案内参照。\n公的主体：福井市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.fukui.lg.jp/kurasi/bosai/bosai/p000109.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：防火・防災の学習施設。利用条件は市の施設案内参照。 公的主体：福井市",
+          "official": "https://www.city.fukui.lg.jp/kurasi/bosai/bosai/p000109.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E7%A6%8F%E4%BA%95%E5%B8%82%20%E7%A6%8F%E4%BA%95%E5%B8%82%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E7%A6%8F%E4%BA%95%E5%B8%82%20%E7%A6%8F%E4%BA%95%E5%B8%82%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.fukui.lg.jp/kurasi/bosai/bosai/p000109.html"
         },
         {
           "prefecture": "山梨県",
@@ -13380,15 +13793,13 @@ window.FACILITY_DATASET={
           "name": "山梨県立防災安全センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：個人も利用可。無料。見学・体験・講義の申込方法は利用案内参照。\n公的主体：山梨県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://yamanashi-bousai.or.jp/riyou/97/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：個人も利用可。無料。見学・体験・講義の申込方法は利用案内参照。 公的主体：山梨県",
+          "official": "https://yamanashi-bousai.or.jp/riyou/97/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E4%B8%AD%E5%A4%AE%E5%B8%82%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AB%8B%E9%98%B2%E7%81%BD%E5%AE%89%E5%85%A8%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E4%B8%AD%E5%A4%AE%E5%B8%82%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AB%8B%E9%98%B2%E7%81%BD%E5%AE%89%E5%85%A8%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://yamanashi-bousai.or.jp/riyou/97/"
         },
         {
           "prefecture": "長野県",
@@ -13396,15 +13807,13 @@ window.FACILITY_DATASET={
           "name": "長野県立御嶽山ビジターセンター（やまテラス王滝）",
           "type": "火山防災施設",
           "rank": "A",
-          "note": "噴火災害の伝承と安全登山を学ぶ拠点。二つのセンターの違いも見たい。\n利用条件：季節開館。2026年5月2日～11月3日予定。天候で変更あり。\n公的主体：長野県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://ontake-vc.jp/yama/facility/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "噴火災害の伝承と安全登山を学ぶ拠点。二つのセンターの違いも見たい。 利用条件：季節開館。2026年5月2日～11月3日予定。天候で変更あり。 公的主体：長野県",
+          "official": "https://ontake-vc.jp/yama/facility/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E7%8E%8B%E6%BB%9D%E6%9D%91%20%E9%95%B7%E9%87%8E%E7%9C%8C%E7%AB%8B%E5%BE%A1%E5%B6%BD%E5%B1%B1%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%82%84%E3%81%BE%E3%83%86%E3%83%A9%E3%82%B9%E7%8E%8B%E6%BB%9D%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E7%8E%8B%E6%BB%9D%E6%9D%91%20%E9%95%B7%E9%87%8E%E7%9C%8C%E7%AB%8B%E5%BE%A1%E5%B6%BD%E5%B1%B1%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%82%84%E3%81%BE%E3%83%86%E3%83%A9%E3%82%B9%E7%8E%8B%E6%BB%9D%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://ontake-vc.jp/yama/facility/"
         },
         {
           "prefecture": "長野県",
@@ -13412,15 +13821,13 @@ window.FACILITY_DATASET={
           "name": "木曽町御嶽山ビジターセンター（さとテラス三岳）",
           "type": "火山防災施設",
           "rank": "A",
-          "note": "噴火災害の伝承と安全登山を学ぶ拠点。二つのセンターの違いも見たい。\n利用条件：一般展示。噴火災害伝承・安全登山情報。\n公的主体：木曽町\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://ontake-vc.jp/sato/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "噴火災害の伝承と安全登山を学ぶ拠点。二つのセンターの違いも見たい。 利用条件：一般展示。噴火災害伝承・安全登山情報。 公的主体：木曽町",
+          "official": "https://ontake-vc.jp/sato/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9C%A8%E6%9B%BD%E7%94%BA%20%E6%9C%A8%E6%9B%BD%E7%94%BA%E5%BE%A1%E5%B6%BD%E5%B1%B1%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%81%95%E3%81%A8%E3%83%86%E3%83%A9%E3%82%B9%E4%B8%89%E5%B2%B3%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9C%A8%E6%9B%BD%E7%94%BA%20%E6%9C%A8%E6%9B%BD%E7%94%BA%E5%BE%A1%E5%B6%BD%E5%B1%B1%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%81%95%E3%81%A8%E3%83%86%E3%83%A9%E3%82%B9%E4%B8%89%E5%B2%B3%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://ontake-vc.jp/sato/"
         },
         {
           "prefecture": "岐阜県",
@@ -13428,15 +13835,13 @@ window.FACILITY_DATASET={
           "name": "岐阜県さぼう遊学館",
           "type": "砂防資料館",
           "rank": "A",
-          "note": "土砂災害の特徴と避難を学ぶ展示。説明を希望する場合は事前申込が有用。\n利用条件：展示は自由見学・無料。団体利用・専門家による説明は申込。\n公的主体：岐阜県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.gifu.lg.jp/page/2259.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "土砂災害の特徴と避難を学ぶ展示。説明を希望する場合は事前申込が有用。 利用条件：展示は自由見学・無料。団体利用・専門家による説明は申込。 公的主体：岐阜県",
+          "official": "https://www.pref.gifu.lg.jp/page/2259.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E6%B5%B7%E6%B4%A5%E5%B8%82%20%E5%B2%90%E9%98%9C%E7%9C%8C%E3%81%95%E3%81%BC%E3%81%86%E9%81%8A%E5%AD%A6%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E6%B5%B7%E6%B4%A5%E5%B8%82%20%E5%B2%90%E9%98%9C%E7%9C%8C%E3%81%95%E3%81%BC%E3%81%86%E9%81%8A%E5%AD%A6%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.gifu.lg.jp/page/2259.html"
         },
         {
           "prefecture": "岐阜県",
@@ -13444,15 +13849,13 @@ window.FACILITY_DATASET={
           "name": "大垣市輪中館",
           "type": "治水資料館",
           "rank": "A",
-          "note": "水防工法の模型や輪中の景観展示から、暮らしと治水の関係を読む。\n利用条件：一般見学可・無料。輪中の歴史・水防工法等を展示。\n公的主体：大垣市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.ogaki.lg.jp/0000000609.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "水防工法の模型や輪中の景観展示から、暮らしと治水の関係を読む。 利用条件：一般見学可・無料。輪中の歴史・水防工法等を展示。 公的主体：大垣市",
+          "official": "https://www.city.ogaki.lg.jp/0000000609.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%A4%A7%E5%9E%A3%E5%B8%82%20%E5%A4%A7%E5%9E%A3%E5%B8%82%E8%BC%AA%E4%B8%AD%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%A4%A7%E5%9E%A3%E5%B8%82%20%E5%A4%A7%E5%9E%A3%E5%B8%82%E8%BC%AA%E4%B8%AD%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.ogaki.lg.jp/0000000609.html"
         },
         {
           "prefecture": "岐阜県",
@@ -13460,15 +13863,13 @@ window.FACILITY_DATASET={
           "name": "大垣市輪中生活館",
           "type": "治水資料館",
           "rank": "S",
-          "note": "旧名和邸の住居式・土蔵式の水屋など、水害に備えた建築を観察する。\n利用条件：原則土日祝公開・無料。平日は輪中館に相談。水屋・上げ舟等を展示。輪中館とは別所在地。\n公的主体：大垣市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.ogaki.lg.jp/0000000609.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "旧名和邸の住居式・土蔵式の水屋など、水害に備えた建築を観察する。 利用条件：原則土日祝公開・無料。平日は輪中館に相談。水屋・上げ舟等を展示。輪中館とは別所在地。 公的主体：大垣市",
+          "official": "https://www.city.ogaki.lg.jp/0000000609.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%A4%A7%E5%9E%A3%E5%B8%82%20%E5%A4%A7%E5%9E%A3%E5%B8%82%E8%BC%AA%E4%B8%AD%E7%94%9F%E6%B4%BB%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%A4%A7%E5%9E%A3%E5%B8%82%20%E5%A4%A7%E5%9E%A3%E5%B8%82%E8%BC%AA%E4%B8%AD%E7%94%9F%E6%B4%BB%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.ogaki.lg.jp/0000000609.html"
         },
         {
           "prefecture": "岐阜県",
@@ -13476,15 +13877,13 @@ window.FACILITY_DATASET={
           "name": "根尾谷地震断層観察館",
           "type": "地震科学・震災資料館",
           "rank": "S",
-          "note": "館内を横切る根尾谷断層を観察し、濃尾地震の記録を読む。\n利用条件：一般見学可・有料。2026年4月から10〜16時。地震体験館は機械メンテナンスで利用休止。\n公的主体：本巣市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.motosu.lg.jp/0000001399.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "館内を横切る根尾谷断層を観察し、濃尾地震の記録を読む。 利用条件：一般見学可・有料。2026年4月から10〜16時。地震体験館は機械メンテナンスで利用休止。 公的主体：本巣市",
+          "official": "https://www.city.motosu.lg.jp/0000001399.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E6%9C%AC%E5%B7%A3%E5%B8%82%20%E6%A0%B9%E5%B0%BE%E8%B0%B7%E5%9C%B0%E9%9C%87%E6%96%AD%E5%B1%A4%E8%A6%B3%E5%AF%9F%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%20%E6%9C%AC%E5%B7%A3%E5%B8%82%20%E6%A0%B9%E5%B0%BE%E8%B0%B7%E5%9C%B0%E9%9C%87%E6%96%AD%E5%B1%A4%E8%A6%B3%E5%AF%9F%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.motosu.lg.jp/0000001399.html"
         },
         {
           "prefecture": "静岡県",
@@ -13492,15 +13891,13 @@ window.FACILITY_DATASET={
           "name": "静岡県地震防災センター",
           "type": "地震防災施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：無料。個人の案内不要見学は予約不要。地震体験は予約状況により不可。\n公的主体：静岡県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.shizuoka.jp/bosaikinkyu/sonae/earthquake/bosaicenter/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：無料。個人の案内不要見学は予約不要。地震体験は予約状況により不可。 公的主体：静岡県",
+          "official": "https://www.pref.shizuoka.jp/bosaikinkyu/sonae/earthquake/bosaicenter/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%20%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%9C%B0%E9%9C%87%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%20%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%9C%B0%E9%9C%87%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.shizuoka.jp/bosaikinkyu/sonae/earthquake/bosaicenter/"
         },
         {
           "prefecture": "静岡県",
@@ -13508,15 +13905,13 @@ window.FACILITY_DATASET={
           "name": "浜松市防災学習センター（はま防～家）",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：一般向け展示・体験・講座。現住所は中央区（旧区名に注意）。\n公的主体：浜松市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.hamabosai.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：一般向け展示・体験・講座。現住所は中央区（旧区名に注意）。 公的主体：浜松市",
+          "official": "https://www.hamabosai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%B5%9C%E6%9D%BE%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E6%B5%9C%E6%9D%BE%E5%B8%82%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%81%AF%E3%81%BE%E9%98%B2%EF%BD%9E%E5%AE%B6%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%B5%9C%E6%9D%BE%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E6%B5%9C%E6%9D%BE%E5%B8%82%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%81%AF%E3%81%BE%E9%98%B2%EF%BD%9E%E5%AE%B6%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.hamabosai.jp/"
         },
         {
           "prefecture": "愛知県",
@@ -13524,15 +13919,13 @@ window.FACILITY_DATASET={
           "name": "豊田市防災学習センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：個人は自由見学。団体予約中は個人体験不可。10名以上は予約。\n公的主体：豊田市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.toyota.aichi.jp/shisei/shisetsu/gakushu/bousaigakushucenter/1005790.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：個人は自由見学。団体予約中は個人体験不可。10名以上は予約。 公的主体：豊田市",
+          "official": "https://www.city.toyota.aichi.jp/shisei/shisetsu/gakushu/bousaigakushucenter/1005790.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E7%94%B0%E5%B8%82%20%E8%B1%8A%E7%94%B0%E5%B8%82%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E7%94%B0%E5%B8%82%20%E8%B1%8A%E7%94%B0%E5%B8%82%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.toyota.aichi.jp/shisei/shisetsu/gakushu/bousaigakushucenter/1005790.html"
         },
         {
           "prefecture": "愛知県",
@@ -13540,15 +13933,13 @@ window.FACILITY_DATASET={
           "name": "名古屋市港防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：入場・体験無料。伊勢湾台風資料展示あり。\n公的主体：名古屋市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.minato-bousai.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：入場・体験無料。伊勢湾台風資料展示あり。 公的主体：名古屋市",
+          "official": "https://www.minato-bousai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%B8%AF%E5%8C%BA%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%B8%AF%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%B8%AF%E5%8C%BA%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%B8%AF%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.minato-bousai.jp/"
         },
         {
           "prefecture": "三重県",
@@ -13556,15 +13947,13 @@ window.FACILITY_DATASET={
           "name": "防災資料館 アクアプラザながら",
           "type": "治水資料館",
           "rank": "A",
-          "note": "木曽三川と長良川河口堰の役割を学ぶ防災資料館。平日の訪問候補。\n利用条件：一般見学可。2025年4月から平日のみ10〜16時。祝日・年末年始・5月1日休館。\n公的主体：独立行政法人水資源機構\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.water.go.jp/chubu/nagara/51_plaza/index.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "木曽三川と長良川河口堰の役割を学ぶ防災資料館。平日の訪問候補。 利用条件：一般見学可。2025年4月から平日のみ10〜16時。祝日・年末年始・5月1日休館。 公的主体：独立行政法人水資源機構",
+          "official": "https://www.water.go.jp/chubu/nagara/51_plaza/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%20%E6%A1%91%E5%90%8D%E5%B8%82%20%E9%98%B2%E7%81%BD%E8%B3%87%E6%96%99%E9%A4%A8%20%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%97%E3%83%A9%E3%82%B6%E3%81%AA%E3%81%8C%E3%82%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%20%E6%A1%91%E5%90%8D%E5%B8%82%20%E9%98%B2%E7%81%BD%E8%B3%87%E6%96%99%E9%A4%A8%20%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%97%E3%83%A9%E3%82%B6%E3%81%AA%E3%81%8C%E3%82%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.water.go.jp/chubu/nagara/51_plaza/index.html"
         },
         {
           "prefecture": "三重県",
@@ -13572,15 +13961,13 @@ window.FACILITY_DATASET={
           "name": "四日市市防災教育センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：見学は予約が必要。2024年に北消防署併設施設へリニューアル。\n公的主体：四日市市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://yokkaichisyoubou.jp/organization/08-2/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：見学は予約が必要。2024年に北消防署併設施設へリニューアル。 公的主体：四日市市",
+          "official": "https://yokkaichisyoubou.jp/organization/08-2/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%20%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82%20%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82%E9%98%B2%E7%81%BD%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%20%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82%20%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82%E9%98%B2%E7%81%BD%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://yokkaichisyoubou.jp/organization/08-2/"
         },
         {
           "prefecture": "滋賀県",
@@ -13588,15 +13975,13 @@ window.FACILITY_DATASET={
           "name": "水のめぐみ館 アクア琵琶",
           "type": "治水資料館",
           "rank": "A",
-          "note": "琵琶湖の治水・利水を扱う展示。水管理施設の広報展示を見比べたい。\n利用条件：一般見学可・無料。昼休みあり。雨体験室は故障による休止案内あり。\n公的主体：国土交通省\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.kkr.mlit.go.jp/biwako/aquabiwa/access/index.html\n補足根拠：https://www.kkr.mlit.go.jp/biwako/aquabiwa/aqua/index.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "琵琶湖の治水・利水を扱う展示。水管理施設の広報展示を見比べたい。 利用条件：一般見学可・無料。昼休みあり。雨体験室は故障による休止案内あり。 公的主体：国土交通省",
+          "official": "https://www.kkr.mlit.go.jp/biwako/aquabiwa/access/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82%20%E6%B0%B4%E3%81%AE%E3%82%81%E3%81%90%E3%81%BF%E9%A4%A8%20%E3%82%A2%E3%82%AF%E3%82%A2%E7%90%B5%E7%90%B6",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82%20%E6%B0%B4%E3%81%AE%E3%82%81%E3%81%90%E3%81%BF%E9%A4%A8%20%E3%82%A2%E3%82%AF%E3%82%A2%E7%90%B5%E7%90%B6\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.kkr.mlit.go.jp/biwako/aquabiwa/access/index.html\n公式資料：https://www.kkr.mlit.go.jp/biwako/aquabiwa/aqua/index.html"
         },
         {
           "prefecture": "京都府",
@@ -13604,15 +13989,13 @@ window.FACILITY_DATASET={
           "name": "京都市市民防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：一般向け体験案内・体験時間割あり。\n公的主体：京都市\n調査日：2026-09-15／公式検索結果で掲載案内確認／本文取得不可（閉鎖とは未判定）\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://kyotobousai-c.com/\n補足根拠：https://www.city.kyoto.lg.jp/shobo/page/0000356918.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：一般向け体験案内・体験時間割あり。 公的主体：京都市",
+          "official": "https://kyotobousai-c.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8D%97%E5%8C%BA%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8D%97%E5%8C%BA%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://kyotobousai-c.com/\n公式資料：https://www.city.kyoto.lg.jp/shobo/page/0000356918.html"
         },
         {
           "prefecture": "京都府",
@@ -13620,15 +14003,13 @@ window.FACILITY_DATASET={
           "name": "福知山市治水記念館",
           "type": "治水資料館",
           "rank": "S",
-          "note": "水害を経験した町家を活用した記念館。建物と洪水の記録をあわせて見る。\n利用条件：一般見学可・無料。休館日の振替に注意。\n公的主体：福知山市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.fukuchiyama.lg.jp/soshiki/7/64667.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "水害を経験した町家を活用した記念館。建物と洪水の記録をあわせて見る。 利用条件：一般見学可・無料。休館日の振替に注意。 公的主体：福知山市",
+          "official": "https://www.city.fukuchiyama.lg.jp/soshiki/7/64667.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%20%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%E6%B2%BB%E6%B0%B4%E8%A8%98%E5%BF%B5%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%20%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%E6%B2%BB%E6%B0%B4%E8%A8%98%E5%BF%B5%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.fukuchiyama.lg.jp/soshiki/7/64667.html"
         },
         {
           "prefecture": "大阪府",
@@ -13636,15 +14017,13 @@ window.FACILITY_DATASET={
           "name": "堺市総合防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：一般向けの防災体験ツアー。無料体験施設として市が案内。\n公的主体：堺市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.sakai.lg.jp/kurashi/bosai/shobo/shokai/bousai_center/index.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：一般向けの防災体験ツアー。無料体験施設として市が案内。 公的主体：堺市",
+          "official": "https://www.city.sakai.lg.jp/kurashi/bosai/shobo/shokai/bousai_center/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A0%BA%E5%B8%82%E7%BE%8E%E5%8E%9F%E5%8C%BA%20%E5%A0%BA%E5%B8%82%E7%B7%8F%E5%90%88%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A0%BA%E5%B8%82%E7%BE%8E%E5%8E%9F%E5%8C%BA%20%E5%A0%BA%E5%B8%82%E7%B7%8F%E5%90%88%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.sakai.lg.jp/kurashi/bosai/shobo/shokai/bousai_center/index.html"
         },
         {
           "prefecture": "大阪府",
@@ -13652,15 +14031,13 @@ window.FACILITY_DATASET={
           "name": "大阪市立阿倍野防災センター（あべのタスカル）",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：一般向けツアー・予約案内あり。震度7体験は2025年10月〜2027年3月、起震装置更新のため休止。他の体験は実施。\n公的主体：大阪市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.abeno-bosai-c.city.osaka.jp/tasukaru/\n補足根拠：https://www.abeno-bosai-c.city.osaka.jp/tasukaru/events\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：一般向けツアー・予約案内あり。震度7体験は2025年10月〜2027年3月、起震装置更新のため休止。他の体験は実施。 公的主体：大阪市",
+          "official": "https://www.abeno-bosai-c.city.osaka.jp/tasukaru/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%20%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E9%98%BF%E5%80%8D%E9%87%8E%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%81%82%E3%81%B9%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AB%E3%83%AB%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%20%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E9%98%BF%E5%80%8D%E9%87%8E%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%81%82%E3%81%B9%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AB%E3%83%AB%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.abeno-bosai-c.city.osaka.jp/tasukaru/\n公式資料：https://www.abeno-bosai-c.city.osaka.jp/tasukaru/events"
         },
         {
           "prefecture": "大阪府",
@@ -13668,15 +14045,13 @@ window.FACILITY_DATASET={
           "name": "津波・高潮ステーション",
           "type": "津波・高潮防災施設",
           "rank": "S",
-          "note": "大阪の津波・高潮対策を学ぶ展示棟。四面映像のシアターが見学の中心。\n利用条件：一般見学できる展示棟。団体は予約案内参照。\n公的主体：大阪府\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.osaka.lg.jp/shisetsu/o130350/shisetsu_000073.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "大阪の津波・高潮対策を学ぶ展示棟。四面映像のシアターが見学の中心。 利用条件：一般見学できる展示棟。団体は予約案内参照。 公的主体：大阪府",
+          "official": "https://www.pref.osaka.lg.jp/shisetsu/o130350/shisetsu_000073.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%20%E6%B4%A5%E6%B3%A2%E3%83%BB%E9%AB%98%E6%BD%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%20%E6%B4%A5%E6%B3%A2%E3%83%BB%E9%AB%98%E6%BD%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.osaka.lg.jp/shisetsu/o130350/shisetsu_000073.html"
         },
         {
           "prefecture": "大阪府",
@@ -13684,15 +14059,13 @@ window.FACILITY_DATASET={
           "name": "東大阪市消防局防災学習センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：土日祝は個人も予約必要。貸切日は個人入館不可。\n公的主体：東大阪市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.higashiosaka-bousai.com/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：土日祝は個人も予約必要。貸切日は個人入館不可。 公的主体：東大阪市",
+          "official": "https://www.higashiosaka-bousai.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82%20%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B6%88%E9%98%B2%E5%B1%80%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82%20%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B6%88%E9%98%B2%E5%B1%80%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.higashiosaka-bousai.com/"
         },
         {
           "prefecture": "大阪府",
@@ -13700,15 +14073,13 @@ window.FACILITY_DATASET={
           "name": "淀川資料館",
           "type": "治水資料館",
           "rank": "A",
-          "note": "淀川の治水資料を見学する。所蔵資料の閲覧希望は事前に問い合わせたい。\n利用条件：無料。一般展示。所蔵資料閲覧は平日の開館時間中に事前問い合わせ。\n公的主体：国土交通省\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.kkr.mlit.go.jp/yodogawa/shisetu/yodo-museum/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "淀川の治水資料を見学する。所蔵資料の閲覧希望は事前に問い合わせたい。 利用条件：無料。一般展示。所蔵資料閲覧は平日の開館時間中に事前問い合わせ。 公的主体：国土交通省",
+          "official": "https://www.kkr.mlit.go.jp/yodogawa/shisetu/yodo-museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%9E%9A%E6%96%B9%E5%B8%82%20%E6%B7%80%E5%B7%9D%E8%B3%87%E6%96%99%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%9E%9A%E6%96%B9%E5%B8%82%20%E6%B7%80%E5%B7%9D%E8%B3%87%E6%96%99%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.kkr.mlit.go.jp/yodogawa/shisetu/yodo-museum/"
         },
         {
           "prefecture": "兵庫県",
@@ -13716,15 +14087,13 @@ window.FACILITY_DATASET={
           "name": "阪神・淡路大震災記念 人と防災未来センター",
           "type": "震災伝承館・防災体験施設",
           "rank": "A",
-          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。\n利用条件：一般観覧案内あり。有料展示と無料ゾーンあり。\n公的主体：兵庫県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.dri.ne.jp/guide/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "地域に残された災害の記録を読み、避難と復興の教訓を学ぶ訪問先。 利用条件：一般観覧案内あり。有料展示と無料ゾーンあり。 公的主体：兵庫県",
+          "official": "https://www.dri.ne.jp/guide/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E9%98%AA%E7%A5%9E%E3%83%BB%E6%B7%A1%E8%B7%AF%E5%A4%A7%E9%9C%87%E7%81%BD%E8%A8%98%E5%BF%B5%20%E4%BA%BA%E3%81%A8%E9%98%B2%E7%81%BD%E6%9C%AA%E6%9D%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E9%98%AA%E7%A5%9E%E3%83%BB%E6%B7%A1%E8%B7%AF%E5%A4%A7%E9%9C%87%E7%81%BD%E8%A8%98%E5%BF%B5%20%E4%BA%BA%E3%81%A8%E9%98%B2%E7%81%BD%E6%9C%AA%E6%9D%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.dri.ne.jp/guide/"
         },
         {
           "prefecture": "兵庫県",
@@ -13732,15 +14101,13 @@ window.FACILITY_DATASET={
           "name": "北淡震災記念公園 野島断層保存館",
           "type": "地震・震災伝承館",
           "rank": "S",
-          "note": "保存された断層そのものを観察する、現地保存型の地震展示。\n利用条件：予約なしでも入館可。断層保存展示。\n公的主体：淡路市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.nojima-danso.co.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "保存された断層そのものを観察する、現地保存型の地震展示。 利用条件：予約なしでも入館可。断層保存展示。 公的主体：淡路市",
+          "official": "https://www.nojima-danso.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%B7%A1%E8%B7%AF%E5%B8%82%20%E5%8C%97%E6%B7%A1%E9%9C%87%E7%81%BD%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92%20%E9%87%8E%E5%B3%B6%E6%96%AD%E5%B1%A4%E4%BF%9D%E5%AD%98%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%B7%A1%E8%B7%AF%E5%B8%82%20%E5%8C%97%E6%B7%A1%E9%9C%87%E7%81%BD%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92%20%E9%87%8E%E5%B3%B6%E6%96%AD%E5%B1%A4%E4%BF%9D%E5%AD%98%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.nojima-danso.co.jp/"
         },
         {
           "prefecture": "兵庫県",
@@ -13748,15 +14115,13 @@ window.FACILITY_DATASET={
           "name": "尼崎市防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：1階展示ホールは申込不要で自由見学可。体験は事前問い合わせ。\n公的主体：尼崎市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.amagasaki.hyogo.jp/manabu/kanko/spots/1040981.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：1階展示ホールは申込不要で自由見学可。体験は事前問い合わせ。 公的主体：尼崎市",
+          "official": "https://www.city.amagasaki.hyogo.jp/manabu/kanko/spots/1040981.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%B0%BC%E5%B4%8E%E5%B8%82%20%E5%B0%BC%E5%B4%8E%E5%B8%82%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%B0%BC%E5%B4%8E%E5%B8%82%20%E5%B0%BC%E5%B4%8E%E5%B8%82%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.amagasaki.hyogo.jp/manabu/kanko/spots/1040981.html"
         },
         {
           "prefecture": "和歌山県",
@@ -13764,15 +14129,13 @@ window.FACILITY_DATASET={
           "name": "稲むらの火の館（津波防災教育センター・濱口梧陵記念館）",
           "type": "津波防災施設",
           "rank": "S",
-          "note": "津波への備えと濱口梧陵の歴史を、併設する二つの展示施設で学ぶ。\n利用条件：一般観覧可。団体見学は事前申込。\n公的主体：広川町\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.town.hirogawa.wakayama.jp/inamuranohi/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "津波への備えと濱口梧陵の歴史を、併設する二つの展示施設で学ぶ。 利用条件：一般観覧可。団体見学は事前申込。 公的主体：広川町",
+          "official": "https://www.town.hirogawa.wakayama.jp/inamuranohi/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E5%BA%83%E5%B7%9D%E7%94%BA%20%E7%A8%B2%E3%82%80%E3%82%89%E3%81%AE%E7%81%AB%E3%81%AE%E9%A4%A8%EF%BC%88%E6%B4%A5%E6%B3%A2%E9%98%B2%E7%81%BD%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E6%BF%B1%E5%8F%A3%E6%A2%A7%E9%99%B5%E8%A8%98%E5%BF%B5%E9%A4%A8%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E5%BA%83%E5%B7%9D%E7%94%BA%20%E7%A8%B2%E3%82%80%E3%82%89%E3%81%AE%E7%81%AB%E3%81%AE%E9%A4%A8%EF%BC%88%E6%B4%A5%E6%B3%A2%E9%98%B2%E7%81%BD%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E6%BF%B1%E5%8F%A3%E6%A2%A7%E9%99%B5%E8%A8%98%E5%BF%B5%E9%A4%A8%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.town.hirogawa.wakayama.jp/inamuranohi/"
         },
         {
           "prefecture": "和歌山県",
@@ -13780,15 +14143,13 @@ window.FACILITY_DATASET={
           "name": "和歌山市消防局防災学習センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：10名未満は申込不要・無料。10名以上は事前予約。2025年3月リニューアル。\n公的主体：和歌山市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.wakayama.wakayama.jp/syoubou/bousai_gakusyu/1000182/index.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：10名未満は申込不要・無料。10名以上は事前予約。2025年3月リニューアル。 公的主体：和歌山市",
+          "official": "https://www.city.wakayama.wakayama.jp/syoubou/bousai_gakusyu/1000182/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82%E6%B6%88%E9%98%B2%E5%B1%80%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82%E6%B6%88%E9%98%B2%E5%B1%80%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.wakayama.wakayama.jp/syoubou/bousai_gakusyu/1000182/index.html"
         },
         {
           "prefecture": "鳥取県",
@@ -13796,15 +14157,13 @@ window.FACILITY_DATASET={
           "name": "鳥取県西部地震展示交流センター（ひの防災福祉コミュニティセンター）",
           "type": "震災伝承館",
           "rank": "B",
-          "note": "西部地震の記録を継承する展示施設。訪問前の受入確認を前提にした候補。\n利用条件：町が常設展示を継続している旨を県公式で確認。訪問日時・受入条件は施設へ要問い合わせ。\n公的主体：日野町（2021年度に県から継承）\n調査日：2026-09-15／公式検索結果で掲載案内確認／本文取得不可（閉鎖とは未判定）\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.tottori.lg.jp/32660.htm\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "西部地震の記録を継承する展示施設。訪問前の受入確認を前提にした候補。 利用条件：町が常設展示を継続している旨を県公式で確認。訪問日時・受入条件は施設へ要問い合わせ。 公的主体：日野町（2021年度に県から継承）",
+          "official": "https://www.pref.tottori.lg.jp/32660.htm",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E6%97%A5%E9%87%8E%E7%94%BA%20%E9%B3%A5%E5%8F%96%E7%9C%8C%E8%A5%BF%E9%83%A8%E5%9C%B0%E9%9C%87%E5%B1%95%E7%A4%BA%E4%BA%A4%E6%B5%81%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%81%B2%E3%81%AE%E9%98%B2%E7%81%BD%E7%A6%8F%E7%A5%89%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E6%97%A5%E9%87%8E%E7%94%BA%20%E9%B3%A5%E5%8F%96%E7%9C%8C%E8%A5%BF%E9%83%A8%E5%9C%B0%E9%9C%87%E5%B1%95%E7%A4%BA%E4%BA%A4%E6%B5%81%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%81%B2%E3%81%AE%E9%98%B2%E7%81%BD%E7%A6%8F%E7%A5%89%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.tottori.lg.jp/32660.htm"
         },
         {
           "prefecture": "岡山県",
@@ -13812,15 +14171,13 @@ window.FACILITY_DATASET={
           "name": "岡山市西消防署 消防防災センター",
           "type": "消防資料館・防災体験施設",
           "rank": "A",
-          "note": "消防の資料と防災展示を見学し、災害対応の道具や仕組みを知る。\n利用条件：市公式FAQで見学可能と明記。詳細は西消防署へ問い合わせ。\n公的主体：岡山市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.okayama.jp/shisei/0000004386.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "消防の資料と防災展示を見学し、災害対応の道具や仕組みを知る。 利用条件：市公式FAQで見学可能と明記。詳細は西消防署へ問い合わせ。 公的主体：岡山市",
+          "official": "https://www.city.okayama.jp/shisei/0000004386.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E8%A5%BF%E6%B6%88%E9%98%B2%E7%BD%B2%20%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E8%A5%BF%E6%B6%88%E9%98%B2%E7%BD%B2%20%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.okayama.jp/shisei/0000004386.html"
         },
         {
           "prefecture": "広島県",
@@ -13828,15 +14185,13 @@ window.FACILITY_DATASET={
           "name": "広島市江波山気象館",
           "type": "気象・風水害学習施設",
           "rank": "S",
-          "note": "旧気象台を利用する気象館。突風・雷・台風の展示と建築の両方を見たい。\n利用条件：一般観覧可。突風・雷・台風の体験展示。団体見学は事前連絡。\n公的主体：広島市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.ebayama.jp/\n補足根拠：https://www.ebayama.jp/?p=11996\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "旧気象台を利用する気象館。突風・雷・台風の展示と建築の両方を見たい。 利用条件：一般観覧可。突風・雷・台風の体験展示。団体見学は事前連絡。 公的主体：広島市",
+          "official": "https://www.ebayama.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%20%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%20%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.ebayama.jp/\n公式資料：https://www.ebayama.jp/?p=11996"
         },
         {
           "prefecture": "徳島県",
@@ -13844,15 +14199,13 @@ window.FACILITY_DATASET={
           "name": "徳島県立防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：一般向け体験・展示。10名以上や車いすでの地震体験は予約制。\n公的主体：徳島県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.tokushima.lg.jp/bousai-center/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：一般向け体験・展示。10名以上や車いすでの地震体験は予約制。 公的主体：徳島県",
+          "official": "https://www.pref.tokushima.lg.jp/bousai-center/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E5%8C%97%E5%B3%B6%E7%94%BA%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%E7%AB%8B%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E5%8C%97%E5%B3%B6%E7%94%BA%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%E7%AB%8B%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.tokushima.lg.jp/bousai-center/"
         },
         {
           "prefecture": "香川県",
@@ -13860,15 +14213,13 @@ window.FACILITY_DATASET={
           "name": "香川県防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：電話で空き状況確認・事前予約。団体は30名まで。\n公的主体：香川県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.pref.kagawa.lg.jp/kikikanri/bousai/bousaisenta-.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：電話で空き状況確認・事前予約。団体は30名まで。 公的主体：香川県",
+          "official": "https://www.pref.kagawa.lg.jp/kikikanri/bousai/bousaisenta-.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E9%AB%98%E6%9D%BE%E5%B8%82%20%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E9%AB%98%E6%9D%BE%E5%B8%82%20%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.pref.kagawa.lg.jp/kikikanri/bousai/bousaisenta-.html"
         },
         {
           "prefecture": "愛媛県",
@@ -13876,15 +14227,13 @@ window.FACILITY_DATASET={
           "name": "四国中央市消防防災センター 防災学習コーナー",
           "type": "防災体験施設",
           "rank": "B",
-          "note": "予約見学で、地震発生から通報・消火・避難などの一連の行動を学ぶ。\n利用条件：見学は消防署へ予約し申込書提出。災害時は予約済みでも見学不可の場合あり。\n公的主体：四国中央市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.shikokuchuo.ehime.jp/site/shobo/4032.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "予約見学で、地震発生から通報・消火・避難などの一連の行動を学ぶ。 利用条件：見学は消防署へ予約し申込書提出。災害時は予約済みでも見学不可の場合あり。 公的主体：四国中央市",
+          "official": "https://www.city.shikokuchuo.ehime.jp/site/shobo/4032.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E5%9B%9B%E5%9B%BD%E4%B8%AD%E5%A4%AE%E5%B8%82%20%E5%9B%9B%E5%9B%BD%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E5%9B%9B%E5%9B%BD%E4%B8%AD%E5%A4%AE%E5%B8%82%20%E5%9B%9B%E5%9B%BD%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.shikokuchuo.ehime.jp/site/shobo/4032.html"
         },
         {
           "prefecture": "高知県",
@@ -13892,15 +14241,13 @@ window.FACILITY_DATASET={
           "name": "室戸世界ジオパークセンター",
           "type": "地震・津波学習施設",
           "rank": "A",
-          "note": "大地の成り立ちと人の営みを学ぶ拠点。防災企画展は会期を確認したい。\n利用条件：一般見学可・無料。地形・地震等の学習施設。防災企画展の実施実績あり。\n公的主体：室戸市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.muroto.kochi.jp/pages/page1112.php\n補足根拠：https://www.muroto-geo.jp/announcement-of-disaster-prevention-exhibition/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "大地の成り立ちと人の営みを学ぶ拠点。防災企画展は会期を確認したい。 利用条件：一般見学可・無料。地形・地震等の学習施設。防災企画展の実施実績あり。 公的主体：室戸市",
+          "official": "https://www.city.muroto.kochi.jp/pages/page1112.php",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E5%AE%A4%E6%88%B8%E5%B8%82%20%E5%AE%A4%E6%88%B8%E4%B8%96%E7%95%8C%E3%82%B8%E3%82%AA%E3%83%91%E3%83%BC%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E5%AE%A4%E6%88%B8%E5%B8%82%20%E5%AE%A4%E6%88%B8%E4%B8%96%E7%95%8C%E3%82%B8%E3%82%AA%E3%83%91%E3%83%BC%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.muroto.kochi.jp/pages/page1112.php"
         },
         {
           "prefecture": "福岡県",
@@ -13908,15 +14255,13 @@ window.FACILITY_DATASET={
           "name": "福岡市民防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：一般向け防災体験コース・来館案内あり。\n公的主体：福岡市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.fukuoka.lg.jp/syobo/bousai_suishin/bousaicenter/centerinfo.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：一般向け防災体験コース・来館案内あり。 公的主体：福岡市",
+          "official": "https://www.city.fukuoka.lg.jp/syobo/bousai_suishin/bousaicenter/centerinfo.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%97%A9%E8%89%AF%E5%8C%BA%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%97%A9%E8%89%AF%E5%8C%BA%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.fukuoka.lg.jp/syobo/bousai_suishin/bousaicenter/centerinfo.html"
         },
         {
           "prefecture": "佐賀県",
@@ -13924,15 +14269,13 @@ window.FACILITY_DATASET={
           "name": "佐賀広域消防局 防災学習広場",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：開館中は自由見学可。体験は予約制・安全管理上10名まで。\n公的主体：佐賀中部広域連合\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.chubu.saga.saga.jp/shobo/about/_2046.html?media=pc\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：開館中は自由見学可。体験は予約制・安全管理上10名まで。 公的主体：佐賀中部広域連合",
+          "official": "https://www.chubu.saga.saga.jp/shobo/about/_2046.html?media=pc",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BD%90%E8%B3%80%E5%B8%82%20%E4%BD%90%E8%B3%80%E5%BA%83%E5%9F%9F%E6%B6%88%E9%98%B2%E5%B1%80%20%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E5%BA%83%E5%A0%B4",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BD%90%E8%B3%80%E5%B8%82%20%E4%BD%90%E8%B3%80%E5%BA%83%E5%9F%9F%E6%B6%88%E9%98%B2%E5%B1%80%20%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E5%BA%83%E5%A0%B4\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.chubu.saga.saga.jp/shobo/about/_2046.html?media=pc"
         },
         {
           "prefecture": "長崎県",
@@ -13940,15 +14283,13 @@ window.FACILITY_DATASET={
           "name": "長崎市防災体験ひろば",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：一般向け防災展示・体験施設。長崎大水害の記録展示あり。\n公的主体：長崎市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.nagasaki.lg.jp/page/4183.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：一般向け防災展示・体験施設。長崎大水害の記録展示あり。 公的主体：長崎市",
+          "official": "https://www.city.nagasaki.lg.jp/page/4183.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E9%95%B7%E5%B4%8E%E5%B8%82%20%E9%95%B7%E5%B4%8E%E5%B8%82%E9%98%B2%E7%81%BD%E4%BD%93%E9%A8%93%E3%81%B2%E3%82%8D%E3%81%B0",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E9%95%B7%E5%B4%8E%E5%B8%82%20%E9%95%B7%E5%B4%8E%E5%B8%82%E9%98%B2%E7%81%BD%E4%BD%93%E9%A8%93%E3%81%B2%E3%82%8D%E3%81%B0\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.nagasaki.lg.jp/page/4183.html"
         },
         {
           "prefecture": "長崎県",
@@ -13956,15 +14297,13 @@ window.FACILITY_DATASET={
           "name": "雲仙岳災害記念館（がまだすドーム）",
           "type": "火山防災施設",
           "rank": "S",
-          "note": "雲仙普賢岳の噴火災害と火山科学、防災の展示をまとめて見学する。\n利用条件：一般観覧可。噴火災害・火山科学・備えを展示。\n公的主体：長崎県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://udmh.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "雲仙普賢岳の噴火災害と火山科学、防災の展示をまとめて見学する。 利用条件：一般観覧可。噴火災害・火山科学・備えを展示。 公的主体：長崎県",
+          "official": "https://udmh.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E5%B3%B6%E5%8E%9F%E5%B8%82%20%E9%9B%B2%E4%BB%99%E5%B2%B3%E7%81%BD%E5%AE%B3%E8%A8%98%E5%BF%B5%E9%A4%A8%EF%BC%88%E3%81%8C%E3%81%BE%E3%81%A0%E3%81%99%E3%83%89%E3%83%BC%E3%83%A0%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E5%B3%B6%E5%8E%9F%E5%B8%82%20%E9%9B%B2%E4%BB%99%E5%B2%B3%E7%81%BD%E5%AE%B3%E8%A8%98%E5%BF%B5%E9%A4%A8%EF%BC%88%E3%81%8C%E3%81%BE%E3%81%A0%E3%81%99%E3%83%89%E3%83%BC%E3%83%A0%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://udmh.jp/"
         },
         {
           "prefecture": "長崎県",
@@ -13972,15 +14311,13 @@ window.FACILITY_DATASET={
           "name": "大野木場砂防みらい館（大野木場監視所）",
           "type": "砂防・火山防災資料館",
           "rank": "A",
-          "note": "火山監視・砂防を解説する一般公開施設。周辺遺構と併せたガイド見学も候補。\n利用条件：平常時は一般開放。旧大野木場小とのガイド見学は要予約。\n公的主体：国土交通省\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.mlit.go.jp/sogoseisaku/region/infratourism/infralist/nagasaki/index01.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "火山監視・砂防を解説する一般公開施設。周辺遺構と併せたガイド見学も候補。 利用条件：平常時は一般開放。旧大野木場小とのガイド見学は要予約。 公的主体：国土交通省",
+          "official": "https://www.mlit.go.jp/sogoseisaku/region/infratourism/infralist/nagasaki/index01.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E5%8D%97%E5%B3%B6%E5%8E%9F%E5%B8%82%20%E5%A4%A7%E9%87%8E%E6%9C%A8%E5%A0%B4%E7%A0%82%E9%98%B2%E3%81%BF%E3%82%89%E3%81%84%E9%A4%A8%EF%BC%88%E5%A4%A7%E9%87%8E%E6%9C%A8%E5%A0%B4%E7%9B%A3%E8%A6%96%E6%89%80%EF%BC%89",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E5%8D%97%E5%B3%B6%E5%8E%9F%E5%B8%82%20%E5%A4%A7%E9%87%8E%E6%9C%A8%E5%A0%B4%E7%A0%82%E9%98%B2%E3%81%BF%E3%82%89%E3%81%84%E9%A4%A8%EF%BC%88%E5%A4%A7%E9%87%8E%E6%9C%A8%E5%A0%B4%E7%9B%A3%E8%A6%96%E6%89%80%EF%BC%89\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.mlit.go.jp/sogoseisaku/region/infratourism/infralist/nagasaki/index01.html"
         },
         {
           "prefecture": "熊本県",
@@ -13988,15 +14325,13 @@ window.FACILITY_DATASET={
           "name": "熊本市広域防災センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：無料。展示は自由見学。職員説明付き体験は電話予約。2026年8月10日から開館との告知。\n公的主体：熊本市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.kumamoto.jp/kiji00350230/index.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：無料。展示は自由見学。職員説明付き体験は電話予約。2026年8月10日から開館との告知。 公的主体：熊本市",
+          "official": "https://www.city.kumamoto.jp/kiji00350230/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E7%86%8A%E6%9C%AC%E5%B8%82%E5%BA%83%E5%9F%9F%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E7%86%8A%E6%9C%AC%E5%B8%82%E5%BA%83%E5%9F%9F%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.kumamoto.jp/kiji00350230/index.html"
         },
         {
           "prefecture": "熊本県",
@@ -14004,15 +14339,13 @@ window.FACILITY_DATASET={
           "name": "熊本地震震災ミュージアム KIOKU",
           "type": "震災伝承館",
           "rank": "A",
-          "note": "熊本地震の展示と震災遺構を一体で見学する伝承拠点。\n利用条件：一般観覧可。有料展示施設と震災遺構を一体案内。\n公的主体：熊本県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://kumamotojishin-museum.com/kioku/contents/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "熊本地震の展示と震災遺構を一体で見学する伝承拠点。 利用条件：一般観覧可。有料展示施設と震災遺構を一体案内。 公的主体：熊本県",
+          "official": "https://kumamotojishin-museum.com/kioku/contents/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E5%8D%97%E9%98%BF%E8%98%87%E6%9D%91%20%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87%E9%9C%87%E7%81%BD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20KIOKU",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E5%8D%97%E9%98%BF%E8%98%87%E6%9D%91%20%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87%E9%9C%87%E7%81%BD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20KIOKU\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://kumamotojishin-museum.com/kioku/contents/"
         },
         {
           "prefecture": "大分県",
@@ -14020,15 +14353,13 @@ window.FACILITY_DATASET={
           "name": "大分市大野川防災センター",
           "type": "治水・防災学習施設",
           "rank": "B",
-          "note": "災害時の対策拠点を事前連絡のうえ見学し、防災啓発の映像・パネルを見る。\n利用条件：見学は希望日時と人数を市に連絡。原則平日10〜15時。自由入館とは異なる。\n公的主体：大分市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://www.city.oita.oita.jp/o165/machizukuri/kanri/1117412572341.html\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "災害時の対策拠点を事前連絡のうえ見学し、防災啓発の映像・パネルを見る。 利用条件：見学は希望日時と人数を市に連絡。原則平日10〜15時。自由入館とは異なる。 公的主体：大分市",
+          "official": "https://www.city.oita.oita.jp/o165/machizukuri/kanri/1117412572341.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%A4%A7%E5%88%86%E5%B8%82%20%E5%A4%A7%E5%88%86%E5%B8%82%E5%A4%A7%E9%87%8E%E5%B7%9D%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%A4%A7%E5%88%86%E5%B8%82%20%E5%A4%A7%E5%88%86%E5%B8%82%E5%A4%A7%E9%87%8E%E5%B7%9D%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://www.city.oita.oita.jp/o165/machizukuri/kanri/1117412572341.html"
         },
         {
           "prefecture": "鹿児島県",
@@ -14036,15 +14367,13 @@ window.FACILITY_DATASET={
           "name": "鹿児島県防災研修センター",
           "type": "防災体験施設",
           "rank": "A",
-          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。\n利用条件：自由見学可。展示説明・体験研修は事前申込。\n公的主体：鹿児島県\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://kagoshimabousai.jp/guide/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "防災の展示・体験を通して災害時の行動を学ぶ。施設ごとの体験内容と展示の構成を見比べたい。 利用条件：自由見学可。展示説明・体験研修は事前申込。 公的主体：鹿児島県",
+          "official": "https://kagoshimabousai.jp/guide/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E5%A7%B6%E8%89%AF%E5%B8%82%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%98%B2%E7%81%BD%E7%A0%94%E4%BF%AE%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E5%A7%B6%E8%89%AF%E5%B8%82%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%98%B2%E7%81%BD%E7%A0%94%E4%BF%AE%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://kagoshimabousai.jp/guide/"
         },
         {
           "prefecture": "鹿児島県",
@@ -14052,15 +14381,13 @@ window.FACILITY_DATASET={
           "name": "桜島ビジターセンター",
           "type": "火山防災施設",
           "rank": "A",
-          "note": "桜島の噴火活動や火山の仕組みを学ぶ、火山見学の入口となる施設。\n利用条件：一般展示・噴火活動情報を提供。\n公的主体：鹿児島市\n調査日：2026-09-15／公式ページ本文取得・掲載案内確認\n参考公式サイト（Googleマップ登録先との一致は未確認）：https://visitor.sakurajima.gr.jp/\n評価は未訪問の机上評価。地図は施設名による検索リンク。",
-          "official": "",
+          "note": "桜島の噴火活動や火山の仕組みを学ぶ、火山見学の入口となる施設。 利用条件：一般展示・噴火活動情報を提供。 公的主体：鹿児島市",
+          "official": "https://visitor.sakurajima.gr.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%20%E6%A1%9C%E5%B3%B6%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "extra": {
-            "参照": "Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%20%E6%A1%9C%E5%B3%B6%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC\nGoogleマップ登録公式サイトURL：未確認"
-          }
+          "references": "公式サイト：https://visitor.sakurajima.gr.jp/"
         }
       ]
     }
