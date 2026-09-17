@@ -1,4 +1,4 @@
-const records=window.ARCHIVE_DATA,main=document.querySelector('#main'),dialog=document.querySelector('#search'),q=document.querySelector('#q'),results=document.querySelector('#results');
+const records=window.ARCHIVE_DATA,main=document.querySelector('#main');
 const categories=[...new Set(records.map(x=>x.category))],tags=[...new Set(records.flatMap(x=>x.tags))].sort((a,b)=>a.localeCompare(b,'ja'));
 const card=x=>`<button class="card" data-id="${x.id}"><span class="file-tab">FILE ${String(records.indexOf(x)+1).padStart(3,'0')}</span><img src="${x.image}" alt="${x.title}" loading="lazy"><span class="card-copy"><span class="card-meta"><span>分類 / ${x.category}</span><span>${x.date}</span></span><h3>${x.title}</h3><p>${x.excerpt}</p><span class="card-foot"><span>${x.place}</span><span>詳細を見る →</span></span></span></button>`;
 function wire(){document.querySelectorAll('[data-id]').forEach(e=>e.onclick=()=>go('detail/'+e.dataset.id));document.querySelectorAll('[data-route]').forEach(e=>e.onclick=()=>go(e.dataset.route==='archive'?'home':e.dataset.route))}function active(r){document.querySelectorAll('[data-route]').forEach(e=>e.classList.toggle('active',e.dataset.route===r))}function go(r){location.hash=r}function random(){let x=records[Math.floor(Math.random()*records.length)];if(location.hash.endsWith(x.id))x=records[(records.indexOf(x)+1)%records.length];go('detail/'+x.id)}
@@ -12,7 +12,7 @@ const materialDefinitions=facilityDataset.materials.map(m=>[m.id,String(m.number
 const materialItemMap=new Map(facilityDataset.materials.map(m=>[m.id,m.items]));
 const materialItems=key=>materialItemMap.get(key)||[];
 const h=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const sortableHead=`<thead><tr><th>参照</th><th><button class="sort-button" data-sort="prefecture" data-label="都道府県">都道府県 ↕</button></th><th>市区町村</th><th>店舗名・施設名</th><th><button class="sort-button" data-sort="type" data-label="分類">分類 ↕</button></th><th><button class="sort-button" data-sort="rank" data-label="評価">評価 ↕</button></th><th>説明・狙い目</th></tr></thead>`;
+const sortableHead=`<thead><tr><th scope="col">参照</th><th scope="col"><button class="sort-button" data-sort="prefecture" data-label="都道府県">都道府県 ↕</button></th><th scope="col">市区町村</th><th scope="col">店舗名・施設名</th><th scope="col"><button class="sort-button" data-sort="type" data-label="分類">分類 ↕</button></th><th scope="col"><button class="sort-button" data-sort="rank" data-label="評価">評価 ↕</button></th><th scope="col">説明・狙い目</th></tr></thead>`;
 let facilitiesScrollTop=0;
 function catalogSection(number,id,title,note,items){const rows=items.map(x=>`<tr data-prefecture="${h(x.prefecture)}" data-type="${h(x.type)}" data-rank="${h(x.rank)}"><td>${x.official?`<a href="${h(x.official)}" target="_blank" rel="noopener">公式</a> `:''}<a href="${h(x.maps)}" target="_blank" rel="noopener">地図</a></td><td>${h(x.prefecture)}</td><td>${h(x.city)}</td><td>${x.name==='玄海海中展望塔'?`<button class="facility-detail-link" data-facility-detail="genkai-undersea">${h(x.name)}</button>`:h(x.name)}</td><td>${h(x.type)}</td><td>${h(x.rank)}</td><td>${h(x.note)}</td></tr>`).join('');return `<section class="reference-section" id="${id}"><div class="reference-heading"><span>資料${number}</span><h2>${title}</h2><span>${String(items.length).padStart(3,'0')}件</span></div><p class="reference-note">${note}　都道府県・分類・評価の見出しで昇順／降順。</p><div class="record-table catalog-table"><table>${sortableHead}<tbody>${rows}</tbody></table></div></section>`}
 function wireSortTables(){
@@ -28,24 +28,130 @@ function wireSortTables(){
     });
   });
 }
+
+// Search normalizes text without changing the source records.
+const normalizeSearch=value=>String(value??'').normalize('NFKC').toLocaleLowerCase('ja').replace(/\s+/g,' ').trim();
+const prefectureAliases=new Map();
+facilityDataset.materials.forEach(m=>m.items.forEach(x=>{
+  const full=normalizeSearch(x.prefecture);
+  if(full)prefectureAliases.set(full,full.replace(/[都府県]$/,''));
+}));
+const normalizeRegion=value=>{
+  let text=normalizeSearch(value);
+  for(const [full,short] of prefectureAliases){
+    if(full!==short)text=text.split(full).join(short);
+  }
+  return text;
+};
+const facilityEntries=facilityDataset.materials.flatMap(m=>m.items.map((item,index)=>({
+  item,key:m.id,index,number:String(m.number).padStart(2,'0'),title:m.name,
+  text:normalizeRegion([item.prefecture,item.city,item.name,item.type,item.kind,item.note,item.description,item.aim,m.name,m.shortName].filter(Boolean).join(' '))
+})));
+let facilityQuery='',selectedFacilityId=null,unfilteredList=null,unfilteredScroll=0;
+function detailMarkup(selected,definition){
+  return selected?`<section class="material-detail facilities-top-detail"><div class="material-detail-copy"><div class="facility-record-head"><span>資料${definition[1]} / 個別記録</span><span>${selected.rank?`評価 ${h(selected.rank)}`:'分類・評価なし'}</span></div><h2>${h(selected.name)}</h2><div class="facility-register"><div><span>都道府県</span><span>${h(selected.prefecture)}</span></div><div><span>市区町村</span><span>${h(selected.city)}</span></div><div><span>分類</span><span>${h(selected.type)}</span></div><div><span>評価</span><span>${h(selected.rank)}</span></div><div class="facility-register-wide"><span>説明</span><span>${h(selected.note)}</span></div><div class="facility-register-wide"><span>参照</span><span>${selected.official?`<a href="${h(selected.official)}" target="_blank" rel="noopener">公式サイト</a>　`:''}<a href="${h(selected.maps)}" target="_blank" rel="noopener">地図</a>　<a href="${h(selected.maps)}" target="_blank" rel="noopener">Googleマップで写真を見る ↗</a></span></div></div></div><iframe title="${h(selected.name)}の地図" src="https://maps.google.com/maps?q=${encodeURIComponent(`${selected.name} ${selected.prefecture}${selected.city}`)}&output=embed" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></section>`:'';
+
+}
+function ledgerRow(entry){
+  const x=entry.item,id=`${entry.key}/${entry.index}`;
+  return `<tr class="${id===selectedFacilityId?'selected-row':''}" data-prefecture="${h(x.prefecture)}" data-type="${h(x.type)}" data-rank="${h(x.rank)}"><td>${x.official?`<a href="${h(x.official)}" target="_blank" rel="noopener">公式</a> `:''}<a href="${h(x.maps)}" target="_blank" rel="noopener">地図</a></td><td>${h(x.prefecture)}</td><td>${h(x.city)}</td><td><button class="facility-detail-link" data-all-facility="${h(id)}" aria-controls="facility-detail-panel" aria-expanded="false">${h(x.name)}</button></td><td>${h(x.type)}</td><td>${h(x.rank)}</td><td>${h(x.note)}</td></tr>`;
+}
+function ledgerSection(id,number,title,entries){
+  return `<section class="all-material-section" id="${h(id)}"><div class="reference-heading"><span>${h(number)}</span><h2>${h(title)}</h2><span>${String(entries.length).padStart(3,'0')}件</span></div><div class="record-table catalog-table"><table aria-label="${h(title)}">${sortableHead}<tbody>${entries.map(ledgerRow).join('')}</tbody></table></div></section>`;
+}
+function hideFacilityDetail(){
+  const panel=document.querySelector('#facility-detail-panel');
+  if(!panel||panel.hidden)return;
+  panel.hidden=true;
+  document.querySelectorAll('[data-all-facility][aria-expanded="true"]').forEach(b=>b.setAttribute('aria-expanded','false'));
+}
+function showFacilityDetail(key,index){
+  const entry=facilityEntries.find(e=>e.key===key&&e.index===Number(index));
+  if(!entry){hideFacilityDetail();return;}
+  selectedFacilityId=`${key}/${index}`;
+  const panel=document.querySelector('#facility-detail-panel');
+  panel.innerHTML=`<div class="detail-panel-bar"><span>一覧をスクロールすると詳細を閉じます</span><button type="button" id="hide-facility-detail">詳細を閉じる ×</button></div>${detailMarkup(entry.item,materialDefinitions.find(d=>d[0]===key))}`;
+  panel.hidden=false;
+  document.querySelectorAll('[data-all-facility]').forEach(button=>{
+    const selected=button.dataset.allFacility===selectedFacilityId;
+    button.setAttribute('aria-expanded',String(selected));
+    button.closest('tr').classList.toggle('selected-row',selected);
+  });
+  document.querySelector('#hide-facility-detail').onclick=()=>{
+    hideFacilityDetail();
+    const button=[...document.querySelectorAll('[data-all-facility]')].find(b=>b.dataset.allFacility===selectedFacilityId);
+    button?.focus({preventScroll:true});
+  };
+}
+function wireLedgerRows(){
+  wireSortTables();
+  document.querySelectorAll('[data-all-facility]').forEach(button=>button.onclick=()=>{
+    // Updating only the panel preserves row order, query and scroll position.
+    const [key,index]=button.dataset.allFacility.split('/');
+    showFacilityDetail(key,index);
+    const hash='#facility/'+button.dataset.allFacility;
+    if(location.hash!==hash)history.pushState(null,'',hash);
+  });
+}
+function renderLedgerResults(){
+  const scroller=document.querySelector('.facilities-ledger-scroll');
+  const tokens=normalizeRegion(facilityQuery).split(/\s+/).filter(Boolean);
+  hideFacilityDetail();
+  if(tokens.length){
+    if(!unfilteredList){
+      unfilteredScroll=scroller.scrollTop;
+      unfilteredList=document.createDocumentFragment();
+      unfilteredList.append(...scroller.childNodes);
+    }
+    const matches=facilityEntries.filter(entry=>tokens.every(token=>entry.text.includes(token)));
+    scroller.innerHTML=matches.length?ledgerSection('facility-search-results','横断検索','全資料の検索結果',matches):'<p class="empty">該当する施設はありません。検索語を変えてお試しください。</p>';
+    document.querySelector('#facility-search-status').textContent=`${matches.length} / ${facilityEntries.length}件`;
+    scroller.scrollTop=0;
+  }else{
+    if(unfilteredList){scroller.replaceChildren(unfilteredList);unfilteredList=null;scroller.scrollTop=unfilteredScroll;}
+    else if(!scroller.children.length){
+      scroller.innerHTML=materialDefinitions.map(([key,number,title])=>ledgerSection('material-'+key,'資料'+number,title,facilityEntries.filter(e=>e.key===key))).join('');
+      scroller.scrollTop=facilitiesScrollTop;
+    }
+    document.querySelector('#facility-search-status').textContent=`全${facilityEntries.length}件`;
+  }
+  document.querySelector('#clear-facility-search').disabled=!facilityQuery;
+  wireLedgerRows();
+}
 function facilitiesPage(selectedKey=null,selectedIndex=null){
   active('facilities');
-  const total=facilityDataset.total;
-  const jumps=materialDefinitions.map(([key,number,,short])=>`<button data-material-jump="${key}"><span>${number}</span> ${h(short)}</button>`).join('');
-  const definition=materialDefinitions.find(x=>x[0]===selectedKey),selected=definition?materialItems(selectedKey)[Number(selectedIndex)]:null;
-  const detail=selected?`<section class="material-detail facilities-top-detail"><div class="material-detail-copy"><div class="facility-record-head"><span>資料${definition[1]} / 個別記録</span><span>${selected.rank?`評価 ${h(selected.rank)}`:'分類・評価なし'}</span></div><h2>${h(selected.name)}</h2><div class="facility-register"><div><span>都道府県</span><span>${h(selected.prefecture)}</span></div><div><span>市区町村</span><span>${h(selected.city)}</span></div><div><span>分類</span><span>${h(selected.type)}</span></div><div><span>評価</span><span>${h(selected.rank)}</span></div><div class="facility-register-wide"><span>説明</span><span>${h(selected.note)}</span></div><div class="facility-register-wide"><span>参照</span><span>${selected.official?`<a href="${h(selected.official)}" target="_blank" rel="noopener">公式サイト</a>　`:''}<a href="${h(selected.maps)}" target="_blank" rel="noopener">地図</a>　<a href="${h(selected.maps)}" target="_blank" rel="noopener">Googleマップで写真を見る ↗</a></span></div></div></div><iframe title="${h(selected.name)}の地図" src="https://maps.google.com/maps?q=${encodeURIComponent(`${selected.name} ${selected.prefecture}${selected.city}`)}&output=embed" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></section>`:`<section class="material-detail facilities-top-detail"><div class="material-empty">施設資料 ${String(materialDefinitions.length).padStart(2,'0')}区分 / 全${String(total).padStart(3,'0')}件。店舗名・施設名を選択すると、この固定欄に資料データ詳細を表示します。</div><iframe title="日本のGoogleマップ" src="https://maps.google.com/maps?q=${encodeURIComponent('日本')}&output=embed" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></section>`;
-  const sections=materialDefinitions.map(([key,number,title])=>{const items=materialItems(key),rows=items.map((x,index)=>`<tr class="${selected===x?'selected-row':''}" data-prefecture="${h(x.prefecture)}" data-type="${h(x.type)}" data-rank="${h(x.rank)}"><td>${x.official?`<a href="${h(x.official)}" target="_blank" rel="noopener">公式</a> `:''}<a href="${h(x.maps)}" target="_blank" rel="noopener">地図</a></td><td>${h(x.prefecture)}</td><td>${h(x.city)}</td><td><button class="facility-detail-link" data-all-facility="${key}/${index}">${h(x.name)}</button></td><td>${h(x.type)}</td><td>${h(x.rank)}</td><td>${h(x.note)}</td></tr>`).join('');return `<section class="all-material-section" id="material-${key}"><div class="reference-heading"><span>資料${number}</span><h2>${h(title)}</h2><span>${String(items.length).padStart(3,'0')}件</span></div><div class="record-table catalog-table"><table>${sortableHead}<tbody>${rows}</tbody></table></div></section>`}).join('');
-  main.innerHTML=`<div class="facilities-ledger"><div class="facilities-ledger-fixed"><div class="facility-index-bar"><div class="facility-title-line"><h1>施設資料総合台帳</h1><nav class="material-jumps" aria-label="資料内リンク">${jumps}</nav></div><span>資料 ${String(materialDefinitions.length).padStart(2,'0')}</span><span>収録 ${String(total).padStart(3,'0')}</span><a href="https://www.google.com/maps" target="_blank" rel="noopener">Googleマップ ↗</a></div>${detail}</div><div class="facilities-ledger-scroll">${sections}</div></div>`;
-  wire();wireSortTables();const ledgerScroll=document.querySelector('.facilities-ledger-scroll');ledgerScroll.scrollTop=facilitiesScrollTop;document.querySelectorAll('[data-material-jump]').forEach(e=>e.onclick=()=>{const target=document.querySelector('#material-'+e.dataset.materialJump);if(!target)return;facilitiesScrollTop=ledgerScroll.scrollTop+target.getBoundingClientRect().top-ledgerScroll.getBoundingClientRect().top;ledgerScroll.scrollTo({top:facilitiesScrollTop,behavior:'smooth'})});document.querySelectorAll('[data-all-facility]').forEach(e=>e.onclick=()=>{facilitiesScrollTop=ledgerScroll.scrollTop;go('facility/'+e.dataset.allFacility)});scrollTo(0,0)
+  if(!document.querySelector('.facilities-ledger')){
+    unfilteredList=null;
+    const jumps=materialDefinitions.map(([key,number,,short])=>`<button data-material-jump="${h(key)}"><span>${number}</span> ${h(short)}</button>`).join('');
+    main.innerHTML=`<div class="facilities-ledger"><div class="facilities-ledger-fixed"><div class="facility-index-bar"><div class="facility-title-line"><h1>施設資料総合台帳</h1><nav class="material-jumps" aria-label="資料内リンク">${jumps}</nav></div><span>資料 ${String(materialDefinitions.length).padStart(2,'0')}</span><span>収録 ${facilityEntries.length}</span><a href="https://www.google.com/maps" target="_blank" rel="noopener">Googleマップ ↗</a></div><div class="facility-search" role="search"><label for="facility-query">全資料検索</label><input id="facility-query" type="search" placeholder="東京 植物園 ／ 市区町村・施設名・説明など" autocomplete="off" aria-describedby="facility-search-status" value="${h(facilityQuery)}"><button id="clear-facility-search" type="button">解除</button><output id="facility-search-status" aria-live="polite"></output></div></div><div class="ledger-viewport"><div class="facilities-ledger-scroll" tabindex="0" role="region" aria-label="施設一覧"></div><aside id="facility-detail-panel" aria-label="選択した施設の詳細" hidden></aside></div></div>`;
+    renderLedgerResults();wire();
+    const input=document.querySelector('#facility-query'),scroller=document.querySelector('.facilities-ledger-scroll');
+    input.addEventListener('input',event=>{if(!event.isComposing){facilityQuery=input.value;renderLedgerResults();}});
+    input.addEventListener('compositionend',()=>{facilityQuery=input.value;renderLedgerResults();});
+    const clear=()=>{input.value='';facilityQuery='';renderLedgerResults();};
+    document.querySelector('#clear-facility-search').onclick=()=>{clear();input.focus();};
+    input.addEventListener('keydown',event=>{if(event.key==='Escape'){clear();event.preventDefault();}});
+    document.querySelectorAll('[data-material-jump]').forEach(button=>button.onclick=()=>{
+      if(facilityQuery)clear();
+      hideFacilityDetail();
+      const target=document.getElementById('material-'+button.dataset.materialJump);
+      if(target)scroller.scrollTop+=target.getBoundingClientRect().top-scroller.getBoundingClientRect().top;
+    });
+    // The panel overlays the list: closing it never changes the list geometry.
+    scroller.addEventListener('wheel',event=>{if(event.deltaY)hideFacilityDetail();},{passive:true});
+    let touchY=null;
+    scroller.addEventListener('touchstart',event=>{touchY=event.touches[0]?.clientY??null;},{passive:true});
+    scroller.addEventListener('touchmove',event=>{if(touchY!==null&&Math.abs(event.touches[0].clientY-touchY)>4)hideFacilityDetail();},{passive:true});
+    scroller.addEventListener('keydown',event=>{if(['ArrowDown','ArrowUp','PageDown','PageUp','Home','End',' '].includes(event.key)&&!event.target.closest('button,a'))hideFacilityDetail();});
+    scroller.addEventListener('scroll',()=>{facilitiesScrollTop=scroller.scrollTop;hideFacilityDetail();},{passive:true});
+  }
+  if(selectedKey!==null&&selectedIndex!==null)showFacilityDetail(selectedKey,selectedIndex);
+  else hideFacilityDetail();
 }
-function materialPage(key,selectedIndex=null){
-  const definition=materialDefinitions.find(item=>item[0]===key);if(!definition)return facilitiesPage();
-  active('facilities');
-  const [,number,title]=definition,items=materialItems(key),selected=selectedIndex===null?null:items[Number(selectedIndex)];
-  const detail=selected?`<section class="material-detail"><div class="material-detail-copy"><div class="facility-record-head"><span>資料${number} / 個別記録</span><span>${selected.rank?`評価 ${h(selected.rank)}`:'分類・評価なし'}</span></div><h2>${h(selected.name)}</h2><div class="facility-register"><div><span>都道府県</span><span>${h(selected.prefecture)}</span></div><div><span>市区町村</span><span>${h(selected.city)}</span></div><div><span>分類</span><span>${h(selected.type)}</span></div><div><span>評価</span><span>${h(selected.rank)}</span></div><div class="facility-register-wide"><span>説明</span><span>${h(selected.note)}</span></div><div class="facility-register-wide"><span>参照</span><span>${selected.official?`<a href="${h(selected.official)}" target="_blank" rel="noopener">公式サイト</a>　`:''}<a href="${h(selected.maps)}" target="_blank" rel="noopener">地図</a>　<a href="${h(selected.maps)}" target="_blank" rel="noopener">Googleマップで写真を見る ↗</a></span></div></div></div><iframe title="${h(selected.name)}の地図" src="https://maps.google.com/maps?q=${encodeURIComponent(`${selected.name} ${selected.prefecture}${selected.city}`)}&output=embed" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></section>`:`<div class="material-empty">店舗名・施設名を選択すると、施設情報・公式サイト・地図がここに表示されます。</div>`;
-  const rows=items.map((x,index)=>`<tr class="${selected===x?'selected-row':''}" data-prefecture="${h(x.prefecture)}" data-type="${h(x.type)}" data-rank="${h(x.rank)}"><td>${x.official?`<a href="${h(x.official)}" target="_blank" rel="noopener">公式</a> `:''}<a href="${h(x.maps)}" target="_blank" rel="noopener">地図</a></td><td>${h(x.prefecture)}</td><td>${h(x.city)}</td><td><button class="facility-detail-link" data-facility-index="${index}">${h(x.name)}</button></td><td>${h(x.type)}</td><td>${h(x.rank)}</td><td>${h(x.note)}</td></tr>`).join('');
-  main.innerHTML=`<div class="material-page"><div class="material-sticky"><div class="material-toolbar"><button class="text-button" data-route="facilities">← 資料目録</button><span>資料${number}</span><span>${String(items.length).padStart(3,'0')}件</span></div><h1>${h(title)}</h1>${detail}</div><div class="material-table-wrap record-table catalog-table ${selected?'has-detail':''}"><table>${sortableHead}<tbody>${rows}</tbody></table></div></div>`;
-  wire();wireSortTables();document.querySelectorAll('[data-facility-index]').forEach(e=>e.onclick=()=>go(`facility/${key}/${e.dataset.facilityIndex}`));scrollTo(0,0)
+function materialPage(key){
+  facilitiesPage();
+  const button=[...document.querySelectorAll('[data-material-jump]')].find(b=>b.dataset.materialJump===key);
+  button?.click();
 }
 function facilityDetail(key,index){facilitiesPage(key,index)}
 function detail(id){
@@ -56,5 +162,5 @@ function detail(id){
   document.querySelectorAll('[data-photo]').forEach(e=>e.onclick=()=>{document.querySelector('#main-photo').src=e.dataset.photo;document.querySelector('.main-photo figcaption').textContent=`PHOTO ${String(Number(e.dataset.photoIndex)+1).padStart(2,'0')} / ${String(gallery.length).padStart(2,'0')}`;document.querySelectorAll('[data-photo]').forEach(t=>t.classList.toggle('active',t===e));});
   document.querySelectorAll('[data-tag-link]').forEach(e=>e.onclick=()=>{go('tags');setTimeout(()=>document.querySelector(`[data-tag="${e.dataset.tagLink}"]`)?.click())});scrollTo(0,0)
 }
-function route(){const routeHash=location.hash.slice(1)||'facilities',parts=routeHash.split('/');routeHash.startsWith('facility/')?facilityDetail(parts[1],parts[2]):routeHash.startsWith('material/')?materialPage(parts[1]):facilitiesPage()}function search(){const s=q.value.trim().toLowerCase(),hits=s?records.filter(x=>[x.title,x.category,x.place,x.excerpt,x.body,...x.tags].join(' ').toLowerCase().includes(s)):records.slice(0,4);results.innerHTML=hits.length?hits.map(x=>`<button class="hit" data-hit="${x.id}"><img src="${x.image}" alt=""><span><strong>${x.title}</strong><br><small>${x.category} · ${x.date}</small></span></button>`).join(''):'<p class="empty">該当する記録はありません。</p>';document.querySelectorAll('[data-hit]').forEach(e=>e.onclick=()=>{dialog.close();go('detail/'+e.dataset.hit)})}
-document.querySelector('#open-search').onclick=()=>{dialog.showModal();search();setTimeout(()=>q.focus(),50)};document.querySelector('#close-search').onclick=()=>dialog.close();q.oninput=search;addEventListener('hashchange',route);wire();route();
+function route(){const routeHash=location.hash.slice(1)||'facilities',parts=routeHash.split('/');routeHash.startsWith('facility/')?facilityDetail(parts[1],parts[2]):routeHash.startsWith('material/')?materialPage(parts[1]):facilitiesPage()}
+addEventListener('hashchange',route);wire();route();
