@@ -66,6 +66,8 @@ function hideFacilityDetail(){
   if(!panel||panel.hidden)return;
   panel.hidden=true;
   document.querySelectorAll('[data-all-facility][aria-expanded="true"]').forEach(b=>b.setAttribute('aria-expanded','false'));
+  // Keep the URL in sync so reloading does not reopen a dismissed detail.
+  if(location.hash.startsWith('#facility/'))history.replaceState(null,'','#facilities');
 }
 function showFacilityDetail(key,index){
   const entry=facilityEntries.find(e=>e.key===key&&e.index===Number(index));
