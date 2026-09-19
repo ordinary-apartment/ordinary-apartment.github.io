@@ -56,8 +56,8 @@ function ledgerRow(entry){
   const x=entry.item,id=`${entry.key}/${entry.index}`;
   return `<tr class="${id===selectedFacilityId?'selected-row':''}" data-prefecture="${h(x.prefecture)}" data-type="${h(x.type)}" data-rank="${h(x.rank)}"><td>${x.official?`<a href="${h(x.official)}" target="_blank" rel="noopener">公式</a> `:''}<a href="${h(x.maps)}" target="_blank" rel="noopener">地図</a></td><td>${h(x.prefecture)}</td><td>${h(x.city)}</td><td><button class="facility-detail-link" data-all-facility="${h(id)}" aria-controls="facility-detail-panel" aria-expanded="false">${h(x.name)}</button></td><td>${h(x.type)}</td><td>${h(x.rank)}</td><td>${h(x.note)}</td></tr>`;
 }
-function ledgerSection(id,number,title,entries){
-  return `<section class="all-material-section" id="${h(id)}"><div class="reference-heading"><span>${h(number)}</span><h2>${h(title)}</h2><span>${String(entries.length).padStart(3,'0')}件</span></div><div class="record-table catalog-table"><table aria-label="${h(title)}">${sortableHead}<tbody>${entries.map(ledgerRow).join('')}</tbody></table></div></section>`;
+function ledgerSection(id,number,title,entries,expanded=false){
+  return `<details class="all-material-section" id="${h(id)}"${expanded?' open':''}><summary class="reference-heading"><span>${h(number)}</span><h2>${h(title)}</h2><span>${String(entries.length).padStart(3,'0')}件</span></summary><div class="record-table catalog-table"><table aria-label="${h(title)}">${sortableHead}<tbody>${entries.map(ledgerRow).join('')}</tbody></table></div></details>`;
 }
 function hideFacilityDetail(){
   const panel=document.querySelector('#facility-detail-panel');
@@ -69,6 +69,8 @@ function showFacilityDetail(key,index){
   const entry=facilityEntries.find(e=>e.key===key&&e.index===Number(index));
   if(!entry){hideFacilityDetail();return;}
   selectedFacilityId=`${key}/${index}`;
+  const material=document.getElementById('material-'+key);
+  if(material)material.open=true;
   const panel=document.querySelector('#facility-detail-panel');
   panel.innerHTML=`<div class="detail-panel-bar"><span>一覧をスクロールすると詳細を閉じます</span><button type="button" id="hide-facility-detail">詳細を閉じる ×</button></div>${detailMarkup(entry.item,materialDefinitions.find(d=>d[0]===key))}`;
   panel.hidden=false;
@@ -84,6 +86,9 @@ function showFacilityDetail(key,index){
   };
 }
 function wireLedgerRows(){
+  document.querySelectorAll('details.all-material-section').forEach(section=>{
+    section.ontoggle=()=>{if(!section.open&&section.querySelector('.selected-row'))hideFacilityDetail();};
+  });
   wireSortTables();
   document.querySelectorAll('[data-all-facility]').forEach(button=>button.onclick=()=>{
     // Updating only the panel preserves row order, query and scroll position.
@@ -104,7 +109,7 @@ function renderLedgerResults(){
       unfilteredList.append(...scroller.childNodes);
     }
     const matches=facilityEntries.filter(entry=>tokens.every(token=>entry.text.includes(token)));
-    scroller.innerHTML=matches.length?ledgerSection('facility-search-results','横断検索','全資料の検索結果',matches):'<p class="empty">該当する施設はありません。検索語を変えてお試しください。</p>';
+    scroller.innerHTML=matches.length?ledgerSection('facility-search-results','横断検索','全資料の検索結果',matches,true):'<p class="empty">該当する施設はありません。検索語を変えてお試しください。</p>';
     document.querySelector('#facility-search-status').textContent=`${matches.length} / ${facilityEntries.length}件`;
     scroller.scrollTop=0;
   }else{
@@ -135,7 +140,7 @@ function facilitiesPage(selectedKey=null,selectedIndex=null){
       if(facilityQuery)clear();
       hideFacilityDetail();
       const target=document.getElementById('material-'+button.dataset.materialJump);
-      if(target)scroller.scrollTop+=target.getBoundingClientRect().top-scroller.getBoundingClientRect().top;
+      if(target){target.open=true;scroller.scrollTop+=target.getBoundingClientRect().top-scroller.getBoundingClientRect().top;}
     });
     // The panel overlays the list: closing it never changes the list geometry.
     scroller.addEventListener('wheel',event=>{if(event.deltaY)hideFacilityDetail();},{passive:true});
