@@ -85,5 +85,35 @@
     "file": "公的防災関連施設.csv",
     "id": "csv-abe02098a033b6a51560",
     "number": 15
+  },
+  {
+    "file": "ドリームコア／モールコア.csv",
+    "id": "csv-93632f78566b28f084a4",
+    "number": 16
+  },
+  {
+    "file": "レトロゲームセンター.csv",
+    "id": "csv-7953300f77b059b02352",
+    "number": 17
+  },
+  {
+    "file": "人が入れる公的建築施設.csv",
+    "id": "csv-877a4e5380a78a2bff06",
+    "number": 18
+  },
+  {
+    "file": "東京の失われた名所.csv",
+    "id": "csv-16d6ffe93a3cf21e777b",
+    "number": 19
+  },
+  {
+    "file": "病院内タリーズ.csv",
+    "id": "csv-882cdb3d8104ba14582e",
+    "number": 20
+  },
+  {
+    "file": "自治体の面白いホームページ.csv",
+    "id": "csv-8d201c27e111597f8974",
+    "number": 21
   }
 ]
