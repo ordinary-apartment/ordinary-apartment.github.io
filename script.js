@@ -84,8 +84,13 @@ function showFacilityDetail(key,index){
     button.closest('tr').classList.toggle('selected-row',selected);
   });
   document.querySelector('#hide-facility-detail').onclick=()=>{
+    const closedId=selectedFacilityId;
+    // Explicit dismissal also clears a stale route when the panel is already hidden.
+    history.replaceState(null,'','#facilities');
     hideFacilityDetail();
-    const button=[...document.querySelectorAll('[data-all-facility]')].find(b=>b.dataset.allFacility===selectedFacilityId);
+    selectedFacilityId=null;
+    document.querySelectorAll('.selected-row').forEach(row=>row.classList.remove('selected-row'));
+    const button=[...document.querySelectorAll('[data-all-facility]')].find(b=>b.dataset.allFacility===closedId);
     button?.focus({preventScroll:true});
   };
 }
@@ -173,3 +178,4 @@ function detail(id){
 }
 function route(){const routeHash=location.hash.slice(1)||'facilities',parts=routeHash.split('/');routeHash.startsWith('facility/')?facilityDetail(parts[1],parts[2]):routeHash.startsWith('material/')?materialPage(parts[1]):facilitiesPage()}
 addEventListener('hashchange',route);wire();route();
+
