@@ -8,7 +8,9 @@ function tagPage(){active('tags');main.innerHTML=`<div class="page"><p class="ey
 const maps=q=>`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(q)}`;
 const tullys=q=>`https://shop.tullys.co.jp/all?keyword=${encodeURIComponent(q)}`;
 const facilityDataset=window.FACILITY_DATASET;
-const materialDefinitions=facilityDataset.materials.map(m=>[m.id,String(m.number).padStart(2,'0'),m.name,m.shortName]);
+// Display consecutive numbers; keep stored IDs and record links unchanged.
+const materialDisplayNumbers=new Map(facilityDataset.materials.map((m,index)=>[m.id,String(index+1).padStart(2,'0')]));
+const materialDefinitions=facilityDataset.materials.map(m=>[m.id,materialDisplayNumbers.get(m.id),m.name,m.shortName]);
 const materialItemMap=new Map(facilityDataset.materials.map(m=>[m.id,m.items]));
 const materialItems=key=>materialItemMap.get(key)||[];
 const h=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -44,7 +46,7 @@ const normalizeRegion=value=>{
   return text;
 };
 const facilityEntries=facilityDataset.materials.flatMap(m=>m.items.map((item,index)=>({
-  item,key:m.id,index,number:String(m.number).padStart(2,'0'),title:m.name,
+  item,key:m.id,index,number:materialDisplayNumbers.get(m.id),title:m.name,
   text:normalizeRegion([item.prefecture,item.city,item.name,item.type,item.kind,item.note,item.description,item.aim,m.name,m.shortName].filter(Boolean).join(' '))
 })));
 let facilityQuery='',selectedFacilityId=null,unfilteredList=null,unfilteredScroll=0;
