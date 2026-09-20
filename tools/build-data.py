@@ -6,6 +6,7 @@ import io
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 from urllib.parse import quote, urlsplit
 
@@ -23,6 +24,10 @@ FIELDS = {
     'officialSearch': ['公式検索', 'officialSearch'],
     'mapQueryName': ['地図検索名', 'mapQueryName'],
 }
+
+def normalized_filename(value):
+    """Use one filename identity on filesystems with different Unicode forms."""
+    return unicodedata.normalize('NFC', value)
 
 def read_csv(path):
     raw = path.read_bytes()
@@ -75,16 +80,35 @@ def build(root=ROOT):
     for r in registry:
         if not re.fullmatch(r'[A-Za-z][A-Za-z0-9_-]*',r['id']) or not isinstance(r['number'],int) or r['number']<1:
             raise ValueError('資料番号管理ファイル: IDまたは番号が不正です')
-    by_file = {r['file']:r for r in registry}
+    # macOS commonly presents filenames in NFD while Linux checkouts commonly
+    # use NFC.  Keep the original spelling in the registry, but match files by
+    # their NFC identity so a normalization change cannot allocate a new
+    # material number.
+    by_normalized_file = {}
+    for entry in registry:
+        key = normalized_filename(entry['file'])
+        by_normalized_file.setdefault(key, []).append(entry)
     materials = []
+    seen_files = set()
     for path in sorted(data.glob('*.csv'), key=lambda p:p.name):
-        if path.name not in by_file:
-            entry = {'file':path.name, 'id':'csv-'+hashlib.sha256(path.name.encode()).hexdigest()[:20], 'number':max((r['number'] for r in registry),default=0)+1}
+        file_key = normalized_filename(path.name)
+        if file_key in seen_files:
+            raise ValueError(f'{path.name}: Unicode正規化後のファイル名が重複しています')
+        seen_files.add(file_key)
+        candidates = by_normalized_file.get(file_key, [])
+        if candidates:
+            # If an older registry contains both NFC and NFD spellings, the
+            # highest reserved entry is the currently published identity.
+            # Keeping that entry preserves existing URL keys and row links;
+            # the normalized filename still makes both spellings equivalent.
+            entry = max(candidates, key=lambda item: item['number'])
+        else:
+            entry = {'file':path.name, 'id':'csv-'+hashlib.sha256(file_key.encode()).hexdigest()[:20], 'number':max((r['number'] for r in registry),default=0)+1}
             registry.append(entry)
-            by_file[path.name] = entry
-        entry = by_file[path.name]
+            by_normalized_file.setdefault(file_key, []).append(entry)
         items = read_csv(path)
-        materials.append({'id':entry['id'], 'number':entry['number'], 'name':path.stem, 'shortName':entry.get('short',path.stem), 'file':path.name, 'count':len(items), 'items':items})
+        material_name = normalized_filename(path.stem)
+        materials.append({'id':entry['id'], 'number':entry['number'], 'name':material_name, 'shortName':entry.get('short',material_name), 'file':path.name, 'count':len(items), 'items':items})
     materials.sort(key=lambda m:m['number'])
     dataset = {'schemaVersion':1, 'materialCount':len(materials), 'total':sum(m['count'] for m in materials), 'materials':materials}
     # Write only after ALL inputs pass validation, so a bad CSV cannot replace a valid build.

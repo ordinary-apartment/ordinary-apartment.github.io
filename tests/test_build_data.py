@@ -1,5 +1,8 @@
 import csv
 import importlib.util
+import json
+import subprocess
+import unicodedata
 from pathlib import Path
 import tempfile
 import unittest
@@ -54,4 +57,33 @@ class BuildTests(unittest.TestCase):
         old=(self.root/'generated/facility-data.js').read_bytes()
         builder.build(self.root)
         self.assertEqual((self.root/'generated/facility-data.js').read_bytes(),old)
+
+    def test_nfc_and_nfd_filename_keep_same_material_identity(self):
+        nfc='植物園.csv'
+        nfd=unicodedata.normalize('NFD', nfc)
+        self.write(nfc,[['施設名'],['元の施設']])
+        first=builder.build(self.root)['materials'][0]
+        (self.root/'data'/nfc).unlink()
+        self.write(nfd,[['施設名'],['同じ資料']])
+        second=builder.build(self.root)['materials'][0]
+        self.assertEqual(second['id'],first['id'])
+        self.assertEqual(second['number'],first['number'])
+        self.assertEqual(second['name'],unicodedata.normalize('NFC',nfc).removesuffix('.csv'))
+
+    def test_published_catalog_identity_order_and_rows_match_head(self):
+        root=Path(__file__).resolve().parents[1]
+        head=json.loads(subprocess.check_output(
+            ['git','show','HEAD:generated/facility-data.json'],cwd=root
+        ))
+        current=json.loads((root/'generated/facility-data.json').read_text(encoding='utf-8'))
+        self.assertEqual(current['materialCount'],16)
+        self.assertEqual(current['total'],1131)
+        self.assertEqual(
+            [(m['id'],m['number']) for m in current['materials']],
+            [(m['id'],m['number']) for m in head['materials']],
+        )
+        self.assertEqual(
+            [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in current['materials']],
+            [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in head['materials']],
+        )
 if __name__=='__main__': unittest.main()
