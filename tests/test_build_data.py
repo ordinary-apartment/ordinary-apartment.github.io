@@ -107,15 +107,18 @@ class BuildTests(unittest.TestCase):
         ))
         current=json.loads((root/'generated/facility-data.json').read_text(encoding='utf-8'))
         self.assertEqual(current['schemaVersion'],2)
-        self.assertEqual(current['materialCount'],16)
-        self.assertEqual(current['total'],1131)
+        self.assertEqual(current['materialCount'],17)
+        self.assertEqual(current['total'],1223)
+        current_existing=[m for m in current['materials'] if m['number'] != 22]
         self.assertEqual(
-            [(m['id'],m['number']) for m in current['materials']],
+            [(m['id'],m['number']) for m in current_existing],
             [(m['id'],m['number']) for m in head['materials']],
         )
         self.assertEqual(
-            [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in current['materials']],
+            [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in current_existing],
             [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in head['materials']],
         )
+        self.assertEqual(current['materials'][-1]['number'],22)
+        self.assertEqual(current['materials'][-1]['count'],92)
         self.assertTrue(all('rank' not in item and isinstance(item['relatedLinks'],list) for m in current['materials'] for item in m['items']))
 if __name__=='__main__': unittest.main()
