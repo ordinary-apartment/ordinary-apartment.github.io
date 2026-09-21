@@ -16,13 +16,18 @@ FIELDS = {
     'city': ['市区町村', 'city'],
     'name': ['店舗名・施設名', '施設名', '店舗名', 'name'],
     'type': ['分類', 'type'],
-    'rank': ['評価', 'rank'],
     'note': ['説明・狙い目', '説明', '備考', 'note'],
     'official': ['公式サイト', '公式サイトURL', 'official'],
     'maps': ['Googleマップ', 'GoogleマップURL', 'maps'],
     'kind': ['雰囲気', 'kind'],
     'officialSearch': ['公式検索', 'officialSearch'],
     'mapQueryName': ['地図検索名', 'mapQueryName'],
+    'related1Title': ['関連リンク1タイトル', 'relatedLink1Title'],
+    'related1URL': ['関連リンク1URL', 'relatedLink1URL'],
+    'related2Title': ['関連リンク2タイトル', 'relatedLink2Title'],
+    'related2URL': ['関連リンク2URL', 'relatedLink2URL'],
+    'related3Title': ['関連リンク3タイトル', 'relatedLink3Title'],
+    'related3URL': ['関連リンク3URL', 'relatedLink3URL'],
 }
 
 def normalized_filename(value):
@@ -39,6 +44,13 @@ def read_csv(path):
     headers = reader.fieldnames
     if not headers or any(not h for h in headers) or len(set(headers)) != len(headers):
         raise ValueError(f'{path.name}: 列名が空または重複しています')
+    if '評価' in headers or 'rank' in headers:
+        raise ValueError(f'{path.name}: 評価列は廃止されました。関連リンク列へ移行してください')
+    if any(
+        re.fullmatch(r'(?:関連リンク|relatedLink)[4-9]\d*(?:タイトル|URL|Title|Url)', h)
+        for h in headers
+    ):
+        raise ValueError(f'{path.name}: 関連リンクは最大3件まで指定できます')
     selected = {}
     for key, aliases in FIELDS.items():
         found = [a for a in aliases if a in headers]
@@ -64,6 +76,23 @@ def read_csv(path):
         if not item['maps']:
             query = ' '.join(filter(None, [item['mapQueryName'] or item['name'], item['prefecture'], item['city']]))
             item['maps'] = 'https://www.google.com/maps/search/?api=1&query=' + quote(query, safe='')
+        related_links=[]
+        for index in range(1,4):
+            title=item[f'related{index}Title'].strip()
+            url=item[f'related{index}URL'].strip()
+            if bool(title) != bool(url):
+                raise ValueError(f'{path.name}:{reader.line_num}: 関連リンク{index}はタイトルとURLを両方指定してください')
+            if not title:
+                continue
+            parsed=urlsplit(url)
+            if parsed.scheme.lower() not in ('http','https') or not parsed.netloc or any(ord(c)<32 for c in url):
+                raise ValueError(f'{path.name}:{reader.line_num}: 関連リンク{index}URLはhttp(s)のURLにしてください')
+            if any(link['url']==url for link in related_links):
+                raise ValueError(f'{path.name}:{reader.line_num}: 関連リンクURLが重複しています')
+            related_links.append({'title':title,'url':url})
+        item['relatedLinks']=related_links
+        for key in ['related1Title','related1URL','related2Title','related2URL','related3Title','related3URL']:
+            item.pop(key, None)
         extra = {k:v for k,v in row.items() if k not in known}
         if extra:
             item['extra'] = extra
@@ -110,7 +139,7 @@ def build(root=ROOT):
         material_name = normalized_filename(path.stem)
         materials.append({'id':entry['id'], 'number':entry['number'], 'name':material_name, 'shortName':entry.get('short',material_name), 'file':path.name, 'count':len(items), 'items':items})
     materials.sort(key=lambda m:m['number'])
-    dataset = {'schemaVersion':1, 'materialCount':len(materials), 'total':sum(m['count'] for m in materials), 'materials':materials}
+    dataset = {'schemaVersion':2, 'materialCount':len(materials), 'total':sum(m['count'] for m in materials), 'materials':materials}
     # Write only after ALL inputs pass validation, so a bad CSV cannot replace a valid build.
     generated = root / 'generated'
     generated.mkdir(exist_ok=True)

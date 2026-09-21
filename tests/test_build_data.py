@@ -35,6 +35,7 @@ class BuildTests(unittest.TestCase):
         item=builder.build(self.root)['materials'][0]['items'][0]
         self.assertEqual(item['note'],'一行目\n二行目')
         self.assertEqual(item['extra'],{'独自列':'保存'})
+        self.assertEqual(item['relatedLinks'],[])
         self.assertTrue(item['maps'].startswith('https://www.google.com/maps/search/'))
     def test_cp932_and_empty_material(self):
         self.write('日本語.csv',[['施設名'],['図書館']],encoding='cp932')
@@ -70,12 +71,42 @@ class BuildTests(unittest.TestCase):
         self.assertEqual(second['number'],first['number'])
         self.assertEqual(second['name'],unicodedata.normalize('NFC',nfc).removesuffix('.csv'))
 
+    def test_related_links_zero_one_and_three(self):
+        headers=['施設名','関連リンク1タイトル','関連リンク1URL','関連リンク2タイトル','関連リンク2URL','関連リンク3タイトル','関連リンク3URL']
+        self.write('リンク.csv',[headers,
+            ['なし','','','','','',''],
+            ['一件','個人記事','https://example.com/one','','','',''],
+            ['三件','記事1','https://example.com/1','記事2','https://example.com/2','記事3','https://example.com/3'],
+        ])
+        items=builder.build(self.root)['materials'][0]['items']
+        self.assertEqual(items[0]['relatedLinks'],[])
+        self.assertEqual(items[1]['relatedLinks'],[{'title':'個人記事','url':'https://example.com/one'}])
+        self.assertEqual(items[2]['relatedLinks'],[
+            {'title':'記事1','url':'https://example.com/1'},
+            {'title':'記事2','url':'https://example.com/2'},
+            {'title':'記事3','url':'https://example.com/3'},
+        ])
+
+    def test_related_links_reject_invalid_pairs_urls_duplicates_and_fourth(self):
+        cases=[
+            [['施設名','関連リンク1タイトル','関連リンク1URL'],['施設','タイトル','']],
+            [['施設名','関連リンク1タイトル','関連リンク1URL'],['施設','','https://example.com/one']],
+            [['施設名','関連リンク1タイトル','関連リンク1URL'],['施設','タイトル','javascript:alert(1)']],
+            [['施設名','関連リンク1タイトル','関連リンク1URL','関連リンク2タイトル','関連リンク2URL'],['施設','同じ','https://example.com/same','同じ2','https://example.com/same']],
+            [['施設名','関連リンク4タイトル','関連リンク4URL'],['施設','4件目','https://example.com/four']],
+        ]
+        for rows in cases:
+            self.write('不正リンク.csv',rows)
+            with self.assertRaises(ValueError): builder.build(self.root)
+            (self.root/'data/不正リンク.csv').unlink()
+
     def test_published_catalog_identity_order_and_rows_match_head(self):
         root=Path(__file__).resolve().parents[1]
         head=json.loads(subprocess.check_output(
             ['git','show','HEAD:generated/facility-data.json'],cwd=root
         ))
         current=json.loads((root/'generated/facility-data.json').read_text(encoding='utf-8'))
+        self.assertEqual(current['schemaVersion'],2)
         self.assertEqual(current['materialCount'],16)
         self.assertEqual(current['total'],1131)
         self.assertEqual(
@@ -86,4 +117,5 @@ class BuildTests(unittest.TestCase):
             [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in current['materials']],
             [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in head['materials']],
         )
+        self.assertTrue(all('rank' not in item and isinstance(item['relatedLinks'],list) for m in current['materials'] for item in m['items']))
 if __name__=='__main__': unittest.main()
