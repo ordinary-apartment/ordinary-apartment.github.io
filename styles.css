@@ -168,3 +168,9 @@ details.all-material-section>summary:focus-visible{outline:2px solid var(--ink);
   .all-material-section .catalog-table th:nth-child(4){width:30%}
   .all-material-section .catalog-table th:nth-child(6){width:14%}
 }
+
+/* 一覧では関連リンクを記号に圧縮し、訪問済みリンクは落ち着いた色で区別する */
+.related-link-mark{display:inline-block;width:1.1em;margin-right:3px;text-align:center;text-decoration:none;font-size:13px;line-height:1.1}
+.related-link:hover,.related-link-mark:hover,.facility-detail-link:hover,.record-table a:hover,.facility-register a:hover,.facility-index-bar a:hover{color:var(--deep);background:var(--mint)}
+.related-link:visited,.facility-detail-link:visited,.record-table a:visited,.facility-register a:visited,.facility-index-bar a:visited{color:#806b5c}
+.facility-detail-link{color:var(--ink);text-decoration:underline;text-decoration-color:var(--deep);text-underline-offset:2px}
