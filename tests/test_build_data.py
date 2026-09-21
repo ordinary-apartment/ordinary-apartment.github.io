@@ -106,17 +106,18 @@ class BuildTests(unittest.TestCase):
             ['git','show','HEAD:generated/facility-data.json'],cwd=root
         ))
         current=json.loads((root/'generated/facility-data.json').read_text(encoding='utf-8'))
+        head_existing=[m for m in head['materials'] if m['number'] != 22]
         self.assertEqual(current['schemaVersion'],2)
         self.assertEqual(current['materialCount'],17)
         self.assertEqual(current['total'],1223)
         current_existing=[m for m in current['materials'] if m['number'] != 22]
         self.assertEqual(
             [(m['id'],m['number']) for m in current_existing],
-            [(m['id'],m['number']) for m in head['materials']],
+            [(m['id'],m['number']) for m in head_existing],
         )
         self.assertEqual(
             [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in current_existing],
-            [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in head['materials']],
+            [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in head_existing],
         )
         self.assertEqual(current['materials'][-1]['number'],22)
         self.assertEqual(current['materials'][-1]['count'],92)
