@@ -4,14 +4,36 @@ from pathlib import Path
 import tempfile
 import subprocess
 import unittest
+from unittest.mock import patch
 
 ROOT = Path(__file__).resolve().parents[1]
 spec = importlib.util.spec_from_file_location('additions', ROOT/'tools/check-additions.py')
 additions = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(additions)
+link_spec = importlib.util.spec_from_file_location('linkchecker', ROOT/'tools/check-links.py')
+linkchecker = importlib.util.module_from_spec(link_spec)
+link_spec.loader.exec_module(linkchecker)
 
 
 class AdditionTests(unittest.TestCase):
+    def test_link_checker_fetches_page_and_rejects_redirect_without_context(self):
+        class Headers:
+            def get_content_type(self): return 'text/html'
+            def get_content_charset(self): return 'utf-8'
+        class Response:
+            status = 200
+            headers = Headers()
+            def __init__(self, body, final_url): self.body, self.final_url = body, final_url
+            def __enter__(self): return self
+            def __exit__(self, *args): pass
+            def geturl(self): return self.final_url
+            def read(self, _size): return self.body
+        good = Response('<html><title>桐ヶ丘中央商店街</title><body>記録</body></html>'.encode(), 'https://example.test/good')
+        home = Response('<html><title>ホーム</title><body>別の情報</body></html>'.encode(), 'https://example.test/home')
+        with patch.object(linkchecker, 'urlopen', side_effect=[good, home]):
+            self.assertTrue(linkchecker.check_url('https://example.test/good', '桐ヶ丘中央商店街', 2)[0])
+            self.assertFalse(linkchecker.check_url('https://example.test/redirect', '桐ヶ丘中央商店街', 2)[0])
+
     def test_duplicate_names_normalize_width_space_and_case(self):
         self.assertTrue(additions.duplicate_reasons({'name': 'Ａ BC　館'}, {'name': 'abc館'}))
         self.assertTrue(additions.duplicate_reasons({'name': '施設 本館'}, {'name': '施設'}))

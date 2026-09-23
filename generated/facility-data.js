@@ -22041,16 +22041,7 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "北区景観づくり資料",
-              "url": "https://www.city.kita.lg.jp/_res/projects/default_project/_page_/001/009/849/5keishinhaihusiryou.pdf"
-            },
-            {
-              "title": "桐ケ丘一・二丁目地区の動画資料",
-              "url": "https://www.city.kita.tokyo.jp/machisuishin/machidukuri/documents/03_kirigaoka_dougasiryou.pdf"
-            }
-          ]
+          "relatedLinks": []
         },
         {
           "prefecture": "東京都",
@@ -22067,10 +22058,6 @@ window.FACILITY_DATASET={
             {
               "title": "北区商店街商品券取扱店一覧",
               "url": "https://kitashoren.jp/shouhinnken/R6/20241001kamitoriatsukaiten.pdf"
-            },
-            {
-              "title": "豊島五丁目団地物件概要",
-              "url": "https://www.ur-net.go.jp/east/news/rquj5t0000004gds-att/kitakusn.pdf"
             }
           ]
         },
@@ -22133,10 +22120,6 @@ window.FACILITY_DATASET={
             {
               "title": "板橋区商店街連合会アクセス",
               "url": "https://www.i-shoren.com/access.html"
-            },
-            {
-              "title": "高島平団地の商店街案内",
-              "url": "https://www.muji.net/ie/mujiur/area/06_takashimadaira.html"
             }
           ]
         },
@@ -22151,16 +22134,7 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "江東区商店街マップ",
-              "url": "https://www.city.koto.lg.jp/102030/sangyoshigoto/shisetsu/shotengai/documents/shoutenngaimap.pdf"
-            },
-            {
-              "title": "江東区お買物券取扱店一覧",
-              "url": "https://koto-okaimono-premium2025.jp/common/pdf/storeListAB.pdf"
-            }
-          ]
+          "relatedLinks": []
         },
         {
           "prefecture": "東京都",

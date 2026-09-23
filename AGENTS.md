@@ -5,6 +5,7 @@
 - 正本は `data/*.csv` と `data/material-registry.json`。生成は必ず `python3 -B tools/build-data.py`。生成物を手編集しない。
 - 既存施設・CSV列・行順・資料IDと番号を維持し、対象CSVの末尾だけへ追記する。既存重複を整理しない。
 - 追加前に `tools/check-additions.py duplicates` と意味上の照合を実施する。新資料でも全CSVを照合する。
+- 関連リンクはURL文字列だけで判断しない。URLを推測・検索結果から転記せず、登録前に実URLへアクセスする。2xxで取得でき、リダイレクト後も目的ページが残り、ページタイトルと本文が対象施設・掲載内容に関係する場合だけ登録する。404/410/接続不能/削除済み/トップページへの強制転送は登録しない。PDFは実体を取得して本文と対象性を確認し、確認できなければタイトル・URLとも空欄にする。HTMLの機械検証は `python3 -B tools/check-links.py <CSV>` で行う。
 - 関係のない変更・未追跡ファイル・バックアップを編集、削除、stageしない。`git add .`、`git add -A`、`git clean`、破壊的reset、force pushは禁止。
 - 生成後に全既存テスト、追加保全検証、JavaScript構文検査、`git diff --check` とstage後の同検証を実行する。失敗は原因を修正して再検証し、成功した変更だけcommitする。
 - ファイル名はNFC/NFDを同一視する。macOSで未追跡に見える既存CSVを重複ファイルとして削除・追加しない。レジストリの過去の予約番号も削除しない。
