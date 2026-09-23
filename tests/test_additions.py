@@ -1,4 +1,5 @@
 import copy
+import csv
 import importlib.util
 from pathlib import Path
 import tempfile
@@ -16,6 +17,16 @@ link_spec.loader.exec_module(linkchecker)
 
 
 class AdditionTests(unittest.TestCase):
+    def test_regional_cultural_facilities_material_is_populated_and_unique(self):
+        path = ROOT/'data/地域文化施設.csv'
+        with path.open(encoding='utf-8-sig', newline='') as handle:
+            rows = list(csv.DictReader(handle))
+        self.assertGreaterEqual(len(rows), 20)
+        names = [row['店舗名・施設名'].strip() for row in rows]
+        self.assertEqual(len(names), len(set(names)))
+        self.assertTrue(all(row['説明・狙い目'].strip() for row in rows))
+        self.assertGreaterEqual(len({row['都道府県'] for row in rows}), 20)
+
     def test_link_checker_fetches_page_and_rejects_redirect_without_context(self):
         class Headers:
             def get_content_type(self): return 'text/html'

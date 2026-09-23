@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 18,
-  "total": 1230,
+  "materialCount": 19,
+  "total": 1252,
   "materials": [
     {
       "id": "botanical",
@@ -22151,6 +22151,412 @@ window.FACILITY_DATASET={
             {
               "title": "gBizINFO（閉鎖法人）",
               "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8012705000183"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "csv-fc8f63487c880b68a990",
+      "number": 24,
+      "name": "地域文化施設",
+      "shortName": "地域文化施設",
+      "file": "地域文化施設.csv",
+      "count": 22,
+      "items": [
+        {
+          "prefecture": "北海道",
+          "city": "滝川市",
+          "name": "滝川市郷土館",
+          "type": "地域文化施設",
+          "note": "屯田兵の入植から発展した滝川の開拓生活を、屯田兵屋・再現された大正期の商店・農具や生活用品で伝える。狙い目：現存する屯田兵屋と商店の建物、開拓期の道具。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%BB%9D%E5%B7%9D%E5%B8%82%E9%83%B7%E5%9C%9F%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%BB%9D%E5%B7%9D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "滝川市郷土館（滝川市公式）",
+              "url": "https://www.city.takikawa.lg.jp/site/museum/2836.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "様似町",
+          "name": "様似郷土館",
+          "type": "地域文化施設",
+          "note": "日高の海岸と山間で営まれたアイヌ文化、漁業・農業の暮らし、縄文から近代までの様似の歴史を考古資料と民俗資料で残す。狙い目：アイヌ関係資料と地域の生活用具。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A7%98%E4%BC%BC%E9%83%B7%E5%9C%9F%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%A7%98%E4%BC%BC%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "様似郷土館（北海道公式）",
+              "url": "https://www.hidaka.pref.hokkaido.lg.jp/hk/kks/ainuculture/samani/single_ainu_samani_samanikyoudokan.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "青森県",
+          "city": "八戸市",
+          "name": "八戸市南郷歴史民俗資料館",
+          "type": "地域文化施設",
+          "note": "旧南郷村の農山村生活と昭和の地域文化を、農具・衣食住の道具や移築民家で具体的に伝える。狙い目：南郷の古民家と、地域で使われた生活用具の展示。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%B8%82%E5%8D%97%E9%83%B7%E6%AD%B4%E5%8F%B2%E6%B0%91%E4%BF%97%E8%B3%87%E6%96%99%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%85%AB%E6%88%B8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "八戸市南郷歴史民俗資料館（公式）",
+              "url": "https://nango-hf.jp/"
+            }
+          ]
+        },
+        {
+          "prefecture": "岩手県",
+          "city": "遠野市",
+          "name": "遠野市立博物館",
+          "type": "地域文化施設",
+          "note": "遠野の山里で育まれた信仰・年中行事・農家の暮らしを『遠野物語』と実物資料、映像で伝える。狙い目：遠野の曲り家文化、オシラサマなど土地固有の民俗資料。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%81%A0%E9%87%8E%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E9%81%A0%E9%87%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "遠野市立博物館（遠野市公式）",
+              "url": "https://www.city.tono.iwate.jp/index.cfm/48%2C25002%2C166%2Chtml"
+            }
+          ]
+        },
+        {
+          "prefecture": "秋田県",
+          "city": "男鹿市",
+          "name": "男鹿真山伝承館",
+          "type": "地域文化施設",
+          "note": "男鹿の農家の建築を使い、ナマハゲをはじめとする男鹿の信仰・年中行事と、半島の暮らしを実演と資料で継承する。狙い目：曲家形式の民家とナマハゲ習俗の実演。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%B7%E9%B9%BF%E7%9C%9F%E5%B1%B1%E4%BC%9D%E6%89%BF%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%94%B7%E9%B9%BF%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "男鹿真山伝承館（男鹿市公式）",
+              "url": "https://www.city.oga.akita.jp/soshik/bunkasportska/bunkazai/4/1444.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "福島県",
+          "city": "下郷町",
+          "name": "大内宿町並み展示館",
+          "type": "地域文化施設",
+          "note": "会津西街道の宿場として栄えた大内宿の本陣を復元し、街道交通と茅葺き民家で続く住民の生活文化を示す。狙い目：本陣の間取り、宿場の生活道具と町並み。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%86%85%E5%AE%BF%E7%94%BA%E4%B8%A6%E3%81%BF%E5%B1%95%E7%A4%BA%E9%A4%A8%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E4%B8%8B%E9%83%B7%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "大内宿町並み展示館（大内宿観光協会）",
+              "url": "https://shimogo.or.jp/?page_id=840"
+            }
+          ]
+        },
+        {
+          "prefecture": "栃木県",
+          "city": "日光市",
+          "name": "足尾銅山観光",
+          "type": "地域文化施設",
+          "note": "足尾銅山の採鉱・製錬が谷間の町を形づくった歴史を、実際の坑道と鉱山資料で伝える。狙い目：トロッコで入る坑道、採掘現場と銅山の産業遺産。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%B3%E5%B0%BE%E9%8A%85%E5%B1%B1%E8%A6%B3%E5%85%89%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E6%97%A5%E5%85%89%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "足尾銅山観光（日光市公式）",
+              "url": "https://www.city.nikko.lg.jp/kanko_bunka_sports/activity/1/4/6164.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "富岡市",
+          "name": "富岡製糸場",
+          "type": "地域文化施設",
+          "note": "明治政府の器械製糸工場として富岡の地域産業と日本の養蚕・製糸を変えた建物群を保存する。狙い目：操糸場、繰糸器械、工場を支えた職員住宅とブリュナ館。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B2%A1%E8%A3%BD%E7%B3%B8%E5%A0%B4%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%AF%8C%E5%B2%A1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "富岡製糸場（公式）",
+              "url": "https://www.tomioka-silk.jp/_tomioka-silk-mill/"
+            }
+          ]
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "船橋市",
+          "name": "船橋市郷土資料館",
+          "type": "地域文化施設",
+          "note": "東京湾岸の漁村から近郊都市へ変わった船橋の考古・民俗・産業の資料を収集し、海苔漁や農家の暮らしを地域史として示す。狙い目：船橋の漁具・農具と、地域の土地利用の変化。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%88%B9%E6%A9%8B%E5%B8%82%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E8%88%B9%E6%A9%8B%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "船橋市郷土資料館（船橋市公式）",
+              "url": "https://www.city.funabashi.lg.jp/shisetsu/bunka/0001/0005/0001/p011081.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "小金井市",
+          "name": "江戸東京たてもの園",
+          "type": "地域文化施設",
+          "note": "東京の郊外・下町・商業地で使われた建物を移築保存し、都市の住まいと仕事の場を実物空間で継承する。狙い目：農家・商店・銭湯など、地域の生活を伝える復元建築と内部資料。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E6%88%B8%E6%9D%B1%E4%BA%AC%E3%81%9F%E3%81%A6%E3%82%82%E3%81%AE%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "江戸東京たてもの園（公式）",
+              "url": "https://www.tatemonoen.jp/"
+            }
+          ]
+        },
+        {
+          "prefecture": "富山県",
+          "city": "富山市",
+          "name": "富山市民俗民芸村",
+          "type": "地域文化施設",
+          "note": "富山の農村住宅、薬売り、養蚕、祭礼など立山山麓と越中の生活文化を移築民家や民具で保存する。狙い目：旧家の建築、売薬・養蚕・農耕に使われた道具。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E5%B8%82%E6%B0%91%E4%BF%97%E6%B0%91%E8%8A%B8%E6%9D%91%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "富山市民俗民芸村（富山市公式）",
+              "url": "https://www.city.toyama.toyama.jp/etc/minzokumingei/"
+            }
+          ]
+        },
+        {
+          "prefecture": "長野県",
+          "city": "高山村",
+          "name": "高山村歴史民俗資料館",
+          "type": "地域文化施設",
+          "note": "北信の山村で営まれた農林業と年中行事を、村内の生活用具・農具・祭礼資料で伝える。狙い目：豪雪地の道具、山村の衣食住と地域祭礼の資料。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%B1%B1%E6%9D%91%E6%AD%B4%E5%8F%B2%E6%B0%91%E4%BF%97%E8%B3%87%E6%96%99%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E9%AB%98%E5%B1%B1%E6%9D%91",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "高山村歴史民俗資料館（高山村公式）",
+              "url": "https://www.vill.takayama.nagano.jp/docs/465.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "岐阜県",
+          "city": "白川村",
+          "name": "白川郷野外博物館 合掌造り民家園",
+          "type": "地域文化施設",
+          "note": "白川郷の合掌造り民家を移築保存し、養蚕・大家族の暮らし・雪国の集落形成を建物と民具で体験できるようにしている。狙い目：合掌造りの屋根裏、養蚕道具、雪国の生活空間。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%99%BD%E5%B7%9D%E9%83%B7%E9%87%8E%E5%A4%96%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%90%88%E6%8E%8C%E9%80%A0%E3%82%8A%E6%B0%91%E5%AE%B6%E5%9C%92%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E7%99%BD%E5%B7%9D%E6%9D%91",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "白川郷野外博物館 合掌造り民家園（公式）",
+              "url": "https://www.shirakawago-minkaen.jp/"
+            }
+          ]
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "豊橋市",
+          "name": "愛知大学附属生活産業資料館",
+          "type": "地域文化施設",
+          "note": "三河湾の海苔養殖、養蚕・製糸、豊橋周辺の産業と生活を支えた道具を収集し、地域産業のつながりを示す。狙い目：海苔・養蚕・製糸・藁加工の実物資料。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%94%9F%E6%B4%BB%E7%94%A3%E6%A5%AD%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E6%A9%8B%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "愛知大学附属生活産業資料館（公式）",
+              "url": "https://www.chusanken.jp/museum.php"
+            }
+          ]
+        },
+        {
+          "prefecture": "京都府",
+          "city": "舞鶴市",
+          "name": "舞鶴引揚記念館",
+          "type": "地域文化施設",
+          "note": "引揚港となった舞鶴で、戦後に帰国した人々の記録と港町の記憶を保存し、地域が担った引揚の歴史を伝える。狙い目：引揚者の手紙・衣類・港のジオラマ。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%88%9E%E9%B6%B4%E5%BC%95%E6%8F%9A%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E8%88%9E%E9%B6%B4%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "舞鶴引揚記念館（公式）",
+              "url": "https://m-hikiage-museum.jp/"
+            }
+          ]
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京丹後市",
+          "name": "京丹後市立丹後古代の里資料館",
+          "type": "地域文化施設",
+          "note": "丹後半島の古墳・古代交流と、丹後ちりめんなど地域産業につながる歴史を考古資料で示す。狙い目：丹後の古墳出土品と地域の古代交流を示す展示。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E7%AB%8B%E4%B8%B9%E5%BE%8C%E5%8F%A4%E4%BB%A3%E3%81%AE%E9%87%8C%E8%B3%87%E6%96%99%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "京丹後市の美術館・資料館案内（京丹後市観光公社）",
+              "url": "https://www.kyotango.gr.jp/about/museum/"
+            }
+          ]
+        },
+        {
+          "prefecture": "島根県",
+          "city": "大田市",
+          "name": "石見銀山世界遺産センター",
+          "type": "地域文化施設",
+          "note": "石見銀山の採掘・精錬と銀山町、街道、港が結びついた石見の文化的景観を、出土品と映像で伝える。狙い目：銀の精錬工程、鉱山遺跡と地域集落の関係を示す展示。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E8%A6%8B%E9%8A%80%E5%B1%B1%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%A4%A7%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "石見銀山世界遺産センター（公式）",
+              "url": "https://ginzan.city.oda.lg.jp/about_us/"
+            }
+          ]
+        },
+        {
+          "prefecture": "広島県",
+          "city": "竹原市",
+          "name": "大久野島毒ガス資料館",
+          "type": "地域文化施設",
+          "note": "瀬戸内の大久野島で秘密裏に行われた毒ガス製造の歴史と島の暮らしへの影響を、地域に残る資料と証言で伝える。狙い目：製造施設の遺構と毒ガス関連資料、被害の記録。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E4%B9%85%E9%87%8E%E5%B3%B6%E6%AF%92%E3%82%AC%E3%82%B9%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E7%AB%B9%E5%8E%9F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "大久野島毒ガス資料館（竹原市公式）",
+              "url": "https://www.city.takehara.lg.jp/shisetsuwosagasu/4128.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "高知県",
+          "city": "香南市",
+          "name": "絵金蔵",
+          "type": "地域文化施設",
+          "note": "土佐の絵師・絵金が描いた芝居絵屏風を、赤岡の夏祭りと町の商家文化の中で保存・公開する。狙い目：祭礼で町に出る芝居絵屏風の原画と、赤岡の展示空間。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B5%B5%E9%87%91%E8%94%B5%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E9%A6%99%E5%8D%97%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "絵金蔵（公式）",
+              "url": "https://www.ekingura.com/user_guide/"
+            }
+          ]
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "八女市",
+          "name": "八女伝統工芸館",
+          "type": "地域文化施設",
+          "note": "八女福島の提灯、竹細工、石工、和紙など筑後の伝統産業を職人の道具と実演で継承する。狙い目：八女福島の燈籠人形と、地域工芸の制作工程。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E5%A5%B3%E4%BC%9D%E7%B5%B1%E5%B7%A5%E8%8A%B8%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%85%AB%E5%A5%B3%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "八女伝統工芸館（公式）",
+              "url": "https://www.yame-kougeikan.jp/"
+            }
+          ]
+        },
+        {
+          "prefecture": "熊本県",
+          "city": "水俣市",
+          "name": "水俣市立水俣病資料館",
+          "type": "地域文化施設",
+          "note": "水俣の漁村と工業都市で起きた公害の歴史を、患者・家族の証言と地域資料で記録し、環境と地域再生を考える場にしている。狙い目：語り部の証言、漁具・写真・行政資料。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E4%BF%A3%E5%B8%82%E7%AB%8B%E6%B0%B4%E4%BF%A3%E7%97%85%E8%B3%87%E6%96%99%E9%A4%A8%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E6%B0%B4%E4%BF%A3%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "水俣市立水俣病資料館（水俣市公式）",
+              "url": "https://www.city.minamata.lg.jp/mdmm/"
+            }
+          ]
+        },
+        {
+          "prefecture": "沖縄県",
+          "city": "南風原町",
+          "name": "南風原文化センター",
+          "type": "地域文化施設",
+          "note": "沖縄戦の南風原陸軍病院、戦後の海外移民、琉球絣など、南風原の生活と地域史を住民資料で伝える。狙い目：壕と戦争資料、絣の道具、移民の記録。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E9%A2%A8%E5%8E%9F%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E5%8D%97%E9%A2%A8%E5%8E%9F%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "南風原文化センター（南風原町公式）",
+              "url": "https://www.town.haebaru.lg.jp/soshiki/19/2900.html"
             }
           ]
         }
