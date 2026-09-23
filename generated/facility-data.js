@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 17,
-  "total": 1223,
+  "materialCount": 18,
+  "total": 1230,
   "materials": [
     {
       "id": "botanical",
@@ -22019,6 +22019,166 @@ window.FACILITY_DATASET={
             "一般利用可能": "確認済み（一般利用可）",
             "狙い目": "国際文化施設の庭園付属ラウンジ"
           }
+        }
+      ]
+    },
+    {
+      "id": "csv-c4fa45758baf41ff7963",
+      "number": 23,
+      "name": "東京の消えゆく団地商店街",
+      "shortName": "東京の消えゆく団地商店街",
+      "file": "東京の消えゆく団地商店街.csv",
+      "count": 7,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "桐ヶ丘中央商店街",
+          "type": "消えゆく団地商店街",
+          "note": "桐ヶ丘団地の建替えに伴い取り壊しが決まった商店街。高齢化・後継者不足でシャッター化が進み、70年近い団地の日常を支えた店舗街の変化を記録する。所在地目安：桐ヶ丘1-9。",
+          "official": "https://www.akabanefan.club/kirigaoka",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%90%E3%83%B6%E4%B8%98%E4%B8%AD%E5%A4%AE%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "北区景観づくり資料",
+              "url": "https://www.city.kita.lg.jp/_res/projects/default_project/_page_/001/009/849/5keishinhaihusiryou.pdf"
+            },
+            {
+              "title": "桐ケ丘一・二丁目地区の動画資料",
+              "url": "https://www.city.kita.tokyo.jp/machisuishin/machidukuri/documents/03_kirigaoka_dougasiryou.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "東豊名店街",
+          "type": "消えゆく団地商店街",
+          "note": "豊島五丁目団地の1階に残る名店街。惣菜店など一部の営業を確認できる一方、内部通路にはシャッター店舗が目立つと報告されている。所在地目安：豊島5-4周辺。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E8%B1%8A%E5%90%8D%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "北区商店街商品券取扱店一覧",
+              "url": "https://kitashoren.jp/shouhinnken/R6/20241001kamitoriatsukaiten.pdf"
+            },
+            {
+              "title": "豊島五丁目団地物件概要",
+              "url": "https://www.ur-net.go.jp/east/news/rquj5t0000004gds-att/kitakusn.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "板橋区",
+          "name": "高島平イーストサイド名店街",
+          "type": "消えゆく団地商店街",
+          "note": "高島平二丁目団地の1階にある名店街。昭和47年開設の団地商店街として現在も店舗が残るが、空き区画・閉鎖店舗と生活拠点の更新を観察できる。所在地目安：高島平2-28-1。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%B3%B6%E5%B9%B3%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B5%E3%82%A4%E3%83%89%E5%90%8D%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "板橋区商店街連合会アクセス",
+              "url": "https://www.i-shoren.com/access.html"
+            },
+            {
+              "title": "高島平シニアガイド",
+              "url": "https://www.takashimadaira-sasaeai.com/guide-t2"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "板橋区",
+          "name": "ファンシーフロア商店街",
+          "type": "消えゆく団地商店街",
+          "note": "高島平団地2-32-1号棟の1階に残る小規模商店街。寂れた団地商店街として紹介され、周辺の高齢化と店舗の変化を記録する対象。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%95%E3%83%AD%E3%82%A2%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "高島平シニアガイド",
+              "url": "https://www.takashimadaira-sasaeai.com/guide-t2"
+            },
+            {
+              "title": "板橋区商店街実態調査",
+              "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/032/641/r12h.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "板橋区",
+          "name": "高島平中央商店街",
+          "type": "消えゆく団地商店街",
+          "note": "高島平二丁目団地の中庭に面する団地商店街。食料品店など一部店舗が営業を続ける一方、静かなシャッターの多い風景が残る。所在地目安：高島平2丁目。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%B3%B6%E5%B9%B3%E4%B8%AD%E5%A4%AE%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "板橋区商店街連合会アクセス",
+              "url": "https://www.i-shoren.com/access.html"
+            },
+            {
+              "title": "高島平団地の商店街案内",
+              "url": "https://www.muji.net/ie/mujiur/area/06_takashimadaira.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "辰巳団地バス通り商店街（辰巳商店会）",
+          "type": "消えゆく団地商店街",
+          "note": "都営辰巳アパート1-2-9周辺の団地内商店街。建替え工事が進む辰巳団地の下層店舗と、シャッター店舗・現役店が混在する変化を記録する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%BE%B0%E5%B7%B3%E5%9B%A3%E5%9C%B0%E3%83%90%E3%82%B9%E9%80%9A%E3%82%8A%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E8%BE%B0%E5%B7%B3%E5%95%86%E5%BA%97%E4%BC%9A%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "江東区商店街マップ",
+              "url": "https://www.city.koto.lg.jp/102030/sangyoshigoto/shisetsu/shotengai/documents/shoutenngaimap.pdf"
+            },
+            {
+              "title": "江東区お買物券取扱店一覧",
+              "url": "https://koto-okaimono-premium2025.jp/common/pdf/storeListAB.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "西東京市",
+          "name": "ひばりが丘団地北商店街",
+          "type": "消えゆく団地商店街",
+          "note": "ひばりが丘二丁目の団地北商店街。商店街協同組合は2024年11月18日に閉鎖登記され、団地商店街の消滅過程を記録する対象。所在地：ひばりが丘2-8-15。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%B2%E3%81%B0%E3%82%8A%E3%81%8C%E4%B8%98%E5%9B%A3%E5%9C%B0%E5%8C%97%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "gBizINFO（閉鎖法人）",
+              "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8012705000183"
+            }
+          ]
         }
       ]
     }
