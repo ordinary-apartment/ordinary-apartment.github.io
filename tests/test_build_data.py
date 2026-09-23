@@ -1,7 +1,6 @@
 import csv
 import importlib.util
 import json
-import subprocess
 import unicodedata
 from pathlib import Path
 import tempfile
@@ -100,26 +99,26 @@ class BuildTests(unittest.TestCase):
             with self.assertRaises(ValueError): builder.build(self.root)
             (self.root/'data/不正リンク.csv').unlink()
 
-    def test_published_catalog_identity_order_and_rows_match_head(self):
-        root=Path(__file__).resolve().parents[1]
-        head=json.loads(subprocess.check_output(
-            ['git','show','HEAD:generated/facility-data.json'],cwd=root
-        ))
-        current=json.loads((root/'generated/facility-data.json').read_text(encoding='utf-8'))
-        head_existing=[m for m in head['materials'] if m['number'] != 22]
-        self.assertEqual(current['schemaVersion'],2)
-        self.assertEqual(current['materialCount'],17)
-        self.assertEqual(current['total'],1223)
-        current_existing=[m for m in current['materials'] if m['number'] != 22]
-        self.assertEqual(
-            [(m['id'],m['number']) for m in current_existing],
-            [(m['id'],m['number']) for m in head_existing],
-        )
-        self.assertEqual(
-            [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in current_existing],
-            [[(item['prefecture'],item['city'],item['name']) for item in m['items']] for m in head_existing],
-        )
-        self.assertEqual(current['materials'][-1]['number'],22)
-        self.assertEqual(current['materials'][-1]['count'],92)
-        self.assertTrue(all('rank' not in item and isinstance(item['relatedLinks'],list) for m in current['materials'] for item in m['items']))
+    def test_published_catalog_matches_csv_and_generated_javascript(self):
+        root = Path(__file__).resolve().parents[1]
+        current = json.loads((root/'generated/facility-data.json').read_text(encoding='utf-8'))
+        import shutil
+        for path in (root/'data').iterdir():
+            if path.suffix in ('.csv', '.json'):
+                shutil.copyfile(path, self.root/'data'/path.name)
+        expected = builder.build(self.root)
+        # Filesystem spelling differs on macOS and Linux; data identity does not.
+        for dataset in (current, expected):
+            for material in dataset['materials']:
+                material['file'] = unicodedata.normalize('NFC', material['file'])
+        self.assertEqual(current, expected)
+        self.assertEqual(current['materialCount'], len(current['materials']))
+        self.assertEqual(current['total'], sum(m['count'] for m in current['materials']))
+        js = (root/'generated/facility-data.js').read_text(encoding='utf-8')
+        js_data = json.loads(js.removeprefix('window.FACILITY_DATASET=').rstrip().removesuffix(';'))
+        for material in js_data['materials']:
+            material['file'] = unicodedata.normalize('NFC', material['file'])
+        self.assertEqual(js_data, current)
+        self.assertTrue(all('rank' not in item and isinstance(item['relatedLinks'], list)
+                            for m in current['materials'] for item in m['items']))
 if __name__=='__main__': unittest.main()
