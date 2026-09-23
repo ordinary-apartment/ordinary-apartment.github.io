@@ -99,6 +99,14 @@ class BuildTests(unittest.TestCase):
             with self.assertRaises(ValueError): builder.build(self.root)
             (self.root/'data/不正リンク.csv').unlink()
 
+    def test_related_link_cannot_duplicate_official_url(self):
+        self.write('不正リンク.csv', [
+            ['施設名', '公式サイト', '関連リンク1タイトル', '関連リンク1URL'],
+            ['施設', 'https://example.com/official/', '解説', 'https://EXAMPLE.com/official#top'],
+        ])
+        with self.assertRaisesRegex(ValueError, '公式サイトURLと重複'):
+            builder.build(self.root)
+
     def test_published_catalog_matches_csv_and_generated_javascript(self):
         root = Path(__file__).resolve().parents[1]
         current = json.loads((root/'generated/facility-data.json').read_text(encoding='utf-8'))

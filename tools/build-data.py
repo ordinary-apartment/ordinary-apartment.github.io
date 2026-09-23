@@ -8,7 +8,7 @@ import re
 import sys
 import unicodedata
 from pathlib import Path
-from urllib.parse import quote, urlsplit
+from urllib.parse import quote, urlsplit, urlunsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 FIELDS = {
@@ -33,6 +33,10 @@ FIELDS = {
 def normalized_filename(value):
     """Use one filename identity on filesystems with different Unicode forms."""
     return unicodedata.normalize('NFC', value)
+
+def canonical_url(value):
+    parsed = urlsplit(value.strip())
+    return urlunsplit((parsed.scheme.lower(), parsed.netloc.lower(), parsed.path.rstrip('/') or '/', parsed.query, ''))
 
 def read_csv(path):
     raw = path.read_bytes()
@@ -89,6 +93,8 @@ def read_csv(path):
                 raise ValueError(f'{path.name}:{reader.line_num}: 関連リンク{index}URLはhttp(s)のURLにしてください')
             if any(link['url']==url for link in related_links):
                 raise ValueError(f'{path.name}:{reader.line_num}: 関連リンクURLが重複しています')
+            if item['official'] and canonical_url(item['official']) == canonical_url(url):
+                raise ValueError(f'{path.name}:{reader.line_num}: 関連リンクURLが公式サイトURLと重複しています')
             related_links.append({'title':title,'url':url})
         item['relatedLinks']=related_links
         for key in ['related1Title','related1URL','related2Title','related2URL','related3Title','related3URL']:

@@ -45,6 +45,17 @@ class AdditionTests(unittest.TestCase):
             self.assertTrue(linkchecker.check_url('https://example.test/good', '桐ヶ丘中央商店街', 2)[0])
             self.assertFalse(linkchecker.check_url('https://example.test/redirect', '桐ヶ丘中央商店街', 2)[0])
 
+    def test_link_checker_detects_official_related_url_overlap(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory)/'資料.csv'
+            path.write_text(
+                '店舗名・施設名,公式サイト,関連リンク1タイトル,関連リンク1URL\n'
+                '施設,https://example.test/official/,解説,https://EXAMPLE.test/official#top\n',
+                encoding='utf-8')
+            overlaps = list(linkchecker.iter_official_overlaps(path, 1))
+            self.assertEqual(len(overlaps), 1)
+            self.assertIn('URL正規化後', overlaps[0][3])
+
     def test_duplicate_names_normalize_width_space_and_case(self):
         self.assertTrue(additions.duplicate_reasons({'name': 'Ａ BC　館'}, {'name': 'abc館'}))
         self.assertTrue(additions.duplicate_reasons({'name': '施設 本館'}, {'name': '施設'}))

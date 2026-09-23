@@ -17,7 +17,7 @@ import unicodedata
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -26,6 +26,13 @@ USER_AGENT = 'ordinary-apartment-facility-link-checker/1.0'
 
 def norm(value):
     return re.sub(r'\s+', '', unicodedata.normalize('NFKC', value).casefold())
+
+
+def canonical_url(url):
+    """Normalize URLs enough to detect official/related page duplicates."""
+    parsed = urlsplit(url.strip())
+    path = parsed.path.rstrip('/') or '/'
+    return urlunsplit((parsed.scheme.lower(), parsed.netloc.lower(), path, parsed.query, ''))
 
 
 class TextParser(HTMLParser):
@@ -112,13 +119,47 @@ def iter_links(path):
                 yield line, name, index, title, url
 
 
+def iter_official_overlaps(path, timeout):
+    """Yield same-row official/related URLs, including redirect-equivalent URLs."""
+    raw = path.read_bytes()
+    try:
+        text = raw.decode('utf-8-sig')
+    except UnicodeDecodeError:
+        text = raw.decode('cp932')
+    reader = csv.DictReader(io.StringIO(text, newline=''), strict=True)
+    for line, row in enumerate(reader, 2):
+        name = row.get('店舗名・施設名') or row.get('施設名') or row.get('店舗名') or ''
+        official = (row.get('公式サイト') or row.get('公式サイトURL') or '').strip()
+        if not official:
+            continue
+        for index in range(1, 4):
+            related = (row.get(f'関連リンク{index}URL') or '').strip()
+            if not related:
+                continue
+            if canonical_url(official) == canonical_url(related):
+                yield line, name, index, 'URL正規化後に公式サイトと同一', official, related
+                continue
+            official_ok, official_detail = check_url(official, name, timeout)
+            related_ok, related_detail = check_url(related, name, timeout)
+            official_final = official_detail.split('final=', 1)[-1] if official_ok and 'final=' in official_detail else ''
+            related_final = related_detail.split('final=', 1)[-1] if related_ok and 'final=' in related_detail else ''
+            if official_final and related_final and canonical_url(official_final) == canonical_url(related_final):
+                yield line, name, index, 'リダイレクト後に公式サイトと同一', official_final, related_final
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('csv_file', type=Path)
     parser.add_argument('--timeout', type=float, default=20)
+    parser.add_argument('--check-official-overlap', action='store_true',
+                        help='公式サイト欄と関連リンク欄の同一・リダイレクト重複を検査')
     args = parser.parse_args()
     failures = 0
     checked = 0
+    if args.check_official_overlap:
+        for line, name, index, reason, official, related in iter_official_overlaps(args.csv_file, args.timeout):
+            print(f'NG {args.csv_file}:{line} {name} 関連リンク{index}: {reason}: {official} == {related}')
+            failures += 1
     for line, name, index, title, url in iter_links(args.csv_file):
         checked += 1
         ok, detail = check_url(url, name, args.timeout)
