@@ -22175,7 +22175,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "滝川市郷土館分館（屯田兵屋）の訪問記",
+              "url": "https://okui-m.hatenablog.com/entry/b1e01443af00b74ea220aa0462213993"
+            }
+          ]
         },
         {
           "prefecture": "北海道",
@@ -22188,7 +22193,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "様似会所跡・等澍院跡などの訪問記",
+              "url": "https://0743sh0927sh.seesaa.net/article/502356080.html"
+            }
+          ]
         },
         {
           "prefecture": "青森県",
@@ -22201,7 +22211,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "南郷歴史民俗資料館の訪問記",
+              "url": "https://ameblo.jp/riot-in-clayamy/entry-12873901339.html"
+            }
+          ]
         },
         {
           "prefecture": "岩手県",
@@ -22214,7 +22229,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "遠野市立博物館の訪問記",
+              "url": "https://ameblo.jp/cccgoa/entry-12719662380.html"
+            }
+          ]
         },
         {
           "prefecture": "秋田県",
@@ -22227,7 +22247,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "男鹿真山伝承館でナマハゲ行事を体験した訪問記",
+              "url": "https://story.nakagawa-masashichi.jp/83520"
+            }
+          ]
         },
         {
           "prefecture": "福島県",
@@ -22240,7 +22265,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "大内宿町並み展示館の冬の訪問記",
+              "url": "http://blog.livedoor.jp/teyght_2/archives/66379968.html"
+            }
+          ]
         },
         {
           "prefecture": "栃木県",
@@ -22253,7 +22283,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "足尾銅山観光の撮影訪問記",
+              "url": "https://ameblo.jp/protgear-blog/entry-12795655709.html"
+            }
+          ]
         },
         {
           "prefecture": "群馬県",
@@ -22266,7 +22301,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "富岡製糸場の工場見学記",
+              "url": "https://www.kipc.or.jp/blog/tomioka/"
+            }
+          ]
         },
         {
           "prefecture": "千葉県",
@@ -22279,7 +22319,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "船橋市郷土資料館の訪問記（食文化展）",
+              "url": "https://ameblo.jp/eveningshower/entry-12860048087.html"
+            }
+          ]
         },
         {
           "prefecture": "東京都",
@@ -22292,7 +22337,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "江戸東京たてもの園の写真訪問記",
+              "url": "https://www.camera-girls.net/magazine/photospot/tatemonoen/"
+            }
+          ]
         },
         {
           "prefecture": "富山県",
@@ -22331,7 +22381,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "合掌造り民家園の訪問記",
+              "url": "https://ameblo.jp/amy-2010/entry-12784410360.html"
+            }
+          ]
         },
         {
           "prefecture": "愛知県",
@@ -22357,7 +22412,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "舞鶴引揚記念館の訪問回想記",
+              "url": "https://makamatsu.com/kaisouki/archives/10210"
+            }
+          ]
         },
         {
           "prefecture": "京都府",
@@ -22396,7 +22456,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "大久野島毒ガス資料館で知る被害と加害",
+              "url": "https://dark-megurujoshi.hatenablog.com/entry/2024/12/03/205238"
+            }
+          ]
         },
         {
           "prefecture": "高知県",
@@ -22422,7 +22487,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "八女伝統工芸館の訪問記",
+              "url": "https://kazutabi.blog.jp/archives/33283937.html"
+            }
+          ]
         },
         {
           "prefecture": "熊本県",
@@ -22435,7 +22505,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "水俣市立水俣病資料館の訪問記",
+              "url": "https://www.io-web.net/ioblog/2026/08/28/101787/"
+            }
+          ]
         },
         {
           "prefecture": "沖縄県",
