@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "materialCount": 24,
-  "total": 1269,
+  "total": 1284,
   "materials": [
     {
       "id": "botanical",
@@ -6897,7 +6897,7 @@
       "name": "東京のリミナルな公共空間",
       "shortName": "東京公共空間",
       "file": "東京のリミナルな公共空間.csv",
-      "count": 23,
+      "count": 28,
       "items": [
         {
           "prefecture": "東京都",
@@ -7370,6 +7370,91 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.t-bunka.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "墨田区曳舟文化センター",
+          "type": "区民文化センター",
+          "note": "1980年代開館の地域文化施設。劇場ホール、レクリエーションホール、会議室・和室・茶室が一つの建物に入り、駅前再開発地区の歩行動線と接続する。ホワイエ、階段、案内サイン、諸室前の共用部を観察したい。",
+          "official": "https://www.hikifune-bunka.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E4%BA%AC%E5%B3%B61-38-11",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "葛飾区",
+          "name": "かつしかシンフォニーヒルズ（葛飾区文化会館）",
+          "type": "文化会館",
+          "note": "1990年代の区立文化会館で、大小ホール、ギャラリー、カフェ、会議室・練習室を本館と別館に分け、3階ペデストリアンデッキで接続する。ホワイエ、地下ホール、デッキ接続、可変客席の入口を見たい。",
+          "official": "https://www.city.katsushika.lg.jp/institution/1030225/1006812.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E7%AB%8B%E7%9F%B36-33-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "川崎市中原区",
+          "name": "中原市民館",
+          "type": "市民館・文化施設",
+          "note": "市民館と公民館の機能を併せ持ち、多目的ホール、市民ギャラリー、研修室を駅前高層住宅の低層階に組み込む。駅前再開発と地域学習施設が重なる共用部、エントランス、ホール前の動線を観察したい。",
+          "official": "https://www.city.kawasaki.jp/nakahara/category/97-11-1-1-1-0-0-0-0-0.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E5%B0%8F%E6%9D%89%E7%94%BA3-245%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89%E3%83%9F%E3%83%83%E3%83%89%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%BF%E3%83%AF%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "立川市",
+          "name": "たましんRISURUホール（立川市市民会館）",
+          "type": "市民会館",
+          "note": "立川市の市民会館として長く使われるホール施設。大ホール・小ホール、展示室、会議室、リハーサル室が連続し、改修後も昭和末〜平成初期の公共ホールの受付・ホワイエ・階段構成を読み取れる。",
+          "official": "https://risuru.hall-info.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%8C%A6%E7%94%BA3-3-20",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "たましんRISURUホール利用案内",
+              "url": "https://risuru.hall-info.jp/file/leefletnew.pdf"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市灘区",
+          "name": "神戸市立灘区民ホール",
+          "type": "区民ホール",
+          "note": "地域住民向けのホールと会議室を備え、ロビー・北ロビー・会議室を使う市民活動や子ども向け公演が行われる。客席入口、ホワイエ、会議室前の共用空間を観察対象にできる。",
+          "official": "https://nadakuminhall.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E7%81%98%E5%8C%BA%E5%B2%B8%E5%9C%B0%E9%80%9A1-1-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
           }
         }
       ]
@@ -21633,7 +21718,7 @@
       "name": "古いビル",
       "shortName": "古いビル",
       "file": "古いビル.csv",
-      "count": 17,
+      "count": 22,
       "items": [
         {
           "prefecture": "東京都",
@@ -21855,6 +21940,91 @@
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "銀座奥野ビル",
+          "type": "古いビル",
+          "note": "1932年築の旧銀座アパートメントで、手動開閉式エレベーターと細い廊下・小さな区画を残し、現在は複数の画廊が営業する。エレベーターホール、階段、各室の扉、ギャラリーへの動線を観察したい。",
+          "official": "https://chuogallery.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A71-9-8%20%E5%A5%A5%E9%87%8E%E3%83%93%E3%83%AB",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "銀座の古建築・奥野ビルの紹介",
+              "url": "https://www.ginza.jp/wp-content/uploads/01_GINZAarchiMAP_20240831.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "銀座ナイン",
+          "type": "古いビル",
+          "note": "東京高速道路の高架下を利用した1960年代の銀座商業施設。1〜3号館の細長い店舗街と地下飲食街が道路・地下道と重なり、現在も専門店が営業する。高架下の柱列、館ごとの通路、地下階の店舗配置を見たい。",
+          "official": "https://www.ginza9.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A78-10%E5%85%88",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京高速道路下の銀座ナイン案内",
+              "url": "https://www.tokyo-kousoku.jp/tenants/sc/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "新橋駅前ビル1号館",
+          "type": "古いビル",
+          "note": "1966年竣工の新橋駅前再開発ビル。地下の飲食街から小規模な事務所・店舗が入る上階まで、駅前の細い共用廊下と複数のエレベーターを残す。地下入口、店舗看板、階段・エレベーターホールを観察したい。",
+          "official": "https://www.shinbashi-ekimae.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%96%B0%E6%A9%8B2-20-15%20%E6%96%B0%E6%A9%8B%E9%A7%85%E5%89%8D%E3%83%93%E3%83%AB1%E5%8F%B7%E9%A4%A8",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "東京交通会館",
+          "type": "古いビル",
+          "note": "1965年竣工、有楽町駅前の地上15階・地下4階の複合ビル。アンテナショップ、画廊、飲食店、パスポートセンター、地下連絡通路、屋上庭園が重なり、駅前再開発期の用途混在を現在も観察できる。",
+          "official": "https://www.kotsukaikan.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E6%9C%89%E6%A5%BD%E7%94%BA2-10-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京交通会館ビル物件概要",
+              "url": "https://kotsukaikan.co.jp/data/pamphlet/office-information.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "銀座ライオンビル",
+          "type": "古いビル",
+          "note": "1934年創建の旧大日本麦酒本社系ビヤホール建築で、現存するビヤホールの内装と大空間を営業中の店舗として体験できる。タイル壁画、天井、柱、客席の奥行き、入口からホールへ入る動線を観察したい。",
+          "official": "https://www.ginzalion.jp/shop/brand/lionginza7/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A77-9-20%20%E9%8A%80%E5%BA%A7%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%93%E3%83%AB",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "銀座建築マップ（銀座ライオンビル）",
+              "url": "https://www.ginza.jp/wp-content/uploads/01_GINZAarchiMAP_20240831.pdf"
+            }
+          ]
         }
       ]
     },
@@ -21864,7 +22034,7 @@
       "name": "地下街・地下道",
       "shortName": "地下街・地下道",
       "file": "地下街・地下道.csv",
-      "count": 31,
+      "count": 33,
       "items": [
         {
           "prefecture": "東京都",
@@ -22273,6 +22443,42 @@
               "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=4&tourism_id=1261"
             }
           ]
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "名古屋市中区",
+          "name": "栄森の地下街",
+          "type": "地下街・地下道",
+          "note": "栄駅直下で長年営業する地下街。北・中央・南の通りに店舗と地下鉄連絡が連続し、古い案内板、タイル、通路の分岐と地上公園への出口が複雑に重なる。",
+          "official": "https://www.chikashin.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%A0%843%E4%B8%81%E7%9B%AE%20%E6%A0%84%E6%A3%AE%E3%81%AE%E5%9C%B0%E4%B8%8B%E8%A1%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "名古屋市公式 地下街一覧",
+              "url": "https://www.city.nagoya.jp/jigyou/toshikeikaku/1025979/1034633.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "名古屋市中区",
+          "name": "サカエチカ",
+          "type": "地下街・地下道",
+          "note": "栄駅と久屋大通周辺を結ぶ1969年開業の地下商業空間。飲食・物販の小区画、長い中央通路、地下鉄改札との境界が残り、駅地下の案内サインと店舗列を歩いて観察できる。",
+          "official": "https://www.sakaechika.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%A0%843-4-6%20%E3%82%B5%E3%82%AB%E3%82%A8%E3%83%81%E3%82%AB",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "名古屋市公式 地下街一覧",
+              "url": "https://www.city.nagoya.jp/jigyou/toshikeikaku/1025979/1034633.html"
+            }
+          ]
         }
       ]
     },
@@ -22282,7 +22488,7 @@
       "name": "遊園地・レジャー施設",
       "shortName": "遊園地・レジャー施設",
       "file": "遊園地・レジャー施設.csv",
-      "count": 19,
+      "count": 22,
       "items": [
         {
           "prefecture": "岐阜県",
@@ -22538,6 +22744,55 @@
             {
               "title": "かみね公園公式パンフレット",
               "url": "https://kaminepark.or.jp/facility-map.data_/pamphlet2026.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "枚方市",
+          "name": "ひらかたパーク",
+          "type": "遊園地・レジャー施設",
+          "note": "1912年開園以来の営業を引き継ぐ都市近郊遊園地。園内の古い遊具と季節イベント、狭い園路、観覧車や木立の中の乗り物が混在し、長期営業施設の更新と残存を観察できる。",
+          "official": "https://www.hirakatapark.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E6%9E%9A%E6%96%B9%E5%B8%82%E6%9E%9A%E6%96%B9%E5%85%AC%E5%9C%92%E7%94%BA1-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "ひらかたパーク公式営業カレンダー",
+              "url": "https://www.hirakatapark.co.jp/information/calendar/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "稲城市",
+          "name": "よみうりランド",
+          "type": "遊園地・レジャー施設",
+          "note": "1964年開園の多摩丘陵遊園地。ゴンドラで丘陵へ上がる動線、屋外遊具、ステージ、プール、後年追加されたグッジョバ!!が重なり、長期営業の遊園地が更新される過程を観察できる。",
+          "official": "https://www.yomiuriland.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%A8%B2%E5%9F%8E%E5%B8%82%E7%9F%A2%E9%87%8E%E5%8F%A34015-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "倉敷市",
+          "name": "ブラジリアンパーク 鷲羽山ハイランド",
+          "type": "遊園地・レジャー施設",
+          "note": "瀬戸大橋を望む高台で営業する1970年代開園の遊園地。ブラジル文化を前面に出した看板・音楽・サンバ、急傾斜の園路と絶叫遊具が組み合わさり、観光地型レジャー施設の人工景観を観察できる。",
+          "official": "https://www.w-highland.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82%E4%B8%8B%E6%B4%A5%E4%BA%95%E5%90%B9%E4%B8%8A303-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "鷲羽山ハイランド公式開園時間",
+              "url": "https://www.w-highland.co.jp/sp/opentime/"
             }
           ]
         }
