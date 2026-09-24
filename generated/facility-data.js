@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 20,
-  "total": 1278,
+  "total": 1285,
   "materials": [
     {
       "id": "botanical",
@@ -22654,7 +22654,7 @@ window.FACILITY_DATASET={
       "name": "現存する団地商店街",
       "shortName": "現存する団地商店街",
       "file": "現存する団地商店街.csv",
-      "count": 19,
+      "count": 26,
       "items": [
         {
           "prefecture": "千葉県",
@@ -22996,6 +22996,130 @@ window.FACILITY_DATASET={
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "豊中市",
+          "name": "新千里南町近隣センター",
+          "type": "近隣センター",
+          "note": "千里ニュータウン新千里南町の住区商業区画。みんとしょ・カフェ・交流拠点など空室を活用した再生が進み、旧来の店舗機能と地域活動が併存する。狙い目は広場、空室活用区画、住棟との歩行者動線。",
+          "official": "https://toshiseibi.org/renkei/new-town/kinrincenter",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8D%83%E9%87%8C%E5%8D%97%E7%94%BA%E8%BF%91%E9%9A%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E8%B1%8A%E4%B8%AD%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "新千里南町近隣センターのマルシェ訪問記",
+              "url": "https://toyo-2.jp/archives/post-57280.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市",
+          "name": "洛西タウンセンター・ラクセーヌ専門店街",
+          "type": "ショッピングセンター",
+          "note": "洛西ニュータウン中央の商業拠点で、専門店街の全面リニューアル後にスーパー・専門店・医療モールが営業する。狙い目はラクセーヌ専門店街の店舗配置、広場、ニュータウンの公共施設と商業棟の接続。",
+          "official": "https://www.city.kyoto.lg.jp/tokei/cmsfiles/contents/0000312/312065/torimatome.pdf",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B4%9B%E8%A5%BF%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%A9%E3%82%AF%E3%82%BB%E3%83%BC%E3%83%8C%E5%B0%82%E9%96%80%E5%BA%97%E8%A1%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "洛西ニュータウン創生推進委員会の訪問・イベント記録",
+              "url": "https://rakusainewtown.jimdofree.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/"
+            }
+          ]
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市佐伯区",
+          "name": "美鈴モール商店街",
+          "type": "団地商店街",
+          "note": "美鈴が丘団地の中心に計画されたスペイン風意匠の商店街。スーパーや個人店、飲食店が団地の生活を支え、現在も店舗と地域サービスが残る。狙い目はモール状の通路、看板、昔から続く店舗、団地住棟との位置関係。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E9%88%B4%E3%83%A2%E3%83%BC%E3%83%AB%E5%95%86%E5%BA%97%E8%A1%97%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%BD%90%E4%BC%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "美鈴が丘団地の概要",
+              "url": "https://misuzugaoka.net/?page_id=31"
+            },
+            {
+              "title": "美鈴が丘団地の街区",
+              "url": "https://misuzugaoka.net/?page_id=68"
+            }
+          ]
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市早良区",
+          "name": "星の原団地商店街",
+          "type": "団地商店街",
+          "note": "星の原団地の建物1階にスーパー・青果店・整骨院などが集まる商店街。団地内で日常の買い物が完結し、団地カフェなど交流活動も行われている。狙い目は1階の連続店舗、アーケード状の動線、住棟と商店街の接続。",
+          "official": "https://www.ur-net.go.jp/chintai/sp/kyushu/fukuoka/90_0790_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%9F%E3%81%AE%E5%8E%9F%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%97%A9%E8%89%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市東区",
+          "name": "箱崎三丁目団地商店街",
+          "type": "団地商店街",
+          "note": "箱崎三丁目団地31号棟1階に青果・輸入食材・飲食・理美容・医療など7店舗が営業する店舗棟。狙い目は住棟低層部の店舗配置、団地出入口から商店街への動線、周辺箱崎商店街との関係。",
+          "official": "https://www.ur-net.go.jp/chintai/sp/kyushu/fukuoka/90_0960_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AE%B1%E5%B4%8E%E4%B8%89%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "北九州市小倉北区",
+          "name": "金田一丁目団地商店街",
+          "type": "団地商店街",
+          "note": "金田一丁目団地6号棟1階の店舗区画に惣菜店・デイサービス・薬局・ヘアサロンなどが並び、惣菜店を核に交流や再生が進む。狙い目は広場に面した店舗棟、空き区画の改修、団地住民の居場所としての使われ方。",
+          "official": "https://www.ur-net.go.jp/chintai/kyushu/fukuoka/90_0840_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E7%94%B0%E4%B8%80%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%B0%8F%E5%80%89%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "団地のリビング・惣菜店の取材",
+              "url": "https://www.ur-net.go.jp/aboutus/publication/web-urpress74/special2.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市垂水区",
+          "name": "明舞団地センター",
+          "type": "ショッピングセンター",
+          "note": "明舞団地中央の商業施設群で、KOHYO、銀行、郵便局、ドラッグストア、クリニックなどが営業し、団地再生・交流機能と一体化している。狙い目は明舞センターの店舗棟、商業施設と団地広場・行政サービスの接続。",
+          "official": "https://www.ur-net.go.jp/chintai/sp/kansai/hyogo/80_1300_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E8%88%9E%E5%9B%A3%E5%9C%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "明舞団地のまちづくり情報発信基地",
+              "url": "https://meimai.hyogo-jkc.or.jp/about.html"
+            },
+            {
+              "title": "兵庫県住宅供給公社の貸店舗一覧",
+              "url": "https://hyogo-jk.or.jp/office"
+            }
+          ]
         }
       ]
     }

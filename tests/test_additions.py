@@ -56,6 +56,29 @@ class AdditionTests(unittest.TestCase):
             self.assertEqual(len(overlaps), 1)
             self.assertIn('URL正規化後', overlaps[0][3])
 
+    def test_link_checker_supports_third_survey_candidate_schema(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory)/'第三次候補.csv'
+            path.write_text(
+                '名称,公式情報URL,関連リンクタイトル1,関連リンクURL1\n'
+                '竹見台近隣センター,https://example.test/official,訪問記,https://example.test/report\n',
+                encoding='utf-8')
+            links = list(linkchecker.iter_links(path))
+            self.assertEqual([(x[1], x[2], x[4]) for x in links], [
+                ('竹見台近隣センター', 0, 'https://example.test/official'),
+                ('竹見台近隣センター', 1, 'https://example.test/report'),
+            ])
+
+    def test_candidate_schema_official_overlap_is_checked(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory)/'第三次候補.csv'
+            path.write_text(
+                '名称,公式情報URL,関連リンクタイトル1,関連リンクURL1\n'
+                '施設,https://example.test/official/,解説,https://EXAMPLE.test/official#top\n',
+                encoding='utf-8')
+            overlaps = list(linkchecker.iter_official_overlaps(path, 1))
+            self.assertEqual(len(overlaps), 1)
+
     def test_duplicate_names_normalize_width_space_and_case(self):
         self.assertTrue(additions.duplicate_reasons({'name': 'Ａ BC　館'}, {'name': 'abc館'}))
         self.assertTrue(additions.duplicate_reasons({'name': '施設 本館'}, {'name': '施設'}))

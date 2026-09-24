@@ -55,7 +55,16 @@ class TextParser(HTMLParser):
 
 def context_terms(name):
     # Full Japanese names are useful; parenthetical aliases are also accepted.
-    terms = [norm(name)]
+    normalized = norm(name)
+    terms = [normalized]
+    # Candidate files often use an archival label such as 「団地商店街」 or
+    # 「近隣センター」 while the source page uses only the distinctive place
+    # name.  Keep those meaningful prefixes as context terms without reducing
+    # every page to a generic word such as 商店街 or センター.
+    for suffix in ('団地商店街', '商店街', '近隣センター', 'ショッピングセンター',
+                   '商業区画', '商業施設', '店舗棟', '名店街', 'センター'):
+        if normalized.endswith(norm(suffix)) and len(normalized) > len(norm(suffix)):
+            terms.append(normalized[:-len(norm(suffix))])
     terms.extend(norm(part) for part in re.split(r'[（(／/・）)]', name) if len(norm(part)) >= 3)
     compact = norm(name)
     # A page may omit a locality prefix (e.g. “高島平”) while retaining the
@@ -111,10 +120,20 @@ def iter_links(path):
         text = raw.decode('cp932')
     reader = csv.DictReader(io.StringIO(text, newline=''), strict=True)
     for line, row in enumerate(reader, 2):
-        name = row.get('店舗名・施設名') or row.get('施設名') or row.get('店舗名') or ''
+        candidate = '名称' in row and '公式情報URL' in row
+        name = row.get('店舗名・施設名') or row.get('施設名') or row.get('店舗名') or row.get('名称') or ''
+        if candidate:
+            official = (row.get('公式情報URL') or '').strip()
+            if official:
+                yield line, name, 0, '公式情報URL', official
+            title_key = '関連リンクタイトル{}'
+            url_key = '関連リンクURL{}'
+        else:
+            title_key = '関連リンク{}タイトル'
+            url_key = '関連リンク{}URL'
         for index in range(1, 4):
-            title = (row.get(f'関連リンク{index}タイトル') or '').strip()
-            url = (row.get(f'関連リンク{index}URL') or '').strip()
+            title = (row.get(title_key.format(index)) or '').strip()
+            url = (row.get(url_key.format(index)) or '').strip()
             if title and url:
                 yield line, name, index, title, url
 
@@ -128,12 +147,12 @@ def iter_official_overlaps(path, timeout):
         text = raw.decode('cp932')
     reader = csv.DictReader(io.StringIO(text, newline=''), strict=True)
     for line, row in enumerate(reader, 2):
-        name = row.get('店舗名・施設名') or row.get('施設名') or row.get('店舗名') or ''
-        official = (row.get('公式サイト') or row.get('公式サイトURL') or '').strip()
+        name = row.get('店舗名・施設名') or row.get('施設名') or row.get('店舗名') or row.get('名称') or ''
+        official = (row.get('公式サイト') or row.get('公式サイトURL') or row.get('公式情報URL') or '').strip()
         if not official:
             continue
         for index in range(1, 4):
-            related = (row.get(f'関連リンク{index}URL') or '').strip()
+            related = (row.get(f'関連リンク{index}URL') or row.get(f'関連リンクURL{index}') or '').strip()
             if not related:
                 continue
             if canonical_url(official) == canonical_url(related):
@@ -163,7 +182,8 @@ def main():
     for line, name, index, title, url in iter_links(args.csv_file):
         checked += 1
         ok, detail = check_url(url, name, args.timeout)
-        print(f'{"OK" if ok else "NG"} {args.csv_file}:{line} 関連リンク{index} {title}: {detail}')
+        label = '公式情報URL' if index == 0 else f'関連リンク{index}'
+        print(f'{"OK" if ok else "NG"} {args.csv_file}:{line} {label} {title}: {detail}')
         failures += not ok
     if not checked:
         print(f'{args.csv_file}: 検証対象リンクなし')
