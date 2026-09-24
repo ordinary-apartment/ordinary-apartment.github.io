@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 24,
-  "total": 1284,
+  "materialCount": 25,
+  "total": 1290,
   "materials": [
     {
       "id": "botanical",
@@ -6897,213 +6897,8 @@ window.FACILITY_DATASET={
       "name": "東京のリミナルな公共空間",
       "shortName": "東京公共空間",
       "file": "東京のリミナルな公共空間.csv",
-      "count": 28,
+      "count": 8,
       "items": [
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "江東区総合区民センター",
-          "type": "区民センター",
-          "note": "図書館・福祉事務所・児童館・会議室・和室・研修室などが同居。複合公共施設として特におすすめ。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
-          "official": "https://www.kcf.or.jp/sogo/access/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E6%9D%B1%E5%8C%BA%E7%B7%8F%E5%90%88%E5%8C%BA%E6%B0%91%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "江東区立城東図書館の訪問記・データ―東京図書館制覇！",
-              "url": "https://tokyo-toshokan.net/00000269.htm"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.kcf.or.jp/sogo/access/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "北区",
-          "name": "北区滝野川会館",
-          "type": "区民会館",
-          "note": "地下図書館・音楽スタジオ・サンクンガーデン・レストラン・文化センター。用途が混在する大型公共施設。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%8C%BA%E6%BB%9D%E9%87%8E%E5%B7%9D%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "滝野川会館",
-              "url": "https://ameblo.jp/yusuke--miura/entry-12547290005.html"
-            }
-          ],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "渋谷区",
-          "name": "渋谷区立勤労福祉会館",
-          "type": "勤労福祉施設",
-          "note": "会議室・和室・体育設備。渋谷中心部に残る公共施設感。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
-          "official": "https://www.city.shibuya.tokyo.jp/shisetsu/shuro/kinro/kinro.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%AB%8B%E5%8B%A4%E5%8A%B4%E7%A6%8F%E7%A5%89%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "コインスペース渋谷に行ってみたので電源、WiFi雰囲気などのまとめ",
-              "url": "https://ideasity.biz/shibuya-coin-space"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.shibuya.tokyo.jp/shisetsu/shuro/kinro/kinro.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "目黒区",
-          "name": "目黒区民センター",
-          "type": "区民センター",
-          "note": "図書館や周辺公共施設を含む複合エリア。建物単体より一帯を歩くのがおすすめ。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
-          "official": "http://www.city.meguro.tokyo.jp/shisetsu/shisetsu/kumin_center/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%8C%BA%E6%B0%91%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "驚いたプールのルール",
-              "url": "https://ameblo.jp/sam0310032/entry-12810851737.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.meguro.tokyo.jp/shisetsu/shisetsu/kumin_center/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "大田区",
-          "name": "池上会館",
-          "type": "区民会館",
-          "note": "展示ホール・視聴覚室・研修室・調理室・科学室・屋上庭園など。用途構成が多層的。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
-          "official": "http://www.city.ota.tokyo.jp/shisetsu/ikegamikaikan/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%A0%E4%B8%8A%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "大田区立池上会館からの夜景（2022.3.23）",
-              "url": "https://note.com/moonflower321/n/n7b8ad4fd8383"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.ota.tokyo.jp/shisetsu/ikegamikaikan/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "北区",
-          "name": "北とぴあ",
-          "type": "文化・区民施設",
-          "note": "ホール・会議室・上層階・展望空間。ホール周辺や廊下が狙い目。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
-          "official": "http://www.hokutopia.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E3%81%A8%E3%81%B4%E3%81%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "JR王子駅前　北とぴあの展望フロアより",
-              "url": "https://tabitha.hatenablog.com/entry/2026/02/12/152725"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.hokutopia.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "荒川区",
-          "name": "サンパール荒川",
-          "type": "区民会館",
-          "note": "大型ホール・区役所隣接。行政施設群として見ると面白い。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
-          "official": "http://www.sunpearl-arakawa.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E8%8D%92%E5%B7%9D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "まのさば朗読劇用のあれこれ",
-              "url": "https://note.com/nifty_fowl6808/n/n61314fd8a8b2"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.sunpearl-arakawa.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "板橋区",
-          "name": "板橋区立グリーンホール",
-          "type": "区民ホール",
-          "note": "貸しホール・会議室。昭和〜平成の公共ホール感。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
-          "official": "https://www.itabashi-ci.org/greenhall/access/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "レンブラントのプロレス場放浪記　第4回〜MONDO PIECE〜",
-              "url": "https://rembrandt38hentai.hatenablog.com/entry/2021/05/01/005955"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.itabashi-ci.org/greenhall/access/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "練馬区",
-          "name": "練馬区生涯学習センター",
-          "type": "生涯学習施設",
-          "note": "学習室・ホール系空間。生涯学習センター特有の事務的空間。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
-          "official": "https://www.city.nerima.tokyo.jp/shisetsu/bunka/kominkan/kominkan.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%B4%E9%A6%AC%E5%8C%BA%E7%94%9F%E6%B6%AF%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.nerima.tokyo.jp/shisetsu/bunka/kominkan/kominkan.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "中野区",
-          "name": "なかのZERO",
-          "type": "文化複合施設",
-          "note": "ホール・図書館・学習室・プラネタリウム。建物全体を探索する価値あり。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
-          "official": "https://www.naka-lab.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%8B%E3%81%AEZERO%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "全国のプラネタリウムから ８４回目 東京都中野区 なかのZEROプラネタリウム",
-              "url": "https://ameblo.jp/k-orihira/entry-12416646413.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.naka-lab.jp/"
-          }
-        },
         {
           "prefecture": "東京都",
           "city": "江戸川区",
@@ -7178,12 +6973,7 @@ window.FACILITY_DATASET={
           "kind": "公共空間",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "渋谷区スポーツセンター",
-              "url": "https://4travel.jp/travelogue/12052668"
-            }
-          ],
+          "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://shibspo.com/"
           }
@@ -7231,180 +7021,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "東京都",
-          "city": "武蔵野市",
-          "name": "武蔵野市民文化会館",
-          "type": "文化会館",
-          "note": "ホール・ロビー・階段・共用部。文化会館系。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
-          "official": "https://www.musashino.or.jp/bunka/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E6%B0%91%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "武蔵野市民文化会館　リニューアル内覧会",
-              "url": "https://blog.livedoor.jp/go_wild/archives/52489759.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.musashino.or.jp/bunka/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "新宿区",
-          "name": "新宿文化センター",
-          "type": "文化会館",
-          "note": "大型ホール・ロビー・廊下。改修状況は要確認。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
-          "official": "http://www.regasu-shinjuku.or.jp/bunka-center/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "新宿文化センターの設備や周辺のお店",
-              "url": "https://ameblo.jp/annee13/entry-12134065574.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.regasu-shinjuku.or.jp/bunka-center/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "新宿区",
-          "name": "四谷区民ホール",
-          "type": "区民ホール",
-          "note": "ホール・公共複合施設。区民施設系。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
-          "official": "https://shinjuku.hall-info.jp/yotsuya/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E8%B0%B7%E5%8C%BA%E6%B0%91%E3%83%9B%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "[オペラ]　ヴェルディ／「リゴレット」（2020/02　さわかみオペラ）",
-              "url": "https://blog.livedoor.jp/kzfj0409/archives/82253104.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://shinjuku.hall-info.jp/yotsuya/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "杉並区",
-          "name": "セシオン杉並",
-          "type": "文化・社会教育施設",
-          "note": "ホール・会議室・共用空間。改修後は比較的新しい。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
-          "official": "https://www.sesion-suginami.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%82%B7%E3%82%AA%E3%83%B3%E6%9D%89%E4%B8%A6%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%89%E4%B8%A6%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "セシオン杉並 落成式に参加しました｡:*.ﾟ･*.",
-              "url": "https://ameblo.jp/suginami-kuramoto/entry-12816367717.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.sesion-suginami.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "港区",
-          "name": "麻布区民センター",
-          "type": "区民センター",
-          "note": "区民ホール・会議室。都心に残る区民施設。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
-          "official": "https://www.city.minato.tokyo.jp/shisetsu/kumincenter/kumincenter/03.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%BA%BB%E5%B8%83%E5%8C%BA%E6%B0%91%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.minato.tokyo.jp/shisetsu/kumincenter/kumincenter/03.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "台東区",
-          "name": "台東区生涯学習センター",
-          "type": "生涯学習施設",
-          "note": "学習施設・図書館・ホール系空間。複合公共施設として見る。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
-          "official": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E6%9D%B1%E5%8C%BA%E7%94%9F%E6%B6%AF%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "台東区立中央図書館の訪問記・データ―東京図書館制覇！",
-              "url": "https://tokyo-toshokan.net/00000407.htm"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "台東区",
-          "name": "東京文化会館",
-          "type": "文化会館",
-          "note": "ロビー・階段・ホール周辺・モダニズム建築。1960年代公共文化施設の完成形。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
-          "official": "https://www.t-bunka.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "建築探訪／東京文化会館",
-              "url": "https://ameblo.jp/norisan-55/entry-12442944652.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.t-bunka.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "墨田区",
-          "name": "墨田区曳舟文化センター",
-          "type": "区民文化センター",
-          "note": "1980年代開館の地域文化施設。劇場ホール、レクリエーションホール、会議室・和室・茶室が一つの建物に入り、駅前再開発地区の歩行動線と接続する。ホワイエ、階段、案内サイン、諸室前の共用部を観察したい。",
-          "official": "https://www.hikifune-bunka.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E4%BA%AC%E5%B3%B61-38-11",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "葛飾区",
-          "name": "かつしかシンフォニーヒルズ（葛飾区文化会館）",
-          "type": "文化会館",
-          "note": "1990年代の区立文化会館で、大小ホール、ギャラリー、カフェ、会議室・練習室を本館と別館に分け、3階ペデストリアンデッキで接続する。ホワイエ、地下ホール、デッキ接続、可変客席の入口を見たい。",
-          "official": "https://www.city.katsushika.lg.jp/institution/1030225/1006812.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E7%AB%8B%E7%9F%B36-33-1",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
           "prefecture": "神奈川県",
           "city": "川崎市中原区",
           "name": "中原市民館",
@@ -7416,27 +7032,6 @@ window.FACILITY_DATASET={
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "立川市",
-          "name": "たましんRISURUホール（立川市市民会館）",
-          "type": "市民会館",
-          "note": "立川市の市民会館として長く使われるホール施設。大ホール・小ホール、展示室、会議室、リハーサル室が連続し、改修後も昭和末〜平成初期の公共ホールの受付・ホワイエ・階段構成を読み取れる。",
-          "official": "https://risuru.hall-info.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%8C%A6%E7%94%BA3-3-20",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "たましんRISURUホール利用案内",
-              "url": "https://risuru.hall-info.jp/file/leefletnew.pdf"
-            }
-          ],
           "extra": {
             "参照": ""
           }
@@ -22795,6 +22390,502 @@ window.FACILITY_DATASET={
               "url": "https://www.w-highland.co.jp/sp/opentime/"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "csv-f42fa0b1db8117f70960",
+      "number": 30,
+      "name": "東京の区民ホール・公共ホール",
+      "shortName": "東京の区民ホール・公共ホール",
+      "file": "東京の区民ホール・公共ホール.csv",
+      "count": 26,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "江東区総合区民センター",
+          "type": "区民センター",
+          "note": "図書館・福祉事務所・児童館・会議室・和室・研修室などが同居。複合公共施設として特におすすめ。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
+          "official": "https://www.kcf.or.jp/sogo/access/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E6%9D%B1%E5%8C%BA%E7%B7%8F%E5%90%88%E5%8C%BA%E6%B0%91%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.kcf.or.jp/sogo/access/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "北区滝野川会館",
+          "type": "区民会館",
+          "note": "地下図書館・音楽スタジオ・サンクンガーデン・レストラン・文化センター。用途が混在する大型公共施設。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%8C%BA%E6%BB%9D%E9%87%8E%E5%B7%9D%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "渋谷区立勤労福祉会館",
+          "type": "勤労福祉施設",
+          "note": "会議室・和室・体育設備。渋谷中心部に残る公共施設感。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
+          "official": "https://www.city.shibuya.tokyo.jp/shisetsu/shuro/kinro/kinro.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%AB%8B%E5%8B%A4%E5%8A%B4%E7%A6%8F%E7%A5%89%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "コインスペース渋谷に行ってみたので電源、WiFi雰囲気などのまとめ",
+              "url": "https://ideasity.biz/shibuya-coin-space"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.city.shibuya.tokyo.jp/shisetsu/shuro/kinro/kinro.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "目黒区",
+          "name": "目黒区民センター",
+          "type": "区民センター",
+          "note": "図書館や周辺公共施設を含む複合エリア。建物単体より一帯を歩くのがおすすめ。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
+          "official": "http://www.city.meguro.tokyo.jp/shisetsu/shisetsu/kumin_center/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%8C%BA%E6%B0%91%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "驚いたプールのルール",
+              "url": "https://ameblo.jp/sam0310032/entry-12810851737.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.city.meguro.tokyo.jp/shisetsu/shisetsu/kumin_center/index.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "大田区",
+          "name": "池上会館",
+          "type": "区民会館",
+          "note": "展示ホール・視聴覚室・研修室・調理室・科学室・屋上庭園など。用途構成が多層的。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
+          "official": "http://www.city.ota.tokyo.jp/shisetsu/ikegamikaikan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%A0%E4%B8%8A%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "大田区立池上会館からの夜景（2022.3.23）",
+              "url": "https://note.com/moonflower321/n/n7b8ad4fd8383"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.city.ota.tokyo.jp/shisetsu/ikegamikaikan/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "北とぴあ",
+          "type": "文化・区民施設",
+          "note": "ホール・会議室・上層階・展望空間。ホール周辺や廊下が狙い目。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
+          "official": "http://www.hokutopia.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E3%81%A8%E3%81%B4%E3%81%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "JR王子駅前　北とぴあの展望フロアより",
+              "url": "https://tabitha.hatenablog.com/entry/2026/02/12/152725"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.hokutopia.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "荒川区",
+          "name": "サンパール荒川",
+          "type": "区民会館",
+          "note": "大型ホール・区役所隣接。行政施設群として見ると面白い。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
+          "official": "http://www.sunpearl-arakawa.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%83%91%E3%83%BC%E3%83%AB%E8%8D%92%E5%B7%9D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "まのさば朗読劇用のあれこれ",
+              "url": "https://note.com/nifty_fowl6808/n/n61314fd8a8b2"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.sunpearl-arakawa.com/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "板橋区",
+          "name": "板橋区立グリーンホール",
+          "type": "区民ホール",
+          "note": "貸しホール・会議室。昭和〜平成の公共ホール感。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
+          "official": "https://www.itabashi-ci.org/greenhall/access/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "レンブラントのプロレス場放浪記　第4回〜MONDO PIECE〜",
+              "url": "https://rembrandt38hentai.hatenablog.com/entry/2021/05/01/005955"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.itabashi-ci.org/greenhall/access/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "練馬区生涯学習センター",
+          "type": "生涯学習施設",
+          "note": "学習室・ホール系空間。生涯学習センター特有の事務的空間。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
+          "official": "https://www.city.nerima.tokyo.jp/shisetsu/bunka/kominkan/kominkan.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%B4%E9%A6%AC%E5%8C%BA%E7%94%9F%E6%B6%AF%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.nerima.tokyo.jp/shisetsu/bunka/kominkan/kominkan.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中野区",
+          "name": "なかのZERO",
+          "type": "文化複合施設",
+          "note": "ホール・図書館・学習室・プラネタリウム。建物全体を探索する価値あり。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
+          "official": "https://www.naka-lab.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%8B%E3%81%AEZERO%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "全国のプラネタリウムから ８４回目 東京都中野区 なかのZEROプラネタリウム",
+              "url": "https://ameblo.jp/k-orihira/entry-12416646413.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.naka-lab.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "武蔵野市",
+          "name": "武蔵野市民文化会館",
+          "type": "文化会館",
+          "note": "ホール・ロビー・階段・共用部。文化会館系。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
+          "official": "https://www.musashino.or.jp/bunka/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E6%B0%91%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.musashino.or.jp/bunka/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "新宿文化センター",
+          "type": "文化会館",
+          "note": "大型ホール・ロビー・廊下。改修状況は要確認。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
+          "official": "http://www.regasu-shinjuku.or.jp/bunka-center/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "新宿文化センターの設備や周辺のお店",
+              "url": "https://ameblo.jp/annee13/entry-12134065574.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.regasu-shinjuku.or.jp/bunka-center/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "四谷区民ホール",
+          "type": "区民ホール",
+          "note": "ホール・公共複合施設。区民施設系。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
+          "official": "https://shinjuku.hall-info.jp/yotsuya/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E8%B0%B7%E5%8C%BA%E6%B0%91%E3%83%9B%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://shinjuku.hall-info.jp/yotsuya/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "杉並区",
+          "name": "セシオン杉並",
+          "type": "文化・社会教育施設",
+          "note": "ホール・会議室・共用空間。改修後は比較的新しい。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
+          "official": "https://www.sesion-suginami.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%82%B7%E3%82%AA%E3%83%B3%E6%9D%89%E4%B8%A6%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%89%E4%B8%A6%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "セシオン杉並 落成式に参加しました｡:*.ﾟ･*.",
+              "url": "https://ameblo.jp/suginami-kuramoto/entry-12816367717.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.sesion-suginami.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "麻布区民センター",
+          "type": "区民センター",
+          "note": "区民ホール・会議室。都心に残る区民施設。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
+          "official": "https://www.city.minato.tokyo.jp/shisetsu/kumincenter/kumincenter/03.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%BA%BB%E5%B8%83%E5%8C%BA%E6%B0%91%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.minato.tokyo.jp/shisetsu/kumincenter/kumincenter/03.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "台東区生涯学習センター",
+          "type": "生涯学習施設",
+          "note": "学習施設・図書館・ホール系空間。複合公共施設として見る。\n狙い目：共用部の案内をたどり、用途が切り替わる地点を観察する。施設同士の間を移動する経路も見る対象。",
+          "official": "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E6%9D%B1%E5%8C%BA%E7%94%9F%E6%B6%AF%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "台東区立中央図書館の訪問記・データ―東京図書館制覇！",
+              "url": "https://tokyo-toshokan.net/00000407.htm"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.city.taito.lg.jp/gakushu/shogaigakushu/shogaigakushusisetsu/syougaigakusyuucente/index.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "東京文化会館",
+          "type": "文化会館",
+          "note": "ロビー・階段・ホール周辺・モダニズム建築。1960年代公共文化施設の完成形。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
+          "official": "https://www.t-bunka.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "建築探訪／東京文化会館",
+              "url": "https://ameblo.jp/norisan-55/entry-12442944652.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.t-bunka.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "墨田区曳舟文化センター",
+          "type": "区民文化センター",
+          "note": "1980年代開館の地域文化施設。劇場ホール、レクリエーションホール、会議室・和室・茶室が一つの建物に入り、駅前再開発地区の歩行動線と接続する。ホワイエ、階段、案内サイン、諸室前の共用部を観察したい。",
+          "official": "https://www.hikifune-bunka.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E4%BA%AC%E5%B3%B61-38-11",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "葛飾区",
+          "name": "かつしかシンフォニーヒルズ（葛飾区文化会館）",
+          "type": "文化会館",
+          "note": "1990年代の区立文化会館で、大小ホール、ギャラリー、カフェ、会議室・練習室を本館と別館に分け、3階ペデストリアンデッキで接続する。ホワイエ、地下ホール、デッキ接続、可変客席の入口を見たい。",
+          "official": "https://www.city.katsushika.lg.jp/institution/1030225/1006812.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E7%AB%8B%E7%9F%B36-33-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "立川市",
+          "name": "たましんRISURUホール（立川市市民会館）",
+          "type": "市民会館",
+          "note": "立川市の市民会館として長く使われるホール施設。大ホール・小ホール、展示室、会議室、リハーサル室が連続し、改修後も昭和末〜平成初期の公共ホールの受付・ホワイエ・階段構成を読み取れる。",
+          "official": "https://risuru.hall-info.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%8C%A6%E7%94%BA3-3-20",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "たましんRISURUホール利用案内",
+              "url": "https://risuru.hall-info.jp/file/leefletnew.pdf"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "文京シビックホール",
+          "type": "区民ホール",
+          "note": "文京区の芸術文化活動を担う2000年開館の公共ホール。大ホール・小ホールを文京シビックセンターの低層階に配置し、区役所・図書館などと一体化した複合動線が残る。狙い目：地下1階練習室からホワイエ、区役所側エントランスへ切り替わる案内と階段。",
+          "official": "https://www.b-academy.jp/rental/bc/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E4%BA%AC%E3%82%B7%E3%83%93%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
+          "kind": "公共ホール",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "台東区立浅草公会堂",
+          "type": "公会堂",
+          "note": "1977年開館の区立公会堂。大ホール・集会室・展示室を浅草の市街地に重ね、1階の歌舞伎関連展示や客席入口、上階の区民利用動線が共存する。狙い目：正面大階段、ロビー、スターの手形・写真展示、客席入口。",
+          "official": "https://asakusa-koukaidou.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E6%9D%B1%E5%8C%BA%E7%AB%8B%E6%B5%85%E8%8D%89%E5%85%AC%E4%BC%9A%E5%A0%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "公共ホール",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "品川区",
+          "name": "品川区立総合区民会館 きゅりあん",
+          "type": "総合区民会館",
+          "note": "1989年開館。大井町駅前の複合ビルに大・小ホール、イベントホール、会議室、茶室・調理講習室を積層し、駅前再開発と区民文化施設の動線が交差する。狙い目：駅からの連絡、吹き抜け状のエントランス、階ごとに切り替わる受付とホワイエ。",
+          "official": "https://www.shinagawa-culture.or.jp/curian/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%93%81%E5%B7%9D%E5%8C%BA%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BA%E6%B0%91%E4%BC%9A%E9%A4%A8%20%E3%81%8D%E3%82%85%E3%82%8A%E3%81%82%E3%82%93%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
+          "kind": "公共ホール",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "足立区",
+          "name": "西新井文化ホール（ギャラクシティ）",
+          "type": "区民文化ホール",
+          "note": "足立区の文化活動拠点として使われる公共ホール。子ども向け複合施設ギャラクシティと一体化し、ホール入口・チケット窓口・吹き抜けロビー・他用途施設への動線を観察できる。狙い目：文化ホールの客席入口と、子ども施設へ接続する共用部。",
+          "official": "https://www.galaxcity.jp/cultural-hall/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E6%96%B0%E4%BA%95%E6%96%87%E5%8C%96%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%88%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
+          "kind": "公共ホール",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "八王子市",
+          "name": "八王子市芸術文化会館 いちょうホール",
+          "type": "市民文化会館",
+          "note": "1990年代に整備された八王子市の芸術文化会館。大ホール・小ホール・展示室・練習室を独立した公共建築にまとめ、ホワイエ、階段、長い廊下、案内表示が用途ごとに連続する。狙い目：本町側エントランス、ホール前ホワイエ、展示室と練習室をつなぐ共用廊下。",
+          "official": "https://www.hachiojibunka.or.jp/icho/facility/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%8A%B8%E8%A1%93%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E3%83%9B%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82",
+          "kind": "公共ホール",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "いちょうホール｜八王子地域情報ポータル",
+              "url": "https://hachi-navi.com/public/public_etc/213001"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "多摩市",
+          "name": "多摩市立関戸公民館（ヴィータホール）",
+          "type": "公民館併設ホール",
+          "note": "1999年開館。駅前複合施設ヴィータ・コミューネの7・8階に公民館、ヴィータホール、ギャラリー、諸室を重ね、商業施設・駅前デッキから公共文化施設へ上がる動線が特徴。狙い目：エレベーターホール、7階受付、8階ホール入口とギャラリーの連続。",
+          "official": "https://www.city.tama.lg.jp/kenkofukushi/katsudo/kouminkan/1003182.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%9A%E6%91%A9%E5%B8%82%E7%AB%8B%E9%96%A2%E6%88%B8%E5%85%AC%E6%B0%91%E9%A4%A8%EF%BC%88%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%BF%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
+          "kind": "公共ホール",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "ヴィータホール・各諸室の紹介｜多摩市公式",
+              "url": "https://www.city.tama.lg.jp/kenkofukushi/katsudo/kouminkan/1003189.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
         }
       ]
     }
