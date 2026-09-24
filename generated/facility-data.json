@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "materialCount": 25,
-  "total": 1300,
+  "total": 1305,
   "materials": [
     {
       "id": "botanical",
@@ -12208,7 +12208,7 @@
       "name": "ドリームコア／モールコア",
       "shortName": "ドリームコア／モールコア",
       "file": "ドリームコア／モールコア.csv",
-      "count": 7,
+      "count": 12,
       "items": [
         {
           "prefecture": "千葉県",
@@ -12320,6 +12320,143 @@
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：http://nikke-parktown.com/"
+          }
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "新見市",
+          "name": "にいみショッピングタウン プラザ",
+          "type": "モールコア",
+          "note": "1980〜90年代型の地方ショッピングセンターとして営業を継続。2階建ての館内に食品・衣料・書店・100円ショップ・飲食などが入り、中央部の吹き抜けと交差するエスカレーター、旧来のシャンデリアや案内サインが残る。狙い目：中央吹き抜け、上階回廊、エスカレーター、昭和期の照明・サイン、現役テナントの配置。",
+          "official": "https://page.line.me/379vovbe",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AB%E3%81%84%E3%81%BF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BF%E3%82%A6%E3%83%B3%20%E3%83%97%E3%83%A9%E3%82%B6%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%E6%96%B0%E8%A6%8B%E5%B8%82%E9%AB%98%E5%B0%BE2477-1",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "にいみショッピングタウンプラザ（現地情報）",
+              "url": "https://map.yahoo.co.jp/v3/place/C6Lx6b2xzzY"
+            }
+          ],
+          "extra": {
+            "参照": "公式LINE：https://page.line.me/379vovbe"
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "妙高市",
+          "name": "新井ショッピングセンターCOA",
+          "type": "モールコア",
+          "note": "1989年開業の旧ニチイ／上越サティ系施設を地域型SCとして継承。現在も食品スーパー、衣料、100円ショップ、飲食など約30テナントが営業し、旧レストランモールの天窓付き空間、巨大吹き抜け、エスカレーター周辺の「街」表示、旧来のエレベーター案内が残る。狙い目：三角形の天窓、吹き抜けと回廊、旧ニチイのサイン、閉鎖区画と現役店舗の対比。",
+          "official": "https://myoko-arai.com/news-detail/news6",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E4%BA%95%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCCOA%20%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%A6%99%E9%AB%98%E5%B8%82%E6%A0%97%E5%8E%9F4-7-11",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "新井ショッピングセンター後編 立派な吹き抜け！",
+              "url": "https://ameblo.jp/rairei0312/entry-12900499550.html"
+            },
+            {
+              "title": "妙高市・新井ショッピングセンター（ゼロカーボンチャレンジ事業所）",
+              "url": "https://www.city.myoko.niigata.jp/docs/53609.html"
+            },
+            {
+              "title": "新井ショッピングセンター内の昔からの店舗訪問記",
+              "url": "https://myoko-joetsu-diary.hatenablog.com/entry/myoko-arai-shopping-Center-custard-taiyaki"
+            }
+          ],
+          "extra": {
+            "参照": "公式情報：https://myoko-arai.com/news-detail/news6"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "杉並区",
+          "name": "荻窪タウンセブン",
+          "type": "モールコア",
+          "note": "1981年完成の駅前ショッピングセンター。旧商店街を再編した建物で、現在も複数階の店舗群、駅・地下連絡動線、屋上広場、1階セントラルコートを備える。開業当時から続く「街」を階ごとに見立てた構成と中央の待合・イベント空間を観察できる。狙い目：1階セントラルコート、駅側入口、地下から上階への動線、屋上へ続くグリーンカーペット階段、案内サイン。",
+          "official": "https://www.town7.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8D%BB%E7%AA%AA%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%96%E3%83%B3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E4%B8%8A%E8%8D%BB1-9-1",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "タウンセブンの歴史（1981年完成・1階セントラルコート）",
+              "url": "https://www.town7.net/history/"
+            },
+            {
+              "title": "荻窪タウンセブン（荻窪の街と人を応援する会）",
+              "url": "https://ogikubokyougikai.sakura.ne.jp/wp-content/uploads/2024/07/370_%E5%8D%98%E9%A0%81%E7%94%A8-1.pdf"
+            },
+            {
+              "title": "タウンセブン会社概要・現行施設案内",
+              "url": "https://www.town7.net/corporate/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.town7.net/"
+          }
+        },
+        {
+          "prefecture": "石川県",
+          "city": "金沢市",
+          "name": "香林坊アトリオ",
+          "type": "モールコア",
+          "note": "1986年開業の再開発型商業施設。地下1階から地上4階まで連続する吹き抜け、アーチ状トップライト、2階のからくり時計「アトリオクロック」、イベント用アトリオステージを現在も備え、大和百貨店と各階で接続する。狙い目：吹き抜けを縦に見る回廊、からくり時計、地下食品売場、トップライトとステージ、百貨店との連絡動線。",
+          "official": "https://www.clasoplace-korinbo.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%9E%97%E5%9D%8A%E3%82%A2%E3%83%88%E3%83%AA%E3%82%AA%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82%E9%A6%99%E6%9E%97%E5%9D%8A1-1-1",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "石川物件巡り「バブルの香り」・香林坊アトリオ",
+              "url": "https://note.com/omemeblog/n/nb923931775a5"
+            },
+            {
+              "title": "まちしるべ案内 香林坊（その2）",
+              "url": "https://keroge.blog.jp/archives/23611955.html"
+            },
+            {
+              "title": "香林坊アトリオ・大和（建築資料）",
+              "url": "https://tsurutani.co.jp/1986/09/01/atrio-daiwa/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.clasoplace-korinbo.com/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "浅草ROX",
+          "type": "モールコア",
+          "note": "1986年開業の浅草六区の複合商業施設。ROX本館を中心にROX2G・ROX・3G・ROX DOMEが連結し、買物、飲食、温浴、フィットネス、ゲーム・バッティングなどを内包する。増築と建替えを重ねた複数棟の動線、長い館内移動、旧来の娯楽施設の痕跡を現在も歩いて観察できる。狙い目：本館と別棟の接続、階別の店舗街、まつり湯への動線、ROX DOME、旧アミューズメント区画の痕跡。",
+          "official": "https://www.rox.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89ROX%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-25-15",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "浅草ROXを歩く（館内・旧施設の記録）",
+              "url": "https://ovanrei.hatenablog.com/entry/2022/04/06/210000"
+            },
+            {
+              "title": "浅草ROXの開業・増築沿革（テーオーシー）",
+              "url": "https://www.toc.co.jp/toc/sustainability/assets/pdf/report2025.pdf"
+            },
+            {
+              "title": "浅草ROX（台東区まちづくり基礎調査）",
+              "url": "https://www.city.taito.lg.jp/kenchiku/machidukuri/chikumachizukuri/asakusa/asakusamachidukuri.files/kisochousahoukokusho.pdf"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.rox.co.jp/"
           }
         }
       ]
