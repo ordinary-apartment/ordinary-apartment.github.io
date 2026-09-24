@@ -12338,7 +12338,7 @@ window.FACILITY_DATASET={
       "number": 16,
       "name": "ドリームコア／モールコア",
       "shortName": "ドリームコア／モールコア",
-      "file": "ドリームコア／モールコア.csv",
+      "file": "ドリームコア／モールコア.csv",
       "count": 10,
       "items": [
         {
