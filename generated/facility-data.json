@@ -2616,7 +2616,12 @@
           "kind": "科学系施設",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "「大田原市ふれあいの丘天文館」訪台記",
+              "url": "https://yamanon.seesaa.net/article/201501article_8.html"
+            }
+          ],
           "extra": {
             "参照": "公式サイト：http://www.fureai-tenmonkan.jp/"
           }
@@ -4461,7 +4466,12 @@
           "kind": "水族館・海中施設",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "海遊館の館内写真訪問記",
+              "url": "https://note.com/bibubibu/n/n65d828d1603a"
+            }
+          ],
           "extra": {
             "参照": "公式サイト：https://www.kaiyukan.com/"
           }
@@ -4760,7 +4770,12 @@
           "kind": "科学系施設",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "斜里町立知床博物館の訪問記",
+              "url": "https://ameblo.jp/sakana215555/entry-12937639011.html"
+            }
+          ],
           "extra": {
             "参照": "公式サイト：https://shiretoko-museum.jpn.org/"
           }
@@ -5160,7 +5175,12 @@
           "kind": "科学系施設",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "野口英世記念館の訪問記（館内写真）",
+              "url": "https://ameblo.jp/sakupon0211/entry-11701435227.html"
+            }
+          ],
           "extra": {
             "参照": "公式サイト：http://www.noguchihideyo.or.jp/"
           }
@@ -5775,7 +5795,12 @@
           "kind": "科学系施設",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "複合文化施設AOSE内の日田市立博物館訪問記",
+              "url": "https://ameblo.jp/seiryou2/entry-12372161397.html"
+            }
+          ],
           "extra": {
             "参照": "公式サイト：https://www.city.hita.oita.jp/soshiki/kyoikucho/shakaikyoikuka/hakubutsukan/hakubutukan/top.html"
           }
