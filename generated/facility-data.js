@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 21,
-  "total": 1302,
+  "materialCount": 24,
+  "total": 1269,
   "materials": [
     {
       "id": "botanical",
@@ -12659,744 +12659,8 @@ window.FACILITY_DATASET={
       "name": "ドリームコア／モールコア",
       "shortName": "ドリームコア／モールコア",
       "file": "ドリームコア／モールコア.csv",
-      "count": 73,
+      "count": 10,
       "items": [
-        {
-          "prefecture": "東京都",
-          "city": "台東区",
-          "name": "浅草地下街",
-          "type": "地下街・地下道",
-          "note": "低い天井、配管、古い地下飲食街。\n狙い目：天井の低さと露出した配管を、店先の連続と合わせて見る。通路の奥まで続く視線が狙い目。",
-          "official": "https://asakusachikagai.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://asakusachikagai.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "港区",
-          "name": "新橋駅前ビル 地下街",
-          "type": "地下街・地下道",
-          "note": "駅前再開発ビル地下。細い通路と飲食店街。\n狙い目：細い通路を歩き、飲食店の間口と曲がり角の関係を見る。駅前ビル内部に別の街路があるような構成が対象。",
-          "official": "http://www.shinbashi.net/02/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%A9%8B%E9%A7%85%E5%89%8D%E3%83%93%E3%83%AB%20%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.shinbashi.net/02/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "港区",
-          "name": "ニュー新橋ビル 地下",
-          "type": "地下街・地下道",
-          "note": "昭和の駅前ビル。地下〜上層の動線が狙い目。\n狙い目：地下と上層の往復で、階ごとの用途と人の流れの違いを比べたい。",
-          "official": "http://www.shinbashi.net/02/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%A5%E3%83%BC%E6%96%B0%E6%A9%8B%E3%83%93%E3%83%AB%20%E5%9C%B0%E4%B8%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.shinbashi.net/02/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "千代田区",
-          "name": "東京交通会館 地下",
-          "type": "地下街・地下道",
-          "note": "古い商業ビル地下。通路と飲食街。\n狙い目：飲食街の店先と通り抜け動線の関係を観察する。古いビルの地下が街の通路として働く点を見る。",
-          "official": "https://www.kotsukaikan.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%BA%A4%E9%80%9A%E4%BC%9A%E9%A4%A8%20%E5%9C%B0%E4%B8%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.kotsukaikan.co.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "中央区",
-          "name": "八重洲地下街",
-          "type": "地下街・地下道",
-          "note": "巨大地下街。閉店間際の長い通路向き。\n狙い目：通路の反復と遠くの見通しが対象。営業時間と通行できる時間を区別し、公開時間内に観察する。",
-          "official": "https://www.yaechika.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E9%87%8D%E6%B4%B2%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.yaechika.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "新宿区",
-          "name": "新宿サブナード",
-          "type": "地下街・地下道",
-          "note": "長大な地下商業空間。\n狙い目：長い商業通路を歩き、店舗の連続が途切れる場所や分岐の見え方を比べたい。",
-          "official": "https://www.subnade.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%82%B5%E3%83%96%E3%83%8A%E3%83%BC%E3%83%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.subnade.co.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "豊島区",
-          "name": "池袋ショッピングパーク",
-          "type": "地下街・地下道",
-          "note": "地下道と商業が連続する都市型空間。\n狙い目：地下道を通る人と店舗へ向かう人の動線が重なる地点に注目。",
-          "official": "http://web-isp.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%A0%E8%A2%8B%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%91%E3%83%BC%E3%82%AF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://web-isp.co.jp/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横浜市中区",
-          "name": "横浜マリナード地下街",
-          "type": "地下街・地下道",
-          "note": "関内〜伊勢佐木町側の古い地下商店街。\n狙い目：地上の関内・伊勢佐木町側の街路と地下の商店街をつなぐ経路を見たい。",
-          "official": "http://www.marinard.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%83%9E%E3%83%AA%E3%83%8A%E3%83%BC%E3%83%89%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.marinard.co.jp/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横浜市西区",
-          "name": "横浜ポルタ",
-          "type": "地下街・地下道",
-          "note": "駅地下の長い動線。\n狙い目：駅から商業区画へ移る動線をたどり、通過する場所と立ち止まる場所を比べる。",
-          "official": "http://www.yokohamaporta.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%83%9D%E3%83%AB%E3%82%BF%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.yokohamaporta.jp/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "川崎市川崎区",
-          "name": "川崎アゼリア",
-          "type": "地下街・地下道",
-          "note": "大規模地下街。\n狙い目：大規模地下街を案内表示に沿って歩き、分岐点と直線区間の見え方を比べたい。",
-          "official": "http://www.azalea.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%B4%8E%E3%82%A2%E3%82%BC%E3%83%AA%E3%82%A2%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.azalea.co.jp/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "札幌市中央区",
-          "name": "さっぽろ地下街 オーロラタウン",
-          "type": "地下街・地下道",
-          "note": "1970年代型地下街。\n狙い目：地下街の沿革と現在の意匠を区別しつつ、店舗と通路が繰り返す構成を観察する。",
-          "official": "https://www.sapporo-chikagai.jp/floorguide/?floor",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.sapporo-chikagai.jp/floorguide/?floor"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "札幌市中央区",
-          "name": "さっぽろ地下街 ポールタウン",
-          "type": "地下街・地下道",
-          "note": "長い直線地下空間。\n狙い目：直線の先への見通しと、店先が続くリズムに注目。短い区間と長い区間で奥行きの印象を比べる。",
-          "official": "https://www.sapporo-chikagai.jp/floorguide/?floor",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.sapporo-chikagai.jp/floorguide/?floor"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "札幌市中央区",
-          "name": "札幌駅前通地下歩行空間",
-          "type": "地下街・地下道",
-          "note": "巨大公共地下歩道。時間帯で無機質さが強い。\n狙い目：商業施設の店内とは異なる公共歩道として、歩行の幅と人の流れを観察したい。",
-          "official": "http://www.sapporo-chikamichi.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E9%A7%85%E5%89%8D%E9%80%9A%E5%9C%B0%E4%B8%8B%E6%AD%A9%E8%A1%8C%E7%A9%BA%E9%96%93%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.sapporo-chikamichi.jp/"
-          }
-        },
-        {
-          "prefecture": "宮城県",
-          "city": "仙台市青葉区",
-          "name": "仙台駅前地下道",
-          "type": "地下街・地下道",
-          "note": "駅前の地下歩行動線。\n狙い目：駅前の地上から地下へ移る地点と、目的地へ分岐する地点が狙い目。",
-          "official": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D%E5%9C%B0%E4%B8%8B%E9%81%93%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.jreast.co.jp/estation/station/info.aspx?StationCd"
-          }
-        },
-        {
-          "prefecture": "愛知県",
-          "city": "名古屋市中区",
-          "name": "伏見地下街",
-          "type": "地下街・地下道",
-          "note": "小規模で古い地下商店街。\n狙い目：小規模な通路の幅と店先の近さを見る。大規模地下街と比べた視線の距離感が対象。",
-          "official": "https://fushimi-chikagai.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8F%E8%A6%8B%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://fushimi-chikagai.jp/"
-          }
-        },
-        {
-          "prefecture": "愛知県",
-          "city": "名古屋市中村区",
-          "name": "ユニモール",
-          "type": "地下街・地下道",
-          "note": "名駅地下の長い商業通路。\n狙い目：名駅側から通路をたどり、商業区画と移動経路が一体になった構成を見る。",
-          "official": "https://www.unimall.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%A6%E3%83%8B%E3%83%A2%E3%83%BC%E3%83%AB%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E6%9D%91%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.unimall.co.jp/"
-          }
-        },
-        {
-          "prefecture": "愛知県",
-          "city": "名古屋市中村区",
-          "name": "エスカ地下街",
-          "type": "地下街・地下道",
-          "note": "新幹線側の地下街。\n狙い目：新幹線側の駅利用と地下商業の関係を観察する。駅から店先へ切り替わる動線が対象。",
-          "official": "https://www.esca-sc.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%82%B9%E3%82%AB%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E6%9D%91%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.esca-sc.com/"
-          }
-        },
-        {
-          "prefecture": "愛知県",
-          "city": "名古屋市中区",
-          "name": "セントラルパーク地下街",
-          "type": "地下街・地下道",
-          "note": "久屋大通地下の広い動線。\n狙い目：地上の久屋大通と地下の広い動線を見比べたい。地上へ出入りする地点で視界が変わる。",
-          "official": "https://www.centralpark.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.centralpark.co.jp/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市北区",
-          "name": "ホワイティうめだ",
-          "type": "地下街・地下道",
-          "note": "迷路性のある巨大地下街。\n狙い目：分岐の多い通路を案内表示と照合し、先が見える場所と方向感覚が変わる場所を比べる。",
-          "official": "http://whity.osaka-chikagai.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%86%E3%82%A3%E3%81%86%E3%82%81%E3%81%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://whity.osaka-chikagai.jp/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市中央区",
-          "name": "なんばウォーク",
-          "type": "地下街・地下道",
-          "note": "長い地下商業軸。\n狙い目：長い商業軸に沿って歩き、通路の繰り返しと交差する動線の関係を観察する。",
-          "official": "http://walk.osaka-chikagai.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%82%93%E3%81%B0%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://walk.osaka-chikagai.jp/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市天王寺区",
-          "name": "あべちか",
-          "type": "地下街・地下道",
-          "note": "規模が比較的小さく古い地下街系。\n狙い目：小さな地下街として、端から端までの距離と店舗の密度を見たい。",
-          "official": "http://avetika.osaka-chikagai.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%B9%E3%81%A1%E3%81%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://avetika.osaka-chikagai.jp/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市北区",
-          "name": "ドージマ地下センター",
-          "type": "地下街・地下道",
-          "note": "オフィス街下の地下商店街。\n狙い目：オフィス街の地上と地下商店街の用途の違いを比べる。通勤・通過と飲食の動線の重なりが対象。",
-          "official": "https://dotica.osaka-chikagai.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%89%E3%83%BC%E3%82%B8%E3%83%9E%E5%9C%B0%E4%B8%8B%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://dotica.osaka-chikagai.jp/"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "神戸市中央区",
-          "name": "さんちか",
-          "type": "地下街・地下道",
-          "note": "三宮の地下街。\n狙い目：三宮の地上や駅からの接続をたどり、地下商業空間へ入る切り替わりを見る。",
-          "official": "http://www.santica.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%82%93%E3%81%A1%E3%81%8B%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.santica.com/"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "神戸市中央区",
-          "name": "デュオこうべ",
-          "type": "地下街・地下道",
-          "note": "地下広場と長い連絡動線。\n狙い目：地下広場の開放感と長い連絡動線の囲われ方を比べたい。",
-          "official": "https://www.duokobe.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%83%A5%E3%82%AA%E3%81%93%E3%81%86%E3%81%B9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.duokobe.com/"
-          }
-        },
-        {
-          "prefecture": "岡山県",
-          "city": "岡山市北区",
-          "name": "岡山一番街",
-          "type": "地下街・地下道",
-          "note": "1970年代の駅地下商業施設。\n狙い目：駅地下の移動と買い物が重なる構成を見る。開業年代を現存する内装の年代と混同しないようにしたい。",
-          "official": "https://sun-ste.com/okayama-ichibangai/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E4%B8%80%E7%95%AA%E8%A1%97%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://sun-ste.com/okayama-ichibangai/"
-          }
-        },
-        {
-          "prefecture": "広島県",
-          "city": "広島市中区",
-          "name": "紙屋町シャレオ",
-          "type": "地下街・地下道",
-          "note": "交差型の地下広場。\n狙い目：交差型の地下広場で、進行方向を変えたときの見通しを比べる。",
-          "official": "http://www.shareo.net/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B4%99%E5%B1%8B%E7%94%BA%E3%82%B7%E3%83%A3%E3%83%AC%E3%82%AA%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.shareo.net/"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "福岡市中央区",
-          "name": "天神地下街",
-          "type": "地下街・地下道",
-          "note": "照明と石床の人工的な地下都市感。\n狙い目：照明の並びと石床の反復を合わせて眺めたい。人工の地下街路としての遠近感が対象。",
-          "official": "http://www.tenchika.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E7%A5%9E%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.tenchika.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "中野区",
-          "name": "中野ブロードウェイ",
-          "type": "駅前・再開発ビル",
-          "note": "商業階の奥、階段、上層への動線が強い。\n狙い目：商業階の奥から階段へ移り、階ごとの用途と通路の雰囲気を比べたい。",
-          "official": "https://nakano-broadway.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E9%87%8E%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://nakano-broadway.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "新宿区",
-          "name": "東京ニュー新宿ビルディング（新宿西口会館）",
-          "type": "駅前・再開発ビル",
-          "note": "古い雑居・商業ビル系。\n狙い目：外から見た雑居ビルの規模と、公開されている商業部の経路を比べる。",
-          "official": "https://scb-ichibangai.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%8B%E3%83%A5%E3%83%BC%E6%96%B0%E5%AE%BF%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%88%E6%96%B0%E5%AE%BF%E8%A5%BF%E5%8F%A3%E4%BC%9A%E9%A4%A8%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://scb-ichibangai.com/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横浜市中区",
-          "name": "桜木町ぴおシティ",
-          "type": "駅前・再開発ビル",
-          "note": "地下〜上層の昭和商業ビル感。\n狙い目：地下から上層へ移る際の用途の変化を見たい。商業ビル全体を一つの移動空間として観察する。",
-          "official": "http://www.piocity.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%9C%E6%9C%A8%E7%94%BA%E3%81%B4%E3%81%8A%E3%82%B7%E3%83%86%E3%82%A3%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.piocity.com/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横浜市中区",
-          "name": "横浜シァル桜木町 野毛側地下接続部",
-          "type": "駅前・再開発ビル",
-          "note": "駅・地下・商業の接続動線。\n狙い目：駅・地下・商業区画が切り替わる接続部分で、床や案内の変化を見たい。",
-          "official": "http://www.jryscc.co.jp/cial/sakuragicho/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%82%B7%E3%82%A1%E3%83%AB%E6%A1%9C%E6%9C%A8%E7%94%BA%20%E9%87%8E%E6%AF%9B%E5%81%B4%E5%9C%B0%E4%B8%8B%E6%8E%A5%E7%B6%9A%E9%83%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.jryscc.co.jp/cial/sakuragicho/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横浜市西区",
-          "name": "ジョイナス地下通路周辺",
-          "type": "駅前・再開発ビル",
-          "note": "巨大駅地下の接続空間。\n狙い目：駅地下の通路がどの施設へ分かれるかを案内図と照合して歩く。接続部分の境目が対象。",
-          "official": "http://www.sotetsu-joinus.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%8A%E3%82%B9%E5%9C%B0%E4%B8%8B%E9%80%9A%E8%B7%AF%E5%91%A8%E8%BE%BA%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.sotetsu-joinus.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "練馬区",
-          "name": "光が丘IMA",
-          "type": "駅前・再開発ビル",
-          "note": "ニュータウン中心施設。\n狙い目：ニュータウンの日常的な買い物と移動を受け持つ施設として、外部の歩行路とのつながりを見る。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%89%E3%81%8C%E4%B8%98IMA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "多摩市",
-          "name": "丘の上プラザ",
-          "type": "駅前・再開発ビル",
-          "note": "多摩ニュータウンの1980年代商業核。\n狙い目：商業核として周辺の歩行空間とどう接するかを見たい。施設の外と中を往復して規模感を比べる。",
-          "official": "http://www.okanoueplaza.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%98%E3%81%AE%E4%B8%8A%E3%83%97%E3%83%A9%E3%82%B6%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.okanoueplaza.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "多摩市",
-          "name": "京王聖蹟桜ヶ丘ショッピングセンター",
-          "type": "駅前・再開発ビル",
-          "note": "駅一体型の巨大複合施設。\n狙い目：駅から商業施設へ移る接続と、複数用途の切り替わりを観察する。",
-          "official": "http://www.keio-sc.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E8%81%96%E8%B9%9F%E6%A1%9C%E3%83%B6%E4%B8%98%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.keio-sc.jp/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "札幌市厚別区",
-          "name": "新さっぽろアークシティ サンピアザ",
-          "type": "駅前・再開発ビル",
-          "note": "1970年代副都心型SC。\n狙い目：副都心の商業施設として、周辺施設との連絡動線と建物の大きさを見る。",
-          "official": "http://www.sunpi-duo.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3%20%E3%82%B5%E3%83%B3%E3%83%94%E3%82%A2%E3%82%B6%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8E%9A%E5%88%A5%E5%8C%BA",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.sunpi-duo.com/"
-          }
-        },
-        {
-          "prefecture": "山口県",
-          "city": "下関市",
-          "name": "シーモール下関",
-          "type": "駅前・再開発ビル",
-          "note": "1970年代大型駅前SC。\n狙い目：駅前の人の流れが館内でどう分かれるかを見たい。大型SCの移動空間が対象。",
-          "official": "https://www.seamall.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%BC%E3%83%A2%E3%83%BC%E3%83%AB%E4%B8%8B%E9%96%A2%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.seamall.jp/"
-          }
-        },
-        {
-          "prefecture": "愛知県",
-          "city": "豊田市",
-          "name": "T-FACE",
-          "type": "駅前・再開発ビル",
-          "note": "1980年代駅前再開発ツインビル。\n狙い目：二つのビルを一つの商業施設として利用する経路に注目。棟ごとの見え方を比べる。",
-          "official": "https://www.t-face.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=T-FACE%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E7%94%B0%E5%B8%82",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.t-face.com/"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "尼崎市",
-          "name": "グンゼタウンセンター つかしん",
-          "type": "駅前・再開発ビル",
-          "note": "1980年代大型SCの系譜。\n狙い目：大型SCとしての敷地構成と店の配置を見る。開業時の沿革と現在の姿を分けて観察する。",
-          "official": "https://www.tsukashin.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%B3%E3%82%BC%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%A4%E3%81%8B%E3%81%97%E3%82%93%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%B0%BC%E5%B4%8E%E5%B8%82",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.tsukashin.com/"
-          }
-        },
-        {
-          "prefecture": "広島県",
-          "city": "広島市西区",
-          "name": "アルパーク",
-          "type": "駅前・再開発ビル",
-          "note": "1990年の大規模複合SC。\n狙い目：複数用途の施設を歩く際の距離感と、区画間の接続を見たい。",
-          "official": "https://www.alpark.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E8%A5%BF%E5%8C%BA",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.alpark.jp/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "札幌市中央区",
-          "name": "サッポロファクトリー",
-          "type": "駅前・再開発ビル",
-          "note": "1990年代巨大アトリウム。\n狙い目：アトリウムを見上げる位置と横から見る位置を変え、屋内に大きな空隙をつくる構成を観察する。",
-          "official": "https://sapporofactory.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://sapporofactory.jp/"
-          }
-        },
-        {
-          "prefecture": "千葉県",
-          "city": "千葉市緑区",
-          "name": "あすみが丘バーズモール",
-          "type": "モールコア",
-          "note": "バブル期の駅前モール。カラフルな建築、空き区画、中庭 開業年：1989年。\n狙い目：カラフルな外観・中庭・商業区画の関係を見たい。空き区画の状況は訪問時の姿として捉える。",
-          "official": "https://asumigaoka-birdsmall.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%99%E3%81%BF%E3%81%8C%E4%B8%98%E3%83%90%E3%83%BC%E3%82%BA%E3%83%A2%E3%83%BC%E3%83%AB%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E7%B7%91%E5%8C%BA%E3%81%82%E3%81%99%E3%81%BF%E3%81%8C%E4%B8%981-20-1",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://asumigaoka-birdsmall.com/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市阿倍野区",
-          "name": "あべのベルタ",
-          "type": "モールコア",
-          "note": "バブル期再開発モール。低層商業部と豪華な内装 開業年：1987年。\n狙い目：低層商業部の内装と再開発建築全体の関係を見る。装飾と日常の買い物空間が重なる点に注目。",
-          "official": "https://abeno-belta.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%B9%E3%81%AE%E3%83%99%E3%83%AB%E3%82%BF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E9%98%BF%E5%80%8D%E9%87%8E%E7%AD%8B3-10-1",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://abeno-belta.jp/"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "尼崎市",
-          "name": "出屋敷リベル",
-          "type": "モールコア",
-          "note": "駅前再開発モール。空き区画の多いフロアが特徴。\n狙い目：営業中の店と空き区画の並びを、訪問時の状態で観察する。駅前の移動経路との関係も対象。",
-          "official": "http://www.t-kaihatsu.co.jp/company/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BA%E5%B1%8B%E6%95%B7%E3%83%AA%E3%83%99%E3%83%AB%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%B0%BC%E5%B4%8E%E5%B8%82%E7%AB%B9%E8%B0%B7%E7%94%BA2-183",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.t-kaihatsu.co.jp/company/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横浜市中区",
-          "name": "イオン本牧店（旧マイカル本牧）",
-          "type": "モールコア",
-          "note": "旧マイカル本牧。バブル期の大規模商業開発の痕跡 開業年：1989年。\n狙い目：大規模商業開発の敷地の使い方と、現店舗までの動線に注目。旧施設の沿革と現状を分けて見る。",
-          "official": "https://www.aeon.com/store/イオン/イオン本牧店",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%AC%E7%89%A7%E5%BA%97%EF%BC%88%E6%97%A7%E3%83%9E%E3%82%A4%E3%82%AB%E3%83%AB%E6%9C%AC%E7%89%A7%EF%BC%89%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%9C%AC%E7%89%A7%E5%8E%9F7-1",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.aeon.com/store/イオン/イオン本牧店"
-          }
-        },
-        {
-          "prefecture": "千葉県",
-          "city": "市川市",
-          "name": "ニッケコルトンプラザ",
-          "type": "モールコア",
-          "note": "バブル期開業の大型SC。広場・通路・吹き抜けを観察 開業年：1988年。\n狙い目：広場・通路・吹抜けを順にたどり、視界が開く場所と細くなる場所を比べたい。",
-          "official": "https://www.nikke-cp.gr.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%83%E3%82%B1%E3%82%B3%E3%83%AB%E3%83%88%E3%83%B3%E3%83%97%E3%83%A9%E3%82%B6%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E9%AC%BC%E9%AB%981-1-1",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.nikke-cp.gr.jp/"
-          }
-        },
         {
           "prefecture": "千葉県",
           "city": "佐倉市",
@@ -13475,278 +12739,6 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://www.bellmall.co.jp/"
-          }
-        },
-        {
-          "prefecture": "岐阜県",
-          "city": "養老町",
-          "name": "養老ランド",
-          "type": "ドリームコア",
-          "note": "小規模レトロ遊園地。屋内遊具・色彩・古い設備。\n狙い目：屋内遊具の色彩と周囲の設備の関係を見る。遊具そのものだけでなく置かれた空間も対象。",
-          "official": "https://www.yourou-land.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A4%8A%E8%80%81%E3%83%A9%E3%83%B3%E3%83%89%20%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%E9%A4%8A%E8%80%811155-2",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.yourou-land.com/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "函館市",
-          "name": "函館公園こどものくに",
-          "type": "ドリームコア",
-          "note": "現役最古級の観覧車を含む小規模遊園地。\n狙い目：小さな遊園地の中で観覧車が占める大きさと、周囲の遊具配置を見たい。",
-          "official": "http://kodomonokuni.sakuraweb.com/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BD%E9%A4%A8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8F%E3%81%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82%E9%9D%92%E6%9F%B3%E7%94%BA17-4",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://kodomonokuni.sakuraweb.com/index.html"
-          }
-        },
-        {
-          "prefecture": "宮城県",
-          "city": "仙台市太白区",
-          "name": "八木山ベニーランド",
-          "type": "ドリームコア",
-          "note": "地方都市の老舗遊園地。\n狙い目：老舗遊園地としての沿革を踏まえ、現在の遊具と園内経路の関係を観察する。",
-          "official": "https://www.benyland.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%9C%A8%E5%B1%B1%E3%83%99%E3%83%8B%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E5%A4%AA%E7%99%BD%E5%8C%BA%E9%95%B7%E7%94%BA%E8%B6%8A%E8%B7%AF19-1",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.benyland.com/"
-          }
-        },
-        {
-          "prefecture": "山形県",
-          "city": "上山市",
-          "name": "リナワールド",
-          "type": "ドリームコア",
-          "note": "地方遊園地。色彩と遊具配置が狙い目。\n狙い目：遊具の色と配置を少し離れた位置から見比べる。移動中に現れる景観の切り替わりが対象。",
-          "official": "https://www.linaworld.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E5%B1%B1%E5%BD%A2%E7%9C%8C%E4%B8%8A%E5%B1%B1%E5%B8%82%E9%87%91%E7%93%B6%E6%B0%B4%E4%B8%8A108-1",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.linaworld.co.jp/"
-          }
-        },
-        {
-          "prefecture": "岩手県",
-          "city": "盛岡市",
-          "name": "岩山パークランド",
-          "type": "ドリームコア",
-          "note": "山上の地方遊園地。小規模遊具群。\n狙い目：山上という立地と小さな遊具群の密度を対比して見たい。",
-          "official": "https://iwayamapark.hp.peraichi.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E5%B1%B1%E3%83%91%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%20%E5%B2%A9%E6%89%8B%E7%9C%8C%E7%9B%9B%E5%B2%A1%E5%B8%82%E6%96%B0%E5%BA%84%E5%B2%A9%E5%B1%B1",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://iwayamapark.hp.peraichi.com/"
-          }
-        },
-        {
-          "prefecture": "宮城県",
-          "city": "登米市",
-          "name": "チャチャワールドいしこし",
-          "type": "ドリームコア",
-          "note": "地方の小規模遊園地。\n狙い目：小規模遊園地として、遊具間の距離と園内を巡る経路を観察する。",
-          "official": "http://www.chachaworld.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%81%E3%83%A3%E3%83%81%E3%83%A3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%81%84%E3%81%97%E3%81%93%E3%81%97%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%99%BB%E7%B1%B3%E5%B8%82%E7%9F%B3%E8%B6%8A%E7%94%BA%E5%8D%97%E9%83%B7%E9%AB%98%E6%A3%AE100",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.chachaworld.jp/"
-          }
-        },
-        {
-          "prefecture": "青森県",
-          "city": "八戸市",
-          "name": "八戸公園こどもの国",
-          "type": "ドリームコア",
-          "note": "公園内の地方遊園地。\n狙い目：公園の散策空間から遊具のある区画へ移る境目を見る。",
-          "official": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koenryokuchika/koen/3884.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%85%AB%E6%88%B8%E5%B8%82%E5%8D%81%E6%97%A5%E5%B8%82%E5%A4%A9%E6%91%A933-2",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koenryokuchika/koen/3884.html"
-          }
-        },
-        {
-          "prefecture": "福島県",
-          "city": "郡山市",
-          "name": "AGCエレクトロニクス郡山カルチャーパーク",
-          "type": "ドリームコア",
-          "note": "公共遊園地型。広い園内と遊具。\n狙い目：広い園内で遊具がどう配置されているかを見る。公共公園と遊園地の用途の重なりが対象。",
-          "official": "http://www.koriyamaculturepark.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=AGC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E9%83%A1%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%E9%83%A1%E5%B1%B1%E5%B8%82%E5%AE%89%E7%A9%8D%E7%94%BA%E6%88%90%E7%94%B0%E6%9D%B1%E4%B8%B8%E5%B1%B161",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.koriyamaculturepark.com/"
-          }
-        },
-        {
-          "prefecture": "群馬県",
-          "city": "前橋市",
-          "name": "前橋市中央児童遊園 るなぱあく",
-          "type": "ドリームコア",
-          "note": "小型遊具と木馬館。昭和児童遊園の原型 開業年：1954年。\n狙い目：木馬館と小型遊具の関係を見たい。建物に包まれた遊び場と屋外の遊び場を比べる。",
-          "official": "https://lunapark.maebashi-park.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%89%8D%E6%A9%8B%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%85%90%E7%AB%A5%E9%81%8A%E5%9C%92%20%E3%82%8B%E3%81%AA%E3%81%B1%E3%81%82%E3%81%8F%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%89%8D%E6%A9%8B%E5%B8%82%E5%A4%A7%E6%89%8B%E7%94%BA3-16-3",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://lunapark.maebashi-park.com/"
-          }
-        },
-        {
-          "prefecture": "栃木県",
-          "city": "宇都宮市",
-          "name": "とちのきファミリーランド",
-          "type": "ドリームコア",
-          "note": "県営公園内の遊園地。\n狙い目：県営公園の一部として、遊園地へ出入りする経路と周囲の園地を合わせて観察する。",
-          "official": "https://www.park-tochigi.com/tochinoki/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%81%A1%E3%81%AE%E3%81%8D%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E8%A5%BF%E5%B7%9D%E7%94%B04-1-1",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.park-tochigi.com/tochinoki/"
-          }
-        },
-        {
-          "prefecture": "奈良県",
-          "city": "生駒市",
-          "name": "生駒山上遊園地",
-          "type": "ドリームコア",
-          "note": "公式にも『レトロな映画館』等の表現。山上遊園地。\n狙い目：山上への移動と園内の遊び場の関係を見る。映画館を含む施設の演出も観察対象。",
-          "official": "https://www.ikomasanjou.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%9F%E9%A7%92%E5%B1%B1%E4%B8%8A%E9%81%8A%E5%9C%92%E5%9C%B0%20%E5%A5%88%E8%89%AF%E7%9C%8C%E7%94%9F%E9%A7%92%E5%B8%82%E8%8F%9C%E7%95%91%E7%94%BA2312-1",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.ikomasanjou.com/"
-          }
-        },
-        {
-          "prefecture": "石川県",
-          "city": "能美市",
-          "name": "手取フィッシュランド",
-          "type": "ドリームコア",
-          "note": "遊園地＋ゲームセンターの複合感。\n狙い目：遊園地とゲームセンターの屋内外の切り替わりに注目。異なる遊びの用途が連なる構成を見る。",
-          "official": "http://www.tedori.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%89%8B%E5%8F%96%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%A9%E3%83%B3%E3%83%89%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%E8%83%BD%E7%BE%8E%E5%B8%82%E7%B2%9F%E7%94%9F%E7%94%BA%E3%83%8458",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.tedori.co.jp/"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "太宰府市",
-          "name": "だざいふ遊園地",
-          "type": "ドリームコア",
-          "note": "小規模遊園地。児童遊具中心。\n狙い目：児童向け遊具の小さなスケールと、その間を歩く経路の関係を見たい。",
-          "official": "https://www.dazaifuyuuenchi.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A0%E3%81%96%E3%81%84%E3%81%B5%E9%81%8A%E5%9C%92%E5%9C%B0%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%B8%82%E5%AE%B0%E5%BA%9C4-7-8",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.dazaifuyuuenchi.com/"
-          }
-        },
-        {
-          "prefecture": "大分県",
-          "city": "別府市",
-          "name": "城島高原パーク",
-          "type": "ドリームコア",
-          "note": "高原型遊園地。地方レジャー施設系。\n狙い目：高原の開けた景観と人工的な遊具の配置を対比して見る。",
-          "official": "https://www.kijimakogen-park.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%8E%E5%B3%B6%E9%AB%98%E5%8E%9F%E3%83%91%E3%83%BC%E3%82%AF%20%E5%A4%A7%E5%88%86%E7%9C%8C%E5%88%A5%E5%BA%9C%E5%B8%82%E5%9F%8E%E5%B3%B6%E9%AB%98%E5%8E%9F123",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.kijimakogen-park.jp/"
-          }
-        },
-        {
-          "prefecture": "香川県",
-          "city": "丸亀市",
-          "name": "NEWレオマワールド",
-          "type": "ドリームコア",
-          "note": "1990年代地方テーマパークの空気が残る 開業年：1991年。\n狙い目：テーマパークとしての演出と各区画間の移動を観察する。開業年代と現存設備の年代は分けて読む。",
-          "official": "https://www.newreomaworld.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=NEW%E3%83%AC%E3%82%AA%E3%83%9E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E9%A6%99%E5%B7%9D%E7%9C%8C%E4%B8%B8%E4%BA%80%E5%B8%82%E7%B6%BE%E6%AD%8C%E7%94%BA%E6%A0%97%E7%86%8A%E8%A5%BF40-1",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.newreomaworld.com/"
-          }
-        },
-        {
-          "prefecture": "愛知県",
-          "city": "犬山市",
-          "name": "日本モンキーパーク",
-          "type": "ドリームコア",
-          "note": "老舗遊園地。場所によって旧来型遊具の雰囲気。\n狙い目：園内を巡って遊具ごとの見え方を比べる。旧来型の雰囲気は現地の具体的な意匠から読み取りたい。",
-          "official": "http://www.japan-monkeypark.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%8A%AC%E5%B1%B1%E5%B8%82%E7%8A%AC%E5%B1%B1%E5%AE%98%E6%9E%9726",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.japan-monkeypark.jp/"
-          }
-        },
-        {
-          "prefecture": "青森県",
-          "city": "八戸市",
-          "name": "ファンタジードーム八戸店",
-          "type": "屋内遊技場",
-          "note": "地方SC併設の大型ゲームセンター・屋内遊技場。\n狙い目：SC内の買い物空間から遊技場へ移る境目に注目。屋内の大きさと遊具・筐体の密度を見る。",
-          "official": "http://www.j-ce.co.jp/service/amusement.php",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%83%89%E3%83%BC%E3%83%A0%E5%85%AB%E6%88%B8%E5%BA%97%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%85%AB%E6%88%B8%E5%B8%82%E6%B1%9F%E9%99%BD2-14-1%20%E3%83%A9%E3%83%94%E3%82%A2%E5%85%AB%E6%88%B8%E5%BA%97%E5%88%A5%E6%A3%9F",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.j-ce.co.jp/service/amusement.php"
           }
         },
         {
@@ -19902,7 +18894,7 @@ window.FACILITY_DATASET={
       "name": "公共施設・文化施設内の食堂",
       "shortName": "公共施設内食堂",
       "file": "公共施設・文化施設内の食堂.csv",
-      "count": 92,
+      "count": 55,
       "items": [
         {
           "prefecture": "東京都",
@@ -20619,719 +19611,6 @@ window.FACILITY_DATASET={
         },
         {
           "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜大和寿司",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E5%A4%A7%E5%92%8C%E5%AF%BF%E5%8F%B8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 大和寿司",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "大和寿司",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "05:30",
-            "終了時間": "13:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜鮨文",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E9%AE%A8%E6%96%87%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 鮨文",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "鮨文",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "06:30",
-            "終了時間": "14:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜岩佐寿し",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E5%B2%A9%E4%BD%90%E5%AF%BF%E3%81%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 岩佐寿し",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "岩佐寿し",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "06:00",
-            "終了時間": "15:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜晶",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E6%99%B6%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 晶",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "晶",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "07:00",
-            "終了時間": "14:30",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜寿司大",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E5%AF%BF%E5%8F%B8%E5%A4%A7%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 寿司大",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "寿司大",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "05:30",
-            "終了時間": "14:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜磯野家（磯寿司）",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E7%A3%AF%E9%87%8E%E5%AE%B6%EF%BC%88%E7%A3%AF%E5%AF%BF%E5%8F%B8%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 磯野家（磯寿司）",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "磯野家（磯寿司）",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "07:00",
-            "終了時間": "15:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜寿し処 勢",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E5%AF%BF%E3%81%97%E5%87%A6%20%E5%8B%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 寿し処 勢",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "寿し処 勢",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "06:00",
-            "終了時間": "14:30",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜つきぢ神楽寿司 魚河岸店",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E3%81%A4%E3%81%8D%E3%81%A2%E7%A5%9E%E6%A5%BD%E5%AF%BF%E5%8F%B8%20%E9%AD%9A%E6%B2%B3%E5%B2%B8%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 つきぢ神楽寿司 魚河岸店",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "つきぢ神楽寿司 魚河岸店",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "08:00",
-            "終了時間": "16:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜龍寿司",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E9%BE%8D%E5%AF%BF%E5%8F%B8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 龍寿司",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "龍寿司",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "06:30",
-            "終了時間": "14:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜すし処 おかめ",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E3%81%99%E3%81%97%E5%87%A6%20%E3%81%8A%E3%81%8B%E3%82%81%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 すし処 おかめ",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "すし処 おかめ",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "06:00",
-            "終了時間": "14:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜市場鮨",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E5%B8%82%E5%A0%B4%E9%AE%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 市場鮨",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "市場鮨",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "06:00",
-            "終了時間": "15:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜寿司処 やまざき",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E5%AF%BF%E5%8F%B8%E5%87%A6%20%E3%82%84%E3%81%BE%E3%81%96%E3%81%8D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 寿司処 やまざき",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "寿司処 やまざき",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "05:30",
-            "終了時間": "14:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜茂助だんご",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E8%8C%82%E5%8A%A9%E3%81%A0%E3%82%93%E3%81%94%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 茂助だんご",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "茂助だんご",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "05:00",
-            "終了時間": "15:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜天ぷら愛養",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E5%A4%A9%E3%81%B7%E3%82%89%E6%84%9B%E9%A4%8A%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 天ぷら愛養",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "天ぷら愛養",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "06:00",
-            "終了時間": "15:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜やじ満",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E3%82%84%E3%81%98%E6%BA%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 やじ満",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "やじ満",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "05:00",
-            "終了時間": "13:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜木村家",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E6%9C%A8%E6%9D%91%E5%AE%B6%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 木村家",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "木村家",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "05:30",
-            "終了時間": "14:30",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜八千代",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E5%85%AB%E5%8D%83%E4%BB%A3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 八千代",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "八千代",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "07:00",
-            "終了時間": "14:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜トミーナ",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E3%83%88%E3%83%9F%E3%83%BC%E3%83%8A%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 トミーナ",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "トミーナ",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "09:00",
-            "終了時間": "14:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜丼匠",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E4%B8%BC%E5%8C%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 丼匠",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "丼匠",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "06:30",
-            "終了時間": "15:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜鳥藤 魚河岸食堂店",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E9%B3%A5%E8%97%A4%20%E9%AD%9A%E6%B2%B3%E5%B2%B8%E9%A3%9F%E5%A0%82%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 鳥藤 魚河岸食堂店",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "鳥藤 魚河岸食堂店",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "07:00",
-            "終了時間": "13:30",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜ふぢの",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E3%81%B5%E3%81%A2%E3%81%AE%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 ふぢの",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "ふぢの",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "05:00",
-            "終了時間": "13:30",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜印度カレー 中栄",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E5%8D%B0%E5%BA%A6%E3%82%AB%E3%83%AC%E3%83%BC%20%E4%B8%AD%E6%A0%84%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 印度カレー 中栄",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "印度カレー 中栄",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "05:00",
-            "終了時間": "14:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜うなぎ 米花",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E3%81%86%E3%81%AA%E3%81%8E%20%E7%B1%B3%E8%8A%B1%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 うなぎ 米花",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "うなぎ 米花",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "06:00",
-            "終了時間": "13:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜魚がし料理 粋のや",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E9%AD%9A%E3%81%8C%E3%81%97%E6%96%99%E7%90%86%20%E7%B2%8B%E3%81%AE%E3%82%84%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 魚がし料理 粋のや",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "魚がし料理 粋のや",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "06:30",
-            "終了時間": "15:30",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "豊洲市場｜海鮮丼 大江戸",
-          "type": "卸売市場内飲食店",
-          "note": "一般来場者が見学者通路と飲食店舗を利用可能。",
-          "official": "https://toyosu.tsukijigourmet.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%B4%B2%E5%B8%82%E5%A0%B4%20%E6%B5%B7%E9%AE%AE%E4%B8%BC%20%E5%A4%A7%E6%B1%9F%E6%88%B8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "豊洲市場 海鮮丼 大江戸",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://toyosu.tsukijigourmet.or.jp/",
-            "食堂・レストラン名": "海鮮丼 大江戸",
-            "住所": "東京都江東区豊洲6-6-1",
-            "建物の竣工年": "2018",
-            "開始時間": "06:30",
-            "終了時間": "15:30",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "大田区",
-          "name": "大田市場｜三洋食堂",
-          "type": "卸売市場内食堂",
-          "note": "大田市場内の三洋食堂。一般来館者が利用できることを確認。",
-          "official": "https://www.otashijo-kanren.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%B0%E5%B8%82%E5%A0%B4%20%E4%B8%89%E6%B4%8B%E9%A3%9F%E5%A0%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "大田市場 三洋食堂",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.otashijo-kanren.jp/",
-            "食堂・レストラン名": "三洋食堂",
-            "住所": "東京都大田区東海3-2-7",
-            "建物の竣工年": "1989",
-            "開始時間": "05:00",
-            "終了時間": "14:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "大田区",
-          "name": "大田市場｜味の店 双葉",
-          "type": "卸売市場内食堂",
-          "note": "大田市場内の味の店 双葉。一般来館者が利用できることを確認。",
-          "official": "https://www.otashijo-kanren.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%B0%E5%B8%82%E5%A0%B4%20%E5%91%B3%E3%81%AE%E5%BA%97%20%E5%8F%8C%E8%91%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "大田市場 味の店 双葉",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.otashijo-kanren.jp/",
-            "食堂・レストラン名": "味の店 双葉",
-            "住所": "東京都大田区東海3-2-7",
-            "建物の竣工年": "1989",
-            "開始時間": "05:30",
-            "終了時間": "14:30",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "大田区",
-          "name": "大田市場｜大田市場 関連棟食堂",
-          "type": "卸売市場内食堂",
-          "note": "大田市場内の大田市場 関連棟食堂。一般来館者が利用できることを確認。",
-          "official": "https://www.otashijo-kanren.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%B0%E5%B8%82%E5%A0%B4%20%E5%A4%A7%E7%94%B0%E5%B8%82%E5%A0%B4%20%E9%96%A2%E9%80%A3%E6%A3%9F%E9%A3%9F%E5%A0%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "大田市場 大田市場 関連棟食堂",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.otashijo-kanren.jp/",
-            "食堂・レストラン名": "大田市場 関連棟食堂",
-            "住所": "東京都大田区東海3-2-7",
-            "建物の竣工年": "1989",
-            "開始時間": "",
-            "終了時間": "",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "大田区",
-          "name": "大田市場｜大田市場 コーヒーショップ",
-          "type": "卸売市場内カフェ",
-          "note": "大田市場内の大田市場 コーヒーショップ。一般来館者が利用できることを確認。",
-          "official": "https://www.otashijo-kanren.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%B0%E5%B8%82%E5%A0%B4%20%E5%A4%A7%E7%94%B0%E5%B8%82%E5%A0%B4%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "大田市場 大田市場 コーヒーショップ",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.otashijo-kanren.jp/",
-            "食堂・レストラン名": "大田市場 コーヒーショップ",
-            "住所": "東京都大田区東海3-2-7",
-            "建物の竣工年": "1989",
-            "開始時間": "",
-            "終了時間": "",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "足立区",
-          "name": "足立市場｜市場食堂",
-          "type": "卸売市場内食堂",
-          "note": "市場食堂は一般客も利用可能。",
-          "official": "https://www.shijou.metro.tokyo.lg.jp/info/6",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%B3%E7%AB%8B%E5%B8%82%E5%A0%B4%20%E5%B8%82%E5%A0%B4%E9%A3%9F%E5%A0%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "足立市場 市場食堂",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.shijou.metro.tokyo.lg.jp/info/6",
-            "食堂・レストラン名": "市場食堂",
-            "住所": "東京都足立区千住橋戸町50",
-            "建物の竣工年": "",
-            "開始時間": "",
-            "終了時間": "",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "足立区",
-          "name": "足立市場｜食堂棟内海鮮食堂",
-          "type": "卸売市場内食堂",
-          "note": "市場食堂は一般客も利用可能。",
-          "official": "https://www.shijou.metro.tokyo.lg.jp/info/6",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%B3%E7%AB%8B%E5%B8%82%E5%A0%B4%20%E9%A3%9F%E5%A0%82%E6%A3%9F%E5%86%85%E6%B5%B7%E9%AE%AE%E9%A3%9F%E5%A0%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "足立市場 食堂棟内海鮮食堂",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.shijou.metro.tokyo.lg.jp/info/6",
-            "食堂・レストラン名": "食堂棟内海鮮食堂",
-            "住所": "東京都足立区千住橋戸町50",
-            "建物の竣工年": "",
-            "開始時間": "",
-            "終了時間": "",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "公共施設内の飲食空間"
-          }
-        },
-        {
-          "prefecture": "東京都",
           "city": "港区",
           "name": "港区役所｜レストラン・ポート",
           "type": "区役所内職員食堂",
@@ -21765,144 +20044,6 @@ window.FACILITY_DATASET={
             "終了時間": "15:00",
             "一般利用可能": "確認済み（一般利用可）",
             "狙い目": "青少年交流・研修施設内の軽食喫茶"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "板橋区",
-          "name": "板橋市場｜みんなの食堂",
-          "type": "市場内食堂",
-          "note": "東京都中央卸売市場板橋市場の管理棟内食堂。2025年開業で一般利用可能と報じられている。",
-          "official": "https://www.shijou.metro.tokyo.lg.jp/info/7",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%B8%82%E5%A0%B4%20%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E9%A3%9F%E5%A0%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "板橋市場 みんなの食堂",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.shijou.metro.tokyo.lg.jp/info/7",
-            "食堂・レストラン名": "みんなの食堂",
-            "住所": "東京都板橋区高島平6-1-5",
-            "建物の竣工年": "1972",
-            "開始時間": "",
-            "終了時間": "",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "市場管理棟内の一般利用可能な食堂"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "足立区",
-          "name": "足立市場｜武寿司",
-          "type": "市場内食堂",
-          "note": "足立市場公式の食堂一覧に掲載される寿司店。市場内の一般利用可能な食堂。",
-          "official": "https://www.adachi-shijyo.or.jp/jigyosha-category/飲食店/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%B3%E7%AB%8B%E5%B8%82%E5%A0%B4%20%E6%AD%A6%E5%AF%BF%E5%8F%B8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "足立市場 武寿司",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.adachi-shijyo.or.jp/jigyosha-category/飲食店/",
-            "食堂・レストラン名": "武寿司",
-            "住所": "東京都足立区千住橋戸町50",
-            "建物の竣工年": "",
-            "開始時間": "",
-            "終了時間": "",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "市場の寿司食堂"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "足立区",
-          "name": "足立市場｜かどのめし屋",
-          "type": "市場内食堂",
-          "note": "足立市場公式の食堂一覧に掲載されるラーメン・定食・丼の店。一般客も利用可能。",
-          "official": "https://www.adachi-shijyo.or.jp/jigyosha-category/飲食店/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%B3%E7%AB%8B%E5%B8%82%E5%A0%B4%20%E3%81%8B%E3%81%A9%E3%81%AE%E3%82%81%E3%81%97%E5%B1%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "足立市場 かどのめし屋",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.adachi-shijyo.or.jp/jigyosha-category/飲食店/",
-            "食堂・レストラン名": "かどのめし屋",
-            "住所": "東京都足立区千住橋戸町50",
-            "建物の竣工年": "",
-            "開始時間": "07:00",
-            "終了時間": "13:00",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "市場の定食・丼食堂"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "足立区",
-          "name": "足立市場｜しいはし食堂",
-          "type": "市場内食堂",
-          "note": "足立市場公式の食堂一覧に掲載される定食店。市場内部の一般利用可能な食堂。",
-          "official": "https://www.adachi-shijyo.or.jp/jigyosha-category/飲食店/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%B3%E7%AB%8B%E5%B8%82%E5%A0%B4%20%E3%81%97%E3%81%84%E3%81%AF%E3%81%97%E9%A3%9F%E5%A0%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "足立市場 しいはし食堂",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.adachi-shijyo.or.jp/jigyosha-category/飲食店/",
-            "食堂・レストラン名": "しいはし食堂",
-            "住所": "東京都足立区千住橋戸町50",
-            "建物の竣工年": "",
-            "開始時間": "",
-            "終了時間": "",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "市場の定食食堂"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "足立区",
-          "name": "足立市場｜たけうち",
-          "type": "市場内食堂",
-          "note": "足立市場公式の食堂一覧に掲載されるそば・うどん店。市場内部の一般利用可能な食堂。",
-          "official": "https://www.adachi-shijyo.or.jp/jigyosha-category/飲食店/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%B3%E7%AB%8B%E5%B8%82%E5%A0%B4%20%E3%81%9F%E3%81%91%E3%81%86%E3%81%A1%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "足立市場 たけうち",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.adachi-shijyo.or.jp/jigyosha-category/飲食店/",
-            "食堂・レストラン名": "たけうち",
-            "住所": "東京都足立区千住橋戸町50",
-            "建物の竣工年": "",
-            "開始時間": "",
-            "終了時間": "",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "市場のそば・うどん店"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "足立区",
-          "name": "足立市場｜とくだ屋",
-          "type": "市場内食堂",
-          "note": "足立市場公式の食堂一覧に掲載される丼物・定食店。市場内部の一般利用可能な食堂。",
-          "official": "https://www.adachi-shijyo.or.jp/jigyosha-category/飲食店/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%B3%E7%AB%8B%E5%B8%82%E5%A0%B4%20%E3%81%A8%E3%81%8F%E3%81%A0%E5%B1%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
-          "kind": "公共施設内の食堂・レストラン",
-          "officialSearch": "",
-          "mapQueryName": "足立市場 とくだ屋",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "https://www.adachi-shijyo.or.jp/jigyosha-category/飲食店/",
-            "食堂・レストラン名": "とくだ屋",
-            "住所": "東京都足立区千住橋戸町50",
-            "建物の竣工年": "",
-            "開始時間": "",
-            "終了時間": "",
-            "一般利用可能": "確認済み（一般利用可）",
-            "狙い目": "仲買人直営の市場食堂"
           }
         },
         {
@@ -23481,6 +21622,922 @@ window.FACILITY_DATASET={
             {
               "title": "レトロネオンと食品雑貨のセキノヤ訪問記",
               "url": "https://niigata-kankou.or.jp/blog/1465"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "csv-c1d3cdeb630a678c2197",
+      "number": 27,
+      "name": "古いビル",
+      "shortName": "古いビル",
+      "file": "古いビル.csv",
+      "count": 17,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "中野区",
+          "name": "中野ブロードウェイ",
+          "type": "古いビル",
+          "note": "商業階の奥、階段、上層への動線が強い。\n狙い目：商業階の奥から階段へ移り、階ごとの用途と通路の雰囲気を比べたい。",
+          "official": "https://nakano-broadway.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E9%87%8E%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "東京ニュー新宿ビルディング（新宿西口会館）",
+          "type": "古いビル",
+          "note": "古い雑居・商業ビル系。\n狙い目：外から見た雑居ビルの規模と、公開されている商業部の経路を比べる。",
+          "official": "https://scb-ichibangai.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%8B%E3%83%A5%E3%83%BC%E6%96%B0%E5%AE%BF%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%88%E6%96%B0%E5%AE%BF%E8%A5%BF%E5%8F%A3%E4%BC%9A%E9%A4%A8%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市中区",
+          "name": "桜木町ぴおシティ",
+          "type": "古いビル",
+          "note": "地下〜上層の昭和商業ビル感。\n狙い目：地下から上層へ移る際の用途の変化を見たい。商業ビル全体を一つの移動空間として観察する。",
+          "official": "http://www.piocity.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%9C%E6%9C%A8%E7%94%BA%E3%81%B4%E3%81%8A%E3%82%B7%E3%83%86%E3%82%A3%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "光が丘IMA",
+          "type": "古いビル",
+          "note": "ニュータウン中心施設。\n狙い目：ニュータウンの日常的な買い物と移動を受け持つ施設として、外部の歩行路とのつながりを見る。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%89%E3%81%8C%E4%B8%98IMA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "多摩市",
+          "name": "丘の上プラザ",
+          "type": "古いビル",
+          "note": "多摩ニュータウンの1980年代商業核。\n狙い目：商業核として周辺の歩行空間とどう接するかを見たい。施設の外と中を往復して規模感を比べる。",
+          "official": "http://www.okanoueplaza.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%98%E3%81%AE%E4%B8%8A%E3%83%97%E3%83%A9%E3%82%B6%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "多摩市",
+          "name": "京王聖蹟桜ヶ丘ショッピングセンター",
+          "type": "古いビル",
+          "note": "駅一体型の巨大複合施設。\n狙い目：駅から商業施設へ移る接続と、複数用途の切り替わりを観察する。",
+          "official": "http://www.keio-sc.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E8%81%96%E8%B9%9F%E6%A1%9C%E3%83%B6%E4%B8%98%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市厚別区",
+          "name": "新さっぽろアークシティ サンピアザ",
+          "type": "古いビル",
+          "note": "1970年代副都心型SC。\n狙い目：副都心の商業施設として、周辺施設との連絡動線と建物の大きさを見る。",
+          "official": "http://www.sunpi-duo.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3%20%E3%82%B5%E3%83%B3%E3%83%94%E3%82%A2%E3%82%B6%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8E%9A%E5%88%A5%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "山口県",
+          "city": "下関市",
+          "name": "シーモール下関",
+          "type": "古いビル",
+          "note": "1970年代大型駅前SC。\n狙い目：駅前の人の流れが館内でどう分かれるかを見たい。大型SCの移動空間が対象。",
+          "official": "https://www.seamall.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%BC%E3%83%A2%E3%83%BC%E3%83%AB%E4%B8%8B%E9%96%A2%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "豊田市",
+          "name": "T-FACE",
+          "type": "古いビル",
+          "note": "1980年代駅前再開発ツインビル。\n狙い目：二つのビルを一つの商業施設として利用する経路に注目。棟ごとの見え方を比べる。",
+          "official": "https://www.t-face.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=T-FACE%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "尼崎市",
+          "name": "グンゼタウンセンター つかしん",
+          "type": "古いビル",
+          "note": "1980年代大型SCの系譜。\n狙い目：大型SCとしての敷地構成と店の配置を見る。開業時の沿革と現在の姿を分けて観察する。",
+          "official": "https://www.tsukashin.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%B3%E3%82%BC%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%A4%E3%81%8B%E3%81%97%E3%82%93%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%B0%BC%E5%B4%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市西区",
+          "name": "アルパーク",
+          "type": "古いビル",
+          "note": "1990年の大規模複合SC。\n狙い目：複数用途の施設を歩く際の距離感と、区画間の接続を見たい。",
+          "official": "https://www.alpark.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E8%A5%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市中央区",
+          "name": "サッポロファクトリー",
+          "type": "古いビル",
+          "note": "1990年代巨大アトリウム。\n狙い目：アトリウムを見上げる位置と横から見る位置を変え、屋内に大きな空隙をつくる構成を観察する。",
+          "official": "https://sapporofactory.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "千葉市緑区",
+          "name": "あすみが丘バーズモール",
+          "type": "古いビル",
+          "note": "バブル期の駅前モール。カラフルな建築、空き区画、中庭 開業年：1989年。\n狙い目：カラフルな外観・中庭・商業区画の関係を見たい。空き区画の状況は訪問時の姿として捉える。",
+          "official": "https://asumigaoka-birdsmall.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%99%E3%81%BF%E3%81%8C%E4%B8%98%E3%83%90%E3%83%BC%E3%82%BA%E3%83%A2%E3%83%BC%E3%83%AB%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E7%B7%91%E5%8C%BA%E3%81%82%E3%81%99%E3%81%BF%E3%81%8C%E4%B8%981-20-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市阿倍野区",
+          "name": "あべのベルタ",
+          "type": "古いビル",
+          "note": "バブル期再開発モール。低層商業部と豪華な内装 開業年：1987年。\n狙い目：低層商業部の内装と再開発建築全体の関係を見る。装飾と日常の買い物空間が重なる点に注目。",
+          "official": "https://abeno-belta.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%B9%E3%81%AE%E3%83%99%E3%83%AB%E3%82%BF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E9%98%BF%E5%80%8D%E9%87%8E%E7%AD%8B3-10-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "尼崎市",
+          "name": "出屋敷リベル",
+          "type": "古いビル",
+          "note": "駅前再開発モール。空き区画の多いフロアが特徴。\n狙い目：営業中の店と空き区画の並びを、訪問時の状態で観察する。駅前の移動経路との関係も対象。",
+          "official": "http://www.t-kaihatsu.co.jp/company/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BA%E5%B1%8B%E6%95%B7%E3%83%AA%E3%83%99%E3%83%AB%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%B0%BC%E5%B4%8E%E5%B8%82%E7%AB%B9%E8%B0%B7%E7%94%BA2-183",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市中区",
+          "name": "イオン本牧店（旧マイカル本牧）",
+          "type": "古いビル",
+          "note": "旧マイカル本牧。バブル期の大規模商業開発の痕跡 開業年：1989年。\n狙い目：大規模商業開発の敷地の使い方と、現店舗までの動線に注目。旧施設の沿革と現状を分けて見る。",
+          "official": "https://www.aeon.com/store/イオン/イオン本牧店",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%AC%E7%89%A7%E5%BA%97%EF%BC%88%E6%97%A7%E3%83%9E%E3%82%A4%E3%82%AB%E3%83%AB%E6%9C%AC%E7%89%A7%EF%BC%89%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%9C%AC%E7%89%A7%E5%8E%9F7-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "市川市",
+          "name": "ニッケコルトンプラザ",
+          "type": "古いビル",
+          "note": "バブル期開業の大型SC。広場・通路・吹き抜けを観察 開業年：1988年。\n狙い目：広場・通路・吹抜けを順にたどり、視界が開く場所と細くなる場所を比べたい。",
+          "official": "https://www.nikke-cp.gr.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%83%E3%82%B1%E3%82%B3%E3%83%AB%E3%83%88%E3%83%B3%E3%83%97%E3%83%A9%E3%82%B6%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E9%AC%BC%E9%AB%981-1-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        }
+      ]
+    },
+    {
+      "id": "csv-a9061f27f0797254e38e",
+      "number": 28,
+      "name": "地下街・地下道",
+      "shortName": "地下街・地下道",
+      "file": "地下街・地下道.csv",
+      "count": 31,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "浅草地下街",
+          "type": "地下街・地下道",
+          "note": "低い天井、配管、古い地下飲食街。\n狙い目：天井の低さと露出した配管を、店先の連続と合わせて見る。通路の奥まで続く視線が狙い目。",
+          "official": "https://asakusachikagai.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "新橋駅前ビル 地下街",
+          "type": "地下街・地下道",
+          "note": "駅前再開発ビル地下。細い通路と飲食店街。\n狙い目：細い通路を歩き、飲食店の間口と曲がり角の関係を見る。駅前ビル内部に別の街路があるような構成が対象。",
+          "official": "http://www.shinbashi.net/02/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%A9%8B%E9%A7%85%E5%89%8D%E3%83%93%E3%83%AB%20%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "ニュー新橋ビル 地下",
+          "type": "地下街・地下道",
+          "note": "昭和の駅前ビル。地下〜上層の動線が狙い目。\n狙い目：地下と上層の往復で、階ごとの用途と人の流れの違いを比べたい。",
+          "official": "http://www.shinbashi.net/02/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%A5%E3%83%BC%E6%96%B0%E6%A9%8B%E3%83%93%E3%83%AB%20%E5%9C%B0%E4%B8%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "東京交通会館 地下",
+          "type": "地下街・地下道",
+          "note": "古い商業ビル地下。通路と飲食街。\n狙い目：飲食街の店先と通り抜け動線の関係を観察する。古いビルの地下が街の通路として働く点を見る。",
+          "official": "https://www.kotsukaikan.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%BA%A4%E9%80%9A%E4%BC%9A%E9%A4%A8%20%E5%9C%B0%E4%B8%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "八重洲地下街",
+          "type": "地下街・地下道",
+          "note": "巨大地下街。閉店間際の長い通路向き。\n狙い目：通路の反復と遠くの見通しが対象。営業時間と通行できる時間を区別し、公開時間内に観察する。",
+          "official": "https://www.yaechika.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E9%87%8D%E6%B4%B2%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "新宿サブナード",
+          "type": "地下街・地下道",
+          "note": "長大な地下商業空間。\n狙い目：長い商業通路を歩き、店舗の連続が途切れる場所や分岐の見え方を比べたい。",
+          "official": "https://www.subnade.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%82%B5%E3%83%96%E3%83%8A%E3%83%BC%E3%83%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "池袋ショッピングパーク",
+          "type": "地下街・地下道",
+          "note": "地下道と商業が連続する都市型空間。\n狙い目：地下道を通る人と店舗へ向かう人の動線が重なる地点に注目。",
+          "official": "http://web-isp.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%A0%E8%A2%8B%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%91%E3%83%BC%E3%82%AF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市中区",
+          "name": "横浜マリナード地下街",
+          "type": "地下街・地下道",
+          "note": "関内〜伊勢佐木町側の古い地下商店街。\n狙い目：地上の関内・伊勢佐木町側の街路と地下の商店街をつなぐ経路を見たい。",
+          "official": "http://www.marinard.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%83%9E%E3%83%AA%E3%83%8A%E3%83%BC%E3%83%89%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市西区",
+          "name": "横浜ポルタ",
+          "type": "地下街・地下道",
+          "note": "駅地下の長い動線。\n狙い目：駅から商業区画へ移る動線をたどり、通過する場所と立ち止まる場所を比べる。",
+          "official": "http://www.yokohamaporta.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%83%9D%E3%83%AB%E3%82%BF%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "川崎市川崎区",
+          "name": "川崎アゼリア",
+          "type": "地下街・地下道",
+          "note": "大規模地下街。\n狙い目：大規模地下街を案内表示に沿って歩き、分岐点と直線区間の見え方を比べたい。",
+          "official": "http://www.azalea.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%B4%8E%E3%82%A2%E3%82%BC%E3%83%AA%E3%82%A2%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市中央区",
+          "name": "さっぽろ地下街 オーロラタウン",
+          "type": "地下街・地下道",
+          "note": "1970年代型地下街。\n狙い目：地下街の沿革と現在の意匠を区別しつつ、店舗と通路が繰り返す構成を観察する。",
+          "official": "https://www.sapporo-chikagai.jp/floorguide/?floor",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市中央区",
+          "name": "さっぽろ地下街 ポールタウン",
+          "type": "地下街・地下道",
+          "note": "長い直線地下空間。\n狙い目：直線の先への見通しと、店先が続くリズムに注目。短い区間と長い区間で奥行きの印象を比べる。",
+          "official": "https://www.sapporo-chikagai.jp/floorguide/?floor",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市中央区",
+          "name": "札幌駅前通地下歩行空間",
+          "type": "地下街・地下道",
+          "note": "巨大公共地下歩道。時間帯で無機質さが強い。\n狙い目：商業施設の店内とは異なる公共歩道として、歩行の幅と人の流れを観察したい。",
+          "official": "http://www.sapporo-chikamichi.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E9%A7%85%E5%89%8D%E9%80%9A%E5%9C%B0%E4%B8%8B%E6%AD%A9%E8%A1%8C%E7%A9%BA%E9%96%93%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "宮城県",
+          "city": "仙台市青葉区",
+          "name": "仙台駅前地下道",
+          "type": "地下街・地下道",
+          "note": "駅前の地下歩行動線。\n狙い目：駅前の地上から地下へ移る地点と、目的地へ分岐する地点が狙い目。",
+          "official": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D%E5%9C%B0%E4%B8%8B%E9%81%93%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "名古屋市中区",
+          "name": "伏見地下街",
+          "type": "地下街・地下道",
+          "note": "小規模で古い地下商店街。\n狙い目：小規模な通路の幅と店先の近さを見る。大規模地下街と比べた視線の距離感が対象。",
+          "official": "https://fushimi-chikagai.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8F%E8%A6%8B%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "名古屋市中村区",
+          "name": "ユニモール",
+          "type": "地下街・地下道",
+          "note": "名駅地下の長い商業通路。\n狙い目：名駅側から通路をたどり、商業区画と移動経路が一体になった構成を見る。",
+          "official": "https://www.unimall.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%A6%E3%83%8B%E3%83%A2%E3%83%BC%E3%83%AB%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E6%9D%91%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "名古屋市中村区",
+          "name": "エスカ地下街",
+          "type": "地下街・地下道",
+          "note": "新幹線側の地下街。\n狙い目：新幹線側の駅利用と地下商業の関係を観察する。駅から店先へ切り替わる動線が対象。",
+          "official": "https://www.esca-sc.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%82%B9%E3%82%AB%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E6%9D%91%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "名古屋市中区",
+          "name": "セントラルパーク地下街",
+          "type": "地下街・地下道",
+          "note": "久屋大通地下の広い動線。\n狙い目：地上の久屋大通と地下の広い動線を見比べたい。地上へ出入りする地点で視界が変わる。",
+          "official": "https://www.centralpark.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市北区",
+          "name": "ホワイティうめだ",
+          "type": "地下街・地下道",
+          "note": "迷路性のある巨大地下街。\n狙い目：分岐の多い通路を案内表示と照合し、先が見える場所と方向感覚が変わる場所を比べる。",
+          "official": "http://whity.osaka-chikagai.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%86%E3%82%A3%E3%81%86%E3%82%81%E3%81%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "なんばウォーク",
+          "type": "地下街・地下道",
+          "note": "長い地下商業軸。\n狙い目：長い商業軸に沿って歩き、通路の繰り返しと交差する動線の関係を観察する。",
+          "official": "http://walk.osaka-chikagai.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%82%93%E3%81%B0%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市天王寺区",
+          "name": "あべちか",
+          "type": "地下街・地下道",
+          "note": "規模が比較的小さく古い地下街系。\n狙い目：小さな地下街として、端から端までの距離と店舗の密度を見たい。",
+          "official": "http://avetika.osaka-chikagai.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%B9%E3%81%A1%E3%81%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市北区",
+          "name": "ドージマ地下センター",
+          "type": "地下街・地下道",
+          "note": "オフィス街下の地下商店街。\n狙い目：オフィス街の地上と地下商店街の用途の違いを比べる。通勤・通過と飲食の動線の重なりが対象。",
+          "official": "https://dotica.osaka-chikagai.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%89%E3%83%BC%E3%82%B8%E3%83%9E%E5%9C%B0%E4%B8%8B%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市中央区",
+          "name": "さんちか",
+          "type": "地下街・地下道",
+          "note": "三宮の地下街。\n狙い目：三宮の地上や駅からの接続をたどり、地下商業空間へ入る切り替わりを見る。",
+          "official": "http://www.santica.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%82%93%E3%81%A1%E3%81%8B%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市中央区",
+          "name": "デュオこうべ",
+          "type": "地下街・地下道",
+          "note": "地下広場と長い連絡動線。\n狙い目：地下広場の開放感と長い連絡動線の囲われ方を比べたい。",
+          "official": "https://www.duokobe.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%83%A5%E3%82%AA%E3%81%93%E3%81%86%E3%81%B9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "岡山市北区",
+          "name": "岡山一番街",
+          "type": "地下街・地下道",
+          "note": "1970年代の駅地下商業施設。\n狙い目：駅地下の移動と買い物が重なる構成を見る。開業年代を現存する内装の年代と混同しないようにしたい。",
+          "official": "https://sun-ste.com/okayama-ichibangai/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E4%B8%80%E7%95%AA%E8%A1%97%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市中区",
+          "name": "紙屋町シャレオ",
+          "type": "地下街・地下道",
+          "note": "交差型の地下広場。\n狙い目：交差型の地下広場で、進行方向を変えたときの見通しを比べる。",
+          "official": "http://www.shareo.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B4%99%E5%B1%8B%E7%94%BA%E3%82%B7%E3%83%A3%E3%83%AC%E3%82%AA%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市中央区",
+          "name": "天神地下街",
+          "type": "地下街・地下道",
+          "note": "照明と石床の人工的な地下都市感。\n狙い目：照明の並びと石床の反復を合わせて眺めたい。人工の地下街路としての遠近感が対象。",
+          "official": "http://www.tenchika.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E7%A5%9E%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市中区",
+          "name": "横浜シァル桜木町 野毛側地下接続部",
+          "type": "地下街・地下道",
+          "note": "駅・地下・商業の接続動線。\n狙い目：駅・地下・商業区画が切り替わる接続部分で、床や案内の変化を見たい。",
+          "official": "http://www.jryscc.co.jp/cial/sakuragicho/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%82%B7%E3%82%A1%E3%83%AB%E6%A1%9C%E6%9C%A8%E7%94%BA%20%E9%87%8E%E6%AF%9B%E5%81%B4%E5%9C%B0%E4%B8%8B%E6%8E%A5%E7%B6%9A%E9%83%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市西区",
+          "name": "ジョイナス地下通路周辺",
+          "type": "地下街・地下道",
+          "note": "巨大駅地下の接続空間。\n狙い目：駅地下の通路がどの施設へ分かれるかを案内図と照合して歩く。接続部分の境目が対象。",
+          "official": "http://www.sotetsu-joinus.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%8A%E3%82%B9%E5%9C%B0%E4%B8%8B%E9%80%9A%E8%B7%AF%E5%91%A8%E8%BE%BA%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市兵庫区",
+          "name": "メトロこうべ",
+          "type": "地下街・地下道",
+          "note": "高速神戸駅と新開地駅を約700メートルで結ぶ1960年代開業の地下街。飲食、衣料、日用品、卓球場が連続し、長い地下動線と古い商店街の雰囲気が現存する。低い天井、入口番号、店舗の連なりを歩いて観察したい。",
+          "official": "https://metrokobe.jp/access",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%85%B5%E5%BA%AB%E5%8C%BA%E6%96%B0%E9%96%8B%E5%9C%B02%E4%B8%81%E7%9B%AE3%20%E3%83%A1%E3%83%88%E3%83%AD%E3%81%93%E3%81%86%E3%81%B9",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市下京区",
+          "name": "京都ポルタ",
+          "type": "地下街・地下道",
+          "note": "京都駅直下で1970年代から営業する地下街。東西・南エリアの地下店舗と駅・地下鉄・地下広場が複雑に接続し、現在も約210店舗が営業する。地下の案内サイン、B1・B2の階層差、駅との境界を観察したい。",
+          "official": "https://www.porta.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%83%AB%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA902",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "京都市公式観光Navi 京都ポルタ",
+              "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=4&tourism_id=1261"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "csv-44c1bade3e768ab28165",
+      "number": 29,
+      "name": "遊園地・レジャー施設",
+      "shortName": "遊園地・レジャー施設",
+      "file": "遊園地・レジャー施設.csv",
+      "count": 19,
+      "items": [
+        {
+          "prefecture": "岐阜県",
+          "city": "養老町",
+          "name": "養老ランド",
+          "type": "遊園地・レジャー施設",
+          "note": "小規模レトロ遊園地。屋内遊具・色彩・古い設備。\n狙い目：屋内遊具の色彩と周囲の設備の関係を見る。遊具そのものだけでなく置かれた空間も対象。",
+          "official": "https://www.yourou-land.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A4%8A%E8%80%81%E3%83%A9%E3%83%B3%E3%83%89%20%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%E9%A4%8A%E8%80%811155-2",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "北海道",
+          "city": "函館市",
+          "name": "函館公園こどものくに",
+          "type": "遊園地・レジャー施設",
+          "note": "現役最古級の観覧車を含む小規模遊園地。\n狙い目：小さな遊園地の中で観覧車が占める大きさと、周囲の遊具配置を見たい。",
+          "official": "http://kodomonokuni.sakuraweb.com/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BD%E9%A4%A8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8F%E3%81%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82%E9%9D%92%E6%9F%B3%E7%94%BA17-4",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "宮城県",
+          "city": "仙台市太白区",
+          "name": "八木山ベニーランド",
+          "type": "遊園地・レジャー施設",
+          "note": "地方都市の老舗遊園地。\n狙い目：老舗遊園地としての沿革を踏まえ、現在の遊具と園内経路の関係を観察する。",
+          "official": "https://www.benyland.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%9C%A8%E5%B1%B1%E3%83%99%E3%83%8B%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E5%A4%AA%E7%99%BD%E5%8C%BA%E9%95%B7%E7%94%BA%E8%B6%8A%E8%B7%AF19-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "山形県",
+          "city": "上山市",
+          "name": "リナワールド",
+          "type": "遊園地・レジャー施設",
+          "note": "地方遊園地。色彩と遊具配置が狙い目。\n狙い目：遊具の色と配置を少し離れた位置から見比べる。移動中に現れる景観の切り替わりが対象。",
+          "official": "https://www.linaworld.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E5%B1%B1%E5%BD%A2%E7%9C%8C%E4%B8%8A%E5%B1%B1%E5%B8%82%E9%87%91%E7%93%B6%E6%B0%B4%E4%B8%8A108-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "岩手県",
+          "city": "盛岡市",
+          "name": "岩山パークランド",
+          "type": "遊園地・レジャー施設",
+          "note": "山上の地方遊園地。小規模遊具群。\n狙い目：山上という立地と小さな遊具群の密度を対比して見たい。",
+          "official": "https://iwayamapark.hp.peraichi.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E5%B1%B1%E3%83%91%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%20%E5%B2%A9%E6%89%8B%E7%9C%8C%E7%9B%9B%E5%B2%A1%E5%B8%82%E6%96%B0%E5%BA%84%E5%B2%A9%E5%B1%B1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "宮城県",
+          "city": "登米市",
+          "name": "チャチャワールドいしこし",
+          "type": "遊園地・レジャー施設",
+          "note": "地方の小規模遊園地。\n狙い目：小規模遊園地として、遊具間の距離と園内を巡る経路を観察する。",
+          "official": "http://www.chachaworld.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%81%E3%83%A3%E3%83%81%E3%83%A3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%81%84%E3%81%97%E3%81%93%E3%81%97%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%99%BB%E7%B1%B3%E5%B8%82%E7%9F%B3%E8%B6%8A%E7%94%BA%E5%8D%97%E9%83%B7%E9%AB%98%E6%A3%AE100",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "青森県",
+          "city": "八戸市",
+          "name": "八戸公園こどもの国",
+          "type": "遊園地・レジャー施設",
+          "note": "公園内の地方遊園地。\n狙い目：公園の散策空間から遊具のある区画へ移る境目を見る。",
+          "official": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koenryokuchika/koen/3884.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%85%AB%E6%88%B8%E5%B8%82%E5%8D%81%E6%97%A5%E5%B8%82%E5%A4%A9%E6%91%A933-2",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "福島県",
+          "city": "郡山市",
+          "name": "AGCエレクトロニクス郡山カルチャーパーク",
+          "type": "遊園地・レジャー施設",
+          "note": "公共遊園地型。広い園内と遊具。\n狙い目：広い園内で遊具がどう配置されているかを見る。公共公園と遊園地の用途の重なりが対象。",
+          "official": "http://www.koriyamaculturepark.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=AGC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E9%83%A1%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%E9%83%A1%E5%B1%B1%E5%B8%82%E5%AE%89%E7%A9%8D%E7%94%BA%E6%88%90%E7%94%B0%E6%9D%B1%E4%B8%B8%E5%B1%B161",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "前橋市",
+          "name": "前橋市中央児童遊園 るなぱあく",
+          "type": "遊園地・レジャー施設",
+          "note": "小型遊具と木馬館。昭和児童遊園の原型 開業年：1954年。\n狙い目：木馬館と小型遊具の関係を見たい。建物に包まれた遊び場と屋外の遊び場を比べる。",
+          "official": "https://lunapark.maebashi-park.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%89%8D%E6%A9%8B%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%85%90%E7%AB%A5%E9%81%8A%E5%9C%92%20%E3%82%8B%E3%81%AA%E3%81%B1%E3%81%82%E3%81%8F%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%89%8D%E6%A9%8B%E5%B8%82%E5%A4%A7%E6%89%8B%E7%94%BA3-16-3",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "栃木県",
+          "city": "宇都宮市",
+          "name": "とちのきファミリーランド",
+          "type": "遊園地・レジャー施設",
+          "note": "県営公園内の遊園地。\n狙い目：県営公園の一部として、遊園地へ出入りする経路と周囲の園地を合わせて観察する。",
+          "official": "https://www.park-tochigi.com/tochinoki/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%81%A1%E3%81%AE%E3%81%8D%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E8%A5%BF%E5%B7%9D%E7%94%B04-1-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "奈良県",
+          "city": "生駒市",
+          "name": "生駒山上遊園地",
+          "type": "遊園地・レジャー施設",
+          "note": "公式にも『レトロな映画館』等の表現。山上遊園地。\n狙い目：山上への移動と園内の遊び場の関係を見る。映画館を含む施設の演出も観察対象。",
+          "official": "https://www.ikomasanjou.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%9F%E9%A7%92%E5%B1%B1%E4%B8%8A%E9%81%8A%E5%9C%92%E5%9C%B0%20%E5%A5%88%E8%89%AF%E7%9C%8C%E7%94%9F%E9%A7%92%E5%B8%82%E8%8F%9C%E7%95%91%E7%94%BA2312-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "石川県",
+          "city": "能美市",
+          "name": "手取フィッシュランド",
+          "type": "遊園地・レジャー施設",
+          "note": "遊園地＋ゲームセンターの複合感。\n狙い目：遊園地とゲームセンターの屋内外の切り替わりに注目。異なる遊びの用途が連なる構成を見る。",
+          "official": "http://www.tedori.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%89%8B%E5%8F%96%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%A9%E3%83%B3%E3%83%89%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%E8%83%BD%E7%BE%8E%E5%B8%82%E7%B2%9F%E7%94%9F%E7%94%BA%E3%83%8458",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "太宰府市",
+          "name": "だざいふ遊園地",
+          "type": "遊園地・レジャー施設",
+          "note": "小規模遊園地。児童遊具中心。\n狙い目：児童向け遊具の小さなスケールと、その間を歩く経路の関係を見たい。",
+          "official": "https://www.dazaifuyuuenchi.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A0%E3%81%96%E3%81%84%E3%81%B5%E9%81%8A%E5%9C%92%E5%9C%B0%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%B8%82%E5%AE%B0%E5%BA%9C4-7-8",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大分県",
+          "city": "別府市",
+          "name": "城島高原パーク",
+          "type": "遊園地・レジャー施設",
+          "note": "高原型遊園地。地方レジャー施設系。\n狙い目：高原の開けた景観と人工的な遊具の配置を対比して見る。",
+          "official": "https://www.kijimakogen-park.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%8E%E5%B3%B6%E9%AB%98%E5%8E%9F%E3%83%91%E3%83%BC%E3%82%AF%20%E5%A4%A7%E5%88%86%E7%9C%8C%E5%88%A5%E5%BA%9C%E5%B8%82%E5%9F%8E%E5%B3%B6%E9%AB%98%E5%8E%9F123",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "香川県",
+          "city": "丸亀市",
+          "name": "NEWレオマワールド",
+          "type": "遊園地・レジャー施設",
+          "note": "1990年代地方テーマパークの空気が残る 開業年：1991年。\n狙い目：テーマパークとしての演出と各区画間の移動を観察する。開業年代と現存設備の年代は分けて読む。",
+          "official": "https://www.newreomaworld.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=NEW%E3%83%AC%E3%82%AA%E3%83%9E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E9%A6%99%E5%B7%9D%E7%9C%8C%E4%B8%B8%E4%BA%80%E5%B8%82%E7%B6%BE%E6%AD%8C%E7%94%BA%E6%A0%97%E7%86%8A%E8%A5%BF40-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "犬山市",
+          "name": "日本モンキーパーク",
+          "type": "遊園地・レジャー施設",
+          "note": "老舗遊園地。場所によって旧来型遊具の雰囲気。\n狙い目：園内を巡って遊具ごとの見え方を比べる。旧来型の雰囲気は現地の具体的な意匠から読み取りたい。",
+          "official": "http://www.japan-monkeypark.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%8A%AC%E5%B1%B1%E5%B8%82%E7%8A%AC%E5%B1%B1%E5%AE%98%E6%9E%9726",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "青森県",
+          "city": "八戸市",
+          "name": "ファンタジードーム八戸店",
+          "type": "遊園地・レジャー施設",
+          "note": "地方SC併設の大型ゲームセンター・屋内遊技場。\n狙い目：SC内の買い物空間から遊技場へ移る境目に注目。屋内の大きさと遊具・筐体の密度を見る。",
+          "official": "http://www.j-ce.co.jp/service/amusement.php",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%83%89%E3%83%BC%E3%83%A0%E5%85%AB%E6%88%B8%E5%BA%97%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%85%AB%E6%88%B8%E5%B8%82%E6%B1%9F%E9%99%BD2-14-1%20%E3%83%A9%E3%83%94%E3%82%A2%E5%85%AB%E6%88%B8%E5%BA%97%E5%88%A5%E6%A3%9F",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "浅草花やしき",
+          "type": "遊園地・レジャー施設",
+          "note": "1853年に始まり、日本最古の遊園地として営業を続ける浅草の小規模施設。狭い敷地にローラーコースター、縁日、飲食、古い遊具が密集する。入口から園内の高低差、古い看板、遊具と浅草の街の近さを見たい。",
+          "official": "https://www.hanayashiki.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-28-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "GO TOKYO 浅草花やしき紹介",
+              "url": "https://www.gotokyo.org/jp/spot/245/index.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "茨城県",
+          "city": "日立市",
+          "name": "かみね遊園地",
+          "type": "遊園地・レジャー施設",
+          "note": "かみね公園内で回転ボート、コーヒーカップ、観覧車などを営業する市営系の小規模遊園地。動物園・レジャーランド・展望公園と一体の昭和的な複合レジャー空間で、遊具の配置、券売所、園内の見晴らしを観察したい。",
+          "official": "https://kaminepark.or.jp/facility-02.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%97%A5%E7%AB%8B%E5%B8%82%E5%AE%AE%E7%94%B0%E7%94%BA5-2-22",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "かみね公園公式パンフレット",
+              "url": "https://kaminepark.or.jp/facility-map.data_/pamphlet2026.pdf"
             }
           ]
         }

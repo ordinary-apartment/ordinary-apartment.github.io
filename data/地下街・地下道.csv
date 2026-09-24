@@ -1,0 +1,61 @@
+都道府県,市区町村,店舗名・施設名,分類,説明・狙い目,公式サイト,Googleマップ,関連リンク1タイトル,関連リンク1URL,関連リンク2タイトル,関連リンク2URL,関連リンク3タイトル,関連リンク3URL
+東京都,台東区,浅草地下街,地下街・地下道,"低い天井、配管、古い地下飲食街。
+狙い目：天井の低さと露出した配管を、店先の連続と合わせて見る。通路の奥まで続く視線が狙い目。",https://asakusachikagai.com/,https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA,,,,,,
+東京都,港区,新橋駅前ビル 地下街,地下街・地下道,"駅前再開発ビル地下。細い通路と飲食店街。
+狙い目：細い通路を歩き、飲食店の間口と曲がり角の関係を見る。駅前ビル内部に別の街路があるような構成が対象。",http://www.shinbashi.net/02/,https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%A9%8B%E9%A7%85%E5%89%8D%E3%83%93%E3%83%AB%20%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA,,,,,,
+東京都,港区,ニュー新橋ビル 地下,地下街・地下道,"昭和の駅前ビル。地下〜上層の動線が狙い目。
+狙い目：地下と上層の往復で、階ごとの用途と人の流れの違いを比べたい。",http://www.shinbashi.net/02/,https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%A5%E3%83%BC%E6%96%B0%E6%A9%8B%E3%83%93%E3%83%AB%20%E5%9C%B0%E4%B8%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA,,,,,,
+東京都,千代田区,東京交通会館 地下,地下街・地下道,"古い商業ビル地下。通路と飲食街。
+狙い目：飲食街の店先と通り抜け動線の関係を観察する。古いビルの地下が街の通路として働く点を見る。",https://www.kotsukaikan.co.jp/,https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%BA%A4%E9%80%9A%E4%BC%9A%E9%A4%A8%20%E5%9C%B0%E4%B8%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA,,,,,,
+東京都,中央区,八重洲地下街,地下街・地下道,"巨大地下街。閉店間際の長い通路向き。
+狙い目：通路の反復と遠くの見通しが対象。営業時間と通行できる時間を区別し、公開時間内に観察する。",https://www.yaechika.com/,https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E9%87%8D%E6%B4%B2%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA,,,,,,
+東京都,新宿区,新宿サブナード,地下街・地下道,"長大な地下商業空間。
+狙い目：長い商業通路を歩き、店舗の連続が途切れる場所や分岐の見え方を比べたい。",https://www.subnade.co.jp/,https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%82%B5%E3%83%96%E3%83%8A%E3%83%BC%E3%83%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA,,,,,,
+東京都,豊島区,池袋ショッピングパーク,地下街・地下道,"地下道と商業が連続する都市型空間。
+狙い目：地下道を通る人と店舗へ向かう人の動線が重なる地点に注目。",http://web-isp.co.jp/,https://www.google.com/maps/search/?api=1&query=%E6%B1%A0%E8%A2%8B%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%91%E3%83%BC%E3%82%AF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA,,,,,,
+神奈川県,横浜市中区,横浜マリナード地下街,地下街・地下道,"関内〜伊勢佐木町側の古い地下商店街。
+狙い目：地上の関内・伊勢佐木町側の街路と地下の商店街をつなぐ経路を見たい。",http://www.marinard.co.jp/,https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%83%9E%E3%83%AA%E3%83%8A%E3%83%BC%E3%83%89%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA,,,,,,
+神奈川県,横浜市西区,横浜ポルタ,地下街・地下道,"駅地下の長い動線。
+狙い目：駅から商業区画へ移る動線をたどり、通過する場所と立ち止まる場所を比べる。",http://www.yokohamaporta.jp/,https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%83%9D%E3%83%AB%E3%82%BF%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA,,,,,,
+神奈川県,川崎市川崎区,川崎アゼリア,地下街・地下道,"大規模地下街。
+狙い目：大規模地下街を案内表示に沿って歩き、分岐点と直線区間の見え方を比べたい。",http://www.azalea.co.jp/,https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%B4%8E%E3%82%A2%E3%82%BC%E3%83%AA%E3%82%A2%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA,,,,,,
+北海道,札幌市中央区,さっぽろ地下街 オーロラタウン,地下街・地下道,"1970年代型地下街。
+狙い目：地下街の沿革と現在の意匠を区別しつつ、店舗と通路が繰り返す構成を観察する。",https://www.sapporo-chikagai.jp/floorguide/?floor,https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA,,,,,,
+北海道,札幌市中央区,さっぽろ地下街 ポールタウン,地下街・地下道,"長い直線地下空間。
+狙い目：直線の先への見通しと、店先が続くリズムに注目。短い区間と長い区間で奥行きの印象を比べる。",https://www.sapporo-chikagai.jp/floorguide/?floor,https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA,,,,,,
+北海道,札幌市中央区,札幌駅前通地下歩行空間,地下街・地下道,"巨大公共地下歩道。時間帯で無機質さが強い。
+狙い目：商業施設の店内とは異なる公共歩道として、歩行の幅と人の流れを観察したい。",http://www.sapporo-chikamichi.jp/,https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E9%A7%85%E5%89%8D%E9%80%9A%E5%9C%B0%E4%B8%8B%E6%AD%A9%E8%A1%8C%E7%A9%BA%E9%96%93%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA,,,,,,
+宮城県,仙台市青葉区,仙台駅前地下道,地下街・地下道,"駅前の地下歩行動線。
+狙い目：駅前の地上から地下へ移る地点と、目的地へ分岐する地点が狙い目。",https://www.jreast.co.jp/estation/station/info.aspx?StationCd,https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D%E5%9C%B0%E4%B8%8B%E9%81%93%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA,,,,,,
+愛知県,名古屋市中区,伏見地下街,地下街・地下道,"小規模で古い地下商店街。
+狙い目：小規模な通路の幅と店先の近さを見る。大規模地下街と比べた視線の距離感が対象。",https://fushimi-chikagai.jp/,https://www.google.com/maps/search/?api=1&query=%E4%BC%8F%E8%A6%8B%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA,,,,,,
+愛知県,名古屋市中村区,ユニモール,地下街・地下道,"名駅地下の長い商業通路。
+狙い目：名駅側から通路をたどり、商業区画と移動経路が一体になった構成を見る。",https://www.unimall.co.jp/,https://www.google.com/maps/search/?api=1&query=%E3%83%A6%E3%83%8B%E3%83%A2%E3%83%BC%E3%83%AB%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E6%9D%91%E5%8C%BA,,,,,,
+愛知県,名古屋市中村区,エスカ地下街,地下街・地下道,"新幹線側の地下街。
+狙い目：新幹線側の駅利用と地下商業の関係を観察する。駅から店先へ切り替わる動線が対象。",https://www.esca-sc.com/,https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%82%B9%E3%82%AB%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E6%9D%91%E5%8C%BA,,,,,,
+愛知県,名古屋市中区,セントラルパーク地下街,地下街・地下道,"久屋大通地下の広い動線。
+狙い目：地上の久屋大通と地下の広い動線を見比べたい。地上へ出入りする地点で視界が変わる。",https://www.centralpark.co.jp/,https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA,,,,,,
+大阪府,大阪市北区,ホワイティうめだ,地下街・地下道,"迷路性のある巨大地下街。
+狙い目：分岐の多い通路を案内表示と照合し、先が見える場所と方向感覚が変わる場所を比べる。",http://whity.osaka-chikagai.jp/,https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%86%E3%82%A3%E3%81%86%E3%82%81%E3%81%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA,,,,,,
+大阪府,大阪市中央区,なんばウォーク,地下街・地下道,"長い地下商業軸。
+狙い目：長い商業軸に沿って歩き、通路の繰り返しと交差する動線の関係を観察する。",http://walk.osaka-chikagai.jp/,https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%82%93%E3%81%B0%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA,,,,,,
+大阪府,大阪市天王寺区,あべちか,地下街・地下道,"規模が比較的小さく古い地下街系。
+狙い目：小さな地下街として、端から端までの距離と店舗の密度を見たい。",http://avetika.osaka-chikagai.jp/,https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%B9%E3%81%A1%E3%81%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA,,,,,,
+大阪府,大阪市北区,ドージマ地下センター,地下街・地下道,"オフィス街下の地下商店街。
+狙い目：オフィス街の地上と地下商店街の用途の違いを比べる。通勤・通過と飲食の動線の重なりが対象。",https://dotica.osaka-chikagai.jp/,https://www.google.com/maps/search/?api=1&query=%E3%83%89%E3%83%BC%E3%82%B8%E3%83%9E%E5%9C%B0%E4%B8%8B%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA,,,,,,
+兵庫県,神戸市中央区,さんちか,地下街・地下道,"三宮の地下街。
+狙い目：三宮の地上や駅からの接続をたどり、地下商業空間へ入る切り替わりを見る。",http://www.santica.com/,https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%82%93%E3%81%A1%E3%81%8B%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA,,,,,,
+兵庫県,神戸市中央区,デュオこうべ,地下街・地下道,"地下広場と長い連絡動線。
+狙い目：地下広場の開放感と長い連絡動線の囲われ方を比べたい。",https://www.duokobe.com/,https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%83%A5%E3%82%AA%E3%81%93%E3%81%86%E3%81%B9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA,,,,,,
+岡山県,岡山市北区,岡山一番街,地下街・地下道,"1970年代の駅地下商業施設。
+狙い目：駅地下の移動と買い物が重なる構成を見る。開業年代を現存する内装の年代と混同しないようにしたい。",https://sun-ste.com/okayama-ichibangai/,https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E4%B8%80%E7%95%AA%E8%A1%97%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA,,,,,,
+広島県,広島市中区,紙屋町シャレオ,地下街・地下道,"交差型の地下広場。
+狙い目：交差型の地下広場で、進行方向を変えたときの見通しを比べる。",http://www.shareo.net/,https://www.google.com/maps/search/?api=1&query=%E7%B4%99%E5%B1%8B%E7%94%BA%E3%82%B7%E3%83%A3%E3%83%AC%E3%82%AA%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA,,,,,,
+福岡県,福岡市中央区,天神地下街,地下街・地下道,"照明と石床の人工的な地下都市感。
+狙い目：照明の並びと石床の反復を合わせて眺めたい。人工の地下街路としての遠近感が対象。",http://www.tenchika.com/,https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E7%A5%9E%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA,,,,,,
+神奈川県,横浜市中区,横浜シァル桜木町 野毛側地下接続部,地下街・地下道,"駅・地下・商業の接続動線。
+狙い目：駅・地下・商業区画が切り替わる接続部分で、床や案内の変化を見たい。",http://www.jryscc.co.jp/cial/sakuragicho/,https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E3%82%B7%E3%82%A1%E3%83%AB%E6%A1%9C%E6%9C%A8%E7%94%BA%20%E9%87%8E%E6%AF%9B%E5%81%B4%E5%9C%B0%E4%B8%8B%E6%8E%A5%E7%B6%9A%E9%83%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA,,,,,,
+神奈川県,横浜市西区,ジョイナス地下通路周辺,地下街・地下道,"巨大駅地下の接続空間。
+狙い目：駅地下の通路がどの施設へ分かれるかを案内図と照合して歩く。接続部分の境目が対象。",http://www.sotetsu-joinus.com/,https://www.google.com/maps/search/?api=1&query=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%8A%E3%82%B9%E5%9C%B0%E4%B8%8B%E9%80%9A%E8%B7%AF%E5%91%A8%E8%BE%BA%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA,,,,,,
+兵庫県,神戸市兵庫区,メトロこうべ,地下街・地下道,高速神戸駅と新開地駅を約700メートルで結ぶ1960年代開業の地下街。飲食、衣料、日用品、卓球場が連続し、長い地下動線と古い商店街の雰囲気が現存する。低い天井、入口番号、店舗の連なりを歩いて観察したい。,https://metrokobe.jp/access,https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%85%B5%E5%BA%AB%E5%8C%BA%E6%96%B0%E9%96%8B%E5%9C%B02%E4%B8%81%E7%9B%AE3%20%E3%83%A1%E3%83%88%E3%83%AD%E3%81%93%E3%81%86%E3%81%B9,,,,,,
+京都府,京都市下京区,京都ポルタ,地下街・地下道,京都駅直下で1970年代から営業する地下街。東西・南エリアの地下店舗と駅・地下鉄・地下広場が複雑に接続し、現在も約210店舗が営業する。地下の案内サイン、B1・B2の階層差、駅との境界を観察したい。,https://www.porta.co.jp/,https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%83%AB%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA902,京都市公式観光Navi 京都ポルタ,https://ja.kyoto.travel/tourism/single01.php?category_id=4&tourism_id=1261,,,,

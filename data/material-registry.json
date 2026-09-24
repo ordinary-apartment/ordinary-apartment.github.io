@@ -141,5 +141,20 @@
     "file": "地域独自スーパー.csv",
     "id": "csv-80b2e57215a517cc6a94",
     "number": 26
+  },
+  {
+    "file": "古いビル.csv",
+    "id": "csv-c1d3cdeb630a678c2197",
+    "number": 27
+  },
+  {
+    "file": "地下街・地下道.csv",
+    "id": "csv-a9061f27f0797254e38e",
+    "number": 28
+  },
+  {
+    "file": "遊園地・レジャー施設.csv",
+    "id": "csv-44c1bade3e768ab28165",
+    "number": 29
   }
 ]
