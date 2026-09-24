@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 19,
-  "total": 1252,
+  "materialCount": 20,
+  "total": 1267,
   "materials": [
     {
       "id": "botanical",
@@ -22028,7 +22028,7 @@ window.FACILITY_DATASET={
       "name": "東京の消えゆく団地商店街",
       "shortName": "東京の消えゆく団地商店街",
       "file": "東京の消えゆく団地商店街.csv",
-      "count": 7,
+      "count": 13,
       "items": [
         {
           "prefecture": "東京都",
@@ -22151,6 +22151,109 @@ window.FACILITY_DATASET={
             {
               "title": "gBizINFO（閉鎖法人）",
               "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8012705000183"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "赤羽台団地商店街（旧赤羽団地商店街）",
+          "type": "消えた団地商店街",
+          "note": "1962年完成の赤羽台団地に設けられた屋根付き商店街。再開発と団地建替えで旧住棟・店舗区画が解体され、2011年前後に残っていた看板や生活店舗の姿も失われた。狙い目：旧商店街の写真、店先の看板、建替え前後の団地配置を個人記録で追う。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E7%BE%BD%E5%8F%B0%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E6%97%A7%E8%B5%A4%E7%BE%BD%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "赤羽団地商店街の記録（2010年）",
+              "url": "https://tokyo-syoutengai.seesaa.net/article/185617235.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市北区",
+          "name": "幌北団地・北26条中心街",
+          "type": "消えた団地商店街",
+          "note": "札幌市営幌北団地の1・2号棟1階に個人商店が連なる北26条中心街があった。団地再編で住棟と店舗部分が解体され、2017年時点で23棟中22棟が解体済み、中心街の棟も取り壊し完了と記録されている。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B9%8C%E5%8C%97%E5%9B%A3%E5%9C%B0%E3%83%BB%E5%8C%9726%E6%9D%A1%E4%B8%AD%E5%BF%83%E8%A1%97%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "札幌市営幌北団地（通称・樺太団地）の解体記録",
+              "url": "https://sapporowalk.sakura.ne.jp/lost/2017/20170710/"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "厚木市",
+          "name": "緑ヶ丘団地緑ヶ丘店舗",
+          "type": "消えた団地商店街",
+          "note": "1963年完成の緑ヶ丘団地に併設された長屋型商店街。店舗廃止決定後の2014年に解体され更地となり、翌年コンビニとドラッグストアへ再編された。商店街の廃止・解体を具体的に確認できる。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%91%E3%83%B6%E4%B8%98%E5%9B%A3%E5%9C%B0%E7%B7%91%E3%83%B6%E4%B8%98%E5%BA%97%E8%88%97%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "名古屋市千種区",
+          "name": "希望ヶ丘センター（キボセン）",
+          "type": "消えた団地商店街",
+          "note": "千種台団地造成時の1957年に開業した商業テナント。地下鉄開通に伴う千種台団地再開発で2004年に閉鎖され、再開発前の解体写真と店舗の記憶が個人サイトに残る。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B8%8C%E6%9C%9B%E3%83%B6%E4%B8%98%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%82%AD%E3%83%9C%E3%82%BB%E3%83%B3%EF%BC%89%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%8D%83%E7%A8%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "1957→2004 希望ヶ丘センター",
+              "url": "https://nozawadenki.com/blog/2023/02/19/kibosen/"
+            }
+          ]
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市上京区",
+          "name": "堀川団地商店街（堀川椹木町団地）",
+          "type": "消えゆく団地商店街",
+          "note": "戦後の堀川京極商店街復興として建設された店舗併用団地。老朽化と空き店舗を背景に一部建替え・解体と再生が進み、店舗併用住宅としての当初形態が変化している。",
+          "official": "https://kyoto-juko.jp/horikawa/html/page1.php",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A0%80%E5%B7%9D%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E5%A0%80%E5%B7%9D%E6%A4%B9%E6%9C%A8%E7%94%BA%E5%9B%A3%E5%9C%B0%EF%BC%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "堀川団地再生ビジョン",
+              "url": "https://www.pref.kyoto.jp/jutaku/documents/horikawavision.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "前橋市",
+          "name": "広瀬団地内商店街",
+          "type": "消えゆく団地商店街",
+          "note": "広瀬団地内の旧商店群は、群馬県の再生ビジョンで『元々は商店街だったが現在は廃墟化』『八百屋や薬局、寝具店等の多くが閉店』と具体的に記録されている。一方で精肉店など現役店舗も確認でき、消滅進行中として扱う。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E7%80%AC%E5%9B%A3%E5%9C%B0%E5%86%85%E5%95%86%E5%BA%97%E8%A1%97%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "広瀬団地再生ビジョン（本編）",
+              "url": "https://www.pref.gunma.jp/uploaded/attachment/652045.pdf"
             }
           ]
         }
@@ -22524,6 +22627,168 @@ window.FACILITY_DATASET={
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": []
+        }
+      ]
+    },
+    {
+      "id": "csv-d66f17da223b3be46b77",
+      "number": 25,
+      "name": "現存する団地商店街",
+      "shortName": "現存する団地商店街",
+      "file": "現存する団地商店街.csv",
+      "count": 9,
+      "items": [
+        {
+          "prefecture": "千葉県",
+          "city": "千葉市花見川区",
+          "name": "花見川団地商店街",
+          "type": "現存する団地商店街",
+          "note": "1968年に整備された約5700戸の花見川団地の中心商業区画。2024年にアーケード撤去と改修が行われ、空き店舗を活用した交流拠点や新規出店が続く。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%A6%8B%E5%B7%9D%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E8%8A%B1%E8%A6%8B%E5%B7%9D%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "団地の商店街暮らし・活動記録",
+              "url": "https://house.muji.com/ur-hanamigawa/category/street/"
+            }
+          ]
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "八千代市",
+          "name": "村上団地商店街（むらかみモール）",
+          "type": "現存する団地商店街",
+          "note": "村上団地中央の商業区画。市役所支所、郵便局、医療機関、食品店などが残り、多文化交流とサービス店舗への転換が進む。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%91%E4%B8%8A%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E3%82%80%E3%82%89%E3%81%8B%E3%81%BF%E3%83%A2%E3%83%BC%E3%83%AB%EF%BC%89%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%85%AB%E5%8D%83%E4%BB%A3%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "村上団地商店街の訪問・聞き取り記録",
+              "url": "https://www.danchijournal.net/post/murakami1shoppingstreet"
+            }
+          ]
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "北本市",
+          "name": "北本団地商店街",
+          "type": "現存する団地商店街",
+          "note": "北本団地のドーム型アーケード。空き店舗が目立つ時期を経ながら、ジャズ喫茶など新しい使われ方が加わっている。狙い目はアーケードと旧店舗区画。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%9C%AC%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%8C%97%E6%9C%AC%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "北本団地商店街を歩く（写真訪問記）",
+              "url": "https://junkissa.jp/blog-entry-2382.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "大島四丁目団地ショッピングモール",
+          "type": "現存する団地商店街",
+          "note": "1969年に誕生した大規模団地の店舗区画。ふれあいショッピングセンターやスーパーなど、団地内の生活機能が続いている。",
+          "official": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1780_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%B3%B6%E5%9B%9B%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市早良区",
+          "name": "室住団地商店街",
+          "type": "現存する団地商店街",
+          "note": "室住団地3号棟1階の13区画。歯科、青果、美容、飲食などが残り、配置図と店舗の聞き取り記録が確認できる。",
+          "official": "https://www.ur-net.go.jp/chintai/kyushu/fukuoka/90_0700_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%A4%E4%BD%8F%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%97%A9%E8%89%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "室住団地商店街訪問（配置図・店舗記録）",
+              "url": "https://www.ur-net.go.jp/chintai_portal/kyojyusha/kanrihou/lrmhph000000hga9-att/Aozora_202206.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "宗像市",
+          "name": "日の里一丁目団地商店街",
+          "type": "現存する団地商店街",
+          "note": "日の里団地の店舗区画。駄菓子バーなど、子どもと大人の交流を担う新しい店舗が入っている。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E3%81%AE%E9%87%8C%E4%B8%80%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%AE%97%E5%83%8F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "日の里一丁目団地の駄菓子バー訪問記",
+              "url": "https://www.ur-net.go.jp/chintai/college/202504/001276.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "北広島市",
+          "name": "北広島さんぽまち商店会（旧北広島団地商店街）",
+          "type": "現存する団地商店街",
+          "note": "1972年から造成された北広島団地内で1977年に発足。2018年にさんぽまち商店会へ改称後も、団地内の店舗・企業による活動が続く。",
+          "official": "https://sanpomachi.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%BA%83%E5%B3%B6%E3%81%95%E3%82%93%E3%81%BD%E3%81%BE%E3%81%A1%E5%95%86%E5%BA%97%E4%BC%9A%EF%BC%88%E6%97%A7%E5%8C%97%E5%BA%83%E5%B3%B6%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E5%BA%83%E5%B3%B6%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "相模原市南区",
+          "name": "相武台団地商店街",
+          "type": "現存する団地商店街",
+          "note": "1967年開設の団地商店街。高齢化と大型店進出で空き店舗が増えた後、グリーンラウンジ・プロジェクトによる交流施設や新店舗の導入が進む。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%B8%E6%AD%A6%E5%8F%B0%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E5%8D%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "相武台団地商店街を巡る訪問記",
+              "url": "https://www.kousha-chintai.com/blog/landscape/soubudai-shopping-street-2025.php"
+            }
+          ]
+        },
+        {
+          "prefecture": "宮城県",
+          "city": "仙台市泉区",
+          "name": "黒松団地商店街（黒松商工振興会）",
+          "type": "現存する団地商店街",
+          "note": "昭和30年代から続く黒松団地の商業区域。生協、飲食店、理美容などが現在も営業し、商工振興会の沿革と個人訪問記から店舗の変化を追える。",
+          "official": "https://kuromatsu.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%BB%92%E6%9D%BE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E9%BB%92%E6%9D%BE%E5%95%86%E5%B7%A5%E6%8C%AF%E8%88%88%E4%BC%9A%EF%BC%89%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E6%B3%89%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "黒松商工振興会の沿革",
+              "url": "https://kuromatsu.net/history/"
+            }
+          ]
         }
       ]
     }

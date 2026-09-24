@@ -131,5 +131,10 @@
     "file": "地域文化施設.csv",
     "id": "csv-fc8f63487c880b68a990",
     "number": 24
+  },
+  {
+    "file": "現存する団地商店街.csv",
+    "id": "csv-d66f17da223b3be46b77",
+    "number": 25
   }
 ]
