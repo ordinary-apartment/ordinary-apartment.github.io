@@ -57,6 +57,12 @@ def context_terms(name):
     # Full Japanese names are useful; parenthetical aliases are also accepted.
     normalized = norm(name)
     terms = [normalized]
+    # Keep the distinctive estate prefix when a record has an archival
+    # qualifier such as 「名店会旧中央商店街」.  Fieldwork pages often say only
+    # 「武里団地」 even though the CSV uses the more precise former facility.
+    estate_marker = normalized.find(norm('団地'))
+    if estate_marker >= 0:
+        terms.append(normalized[:estate_marker + len(norm('団地'))])
     # Candidate files often use an archival label such as 「団地商店街」 or
     # 「近隣センター」 while the source page uses only the distinctive place
     # name.  Keep those meaningful prefixes as context terms without reducing
@@ -121,13 +127,19 @@ def iter_links(path):
     reader = csv.DictReader(io.StringIO(text, newline=''), strict=True)
     for line, row in enumerate(reader, 2):
         candidate = '名称' in row and '公式情報URL' in row
+        extinction_candidate = '施設名' in row and '公式・公的資料URL' in row
         name = row.get('店舗名・施設名') or row.get('施設名') or row.get('店舗名') or row.get('名称') or ''
-        if candidate:
-            official = (row.get('公式情報URL') or '').strip()
+        if candidate or extinction_candidate:
+            official_key = '公式情報URL' if candidate else '公式・公的資料URL'
+            official = (row.get(official_key) or '').strip()
             if official:
-                yield line, name, 0, '公式情報URL', official
-            title_key = '関連リンクタイトル{}'
-            url_key = '関連リンクURL{}'
+                yield line, name, 0, official_key, official
+            if candidate:
+                title_key = '関連リンクタイトル{}'
+                url_key = '関連リンクURL{}'
+            else:
+                title_key = '関連リンクタイトル{}'
+                url_key = '関連リンクURL{}'
         else:
             title_key = '関連リンク{}タイトル'
             url_key = '関連リンク{}URL'
@@ -148,7 +160,8 @@ def iter_official_overlaps(path, timeout):
     reader = csv.DictReader(io.StringIO(text, newline=''), strict=True)
     for line, row in enumerate(reader, 2):
         name = row.get('店舗名・施設名') or row.get('施設名') or row.get('店舗名') or row.get('名称') or ''
-        official = (row.get('公式サイト') or row.get('公式サイトURL') or row.get('公式情報URL') or '').strip()
+        official = (row.get('公式サイト') or row.get('公式サイトURL') or
+                    row.get('公式情報URL') or row.get('公式・公的資料URL') or '').strip()
         if not official:
             continue
         for index in range(1, 4):

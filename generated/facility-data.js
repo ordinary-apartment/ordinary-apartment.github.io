@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 20,
-  "total": 1285,
+  "total": 1288,
   "materials": [
     {
       "id": "botanical",
@@ -22028,7 +22028,7 @@ window.FACILITY_DATASET={
       "name": "東京の消えゆく団地商店街",
       "shortName": "東京の消えゆく団地商店街",
       "file": "東京の消えゆく団地商店街.csv",
-      "count": 14,
+      "count": 17,
       "items": [
         {
           "prefecture": "東京都",
@@ -22272,6 +22272,76 @@ window.FACILITY_DATASET={
             {
               "title": "二俣団地ショッピングセンター",
               "url": "https://ameblo.jp/futamatadanchi/entry-12275189446.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "堺市南区",
+          "name": "原山台近隣センター旧商業区画",
+          "type": "消えた団地商店街",
+          "note": "泉北ニュータウン初期の1972年に開業した原山台近隣センター。核店舗を置かない複数店舗の近隣センターとして、広場と地域会館を囲む商業区画が住民の日常を支えた。老朽化と商業機能の衰退を経て2022年に地域会館を残して土地・建物が解体され、従来の近隣センター商業空間は消滅した。跡地ではマンション建設が進み、現在の地域会館は商業区画の継承ではない。狙い目は解体前の建物配置、広場、地域会館との関係、跡地の住宅開発。",
+          "official": "https://www.mlit.go.jp/common/001249044.pdf",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8E%9F%E5%B1%B1%E5%8F%B0%E8%BF%91%E9%9A%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%97%A7%E5%95%86%E6%A5%AD%E5%8C%BA%E7%94%BB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A0%BA%E5%B8%82%E5%8D%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "栂・美木多地区の近隣センターの現状（原山台）",
+              "url": "https://www.kobekatsu.com/senboku-kinrin3/"
+            },
+            {
+              "title": "泉北ニュータウン近隣センター再生プラン（堺市）",
+              "url": "https://www.city.sakai.lg.jp/shisei/toshi/senbokusaisei/gaiyou/keikaku/kinrin/index.files/kinrin_siryou.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "堺市南区",
+          "name": "鴨谷台近隣センター旧商業区画",
+          "type": "消えた団地商店街",
+          "note": "泉北ニュータウン末期の1984年に整備された鴨谷台近隣センターのうち、旧店舗・商業区画を記録する。鴨谷台は当初から大規模な店舗群ではなくコンビニ中心の小規模な商業機能だったが、その店舗跡地は住宅・マンション等へ建て替えられ、現在は自治会館と医院を中心とする別形態になった。近隣センター全体が消えたのではなく、旧商業区画だけが失われた事例である。狙い目は旧店舗位置、住宅化した跡地、自治会館・医院との機能転換。",
+          "official": "https://www.city.sakai.lg.jp/shisei/toshi/senbokusaisei/gaiyou/keikaku/kinrin/index.files/kinrin_siryou.pdf",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B4%A8%E8%B0%B7%E5%8F%B0%E8%BF%91%E9%9A%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%97%A7%E5%95%86%E6%A5%AD%E5%8C%BA%E7%94%BB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A0%BA%E5%B8%82%E5%8D%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "光明池地区の近隣センターの現状（鴨谷台）",
+              "url": "https://www.kobekatsu.com/senboku-kinrin4/"
+            },
+            {
+              "title": "近隣センターの建替えに関する研究（日本建築学会）",
+              "url": "https://www.jstage.jst.go.jp/article/aija/72/614/72_KJ00004573824/_pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "春日部市",
+          "name": "武里団地名店会旧中央商店街",
+          "type": "消えた団地商店街",
+          "note": "昭和42年（1967年）開設の武里団地中央に、2街区と7街区の1・2階テナントを歩道橋で結んだ立体的な名店会が形成されていた。2009年の個人記録には解体直前の店舗配置と写真が残り、2010年9月までに退去、2011年に旧商業棟の解体が完了した。名店会と店舗はカスミ北側の新商業区画へ縮小移転しており、武里団地の商業機能全体ではなく、旧中央商店街・旧商業棟が消滅した事例である。狙い目は歩道橋、2・7街区の店舗配置、解体前の看板と移転後の比較。",
+          "official": "https://www.ur-net.go.jp/business/saitama/takesato.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E9%87%8C%E5%9B%A3%E5%9C%B0%E5%90%8D%E5%BA%97%E4%BC%9A%E6%97%A7%E4%B8%AD%E5%A4%AE%E5%95%86%E5%BA%97%E8%A1%97%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "武里団地名店会（その1）",
+              "url": "https://komonjotantei.hatenablog.com/entry/2023/06/27/002647"
+            },
+            {
+              "title": "武里団地商店街撤去工事（2009年写真記録）",
+              "url": "https://kumagayatozantai.ldblog.jp/archives/5023185.html"
+            },
+            {
+              "title": "“新”武里団地名店会（移転後の記録）",
+              "url": "https://kasukabe-jyohokan.seesaa.net/article/160923496.html"
             }
           ]
         }
