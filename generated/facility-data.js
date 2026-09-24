@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 25,
-  "total": 1305,
+  "total": 1307,
   "materials": [
     {
       "id": "botanical",
@@ -12208,7 +12208,7 @@ window.FACILITY_DATASET={
       "name": "ドリームコア／モールコア",
       "shortName": "ドリームコア／モールコア",
       "file": "ドリームコア／モールコア.csv",
-      "count": 12,
+      "count": 21,
       "items": [
         {
           "prefecture": "千葉県",
@@ -12457,6 +12457,243 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.rox.co.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "光が丘IMA",
+          "type": "モールコア",
+          "note": "1987年開業のニュータウン型複合SC。館内に「IMAストリート」と中央の吹き抜け「光の広場」があり、ホール・飲食・複数棟を商業動線でつなぐ。大規模改装後も中央広場、回廊、館内案内板が現存する。狙い目：IMAストリート、光の広場、東館・南館・LIVIN・イマミセの接続、駅・公園側の歩行者動線。",
+          "official": "https://www.ima-hikarigaoka.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%89%E3%81%8C%E4%B8%98IMA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "IMAホール紹介・光の広場とIMAストリート",
+              "url": "https://www.illuminus-creative.net/sketch/?p=4668"
+            },
+            {
+              "title": "光が丘IMA訪問記（中央広場・館内案内板）",
+              "url": "https://depart-tabi.blogspot.com/2025/06/ima199810.html"
+            },
+            {
+              "title": "光が丘駅前から光が丘公園まで（写真記録）",
+              "url": "https://www.townphoto.net/tokyo/hikarigaoka.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.ima-hikarigaoka.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "多摩市",
+          "name": "京王聖蹟桜ヶ丘ショッピングセンター",
+          "type": "モールコア",
+          "note": "1986年開業の駅一体型SC。A・B・C館とさくらゲートを4階連絡ブリッジや中央通路で接続し、複数棟を一つの商業街として回遊できる。狙い目：4階連絡ブリッジ、B館中央通路、丘のうえキッチン、駅改札から各館へ変化する上下動線。",
+          "official": "http://www.keio-sc.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E8%81%96%E8%B9%9F%E6%A1%9C%E3%83%B6%E4%B8%98%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "京王聖蹟桜ヶ丘SC施設案内（連絡ブリッジ・中央通路）",
+              "url": "https://www.keiosc.co.jp/property/"
+            },
+            {
+              "title": "聖蹟桜ヶ丘の歴史展（センターコート）",
+              "url": "https://tamanewtown.com/seiseki-history-exhibition/"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市厚別区",
+          "name": "新さっぽろアークシティ サンピアザ",
+          "type": "モールコア",
+          "note": "1977年開業の副都心型SC。サンピアザ、デュオ、カテプリ、イオン、駅・公共施設を地下・地上の連絡動線で結び、現行フロアガイドにも「光の広場」と吹き抜けスペースが残る。狙い目：吹き抜け、光の広場、地下鉄・JRからの連絡、サンピアザ水族館への館内動線。",
+          "official": "http://www.sunpi-duo.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3%20%E3%82%B5%E3%83%B3%E3%83%94%E3%82%A2%E3%82%B6%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8E%9A%E5%88%A5%E5%8C%BA",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "サンピアザ・デュオ フロアガイド（吹き抜け・光の広場）",
+              "url": "https://www.sunpi-duo.com/common/pdf/floorguide.pdf"
+            },
+            {
+              "title": "新さっぽろアークシティ商業施設棟概要",
+              "url": "https://www.arc-city.com/news_s2018/news_s20250814.pdf"
+            },
+            {
+              "title": "サンピアザ水族館訪問記（駅直結モールの動線）",
+              "url": "https://chihirog.com/sunpiazza-aquarium/"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "山口県",
+          "city": "下関市",
+          "name": "シーモール下関",
+          "type": "モールコア",
+          "note": "1977年開業の駅前大型SC。館内に吹き抜けと長い回廊、屋上庭園、旧ゲームコーナーの装飾が残り、百貨店・専門店・駅前広場を一体化した人工的な商業街を形成する。狙い目：シーモール側吹き抜け、回廊、屋上庭園、旧来の案内・ゲーム空間。",
+          "official": "https://www.seamall.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%BC%E3%83%A2%E3%83%BC%E3%83%AB%E4%B8%8B%E9%96%A2%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "シーモール下関の吹き抜け・回廊・屋上庭園訪問記",
+              "url": "https://ameblo.jp/kobaden-shoutengai/entry-12831803979.html"
+            },
+            {
+              "title": "シーモール下関の吹き抜けと小川の記録",
+              "url": "https://tikikiti.jp/fukuhomu/38308.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "尼崎市",
+          "name": "グンゼタウンセンター つかしん",
+          "type": "モールコア",
+          "note": "1985年開業。「新しい街」を施設内外に作る構想で整備された大型SC。現在もひがしまち・にしまち、ロマンチック広場、フードコート、温浴・スポーツ等をつなぐ長い回遊動線と、元百貨店由来の吹き抜けが残る。狙い目：ロマンチック広場、ひがしまち／にしまちの通り、中央インフォメーション付近の吹き抜け、温浴・スポーツへの接続。",
+          "official": "https://www.tsukashin.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%B3%E3%82%BC%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%A4%E3%81%8B%E3%81%97%E3%82%93%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%B0%BC%E5%B4%8E%E5%B8%82",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "つかしん（1985年開業・新しい街としてのSC史）",
+              "url": "https://www.jcsc.or.jp/50th/history/"
+            },
+            {
+              "title": "つかしん館内の広場・吹き抜け訪問記",
+              "url": "https://ameblo.jp/ackn62/entry-12174101830.html"
+            },
+            {
+              "title": "つかしんの開業当時と現在の記憶",
+              "url": "https://note.com/tomonori353/n/n15dc0c1ef244"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市西区",
+          "name": "アルパーク",
+          "type": "モールコア",
+          "note": "1990年開業の複合SC。大通りで分断された敷地を2階ペデストリアンデッキでつなぎ、センターコートとモールを核に東・西・北棟を回遊させる構成。現在も複数棟、映画館、イベント空間を営業し、計画時の人工的な街区構成を歩いて確認できる。狙い目：2階デッキ、センターコート、棟間モール、映画館・飲食への上下動線。",
+          "official": "https://www.alpark.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E8%A5%BF%E5%8C%BA",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "広島アルパーク（センターコート・モール・ペデストリアンデッキ）",
+              "url": "https://www.fujita.co.jp/works/1453/"
+            },
+            {
+              "title": "アルパーク開業年・SC史（JCSC）",
+              "url": "https://www.jcsc.or.jp/50th/history/"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "市川市",
+          "name": "ニッケコルトンプラザ",
+          "type": "モールコア",
+          "note": "1988年開業の地域共生型大型SC。工場跡地の広大な敷地に専門店モール、広場、ホール、屋外庭園、スポーツ施設を組み合わせ、屋内外を連続する商業街として構成する。狙い目：センターモール、コルトン広場、ホール・庭園・専門店モール間の回遊、開業時から続く複合用途。",
+          "official": "https://www.nikke-cp.gr.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%83%E3%82%B1%E3%82%B3%E3%83%AB%E3%83%88%E3%83%B3%E3%83%97%E3%83%A9%E3%82%B6%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E9%AC%BC%E9%AB%981-1-1",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "ニッケコルトンプラザ施設概要（広大な商業空間）",
+              "url": "https://nikke-tp.sakura.ne.jp/sc/coltonplaza/"
+            },
+            {
+              "title": "ニッケコルトンプラザ訪問・フロアガイド記録",
+              "url": "https://daieisaison.jp/blog-entry-24.html"
+            },
+            {
+              "title": "ニッケコルトンプラザの地域共生型SC史",
+              "url": "https://www.nettam.jp/art-corporation/nikke/"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "大分県",
+          "city": "大分市",
+          "name": "トキハインダストリーあけのアクロスタウン",
+          "type": "モールコア",
+          "note": "1971年開業の明野センターを増床・改称してきた大型SC。本館地下1階〜4階と新館を接続し、館内吹き抜け、古い総合スーパー型の階段、専門店の「ごちそうの森」、アクロスホール、広場状空間を現在も営業している。狙い目：本館吹き抜け、旧来の階段・案内、地下から上層階への動線、新館レストラン街、アクロスホール。",
+          "official": "https://www.tokiwa-industry.co.jp/shops/facility1.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%82%AD%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%80%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%81%82%E3%81%91%E3%81%AE%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%A4%A7%E5%88%86%E7%9C%8C%E5%A4%A7%E5%88%86%E5%B8%82%E6%98%8E%E9%87%8E%E6%9D%B11-1-1",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "あけのアクロスタウン館内見学（吹き抜け・旧来の階段・アクロスホール）",
+              "url": "https://daieisaison.jp/?no=1455"
+            },
+            {
+              "title": "大分市明野地区の歴史研究（明野アクロスタウンの変遷）",
+              "url": "https://note.com/tomoharkou/n/nfc1043cdb746"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.tokiwa-industry.co.jp/shops/facility1.html"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "中間市",
+          "name": "イオンなかま店（旧ダイエーショッパーズモールなかま）",
+          "type": "モールコア",
+          "note": "旧ダイエーショッパーズモールなかまを継承する1990年代の複合SC。東館・西館・モール館を吹き抜け、エスカレーター、フードコート、映画館、ドーム屋根の連絡通路で接続し、現在も営業区画と映画館を利用できる。狙い目：東館の吹き抜け、広場からのエスカレーター、東西館を結ぶドーム状通路、旧フードコートと映画館の上下動線。",
+          "official": "https://www.aeon.com/store/list/%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E6%96%B9/%E7%A6%8F%E5%B2%A1%E7%9C%8C/%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%AA%E3%81%8B%E3%81%BE%E5%BA%97/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%AA%E3%81%8B%E3%81%BE%E5%BA%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E4%B8%AD%E9%96%93%E5%B8%82%E4%B8%8A%E8%93%AE%E8%8A%B1%E5%AF%BA1-1-1",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧ダイエーショッパーズモールなかまの館内訪問記",
+              "url": "https://ameblo.jp/kobaden-shoutengai/entry-12833094076.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.aeon.com/store/list/%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E6%96%B9/%E7%A6%8F%E5%B2%A1%E7%9C%8C/%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%AA%E3%81%8B%E3%81%BE%E5%BA%97/"
           }
         }
       ]
@@ -21307,7 +21544,7 @@ window.FACILITY_DATASET={
       "name": "古いビル",
       "shortName": "古いビル",
       "file": "古いビル.csv",
-      "count": 22,
+      "count": 15,
       "items": [
         {
           "prefecture": "東京都",
@@ -21350,64 +21587,12 @@ window.FACILITY_DATASET={
         },
         {
           "prefecture": "東京都",
-          "city": "練馬区",
-          "name": "光が丘IMA",
-          "type": "古いビル",
-          "note": "ニュータウン中心施設。\n狙い目：ニュータウンの日常的な買い物と移動を受け持つ施設として、外部の歩行路とのつながりを見る。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%89%E3%81%8C%E4%B8%98IMA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "東京都",
           "city": "多摩市",
           "name": "丘の上プラザ",
           "type": "古いビル",
           "note": "多摩ニュータウンの1980年代商業核。\n狙い目：商業核として周辺の歩行空間とどう接するかを見たい。施設の外と中を往復して規模感を比べる。",
           "official": "http://www.okanoueplaza.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%98%E3%81%AE%E4%B8%8A%E3%83%97%E3%83%A9%E3%82%B6%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "東京都",
-          "city": "多摩市",
-          "name": "京王聖蹟桜ヶ丘ショッピングセンター",
-          "type": "古いビル",
-          "note": "駅一体型の巨大複合施設。\n狙い目：駅から商業施設へ移る接続と、複数用途の切り替わりを観察する。",
-          "official": "http://www.keio-sc.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E8%81%96%E8%B9%9F%E6%A1%9C%E3%83%B6%E4%B8%98%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "北海道",
-          "city": "札幌市厚別区",
-          "name": "新さっぽろアークシティ サンピアザ",
-          "type": "古いビル",
-          "note": "1970年代副都心型SC。\n狙い目：副都心の商業施設として、周辺施設との連絡動線と建物の大きさを見る。",
-          "official": "http://www.sunpi-duo.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3%20%E3%82%B5%E3%83%B3%E3%83%94%E3%82%A2%E3%82%B6%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8E%9A%E5%88%A5%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "山口県",
-          "city": "下関市",
-          "name": "シーモール下関",
-          "type": "古いビル",
-          "note": "1970年代大型駅前SC。\n狙い目：駅前の人の流れが館内でどう分かれるかを見たい。大型SCの移動空間が対象。",
-          "official": "https://www.seamall.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%BC%E3%83%A2%E3%83%BC%E3%83%AB%E4%B8%8B%E9%96%A2%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
@@ -21421,32 +21606,6 @@ window.FACILITY_DATASET={
           "note": "1980年代駅前再開発ツインビル。\n狙い目：二つのビルを一つの商業施設として利用する経路に注目。棟ごとの見え方を比べる。",
           "official": "https://www.t-face.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=T-FACE%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E7%94%B0%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "尼崎市",
-          "name": "グンゼタウンセンター つかしん",
-          "type": "古いビル",
-          "note": "1980年代大型SCの系譜。\n狙い目：大型SCとしての敷地構成と店の配置を見る。開業時の沿革と現在の姿を分けて観察する。",
-          "official": "https://www.tsukashin.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%B3%E3%82%BC%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%A4%E3%81%8B%E3%81%97%E3%82%93%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%B0%BC%E5%B4%8E%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "広島県",
-          "city": "広島市西区",
-          "name": "アルパーク",
-          "type": "古いビル",
-          "note": "1990年の大規模複合SC。\n狙い目：複数用途の施設を歩く際の距離感と、区画間の接続を見たい。",
-          "official": "https://www.alpark.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E8%A5%BF%E5%8C%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
@@ -21512,19 +21671,6 @@ window.FACILITY_DATASET={
           "note": "旧マイカル本牧。バブル期の大規模商業開発の痕跡 開業年：1989年。\n狙い目：大規模商業開発の敷地の使い方と、現店舗までの動線に注目。旧施設の沿革と現状を分けて見る。",
           "official": "https://www.aeon.com/store/イオン/イオン本牧店",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E6%9C%AC%E7%89%A7%E5%BA%97%EF%BC%88%E6%97%A7%E3%83%9E%E3%82%A4%E3%82%AB%E3%83%AB%E6%9C%AC%E7%89%A7%EF%BC%89%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%9C%AC%E7%89%A7%E5%8E%9F7-1",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "千葉県",
-          "city": "市川市",
-          "name": "ニッケコルトンプラザ",
-          "type": "古いビル",
-          "note": "バブル期開業の大型SC。広場・通路・吹き抜けを観察 開業年：1988年。\n狙い目：広場・通路・吹抜けを順にたどり、視界が開く場所と細くなる場所を比べたい。",
-          "official": "https://www.nikke-cp.gr.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%83%E3%82%B1%E3%82%B3%E3%83%AB%E3%83%88%E3%83%B3%E3%83%97%E3%83%A9%E3%82%B6%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E9%AC%BC%E9%AB%981-1-1",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
