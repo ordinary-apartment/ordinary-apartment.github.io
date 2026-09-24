@@ -136,5 +136,10 @@
     "file": "現存する団地商店街.csv",
     "id": "csv-d66f17da223b3be46b77",
     "number": 25
+  },
+  {
+    "file": "地域独自スーパー.csv",
+    "id": "csv-80b2e57215a517cc6a94",
+    "number": 26
   }
 ]
