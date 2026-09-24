@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
-  "materialCount": 26,
-  "total": 1302,
+  "materialCount": 25,
+  "total": 1300,
   "materials": [
     {
       "id": "botanical",
       "number": 1,
-      "name": "リミナルな植物園・温室",
-      "shortName": "植物園・温室",
-      "file": "リミナルな植物園・温室.csv",
+      "name": "植物園",
+      "shortName": "植物園",
+      "file": "植物園.csv",
       "count": 69,
       "items": [
         {
@@ -1509,9 +1509,9 @@
     {
       "id": "science",
       "number": 2,
-      "name": "地方の小さな科学系施設",
-      "shortName": "科学系施設",
-      "file": "地方の小さな科学系施設.csv",
+      "name": "科学館",
+      "shortName": "科学館",
+      "file": "科学館.csv",
       "count": 124,
       "items": [
         {
@@ -6892,169 +6892,6 @@
       ]
     },
     {
-      "id": "tokyoPublic",
-      "number": 6,
-      "name": "東京のリミナルな公共空間",
-      "shortName": "東京公共空間",
-      "file": "東京のリミナルな公共空間.csv",
-      "count": 8,
-      "items": [
-        {
-          "prefecture": "東京都",
-          "city": "江戸川区",
-          "name": "江戸川区郷土資料室",
-          "type": "郷土資料室",
-          "note": "自治体資料室・展示ケース。小規模で事務的な雰囲気を狙える。\n狙い目：展示ケースの並びと説明表示の高さを見たい。展示物だけでなく、自治体資料を見せる室内の構成も対象。",
-          "official": "https://www.city.edogawa.tokyo.jp/e_bunkazai/bunkazai/shiryoshitsu/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E5%AE%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "江戸川区郷土資料室を見学しました。!(^^)!",
-              "url": "https://ameblo.jp/chiba-rekishi/entry-12926203582.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.edogawa.tokyo.jp/e_bunkazai/bunkazai/shiryoshitsu/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "国分寺市",
-          "name": "東京都公文書館",
-          "type": "公文書館",
-          "note": "閲覧・保存・行政資料。アーカイブ施設として面白い。\n狙い目：保存するための機能と、一般に見せる閲覧・展示の機能を分けて読む。公開された資料から建物の役割を理解したい。",
-          "official": "https://www.soumu.metro.tokyo.lg.jp/01soumu/archives/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AC%E6%96%87%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E5%88%86%E5%AF%BA%E5%B8%82",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "東京都公文書館に行ってきた",
-              "url": "https://ameblo.jp/mizumizzo/entry-12856229059.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.soumu.metro.tokyo.lg.jp/01soumu/archives/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "新宿区",
-          "name": "新宿スポーツセンター",
-          "type": "スポーツ施設",
-          "note": "体育館・プール・ロッカー・観覧席。古い総合体育館系を狙う。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
-          "official": "https://www.shinjuku-sportscenter.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "新宿スポーツセンター",
-              "url": "https://ameblo.jp/habuyoichiro/entry-12791991465.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.shinjuku-sportscenter.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "渋谷区",
-          "name": "渋谷区スポーツセンター",
-          "type": "スポーツ施設",
-          "note": "体育館・プール・共用廊下。公共スポーツ施設特有の無機質感。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
-          "official": "https://shibspo.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E5%8C%BA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shibspo.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "中央区",
-          "name": "中央区立総合スポーツセンター",
-          "type": "スポーツ施設",
-          "note": "体育館・プール・観覧スペース。平日昼間や閉館前が狙い目。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
-          "official": "https://www.chuo-sports.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%AB%8B%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "中央区総合スポーツセンター",
-              "url": "https://deepacid.la.coocan.jp/travels/hamachopool.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.chuo-sports.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "有明スポーツセンター",
-          "type": "スポーツ施設",
-          "note": "体育館・プール・大型公共施設。湾岸公共施設の空間感。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
-          "official": "http://www.koto-hsc.or.jp/sports_center4/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "有明スポーツセンターのプール",
-              "url": "https://ameblo.jp/ikunoikukyu/entry-12900704177.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.koto-hsc.or.jp/sports_center4/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "川崎市中原区",
-          "name": "中原市民館",
-          "type": "市民館・文化施設",
-          "note": "市民館と公民館の機能を併せ持ち、多目的ホール、市民ギャラリー、研修室を駅前高層住宅の低層階に組み込む。駅前再開発と地域学習施設が重なる共用部、エントランス、ホール前の動線を観察したい。",
-          "official": "https://www.city.kawasaki.jp/nakahara/category/97-11-1-1-1-0-0-0-0-0.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E5%B0%8F%E6%9D%89%E7%94%BA3-245%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89%E3%83%9F%E3%83%83%E3%83%89%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%BF%E3%83%AF%E3%83%BC",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "神戸市灘区",
-          "name": "神戸市立灘区民ホール",
-          "type": "区民ホール",
-          "note": "地域住民向けのホールと会議室を備え、ロビー・北ロビー・会議室を使う市民活動や子ども向け公演が行われる。客席入口、ホワイエ、会議室前の共用空間を観察対象にできる。",
-          "official": "https://nadakuminhall.net/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E7%81%98%E5%8C%BA%E5%B2%B8%E5%9C%B0%E9%80%9A1-1-1",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        }
-      ]
-    },
-    {
       "id": "libraries",
       "number": 7,
       "name": "空間に特徴のある図書館",
@@ -9493,7 +9330,7 @@
       "name": "全国候補・その他",
       "shortName": "全国候補・その他",
       "file": "全国候補・その他.csv",
-      "count": 46,
+      "count": 48,
       "items": [
         {
           "prefecture": "東京都",
@@ -10229,6 +10066,38 @@
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://rakutenchi.jp/"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横須賀市",
+          "name": "東京九州フェリー 横須賀フェリーターミナル",
+          "type": "交通リミナル",
+          "note": "巨大待合・乗船前後の空間。夜便との相性が高い。\n狙い目：待合から乗船へ進む流れを見る。乗船前後で人の密度が変わるターミナルとして観察したい。",
+          "official": "https://tqf.co.jp/embark/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%B9%9D%E5%B7%9E%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E6%A8%AA%E9%A0%88%E8%B3%80%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%96%B0%E6%B8%AF%E7%94%BA11-4",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://tqf.co.jp/embark/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "小樽市",
+          "name": "新日本海フェリー 小樽ターミナル",
+          "type": "交通リミナル",
+          "note": "フェリー待合・長い移動動線・夜間照明。\n狙い目：待合と長い移動経路をたどり、夜間照明の下で奥行きがどう見えるかを見る。",
+          "official": "http://www.snf.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E5%B0%8F%E6%A8%BD%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%B0%8F%E6%A8%BD%E5%B8%82%E7%AF%89%E6%B8%AF7-2%20%E5%8B%9D%E7%B4%8D%E5%9F%A0%E9%A0%AD",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.snf.jp/"
           }
         }
       ]
@@ -12339,7 +12208,7 @@
       "name": "ドリームコア／モールコア",
       "shortName": "ドリームコア／モールコア",
       "file": "ドリームコア／モールコア.csv",
-      "count": 9,
+      "count": 7,
       "items": [
         {
           "prefecture": "千葉県",
@@ -12419,38 +12288,6 @@
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://www.bellmall.co.jp/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横須賀市",
-          "name": "東京九州フェリー 横須賀フェリーターミナル",
-          "type": "交通リミナル",
-          "note": "巨大待合・乗船前後の空間。夜便との相性が高い。\n狙い目：待合から乗船へ進む流れを見る。乗船前後で人の密度が変わるターミナルとして観察したい。",
-          "official": "https://tqf.co.jp/embark/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%B9%9D%E5%B7%9E%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E6%A8%AA%E9%A0%88%E8%B3%80%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%96%B0%E6%B8%AF%E7%94%BA11-4",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://tqf.co.jp/embark/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "小樽市",
-          "name": "新日本海フェリー 小樽ターミナル",
-          "type": "交通リミナル",
-          "note": "フェリー待合・長い移動動線・夜間照明。\n狙い目：待合と長い移動経路をたどり、夜間照明の下で奥行きがどう見えるかを見る。",
-          "official": "http://www.snf.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E5%B0%8F%E6%A8%BD%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%B0%8F%E6%A8%BD%E5%B8%82%E7%AF%89%E6%B8%AF7-2%20%E5%8B%9D%E7%B4%8D%E5%9F%A0%E9%A0%AD",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.snf.jp/"
           }
         },
         {
@@ -20158,7 +19995,7 @@
       "name": "地域文化施設",
       "shortName": "地域文化施設",
       "file": "地域文化施設.csv",
-      "count": 22,
+      "count": 24,
       "items": [
         {
           "prefecture": "北海道",
@@ -20520,6 +20357,42 @@
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江戸川区",
+          "name": "江戸川区郷土資料室",
+          "type": "郷土資料室",
+          "note": "自治体資料室・展示ケース。小規模で事務的な雰囲気を狙える。\n狙い目：展示ケースの並びと説明表示の高さを見たい。展示物だけでなく、自治体資料を見せる室内の構成も対象。",
+          "official": "https://www.city.edogawa.tokyo.jp/e_bunkazai/bunkazai/shiryoshitsu/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E5%AE%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "江戸川区郷土資料室を見学しました。!(^^)!",
+              "url": "https://ameblo.jp/chiba-rekishi/entry-12926203582.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "国分寺市",
+          "name": "東京都公文書館",
+          "type": "公文書館",
+          "note": "閲覧・保存・行政資料。アーカイブ施設として面白い。\n狙い目：保存するための機能と、一般に見せる閲覧・展示の機能を分けて読む。公開された資料から建物の役割を理解したい。",
+          "official": "https://www.soumu.metro.tokyo.lg.jp/01soumu/archives/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AC%E6%96%87%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E5%88%86%E5%AF%BA%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京都公文書館に行ってきた",
+              "url": "https://ameblo.jp/mizumizzo/entry-12856229059.html"
+            }
+          ]
         }
       ]
     },
@@ -22383,7 +22256,7 @@
       "name": "東京の区民ホール・公共ホール",
       "shortName": "東京の区民ホール・公共ホール",
       "file": "東京の区民ホール・公共ホール.csv",
-      "count": 26,
+      "count": 30,
       "items": [
         {
           "prefecture": "東京都",
@@ -22869,6 +22742,85 @@
           ],
           "extra": {
             "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "新宿スポーツセンター",
+          "type": "スポーツ施設",
+          "note": "体育館・プール・ロッカー・観覧席。古い総合体育館系を狙う。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
+          "official": "https://www.shinjuku-sportscenter.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "新宿スポーツセンター",
+              "url": "https://ameblo.jp/habuyoichiro/entry-12791991465.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.shinjuku-sportscenter.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "渋谷区スポーツセンター",
+          "type": "スポーツ施設",
+          "note": "体育館・プール・共用廊下。公共スポーツ施設特有の無機質感。\n狙い目：通路を歩く視線と、ロビーなどで立ち止まる視線の違いを見たい。利用者の移動を支える部分が対象。",
+          "official": "https://shibspo.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E5%8C%BA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://shibspo.com/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "中央区立総合スポーツセンター",
+          "type": "スポーツ施設",
+          "note": "体育館・プール・観覧スペース。平日昼間や閉館前が狙い目。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
+          "official": "https://www.chuo-sports.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%AB%8B%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "中央区総合スポーツセンター",
+              "url": "https://deepacid.la.coocan.jp/travels/hamachopool.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.chuo-sports.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "有明スポーツセンター",
+          "type": "スポーツ施設",
+          "note": "体育館・プール・大型公共施設。湾岸公共施設の空間感。\n狙い目：競技や活動のための大空間と、そこへ入るまでの共用部分を比較したい。一般利用できる範囲で用途ごとの大きさの差を見る。",
+          "official": "http://www.koto-hsc.or.jp/sports_center4/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "公共空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "有明スポーツセンターのプール",
+              "url": "https://ameblo.jp/ikunoikukyu/entry-12900704177.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.koto-hsc.or.jp/sports_center4/"
           }
         }
       ]

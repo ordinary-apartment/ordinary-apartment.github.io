@@ -1,15 +1,15 @@
 [
   {
-    "file": "リミナルな植物園・温室.csv",
+    "file": "植物園.csv",
     "id": "botanical",
     "number": 1,
-    "short": "植物園・温室"
+    "short": "植物園"
   },
   {
-    "file": "地方の小さな科学系施設.csv",
+    "file": "科学館.csv",
     "id": "science",
     "number": 2,
-    "short": "科学系施設"
+    "short": "科学館"
   },
   {
     "file": "水族館・海中施設.csv",
@@ -28,12 +28,6 @@
     "id": "mallcore",
     "number": 5,
     "short": "モールコア"
-  },
-  {
-    "file": "東京のリミナルな公共空間.csv",
-    "id": "tokyoPublic",
-    "number": 6,
-    "short": "東京公共空間"
   },
   {
     "file": "空間に特徴のある図書館.csv",
