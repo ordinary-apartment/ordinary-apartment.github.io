@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "materialCount": 25,
-  "total": 1307,
+  "total": 1306,
   "materials": [
     {
       "id": "botanical",
@@ -12208,7 +12208,7 @@
       "name": "ドリームコア／モールコア",
       "shortName": "ドリームコア／モールコア",
       "file": "ドリームコア／モールコア.csv",
-      "count": 21,
+      "count": 20,
       "items": [
         {
           "prefecture": "千葉県",
@@ -12673,27 +12673,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.tokiwa-industry.co.jp/shops/facility1.html"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "中間市",
-          "name": "イオンなかま店（旧ダイエーショッパーズモールなかま）",
-          "type": "モールコア",
-          "note": "旧ダイエーショッパーズモールなかまを継承する1990年代の複合SC。東館・西館・モール館を吹き抜け、エスカレーター、フードコート、映画館、ドーム屋根の連絡通路で接続し、現在も営業区画と映画館を利用できる。狙い目：東館の吹き抜け、広場からのエスカレーター、東西館を結ぶドーム状通路、旧フードコートと映画館の上下動線。",
-          "official": "https://www.aeon.com/store/list/%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E6%96%B9/%E7%A6%8F%E5%B2%A1%E7%9C%8C/%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%AA%E3%81%8B%E3%81%BE%E5%BA%97/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%AA%E3%81%8B%E3%81%BE%E5%BA%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E4%B8%AD%E9%96%93%E5%B8%82%E4%B8%8A%E8%93%AE%E8%8A%B1%E5%AF%BA1-1-1",
-          "kind": "モールコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "旧ダイエーショッパーズモールなかまの館内訪問記",
-              "url": "https://ameblo.jp/kobaden-shoutengai/entry-12833094076.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.aeon.com/store/list/%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E6%96%B9/%E7%A6%8F%E5%B2%A1%E7%9C%8C/%E3%82%A4%E3%82%AA%E3%83%B3%E3%81%AA%E3%81%8B%E3%81%BE%E5%BA%97/"
           }
         }
       ]
