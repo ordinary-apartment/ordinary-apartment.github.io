@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 30,
-  "total": 1298,
+  "total": 1416,
   "materials": [
     {
       "id": "botanical",
@@ -1518,7 +1518,7 @@ window.FACILITY_DATASET={
           "prefecture": "埼玉県",
           "city": "寄居町",
           "name": "埼玉県立川の博物館",
-          "type": "インフラ・PR館",
+          "type": "河川・自然史",
           "note": "巨大水車・河川展示。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://www.river-museum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%AB%8B%E5%B7%9D%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%AF%84%E5%B1%85%E7%94%BA",
@@ -1539,7 +1539,7 @@ window.FACILITY_DATASET={
           "prefecture": "滋賀県",
           "city": "草津市",
           "name": "琵琶湖博物館",
-          "type": "インフラ・PR館",
+          "type": "水環境・総合博物館",
           "note": "巨大公共博物館。水環境展示。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://www.biwahaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E8%8D%89%E6%B4%A5%E5%B8%82",
@@ -1560,7 +1560,7 @@ window.FACILITY_DATASET={
           "prefecture": "福岡県",
           "city": "北九州市門司区",
           "name": "海峡ドラマシップ",
-          "type": "インフラ・PR館",
+          "type": "港湾・歴史展示",
           "note": "巨大屋内展示＋港湾。\n狙い目：港の屋外景観と館内の説明展示を見比べる。大きな港湾機能を室内でどう伝えるかが対象。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E5%B3%A1%E3%83%89%E3%83%A9%E3%83%9E%E3%82%B7%E3%83%83%E3%83%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
@@ -1581,7 +1581,7 @@ window.FACILITY_DATASET={
           "prefecture": "福岡県",
           "city": "北九州市門司区",
           "name": "関門海峡ミュージアム",
-          "type": "インフラ・PR館",
+          "type": "港湾・歴史展示",
           "note": "港湾展示と大規模吹き抜け。\n狙い目：見上げる位置と離れて眺める位置を変え、空間の高さと通路の関係を比べたい。",
           "official": "https://mojiko-retoro9.jp/spot/kanmon_kaikyo_museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%A2%E9%96%80%E6%B5%B7%E5%B3%A1%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
@@ -1602,7 +1602,7 @@ window.FACILITY_DATASET={
           "prefecture": "富山県",
           "city": "立山町",
           "name": "立山カルデラ砂防博物館",
-          "type": "インフラ・PR館",
+          "type": "防災・砂防",
           "note": "砂防・山岳インフラ展示。\n狙い目：地形の説明と災害・噴火の記録を照合する。目の前の地形を時間の経過とともに読む展示が狙い目。",
           "official": "http://www.tatecal.or.jp/tatecal/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%87%E3%83%A9%E7%A0%82%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E7%AB%8B%E5%B1%B1%E7%94%BA",
@@ -3036,18 +3036,18 @@ window.FACILITY_DATASET={
       ]
     },
     {
-      "id": "infrastructure-pr",
+      "id": "social-study",
       "number": 3,
-      "name": "都市インフラ見学・PR施設",
-      "shortName": "都市インフラ見学・PR施設",
-      "file": "都市インフラ見学・PR施設.csv",
-      "count": 41,
+      "name": "社会科見学施設",
+      "shortName": "社会科見学施設",
+      "file": "社会科見学施設.csv",
+      "count": 159,
       "items": [
         {
           "prefecture": "東京都",
           "city": "江東区",
           "name": "東京都虹の下水道館",
-          "type": "インフラ・PR館",
+          "type": "上下水道",
           "note": "有明水再生センター5階にある東京都下水道局の広報施設。「レインボータウン」を舞台に、下水道管・ポンプ所・中央監視室・水質検査室での仕事を体験する構成。\n狙い目：普段立ち入れないインフラの仕事場を、来館者向けの室内空間として再現している点。",
           "official": "https://www.nijinogesuidoukan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%99%B9%E3%81%AE%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
@@ -3068,7 +3068,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "江東区",
           "name": "東京都水の科学館",
-          "type": "インフラ・PR館",
+          "type": "上下水道",
           "note": "水道PR館。人工的な水空間。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "http://www.mizunokagaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B0%B4%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
@@ -3093,7 +3093,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "小平市",
           "name": "ふれあい下水道館",
-          "type": "インフラ・PR館",
+          "type": "上下水道",
           "note": "実際の下水道管近くまで降りる展示。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
@@ -3122,7 +3122,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "荒川区",
           "name": "旧三河島汚水処分場喞筒場施設",
-          "type": "インフラ・PR館",
+          "type": "ダム・河川",
           "note": "近代下水処理施設。公開日に狙いたい。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/s-mikawa/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E4%B8%89%E6%B2%B3%E5%B3%B6%E6%B1%9A%E6%B0%B4%E5%87%A6%E5%88%86%E5%A0%B4%E5%96%9E%E7%AD%92%E5%A0%B4%E6%96%BD%E8%A8%AD%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
@@ -3151,7 +3151,7 @@ window.FACILITY_DATASET={
           "prefecture": "神奈川県",
           "city": "寒川町",
           "name": "神奈川県水道記念館",
-          "type": "インフラ・PR館",
+          "type": "上下水道",
           "note": "旧ポンプ所系の水道資料館。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
           "official": "https://www.pref.kanagawa.jp/docs/r4a/suidoukinenkan/suidoukinenkan.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%AF%92%E5%B7%9D%E7%94%BA",
@@ -3172,7 +3172,7 @@ window.FACILITY_DATASET={
           "prefecture": "神奈川県",
           "city": "横浜市保土ケ谷区",
           "name": "横浜市水道記念館",
-          "type": "インフラ・PR館",
+          "type": "上下水道",
           "note": "公共水道展示館。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%BF%9D%E5%9C%9F%E3%82%B1%E8%B0%B7%E5%8C%BA",
@@ -3193,7 +3193,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "北区",
           "name": "荒川知水資料館 amoA",
-          "type": "インフラ・PR館",
+          "type": "ダム・河川",
           "note": "河川・治水展示館。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://www.ara-amoa.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8D%92%E5%B7%9D%E7%9F%A5%E6%B0%B4%E8%B3%87%E6%96%99%E9%A4%A8%20amoA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
@@ -3214,7 +3214,7 @@ window.FACILITY_DATASET={
           "prefecture": "埼玉県",
           "city": "春日部市",
           "name": "首都圏外郭放水路 地底探検ミュージアム 龍Q館",
-          "type": "インフラ・PR館",
+          "type": "ダム・河川",
           "note": "巨大地下放水路。見学予約前提。\n狙い目：地下放水路の解説と、予約制の現地見学を区別して利用する。地上では見えない治水設備の大きさを読み取りたい。",
           "official": "https://gaikaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%96%E9%83%BD%E5%9C%8F%E5%A4%96%E9%83%AD%E6%94%BE%E6%B0%B4%E8%B7%AF%20%E5%9C%B0%E5%BA%95%E6%8E%A2%E6%A4%9C%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E9%BE%8DQ%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82",
@@ -3235,7 +3235,7 @@ window.FACILITY_DATASET={
           "prefecture": "茨城県",
           "city": "行方市",
           "name": "霞ヶ浦ふれあいランド",
-          "type": "インフラ・PR館",
+          "type": "ダム・河川",
           "note": "水辺公共施設＋展望塔系。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
           "official": "https://namegata.mypl.net/shop/00000369105/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9C%9E%E3%83%B6%E6%B5%A6%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E3%83%A9%E3%83%B3%E3%83%89%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E8%A1%8C%E6%96%B9%E5%B8%82",
@@ -3256,7 +3256,7 @@ window.FACILITY_DATASET={
           "prefecture": "滋賀県",
           "city": "大津市",
           "name": "アクア琵琶",
-          "type": "インフラ・PR館",
+          "type": "ダム・河川",
           "note": "琵琶湖・治水系展示。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "https://www.kkr.mlit.go.jp/biwako/aquabiwa/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AF%E3%82%A2%E7%90%B5%E7%90%B6%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82",
@@ -3277,7 +3277,7 @@ window.FACILITY_DATASET={
           "prefecture": "大阪府",
           "city": "大阪市此花区",
           "name": "大阪市下水道科学館",
-          "type": "インフラ・PR館",
+          "type": "上下水道",
           "note": "下水道PR施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.osaka-ssm.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%8B%E6%B0%B4%E9%81%93%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA",
@@ -3298,7 +3298,7 @@ window.FACILITY_DATASET={
           "prefecture": "大阪府",
           "city": "大阪市東淀川区",
           "name": "大阪市水道記念館",
-          "type": "インフラ・PR館",
+          "type": "上下水道",
           "note": "旧配水ポンプ場建築。公開状況は事前確認。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
           "official": "https://suido-kinenkan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%B7%80%E5%B7%9D%E5%8C%BA",
@@ -3319,7 +3319,7 @@ window.FACILITY_DATASET={
           "prefecture": "兵庫県",
           "city": "神戸市兵庫区",
           "name": "神戸市水の科学博物館",
-          "type": "インフラ・PR館",
+          "type": "上下水道",
           "note": "水道施設系の歴史建築。公開状況は確認。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E5%B8%82%E6%B0%B4%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%85%B5%E5%BA%AB%E5%8C%BA",
@@ -3340,7 +3340,7 @@ window.FACILITY_DATASET={
           "prefecture": "兵庫県",
           "city": "神戸市垂水区",
           "name": "明石海峡大橋 ブリッジワールド周辺施設",
-          "type": "インフラ・PR館",
+          "type": "鉄道・交通",
           "note": "巨大橋梁インフラ見学。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
           "official": "https://www.jb-honshi.co.jp/bridgeworld/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E7%9F%B3%E6%B5%B7%E5%B3%A1%E5%A4%A7%E6%A9%8B%20%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%91%A8%E8%BE%BA%E6%96%BD%E8%A8%AD%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA",
@@ -3361,7 +3361,7 @@ window.FACILITY_DATASET={
           "prefecture": "兵庫県",
           "city": "神戸市垂水区",
           "name": "本州四国連絡高速道路 橋の科学館",
-          "type": "インフラ・PR館",
+          "type": "鉄道・交通",
           "note": "橋梁PR館。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
           "official": "https://www.hashinokagakukan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AC%E5%B7%9E%E5%9B%9B%E5%9B%BD%E9%80%A3%E7%B5%A1%E9%AB%98%E9%80%9F%E9%81%93%E8%B7%AF%20%E6%A9%8B%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA",
@@ -3382,7 +3382,7 @@ window.FACILITY_DATASET={
           "prefecture": "徳島県",
           "city": "鳴門市",
           "name": "大鳴門橋架橋記念館エディ",
-          "type": "インフラ・PR館",
+          "type": "鉄道・交通",
           "note": "巨大橋と渦潮の展示施設。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
           "official": "https://www.uzunomichi.jp/usage-guide-eddy/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%B3%B4%E9%96%80%E6%A9%8B%E6%9E%B6%E6%A9%8B%E8%A8%98%E5%BF%B5%E9%A4%A8%E3%82%A8%E3%83%87%E3%82%A3%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E9%B3%B4%E9%96%80%E5%B8%82",
@@ -3403,7 +3403,7 @@ window.FACILITY_DATASET={
           "prefecture": "山口県",
           "city": "下関市",
           "name": "関門トンネル人道",
-          "type": "インフラ・PR館",
+          "type": "鉄道・交通",
           "note": "海底を歩く長い人道トンネル。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%A2%E9%96%80%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E4%BA%BA%E9%81%93%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
@@ -3424,7 +3424,7 @@ window.FACILITY_DATASET={
           "prefecture": "青森県",
           "city": "外ヶ浜町",
           "name": "青函トンネル記念館",
-          "type": "インフラ・PR館",
+          "type": "鉄道・交通",
           "note": "トンネル展示＋地下体験坑道。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
           "official": "http://seikan-tunnel-museum.jp/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E5%87%BD%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%A4%96%E3%83%B6%E6%B5%9C%E7%94%BA",
@@ -3445,7 +3445,7 @@ window.FACILITY_DATASET={
           "prefecture": "富山県",
           "city": "立山町",
           "name": "黒部ダム 展示・トンネル動線",
-          "type": "インフラ・PR館",
+          "type": "ダム・河川",
           "note": "巨大ダムと地下通路。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
           "official": "http://www.kurobe-dam.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%BB%92%E9%83%A8%E3%83%80%E3%83%A0%20%E5%B1%95%E7%A4%BA%E3%83%BB%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E5%8B%95%E7%B7%9A%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E7%AB%8B%E5%B1%B1%E7%94%BA",
@@ -3466,7 +3466,7 @@ window.FACILITY_DATASET={
           "prefecture": "静岡県",
           "city": "浜松市天竜区",
           "name": "佐久間電力館",
-          "type": "インフラ・PR館",
+          "type": "電力・エネルギー",
           "note": "ダム横の電力PR館。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "https://www.jpower.co.jp/learn/facilities/sakuma.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E4%B9%85%E9%96%93%E9%9B%BB%E5%8A%9B%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%B5%9C%E6%9D%BE%E5%B8%82%E5%A4%A9%E7%AB%9C%E5%8C%BA",
@@ -3487,7 +3487,7 @@ window.FACILITY_DATASET={
           "prefecture": "静岡県",
           "city": "御前崎市",
           "name": "浜岡原子力館",
-          "type": "インフラ・PR館",
+          "type": "電力・エネルギー",
           "note": "巨大エネルギーPR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "http://www.chuden.co.jp/hamaoka-pr/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%9C%E5%B2%A1%E5%8E%9F%E5%AD%90%E5%8A%9B%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E5%BE%A1%E5%89%8D%E5%B4%8E%E5%B8%82",
@@ -3508,7 +3508,7 @@ window.FACILITY_DATASET={
           "prefecture": "佐賀県",
           "city": "玄海町",
           "name": "玄海エネルギーパーク",
-          "type": "インフラ・PR館",
+          "type": "電力・エネルギー",
           "note": "地方の巨大エネルギーPR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "http://www.kyuden.co.jp/life_pavilion_enepark_index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%8E%84%E6%B5%B7%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E7%8E%84%E6%B5%B7%E7%94%BA",
@@ -3529,7 +3529,7 @@ window.FACILITY_DATASET={
           "prefecture": "鹿児島県",
           "city": "薩摩川内市",
           "name": "川内原子力発電所展示館",
-          "type": "インフラ・PR館",
+          "type": "電力・エネルギー",
           "note": "原子力PR館。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "http://www.kyuden.co.jp/life_pavilion_sendai_index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%86%85%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80%E5%B1%95%E7%A4%BA%E9%A4%A8%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82",
@@ -3550,7 +3550,7 @@ window.FACILITY_DATASET={
           "prefecture": "愛媛県",
           "city": "伊方町",
           "name": "四国電力 伊方ビジターズハウス",
-          "type": "インフラ・PR館",
+          "type": "電力・エネルギー",
           "note": "半島の電力PR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "https://www.yonden.co.jp/energy/atom/tour/ikata_visitorshouse.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E5%9B%BD%E9%9B%BB%E5%8A%9B%20%E4%BC%8A%E6%96%B9%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BA%E3%83%8F%E3%82%A6%E3%82%B9%20%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E4%BC%8A%E6%96%B9%E7%94%BA",
@@ -3571,7 +3571,7 @@ window.FACILITY_DATASET={
           "prefecture": "新潟県",
           "city": "魚沼市",
           "name": "J-POWER 電源開発 奥只見電力館",
-          "type": "インフラ・PR館",
+          "type": "電力・エネルギー",
           "note": "山奥のダム・電力展示。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=J-POWER%20%E9%9B%BB%E6%BA%90%E9%96%8B%E7%99%BA%20%E5%A5%A5%E5%8F%AA%E8%A6%8B%E9%9B%BB%E5%8A%9B%E9%A4%A8%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E9%AD%9A%E6%B2%BC%E5%B8%82",
@@ -3592,7 +3592,7 @@ window.FACILITY_DATASET={
           "prefecture": "青森県",
           "city": "六ヶ所村",
           "name": "六ヶ所原燃PRセンター",
-          "type": "エネルギー",
+          "type": "電力・エネルギー",
           "note": "エネルギーを扱う地域施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
           "official": "https://6prc.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E3%83%B6%E6%89%80%E5%8E%9F%E7%87%83PR%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%85%AD%E3%83%B6%E6%89%80%E6%9D%91",
@@ -3613,7 +3613,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "小平市",
           "name": "小平市ふれあい下水道館",
-          "type": "下水道・インフラ",
+          "type": "上下水道",
           "note": "水処理・供給設備と都市インフラの仕組みを扱う。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B9%B3%E5%B8%82%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
@@ -3634,7 +3634,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "港区",
           "name": "芝浦水再生センター",
-          "type": "水再生センター",
+          "type": "上下水道",
           "note": "予約見学。下水処理施設そのものに入り、水処理工程を見学できる。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-01/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%9D%E6%B5%A6%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
@@ -3650,7 +3650,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "荒川区",
           "name": "三河島水再生センター",
-          "type": "水再生センター・近代化遺産",
+          "type": "上下水道",
           "note": "予約見学。現役施設に加え旧三河島汚水処分場喞筒場が残る。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E6%B2%B3%E5%B3%B6%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
@@ -3666,7 +3666,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "江東区",
           "name": "砂町水再生センター",
-          "type": "水再生センター",
+          "type": "上下水道",
           "note": "予約見学。巨大な沈殿池・反応槽を含む都市インフラ。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-06/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A0%82%E7%94%BA%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
@@ -3682,7 +3682,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "江東区",
           "name": "有明水再生センター",
-          "type": "水再生センター",
+          "type": "上下水道",
           "note": "予約見学。臨海副都心の大型下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-12/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
@@ -3698,7 +3698,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "新宿区",
           "name": "落合水再生センター",
-          "type": "水再生センター",
+          "type": "上下水道",
           "note": "予約見学。住宅地の中にある大規模処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/guide/sise-list/44994",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%90%BD%E5%90%88%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
@@ -3714,7 +3714,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "大田区",
           "name": "森ヶ崎水再生センター",
-          "type": "水再生センター",
+          "type": "上下水道",
           "note": "予約見学。東京都最大級の水再生センター。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-11/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A3%AE%E3%83%B6%E5%B4%8E%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
@@ -3730,7 +3730,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "府中市",
           "name": "北多摩一号水再生センター",
-          "type": "水再生センター",
+          "type": "上下水道",
           "note": "予約見学。多摩川流域の広域下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-01/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%A4%9A%E6%91%A9%E4%B8%80%E5%8F%B7%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%BA%9C%E4%B8%AD%E5%B8%82",
@@ -3746,7 +3746,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "稲城市",
           "name": "南多摩水再生センター",
-          "type": "水再生センター",
+          "type": "上下水道",
           "note": "予約見学。処理施設内部を見学可能。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-04/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E5%A4%9A%E6%91%A9%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%A8%B2%E5%9F%8E%E5%B8%82",
@@ -3762,7 +3762,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "国立市",
           "name": "北多摩二号水再生センター",
-          "type": "水再生センター",
+          "type": "上下水道",
           "note": "予約見学。多摩地域の公共下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%A4%9A%E6%91%A9%E4%BA%8C%E5%8F%B7%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E7%AB%8B%E5%B8%82",
@@ -3778,7 +3778,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "日野市",
           "name": "浅川水再生センター",
-          "type": "水再生センター",
+          "type": "上下水道",
           "note": "予約見学。水処理設備を実地見学できる。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-05/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E5%B7%9D%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%97%A5%E9%87%8E%E5%B8%82",
@@ -3794,7 +3794,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "大田区",
           "name": "多摩川清掃工場",
-          "type": "清掃工場",
+          "type": "ごみ・リサイクル",
           "note": "見学。巨大な都市ごみ焼却施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "http://www.union.tokyo23-seisou.lg.jp/kojo/tamagawa/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%9A%E6%91%A9%E5%B7%9D%E6%B8%85%E6%8E%83%E5%B7%A5%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
@@ -3810,7 +3810,7 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "特別区",
           "name": "東京23区の清掃工場",
-          "type": "清掃工場・見学施設",
+          "type": "ごみ・リサイクル",
           "note": "施設ごと。複数の現役清掃工場を実際に見学できる公式索引。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
           "official": "http://www.union.tokyo23-seisou.lg.jp/kojo/nerima/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC23%E5%8C%BA%E3%81%AE%E6%B8%85%E6%8E%83%E5%B7%A5%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%89%B9%E5%88%A5%E5%8C%BA",
@@ -3826,7 +3826,7 @@ window.FACILITY_DATASET={
           "prefecture": "埼玉県",
           "city": "春日部市",
           "name": "首都圏外郭放水路・庄和排水機場",
-          "type": "地下放水路・排水機場",
+          "type": "ダム・河川",
           "note": "見学会。巨大立坑と地下神殿状の調圧水槽を持つ国の治水施設。\n狙い目：立坑や調圧水槽の大きさと、見学者の通る位置の関係を見たい。見学コース内から設備のスケールを捉える。",
           "official": "https://www.ktr.mlit.go.jp/edogawa/edogawa00233.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%96%E9%83%BD%E5%9C%8F%E5%A4%96%E9%83%AD%E6%94%BE%E6%B0%B4%E8%B7%AF%E3%83%BB%E5%BA%84%E5%92%8C%E6%8E%92%E6%B0%B4%E6%A9%9F%E5%A0%B4%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82",
@@ -3842,7 +3842,7 @@ window.FACILITY_DATASET={
           "prefecture": "沖縄県",
           "city": "宮古島市",
           "name": "地下ダム資料館",
-          "type": "地下ダム・資料館",
+          "type": "ダム・河川",
           "note": "一般入館。地中に造られた巨大ダムを解説する公的施設。\n狙い目：地上からは見えないダムの仕組みを、地下水と地層の関係から読みたい。巨大インフラを室内で説明する方法が対象。",
           "official": "http://www.city.miyakojima.lg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E4%B8%8B%E3%83%80%E3%83%A0%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E5%AE%AE%E5%8F%A4%E5%B3%B6%E5%B8%82",
@@ -3857,6 +3857,1894 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：http://www.city.miyakojima.lg.jp/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市中央区",
+          "name": "札幌市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "青森県",
+          "city": "青森市",
+          "name": "青森市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E9%9D%92%E6%A3%AE%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "青森県",
+          "city": "八戸市",
+          "name": "八戸市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%85%AB%E6%88%B8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "岩手県",
+          "city": "盛岡市",
+          "name": "盛岡市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%9B%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E7%9B%9B%E5%B2%A1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "宮城県",
+          "city": "仙台市若林区",
+          "name": "仙台市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E8%8B%A5%E6%9E%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "福島県",
+          "city": "いわき市",
+          "name": "いわき市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "栃木県",
+          "city": "宇都宮市",
+          "name": "宇都宮市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "さいたま市北区",
+          "name": "さいたま市食肉中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E9%A3%9F%E8%82%89%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市神奈川区",
+          "name": "横浜市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "川崎市宮前区",
+          "name": "川崎市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "静岡市葵区",
+          "name": "静岡市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "浜松市中央区",
+          "name": "浜松市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%9C%E6%9D%BE%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%B5%9C%E6%9D%BE%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "新潟市江南区",
+          "name": "新潟市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E6%B1%9F%E5%8D%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "石川県",
+          "city": "金沢市",
+          "name": "金沢市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E6%B2%A2%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E9%87%91%E6%B2%A2%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "福井県",
+          "city": "福井市",
+          "name": "福井市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E7%A6%8F%E4%BA%95%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "岐阜県",
+          "city": "岐阜市",
+          "name": "岐阜市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%B2%90%E9%98%9C%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "名古屋市熱田区",
+          "name": "名古屋市中央卸売市場本場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%E6%9C%AC%E5%A0%B4%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%86%B1%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市下京区",
+          "name": "京都市中央卸売市場第一市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%E7%AC%AC%E4%B8%80%E5%B8%82%E5%A0%B4%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "茨木市",
+          "name": "大阪府中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E8%8C%A8%E6%9C%A8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市福島区",
+          "name": "大阪市中央卸売市場本場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%E6%9C%AC%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市兵庫区",
+          "name": "神戸市中央卸売市場本場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%E6%9C%AC%E5%A0%B4%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%85%B5%E5%BA%AB%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "姫路市",
+          "name": "姫路市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A7%AB%E8%B7%AF%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%A7%AB%E8%B7%AF%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "奈良県",
+          "city": "大和郡山市",
+          "name": "奈良県中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E7%9C%8C%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%A5%88%E8%89%AF%E7%9C%8C%20%E5%A4%A7%E5%92%8C%E9%83%A1%E5%B1%B1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "和歌山県",
+          "city": "和歌山市",
+          "name": "和歌山市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "岡山市南区",
+          "name": "岡山市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8D%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市西区",
+          "name": "広島市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E8%A5%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "山口県",
+          "city": "宇部市",
+          "name": "宇部市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%87%E9%83%A8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E5%AE%87%E9%83%A8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "徳島県",
+          "city": "徳島市",
+          "name": "徳島市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E5%BE%B3%E5%B3%B6%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "香川県",
+          "city": "高松市",
+          "name": "高松市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E6%9D%BE%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E9%AB%98%E6%9D%BE%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "愛媛県",
+          "city": "松山市",
+          "name": "松山市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B1%B1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E6%9D%BE%E5%B1%B1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "高知県",
+          "city": "高知市",
+          "name": "高知市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E9%AB%98%E7%9F%A5%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "北九州市小倉北区",
+          "name": "北九州市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%B0%8F%E5%80%89%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市東区",
+          "name": "福岡市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "久留米市",
+          "name": "久留米市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "長崎県",
+          "city": "長崎市",
+          "name": "長崎市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E9%95%B7%E5%B4%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "宮崎県",
+          "city": "宮崎市",
+          "name": "宮崎市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E5%AE%AE%E5%B4%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "鹿児島県",
+          "city": "鹿児島市",
+          "name": "鹿児島市中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "沖縄県",
+          "city": "糸満市",
+          "name": "沖縄県中央卸売市場",
+          "type": "市場・流通",
+          "note": "産地から集まった青果・水産物等を卸売し、都市の食卓へ供給する現役市場。見学案内や見学者通路で、入荷・せり・仲卸・出荷の動線を確認する。",
+          "official": "https://www.maff.go.jp/j/shokusan/sijyo/info/link.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E7%B3%B8%E6%BA%80%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "三島郡島本町",
+          "name": "サントリー山崎蒸溜所",
+          "type": "工場・製造",
+          "note": "原料の仕込みから発酵・蒸留・熟成までを行う現役蒸溜所。見学では製造設備と品質管理の工程を確認する。",
+          "official": "https://www.suntory.co.jp/factory/yamazaki/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E5%B1%B1%E5%B4%8E%E8%92%B8%E6%BA%9C%E6%89%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E4%B8%89%E5%B3%B6%E9%83%A1%E5%B3%B6%E6%9C%AC%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "山梨県",
+          "city": "北杜市",
+          "name": "サントリー白州蒸溜所",
+          "type": "工場・製造",
+          "note": "水源と結び付いたウイスキー製造拠点。仕込み・蒸留・樽熟成の設備を見学できる予約制ツアー。",
+          "official": "https://www.suntory.co.jp/factory/hakushu/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E7%99%BD%E5%B7%9E%E8%92%B8%E6%BA%9C%E6%89%80%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E5%8C%97%E6%9D%9C%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "知多市",
+          "name": "サントリー知多蒸溜所",
+          "type": "工場・製造",
+          "note": "グレーンウイスキーの蒸留・熟成を担う製造拠点。公開プログラムの実施状況を公式案内で確認する。",
+          "official": "https://www.suntory.co.jp/factory/chita/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E7%9F%A5%E5%A4%9A%E8%92%B8%E6%BA%9C%E6%89%80%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E7%9F%A5%E5%A4%9A%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市鶴見区",
+          "name": "キリンビール横浜工場",
+          "type": "工場・製造",
+          "note": "麦芽・仕込み・発酵・パッケージングまでのビール製造工程を見学できる現役工場。",
+          "official": "https://www.kirin.co.jp/experience/factory/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AD%E3%83%AA%E3%83%B3%E3%83%93%E3%83%BC%E3%83%AB%E6%A8%AA%E6%B5%9C%E5%B7%A5%E5%A0%B4%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "茨城県",
+          "city": "取手市",
+          "name": "キリンビール取手工場",
+          "type": "工場・製造",
+          "note": "大規模なビール製造ラインと品質管理を見学する予約制ツアー。",
+          "official": "https://www.kirin.co.jp/experience/factory/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AD%E3%83%AA%E3%83%B3%E3%83%93%E3%83%BC%E3%83%AB%E5%8F%96%E6%89%8B%E5%B7%A5%E5%A0%B4%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E5%8F%96%E6%89%8B%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市北区",
+          "name": "キリンビール神戸工場",
+          "type": "工場・製造",
+          "note": "原料から缶・瓶製品までの製造工程を現役設備で学べる工場見学。",
+          "official": "https://www.kirin.co.jp/experience/factory/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AD%E3%83%AA%E3%83%B3%E3%83%93%E3%83%BC%E3%83%AB%E7%A5%9E%E6%88%B8%E5%B7%A5%E5%A0%B4%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "吹田市",
+          "name": "アサヒビール吹田工場",
+          "type": "工場・製造",
+          "note": "仕込み・発酵・ろ過・充填を行うビール工場。見学通路から製造設備と物流工程を確認する。",
+          "official": "https://www.asahibeer.co.jp/brewery/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%B5%E3%83%92%E3%83%93%E3%83%BC%E3%83%AB%E5%90%B9%E7%94%B0%E5%B7%A5%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%90%B9%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市博多区",
+          "name": "アサヒビール博多工場",
+          "type": "工場・製造",
+          "note": "都市圏へ製品を供給する現役ビール工場。製造工程と品質管理の展示・見学を行う。",
+          "official": "https://www.asahibeer.co.jp/brewery/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%B5%E3%83%92%E3%83%93%E3%83%BC%E3%83%AB%E5%8D%9A%E5%A4%9A%E5%B7%A5%E5%A0%B4%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%8D%9A%E5%A4%9A%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "坂戸市",
+          "name": "明治なるほどファクトリー坂戸",
+          "type": "工場・製造",
+          "note": "乳製品・菓子の製造工程を見学者通路から確認できる現役工場。",
+          "official": "https://www.meiji.co.jp/learned/factory/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E6%B2%BB%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E5%9D%82%E6%88%B8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%9D%82%E6%88%B8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "茨城県",
+          "city": "守谷市",
+          "name": "明治なるほどファクトリー守谷",
+          "type": "工場・製造",
+          "note": "乳製品の原料処理・充填・衛生管理を学ぶ工場見学施設。",
+          "official": "https://www.meiji.co.jp/learned/factory/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E6%B2%BB%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E5%AE%88%E8%B0%B7%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E5%AE%88%E8%B0%B7%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "江南市",
+          "name": "グリコピア・イースト",
+          "type": "工場・製造",
+          "note": "菓子の製造ラインと包装工程を見学できる予約制工場。",
+          "official": "https://www.glico.com/jp/enjoy/experience/glicopiaeast/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AA%E3%82%B3%E3%83%94%E3%82%A2%E3%83%BB%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E6%B1%9F%E5%8D%97%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市西区",
+          "name": "グリコピア神戸",
+          "type": "工場・製造",
+          "note": "ポッキー等の製造工程を見学し、原料・成形・包装の流れを学べる。",
+          "official": "https://www.glico.com/jp/enjoy/experience/glicopiakobe/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AA%E3%82%B3%E3%83%94%E3%82%A2%E7%A5%9E%E6%88%B8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E8%A5%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "千歳市",
+          "name": "カルビー北海道工場",
+          "type": "工場・製造",
+          "note": "じゃがいもの加工・製造・包装を行う現役食品工場。見学受付状況を公式で確認する。",
+          "official": "https://www.calbee.co.jp/factory/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%AB%E3%83%93%E3%83%BC%E5%8C%97%E6%B5%B7%E9%81%93%E5%B7%A5%E5%A0%B4%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8D%83%E6%AD%B3%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "野田市",
+          "name": "キッコーマンもの知りしょうゆ館",
+          "type": "工場・製造",
+          "note": "しょうゆの仕込み・発酵・圧搾・充填を現役工場に併設した見学施設で学ぶ。",
+          "official": "https://www.kikkoman.co.jp/enjoys/factory/noda/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AD%E3%83%83%E3%82%B3%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%82%E3%81%AE%E7%9F%A5%E3%82%8A%E3%81%97%E3%82%87%E3%81%86%E3%82%86%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E9%87%8E%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "豊田市",
+          "name": "トヨタ会館・工場見学",
+          "type": "工場・製造",
+          "note": "自動車の開発・生産・品質管理を展示と工場見学で学ぶ。実際の製造ライン見学は予約制。",
+          "official": "https://www.toyota.co.jp/jp/about_toyota/facility/toyota-kaikan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%83%A8%E3%82%BF%E4%BC%9A%E9%A4%A8%E3%83%BB%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "広島県",
+          "city": "安芸郡府中町",
+          "name": "マツダミュージアム",
+          "type": "工場・製造",
+          "note": "自動車工場に併設され、車両の組立工程や開発・物流の仕組みを見学できる。",
+          "official": "https://www.mazda.com/ja/about/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9E%E3%83%84%E3%83%80%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%AE%89%E8%8A%B8%E9%83%A1%E5%BA%9C%E4%B8%AD%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "海老名市",
+          "name": "コカ・コーラ ボトラーズジャパン工場見学",
+          "type": "工場・製造",
+          "note": "飲料の調合・充填・検査・出荷を学ぶ工場見学プログラム。",
+          "official": "https://www.ccbji.co.jp/plant/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9%20%E3%83%9C%E3%83%88%E3%83%A9%E3%83%BC%E3%82%BA%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%B5%B7%E8%80%81%E5%90%8D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市東区",
+          "name": "サッポロビール北海道工場",
+          "type": "工場・製造",
+          "note": "麦芽からビールをつくり、缶・瓶へ詰めて出荷する現役工場。",
+          "official": "https://www.sapporobeer.jp/brewery/hokkaido/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD%E3%83%93%E3%83%BC%E3%83%AB%E5%8C%97%E6%B5%B7%E9%81%93%E5%B7%A5%E5%A0%B4%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "銚子市",
+          "name": "ヤマサ醤油工場見学センター",
+          "type": "工場・製造",
+          "note": "しょうゆの発酵・熟成・充填と地域産業の関係を見学できる。",
+          "official": "https://www.yamasa.com/enjoy/factory/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%A4%E3%83%9E%E3%82%B5%E9%86%A4%E6%B2%B9%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E9%8A%9A%E5%AD%90%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "川崎市川崎区",
+          "name": "味の素 川崎工場",
+          "type": "工場・製造",
+          "note": "調味料の原料・製造・包装工程を見学する予約制プログラム。",
+          "official": "https://www.ajinomoto.co.jp/kfb/kengaku/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%91%B3%E3%81%AE%E7%B4%A0%20%E5%B7%9D%E5%B4%8E%E5%B7%A5%E5%A0%B4%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市東区",
+          "name": "雪印メグミルク 酪農と乳の歴史館",
+          "type": "工場・製造",
+          "note": "乳業の原料受入・加工・衛生管理を学ぶ企業博物館と製造関連施設。",
+          "official": "https://www.meg-snow.com/fun/academy/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9B%AA%E5%8D%B0%E3%83%A1%E3%82%B0%E3%83%9F%E3%83%AB%E3%82%AF%20%E9%85%AA%E8%BE%B2%E3%81%A8%E4%B9%B3%E3%81%AE%E6%AD%B4%E5%8F%B2%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市東区",
+          "name": "めんたいこ工場見学（ふくや）",
+          "type": "工場・製造",
+          "note": "原料処理・調味・熟成・包装という食品加工の工程を見学できる施設。",
+          "official": "https://www.fukuya.com/mentai/factory/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%81%E3%82%93%E3%81%9F%E3%81%84%E3%81%93%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%EF%BC%88%E3%81%B5%E3%81%8F%E3%82%84%EF%BC%89%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "大田区",
+          "name": "羽田クロノゲート見学コース",
+          "type": "市場・流通",
+          "note": "宅配便の仕分け・保管・輸送を担う物流拠点。荷物が自動搬送される現場を見学できる。",
+          "official": "https://www.yamato-hd.co.jp/facilities/haneda-chronogate/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%BD%E7%94%B0%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B2%E3%83%BC%E3%83%88%E8%A6%8B%E5%AD%A6%E3%82%B3%E3%83%BC%E3%82%B9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市此花区",
+          "name": "アサヒ飲料明石工場見学",
+          "type": "工場・製造",
+          "note": "飲料の調合・PETボトル充填・検品・出荷を現役設備で学ぶ工場見学。",
+          "official": "https://www.asahiinryo.co.jp/entertainment/factory/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%B5%E3%83%92%E9%A3%B2%E6%96%99%E6%98%8E%E7%9F%B3%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "釧路市",
+          "name": "釧路市民防災センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%A7%E8%B7%AF%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.kushiro.lg.jp/kurashi/shoubou/1003672.html Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82%20%E9%87%A7%E8%B7%AF%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市白石区",
+          "name": "札幌市民防災センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E7%99%BD%E7%9F%B3%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.sapporo-dpc.jp/ Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E7%99%BD%E7%9F%B3%E5%8C%BA%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "青森県",
+          "city": "青森市",
+          "name": "青森県防災教育センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%E9%98%B2%E7%81%BD%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E9%9D%92%E6%A3%AE%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.pref.aomori.lg.jp/soshiki/kikikanri/shobogakko/bosaikyoiku.html Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E9%9D%92%E6%A3%AE%E5%B8%82%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E9%98%B2%E7%81%BD%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "岩手県",
+          "city": "矢巾町",
+          "name": "岩手県立総合防災センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E7%9F%A2%E5%B7%BE%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.iwa-bousai.jp/ Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E7%9F%A2%E5%B7%BE%E7%94%BA%20%E5%B2%A9%E6%89%8B%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "秋田県",
+          "city": "由利本荘市",
+          "name": "秋田県防災学習館",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%94%B1%E5%88%A9%E6%9C%AC%E8%8D%98%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://bousai-akita.jp/pages/index.html?article_id=54 Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%94%B1%E5%88%A9%E6%9C%AC%E8%8D%98%E5%B8%82%20%E7%A7%8B%E7%94%B0%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "山形県",
+          "city": "三川町",
+          "name": "山形県防災学習館",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E9%A4%A8%20%E5%B1%B1%E5%BD%A2%E7%9C%8C%20%E4%B8%89%E5%B7%9D%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.pref.yamagata.jp/027007/bosai/kochibou/bousaijouhou/kyouikukeihatsu/gakusyuukann.html Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%20%E4%B8%89%E5%B7%9D%E7%94%BA%20%E5%B1%B1%E5%BD%A2%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "栃木県",
+          "city": "宇都宮市",
+          "name": "栃木県防災館",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%98%B2%E7%81%BD%E9%A4%A8%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.t-bousaikan.jp/ 公式資料：https://www.pref.tochigi.lg.jp/l51/prevent/bousai/chishiki/1183616253771.html Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%20%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%98%B2%E7%81%BD%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "鴻巣市",
+          "name": "埼玉県防災学習センター（能美防災そなーえ）",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E8%83%BD%E7%BE%8E%E9%98%B2%E7%81%BD%E3%81%9D%E3%81%AA%E3%83%BC%E3%81%88%EF%BC%89%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E9%B4%BB%E5%B7%A3%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://saitamabousai.jp/ Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E9%B4%BB%E5%B7%A3%E5%B8%82%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E9%98%B2%E7%81%BD%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E8%83%BD%E7%BE%8E%E9%98%B2%E7%81%BD%E3%81%9D%E3%81%AA%E3%83%BC%E3%81%88%EF%BC%89"
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "松戸市",
+          "name": "千葉県西部防災センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E8%A5%BF%E9%83%A8%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%9D%BE%E6%88%B8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.pref.chiba.lg.jp/bousaik/jibun/taiken/seibubousai.html Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%9D%BE%E6%88%B8%E5%B8%82%20%E5%8D%83%E8%91%89%E7%9C%8C%E8%A5%BF%E9%83%A8%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "そなエリア東京（東京臨海広域防災公園）",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%9D%E3%81%AA%E3%82%A8%E3%83%AA%E3%82%A2%E6%9D%B1%E4%BA%AC%EF%BC%88%E6%9D%B1%E4%BA%AC%E8%87%A8%E6%B5%B7%E5%BA%83%E5%9F%9F%E9%98%B2%E7%81%BD%E5%85%AC%E5%9C%92%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.tokyorinkai-koen.jp/ Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA%20%E3%81%9D%E3%81%AA%E3%82%A8%E3%83%AA%E3%82%A2%E6%9D%B1%E4%BA%AC%EF%BC%88%E6%9D%B1%E4%BA%AC%E8%87%A8%E6%B5%B7%E5%BA%83%E5%9F%9F%E9%98%B2%E7%81%BD%E5%85%AC%E5%9C%92%EF%BC%89"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "消防博物館（東京消防庁消防防災資料センター）",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B6%88%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%EF%BC%88%E6%9D%B1%E4%BA%AC%E6%B6%88%E9%98%B2%E5%BA%81%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BD%E8%B3%87%E6%96%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.tfd.metro.tokyo.lg.jp/taiken/hkkan/ Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA%20%E6%B6%88%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%EF%BC%88%E6%9D%B1%E4%BA%AC%E6%B6%88%E9%98%B2%E5%BA%81%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BD%E8%B3%87%E6%96%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%89"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市神奈川区",
+          "name": "横浜市民防災センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://bo-sai.city.yokohama.lg.jp/ Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "厚木市",
+          "name": "神奈川県総合防災センター（防災情報・体験フロア）",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%B7%8F%E5%90%88%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E9%98%B2%E7%81%BD%E6%83%85%E5%A0%B1%E3%83%BB%E4%BD%93%E9%A8%93%E3%83%95%E3%83%AD%E3%82%A2%EF%BC%89%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.pref.kanagawa.jp/docs/zn2/bousaicenter/homepage.html Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%B7%8F%E5%90%88%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E9%98%B2%E7%81%BD%E6%83%85%E5%A0%B1%E3%83%BB%E4%BD%93%E9%A8%93%E3%83%95%E3%83%AD%E3%82%A2%EF%BC%89"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "静岡市葵区",
+          "name": "静岡県地震防災センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%9C%B0%E9%9C%87%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.pref.shizuoka.jp/bosaikinkyu/sonae/earthquake/bosaicenter/ Googleマップ：https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82%E8%91%B5%E5%8C%BA%20%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%9C%B0%E9%9C%87%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "名古屋市港区",
+          "name": "名古屋市港防災センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%B8%AF%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.minato-bousai.jp/ Googleマップ：https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%B8%AF%E5%8C%BA%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%B8%AF%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市南区",
+          "name": "京都市市民防災センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8D%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://kyotobousai-c.com/ 公式資料：https://www.city.kyoto.lg.jp/shobo/page/0000356918.html Googleマップ：https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8D%97%E5%8C%BA%20%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市阿倍野区",
+          "name": "大阪市立阿倍野防災センター（あべのタスカル）",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E9%98%BF%E5%80%8D%E9%87%8E%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%81%82%E3%81%B9%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AB%E3%83%AB%EF%BC%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.abeno-bosai-c.city.osaka.jp/tasukaru/ 公式資料：https://www.abeno-bosai-c.city.osaka.jp/tasukaru/events Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%20%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E9%98%BF%E5%80%8D%E9%87%8E%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%81%82%E3%81%B9%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AB%E3%83%AB%EF%BC%89"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市中央区",
+          "name": "阪神・淡路大震災記念 人と防災未来センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%98%AA%E7%A5%9E%E3%83%BB%E6%B7%A1%E8%B7%AF%E5%A4%A7%E9%9C%87%E7%81%BD%E8%A8%98%E5%BF%B5%20%E4%BA%BA%E3%81%A8%E9%98%B2%E7%81%BD%E6%9C%AA%E6%9D%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.dri.ne.jp/guide/ Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E9%98%AA%E7%A5%9E%E3%83%BB%E6%B7%A1%E8%B7%AF%E5%A4%A7%E9%9C%87%E7%81%BD%E8%A8%98%E5%BF%B5%20%E4%BA%BA%E3%81%A8%E9%98%B2%E7%81%BD%E6%9C%AA%E6%9D%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "徳島県",
+          "city": "北島町",
+          "name": "徳島県立防災センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%E7%AB%8B%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E5%8C%97%E5%B3%B6%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.pref.tokushima.lg.jp/bousai-center/ Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E5%8C%97%E5%B3%B6%E7%94%BA%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%E7%AB%8B%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市早良区",
+          "name": "福岡市民防災センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%97%A9%E8%89%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.fukuoka.lg.jp/syobo/bousai_suishin/bousaicenter/centerinfo.html Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%97%A9%E8%89%AF%E5%8C%BA%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%B0%91%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "熊本県",
+          "city": "熊本市中央区",
+          "name": "熊本市広域防災センター",
+          "type": "防災・消防",
+          "note": "現役の消防・防災・災害対応を担う公共施設。展示だけでなく、地震・煙・消火・避難などの実務を体験できる公開プログラムを確認する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E5%B8%82%E5%BA%83%E5%9F%9F%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.kumamoto.jp/kiji00350230/index.html Googleマップ：https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E7%86%8A%E6%9C%AC%E5%B8%82%E5%BA%83%E5%9F%9F%E9%98%B2%E7%81%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "東京港フェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.tptc.co.jp/terminal/guide/ferry",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.tptc.co.jp/terminal/guide/ferry"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "有明客船ターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "https://www.tptc.co.jp/terminal/guide/ariake",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E5%AE%A2%E8%88%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.tptc.co.jp/terminal/guide/ariake"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市中区",
+          "name": "横浜港大さん橋国際客船ターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://osanbashi.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E6%B8%AF%E5%A4%A7%E3%81%95%E3%82%93%E6%A9%8B%E5%9B%BD%E9%9A%9B%E5%AE%A2%E8%88%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://osanbashi.jp/"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横須賀市",
+          "name": "久里浜港フェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "https://www.tokyowanferry.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B9%85%E9%87%8C%E6%B5%9C%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.tokyowanferry.com/"
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "新潟市東区",
+          "name": "新潟港 山の下埠頭 新日本海フェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.snf.jp/embark/niigata.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E6%B8%AF%20%E5%B1%B1%E3%81%AE%E4%B8%8B%E5%9F%A0%E9%A0%AD%20%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E6%9D%B1%E5%8C%BA",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.snf.jp/embark/niigata.html"
+          }
+        },
+        {
+          "prefecture": "福井県",
+          "city": "敦賀市",
+          "name": "新日本海フェリー 敦賀フェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.snf.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E6%95%A6%E8%B3%80%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E6%95%A6%E8%B3%80%E5%B8%82",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.snf.jp/"
+          }
+        },
+        {
+          "prefecture": "京都府",
+          "city": "舞鶴市",
+          "name": "新日本海フェリー 舞鶴フェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.snf.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E8%88%9E%E9%B6%B4%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E8%88%9E%E9%B6%B4%E5%B8%82",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.snf.jp/"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市住之江区",
+          "name": "大阪南港フェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.orange-ferry.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%8D%97%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E4%B9%8B%E6%B1%9F%E5%8C%BA",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.orange-ferry.co.jp/"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市中央区",
+          "name": "神戸三宮フェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.kobe-fc.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E4%B8%89%E5%AE%AE%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.kobe-fc.co.jp/"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市東灘区",
+          "name": "神戸六甲アイランドフェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.ferry-sunflower.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E5%85%AD%E7%94%B2%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.ferry-sunflower.co.jp/"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "姫路市",
+          "name": "姫路港旅客船ターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.kousoku-ieshima.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A7%AB%E8%B7%AF%E6%B8%AF%E6%97%85%E5%AE%A2%E8%88%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%A7%AB%E8%B7%AF%E5%B8%82",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.kousoku-ieshima.jp/"
+          }
+        },
+        {
+          "prefecture": "香川県",
+          "city": "高松市",
+          "name": "高松港フェリー乗り場",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "https://www.shikokuferry.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E6%9D%BE%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E4%B9%97%E3%82%8A%E5%A0%B4%20%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E9%AB%98%E6%9D%BE%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.shikokuferry.com/"
+          }
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "玉野市",
+          "name": "宇野港フェリーターミナル周辺",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "https://www.shodoshima-ferry.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%87%E9%87%8E%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E5%91%A8%E8%BE%BA%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E7%8E%89%E9%87%8E%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.shodoshima-ferry.co.jp/"
+          }
+        },
+        {
+          "prefecture": "愛媛県",
+          "city": "松山市",
+          "name": "松山観光港ターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "https://www.kankoko.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B1%B1%E8%A6%B3%E5%85%89%E6%B8%AF%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E6%9D%BE%E5%B1%B1%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.kankoko.com/"
+          }
+        },
+        {
+          "prefecture": "大分県",
+          "city": "別府市",
+          "name": "別府国際観光港フェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.ferry-sunflower.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%A5%E5%BA%9C%E5%9B%BD%E9%9A%9B%E8%A6%B3%E5%85%89%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%88%A5%E5%BA%9C%E5%B8%82",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.ferry-sunflower.co.jp/"
+          }
+        },
+        {
+          "prefecture": "鹿児島県",
+          "city": "鹿児島市",
+          "name": "鹿児島新港フェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.aline-ferry.com/kagoshima/access.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E6%96%B0%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.aline-ferry.com/kagoshima/access.html"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横須賀市",
+          "name": "東京九州フェリー 横須賀フェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "https://tqf.co.jp/embark/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%B9%9D%E5%B7%9E%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E6%A8%AA%E9%A0%88%E8%B3%80%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%96%B0%E6%B8%AF%E7%94%BA11-4",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://tqf.co.jp/embark/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "小樽市",
+          "name": "新日本海フェリー 小樽ターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.snf.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E5%B0%8F%E6%A8%BD%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%B0%8F%E6%A8%BD%E5%B8%82%E7%AF%89%E6%B8%AF7-2%20%E5%8B%9D%E7%B4%8D%E5%9F%A0%E9%A0%AD",
+          "kind": "モールコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.snf.jp/"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市",
+          "name": "天保山渡船場",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.city.osaka.lg.jp/kensetsu/page/0000011249.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E4%BF%9D%E5%B1%B1%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.city.osaka.lg.jp/kensetsu/page/0000011249.html"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市",
+          "name": "甚兵衛渡船場",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000011251.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%9A%E5%85%B5%E8%A1%9B%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.osaka.lg.jp/kensetsu/page/0000011251.html"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市",
+          "name": "千歳渡船場",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000011253.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E6%AD%B3%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.osaka.lg.jp/kensetsu/page/0000011253.html"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市",
+          "name": "千本松渡船場",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "http://www.city.osaka.lg.jp/kensetsu/page/0000011258.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E6%9C%AC%E6%9D%BE%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.city.osaka.lg.jp/kensetsu/page/0000011258.html"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市",
+          "name": "博多港 市営渡船ターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/ferry_city.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E6%B8%AF%20%E5%B8%82%E5%96%B6%E6%B8%A1%E8%88%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/ferry_city.html"
+          }
+        },
+        {
+          "prefecture": "鹿児島県",
+          "city": "鹿児島市",
+          "name": "桜島フェリーターミナル",
+          "type": "港湾・船舶",
+          "note": "現役の旅客港湾施設。乗船待合だけでなく、車両・貨物・旅客が港へ入り船へ移る物流と動線を観察する。",
+          "official": "https://www.city.kagoshima.lg.jp/sakurajima-ferry/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%9C%E5%B3%B6%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.kagoshima.lg.jp/sakurajima-ferry/index.html"
+          }
+        },
+        {
+          "prefecture": "茨城県",
+          "city": "小美玉市",
+          "name": "茨城空港",
+          "type": "空港・航空",
+          "note": "現役空港ターミナル。保安検査、搭乗待合、手荷物・航空機運用を支える旅客動線と設備を観察する。",
+          "official": "http://www.ibaraki-airport.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%A9%BA%E6%B8%AF%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E5%B0%8F%E7%BE%8E%E7%8E%89%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.ibaraki-airport.net/"
+          }
+        },
+        {
+          "prefecture": "福島県",
+          "city": "玉川村",
+          "name": "福島空港",
+          "type": "空港・航空",
+          "note": "現役空港ターミナル。保安検査、搭乗待合、手荷物・航空機運用を支える旅客動線と設備を観察する。",
+          "official": "http://www.fks-ab.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%A9%BA%E6%B8%AF%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E7%8E%89%E5%B7%9D%E6%9D%91",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.fks-ab.co.jp/"
+          }
+        },
+        {
+          "prefecture": "富山県",
+          "city": "富山市",
+          "name": "富山きときと空港",
+          "type": "空港・航空",
+          "note": "現役空港ターミナル。保安検査、搭乗待合、手荷物・航空機運用を支える旅客動線と設備を観察する。",
+          "official": "https://www.toyama-airport.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E3%81%8D%E3%81%A8%E3%81%8D%E3%81%A8%E7%A9%BA%E6%B8%AF%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.toyama-airport.co.jp/"
+          }
+        },
+        {
+          "prefecture": "石川県",
+          "city": "輪島市",
+          "name": "能登空港",
+          "type": "空港・航空",
+          "note": "現役空港ターミナル。保安検査、搭乗待合、手荷物・航空機運用を支える旅客動線と設備を観察する。",
+          "official": "http://www.noto-airport.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%83%BD%E7%99%BB%E7%A9%BA%E6%B8%AF%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E8%BC%AA%E5%B3%B6%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.noto-airport.jp/"
+          }
+        },
+        {
+          "prefecture": "鳥取県",
+          "city": "鳥取市",
+          "name": "鳥取砂丘コナン空港",
+          "type": "空港・航空",
+          "note": "現役空港ターミナル。保安検査、搭乗待合、手荷物・航空機運用を支える旅客動線と設備を観察する。",
+          "official": "http://www.ttj-ap-bld.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%A0%82%E4%B8%98%E3%82%B3%E3%83%8A%E3%83%B3%E7%A9%BA%E6%B8%AF%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E9%B3%A5%E5%8F%96%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.ttj-ap-bld.co.jp/"
+          }
+        },
+        {
+          "prefecture": "鳥取県",
+          "city": "境港市",
+          "name": "米子鬼太郎空港",
+          "type": "空港・航空",
+          "note": "現役空港ターミナル。保安検査、搭乗待合、手荷物・航空機運用を支える旅客動線と設備を観察する。",
+          "official": "http://www.yonago-air.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E5%AD%90%E9%AC%BC%E5%A4%AA%E9%83%8E%E7%A9%BA%E6%B8%AF%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E5%A2%83%E6%B8%AF%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.yonago-air.com/"
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "出雲市",
+          "name": "出雲縁結び空港",
+          "type": "空港・航空",
+          "note": "現役空港ターミナル。保安検査、搭乗待合、手荷物・航空機運用を支える旅客動線と設備を観察する。",
+          "official": "http://www.izumo-airport.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BA%E9%9B%B2%E7%B8%81%E7%B5%90%E3%81%B3%E7%A9%BA%E6%B8%AF%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%87%BA%E9%9B%B2%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.izumo-airport.co.jp/"
+          }
+        },
+        {
+          "prefecture": "山口県",
+          "city": "宇部市",
+          "name": "山口宇部空港",
+          "type": "空港・航空",
+          "note": "現役空港ターミナル。保安検査、搭乗待合、手荷物・航空機運用を支える旅客動線と設備を観察する。",
+          "official": "http://www.yamaguchiube-airport.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E5%AE%87%E9%83%A8%E7%A9%BA%E6%B8%AF%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E5%AE%87%E9%83%A8%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.yamaguchiube-airport.jp/"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "北九州市小倉南区",
+          "name": "北九州空港",
+          "type": "空港・航空",
+          "note": "現役空港ターミナル。保安検査、搭乗待合、手荷物・航空機運用を支える旅客動線と設備を観察する。",
+          "official": "http://www.kitakyu-air.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E7%A9%BA%E6%B8%AF%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%B0%8F%E5%80%89%E5%8D%97%E5%8C%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.kitakyu-air.jp/"
+          }
+        },
+        {
+          "prefecture": "佐賀県",
+          "city": "佐賀市",
+          "name": "佐賀空港",
+          "type": "空港・航空",
+          "note": "現役空港ターミナル。保安検査、搭乗待合、手荷物・航空機運用を支える旅客動線と設備を観察する。",
+          "official": "http://saga-ab.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%A9%BA%E6%B8%AF%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BD%90%E8%B3%80%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://saga-ab.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "国立公文書館",
+          "type": "行政・公共機関",
+          "note": "国の公文書を収集・保存・公開する現役の行政機関。文書の受入れ、保存環境、利用請求という公共サービスの仕組みを学ぶ。",
+          "official": "http://www.archives.go.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E5%85%AC%E6%96%87%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.archives.go.jp/"
           }
         }
       ]

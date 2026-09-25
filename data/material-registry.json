@@ -12,10 +12,10 @@
     "short": "科学館"
   },
   {
-    "file": "都市インフラ見学・PR施設.csv",
-    "id": "infrastructure-pr",
-    "short": "都市インフラ見学・PR施設",
-    "number": 3
+    "file": "社会科見学施設.csv",
+    "id": "social-study",
+    "number": 3,
+    "short": "社会科見学施設"
   },
   {
     "file": "水族館・海中施設.csv",

@@ -19,7 +19,7 @@ class MaterialNumberTests(unittest.TestCase):
         self.assertEqual(numbers, list(range(1, len(numbers) + 1)))
         by_number = {material['number']: material['name'] for material in dataset['materials']}
         expected = {
-            3: '都市インフラ見学・PR施設',
+            3: '社会科見学施設',
             6: '天文台・プラネタリウム',
             9: 'フェリー・旅客船ターミナル',
             10: '展望塔・展望施設',
