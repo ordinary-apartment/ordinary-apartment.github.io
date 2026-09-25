@@ -17,7 +17,7 @@ class BuildTests(unittest.TestCase):
     def write(self,name,rows,encoding='utf-8-sig'):
         with (self.root/'data'/name).open('w',encoding=encoding,newline='') as f:
             csv.writer(f).writerows(rows)
-    def test_add_delete_restore_stable_numbers(self):
+    def test_add_delete_resequences_display_numbers(self):
         self.write('植物園.csv',[['施設名'],['元の施設']])
         first=builder.build(self.root)['materials'][0]
         self.write('あたらしい資料.csv',[['施設名'],['追加1'],['追加2']])
@@ -26,9 +26,10 @@ class BuildTests(unittest.TestCase):
         self.assertEqual(data['materials'][0]['id'],first['id'])
         self.assertEqual(data['materials'][1]['number'],2)
         (self.root/'data/植物園.csv').unlink()
-        self.assertEqual(builder.build(self.root)['materials'][0]['number'],2)
+        self.assertEqual(builder.build(self.root)['materials'][0]['number'],1)
         self.write('植物園.csv',[['施設名'],['復帰']])
-        self.assertEqual(builder.build(self.root)['materials'][0]['id'],first['id'])
+        restored=builder.build(self.root)
+        self.assertEqual(restored['materials'][0]['number'],1)
     def test_quotes_newlines_extras_and_maps(self):
         self.write('資料.csv',[['施設名','説明','独自列'],['施設,"A"','一行目\n二行目','保存'],['','','']])
         item=builder.build(self.root)['materials'][0]['items'][0]

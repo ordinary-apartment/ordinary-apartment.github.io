@@ -7,7 +7,7 @@ vm.createContext(context);
 vm.runInContext(fs.readFileSync('generated/facility-data.js','utf8'),context);
 vm.runInContext(fs.readFileSync('facility-search.js','utf8'),context);
 const dataset=context.window.FACILITY_DATASET;
-const numbers=new Map(dataset.materials.map((m,i)=>[m.id,String(i+1).padStart(2,'0')]));
+const numbers=new Map(dataset.materials.map(m=>[m.id,String(m.number).padStart(2,'0')]));
 const search=context.window.FACILITY_SEARCH;
 const index=search.buildIndex(dataset,numbers);
 const find=query=>index.entries.filter(entry=>search.matches(entry,search.parseQuery(query,index)));

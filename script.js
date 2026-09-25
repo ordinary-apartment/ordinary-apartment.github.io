@@ -8,8 +8,8 @@ function tagPage(){active('tags');main.innerHTML=`<div class="page"><p class="ey
 const maps=q=>`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(q)}`;
 const tullys=q=>`https://shop.tullys.co.jp/all?keyword=${encodeURIComponent(q)}`;
 const facilityDataset=window.FACILITY_DATASET;
-// Display consecutive numbers; keep stored IDs and record links unchanged.
-const materialDisplayNumbers=new Map(facilityDataset.materials.map((m,index)=>[m.id,String(index+1).padStart(2,'0')]));
+// Registry numbers are the public display numbers. IDs remain the durable keys.
+const materialDisplayNumbers=new Map(facilityDataset.materials.map(m=>[m.id,String(m.number).padStart(2,'0')]));
 const materialDefinitions=facilityDataset.materials.map(m=>[m.id,materialDisplayNumbers.get(m.id),m.name,m.shortName]);
 const materialItemMap=new Map(facilityDataset.materials.map(m=>[m.id,m.items]));
 const materialItems=key=>materialItemMap.get(key)||[];

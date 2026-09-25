@@ -116,31 +116,44 @@ def build(root=ROOT):
         if not re.fullmatch(r'[A-Za-z][A-Za-z0-9_-]*',r['id']) or not isinstance(r['number'],int) or r['number']<1:
             raise ValueError('資料番号管理ファイル: IDまたは番号が不正です')
     # macOS commonly presents filenames in NFD while Linux checkouts commonly
-    # use NFC.  Keep the original spelling in the registry, but match files by
-    # their NFC identity so a normalization change cannot allocate a new
-    # material number.
-    by_normalized_file = {}
+    # use NFC. Match files by their NFC identity so a normalization change
+    # cannot allocate a new material number.
+    # The registry order is the durable material order.  Numbers are display
+    # numbers, so rebuild them after every successful build: deleting a CSV
+    # closes the gap while the material id remains attached to surviving CSVs.
+    csv_paths = sorted(data.glob('*.csv'), key=lambda p:p.name)
+    csv_by_key = {}
+    for path in csv_paths:
+        key = normalized_filename(path.name)
+        if key in csv_by_key:
+            raise ValueError(f'{path.name}: Unicode正規化後のファイル名が重複しています')
+        csv_by_key[key] = path
+    existing = []
+    matched_keys = set()
     for entry in registry:
         key = normalized_filename(entry['file'])
-        by_normalized_file.setdefault(key, []).append(entry)
+        if key in csv_by_key and key not in matched_keys:
+            existing.append((entry, csv_by_key[key]))
+            matched_keys.add(key)
+    for path in csv_paths:
+        key = normalized_filename(path.name)
+        if key not in matched_keys:
+            entry = {'file':path.name, 'id':'csv-'+hashlib.sha256(key.encode()).hexdigest()[:20], 'number':0}
+            existing.append((entry, path))
+            matched_keys.add(key)
+    registry = []
     materials = []
+    for display_number, (entry, path) in enumerate(existing, 1):
+        entry = dict(entry)
+        entry['number'] = display_number
+        registry.append(entry)
     seen_files = set()
-    for path in sorted(data.glob('*.csv'), key=lambda p:p.name):
+    for entry, path in existing:
         file_key = normalized_filename(path.name)
         if file_key in seen_files:
             raise ValueError(f'{path.name}: Unicode正規化後のファイル名が重複しています')
         seen_files.add(file_key)
-        candidates = by_normalized_file.get(file_key, [])
-        if candidates:
-            # If an older registry contains both NFC and NFD spellings, the
-            # highest reserved entry is the currently published identity.
-            # Keeping that entry preserves existing URL keys and row links;
-            # the normalized filename still makes both spellings equivalent.
-            entry = max(candidates, key=lambda item: item['number'])
-        else:
-            entry = {'file':path.name, 'id':'csv-'+hashlib.sha256(file_key.encode()).hexdigest()[:20], 'number':max((r['number'] for r in registry),default=0)+1}
-            registry.append(entry)
-            by_normalized_file.setdefault(file_key, []).append(entry)
+        entry = registry[len(materials)]
         items = read_csv(path)
         material_name = normalized_filename(path.stem)
         materials.append({'id':entry['id'], 'number':entry['number'], 'name':material_name, 'shortName':entry.get('short',material_name), 'file':path.name, 'count':len(items), 'items':items})
