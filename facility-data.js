@@ -16,7 +16,7 @@ window.FACILITY_DATASET={
           "city": "江東区",
           "name": "夢の島熱帯植物館",
           "type": "植物園・温室",
-          "note": "巨大ドーム温室。人工熱帯空間。",
+          "note": "巨大ドーム温室。人工熱帯空間。1988年竣工。",
           "official": "https://www.yumenoshima.jp/botanicalhall",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A2%E3%81%AE%E5%B3%B6%E7%86%B1%E5%B8%AF%E6%A4%8D%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "ドリームコア",
@@ -33,7 +33,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.yumenoshima.jp/botanicalhall"
+            "参照": "公式サイト：https://www.yumenoshima.jp/botanicalhall\nWikipedia：https://ja.wikipedia.org/wiki/%E5%A4%A2%E3%81%AE%E5%B3%B6%E7%86%B1%E5%B8%AF%E6%A4%8D%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -41,7 +41,7 @@ window.FACILITY_DATASET={
           "city": "板橋区",
           "name": "板橋区立熱帯環境植物館",
           "type": "植物園・温室",
-          "note": "地下水族展示＋温室。人工環境感が強い。",
+          "note": "地下水族展示＋温室。人工環境感が強い。1994年開園。",
           "official": "http://www.seibu-la.co.jp/nettaikan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E7%86%B1%E5%B8%AF%E7%92%B0%E5%A2%83%E6%A4%8D%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
           "kind": "ドリームコア",
@@ -54,7 +54,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.seibu-la.co.jp/nettaikan/"
+            "参照": "公式サイト：http://www.seibu-la.co.jp/nettaikan/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E7%86%B1%E5%B8%AF%E7%92%B0%E5%A2%83%E6%A4%8D%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -62,7 +62,7 @@ window.FACILITY_DATASET={
           "city": "調布市",
           "name": "神代植物公園 大温室",
           "type": "植物園・温室",
-          "note": "大型温室の連続空間。",
+          "note": "大型温室の連続空間。9:30〜17:00。",
           "official": "https://www.tokyo-park.or.jp/jindai/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E4%BB%A3%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%AA%BF%E5%B8%83%E5%B8%82",
           "kind": "ドリームコア",
@@ -112,7 +112,7 @@ window.FACILITY_DATASET={
           "city": "千葉市中央区",
           "name": "千葉市都市緑化植物園",
           "type": "植物園・温室",
-          "note": "公共植物園の温室・園路。 月曜日休館。",
+          "note": "公共植物園の温室・園路。 月曜日休館。1981年開業。",
           "official": "http://www.cue-net.or.jp/kouen/chiba-toshiryokka/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E5%B8%82%E9%83%BD%E5%B8%82%E7%B7%91%E5%8C%96%E6%A4%8D%E7%89%A9%E5%9C%92%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "ドリームコア",
@@ -125,7 +125,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.cue-net.or.jp/kouen/chiba-toshiryokka/index.html"
+            "参照": "公式サイト：http://www.cue-net.or.jp/kouen/chiba-toshiryokka/index.html\nWikipedia：https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E5%B8%82%E9%83%BD%E5%B8%82%E7%B7%91%E5%8C%96%E6%A4%8D%E7%89%A9%E5%9C%92"
           }
         },
         {
@@ -204,7 +204,7 @@ window.FACILITY_DATASET={
           "city": "富山市",
           "name": "富山県中央植物園 温室",
           "type": "植物園・温室",
-          "note": "大型温室群。",
+          "note": "大型温室群。9:00〜17:00。",
           "official": "http://www.bgtym.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E4%B8%AD%E5%A4%AE%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
           "kind": "ドリームコア",
@@ -246,7 +246,7 @@ window.FACILITY_DATASET={
           "city": "名古屋市守山区",
           "name": "名古屋市東谷山フルーツパーク 世界の熱帯果樹温室",
           "type": "植物園・温室",
-          "note": "巨大ドーム型温室。",
+          "note": "巨大ドーム型温室。9:00〜16:30。",
           "official": "https://www.fruitpark.org/guide/tropical-fruit-greenhouses.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%9D%B1%E8%B0%B7%E5%B1%B1%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%83%91%E3%83%BC%E3%82%AF%20%E4%B8%96%E7%95%8C%E3%81%AE%E7%86%B1%E5%B8%AF%E6%9E%9C%E6%A8%B9%E6%B8%A9%E5%AE%A4%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%AE%88%E5%B1%B1%E5%8C%BA",
           "kind": "ドリームコア",
@@ -305,7 +305,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.sakuyakonohana.jp/"
+            "参照": "公式サイト：https://www.sakuyakonohana.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%92%B2%E3%81%8F%E3%82%84%E3%81%93%E3%81%AE%E8%8A%B1%E9%A4%A8"
           }
         },
         {
@@ -556,7 +556,7 @@ window.FACILITY_DATASET={
           "city": "函館市",
           "name": "函館市熱帯植物園",
           "type": "熱帯温室",
-          "note": "雪国・温泉街・熱帯温室という環境のズレが強烈。",
+          "note": "雪国・温泉街・熱帯温室という環境のズレが強烈。1970年開園。",
           "official": "https://hako-eco.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BD%E9%A4%A8%E5%B8%82%E7%86%B1%E5%B8%AF%E6%A4%8D%E7%89%A9%E5%9C%92%20%E5%87%BD%E9%A4%A8%E5%B8%82%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -569,7 +569,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://hako-eco.com/"
+            "参照": "公式サイト：https://hako-eco.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B8%82%E7%86%B1%E5%B8%AF%E6%A4%8D%E7%89%A9%E5%9C%92"
           }
         },
         {
@@ -611,7 +611,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.hokudai.ac.jp/fsc/bg/"
+            "参照": "公式サイト：https://www.hokudai.ac.jp/fsc/bg/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E5%A4%A7%E5%AD%A6%E6%A4%8D%E7%89%A9%E5%9C%92"
           }
         },
         {
@@ -632,7 +632,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://sendai-green-association.jp/green/yasouen/"
+            "参照": "公式サイト：https://sendai-green-association.jp/green/yasouen/\nWikipedia：https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E5%B8%82%E9%87%8E%E8%8D%89%E5%9C%92"
           }
         },
         {
@@ -653,7 +653,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://iwaki-flowercenter.com/"
+            "参照": "公式サイト：https://iwaki-flowercenter.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
           }
         },
         {
@@ -661,7 +661,7 @@ window.FACILITY_DATASET={
           "city": "つくば市",
           "name": "筑波実験植物園",
           "type": "研究植物園・温室",
-          "note": "研究都市＋温室群。9:00-16:30",
+          "note": "研究都市＋温室群。9:00-16:30。1976年設立。",
           "official": "https://tbg.kahaku.go.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AD%91%E6%B3%A2%E5%AE%9F%E9%A8%93%E6%A4%8D%E7%89%A9%E5%9C%92%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -674,7 +674,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://tbg.kahaku.go.jp/"
+            "参照": "公式サイト：https://tbg.kahaku.go.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E5%AE%9F%E9%A8%93%E6%A4%8D%E7%89%A9%E5%9C%92"
           }
         },
         {
@@ -682,7 +682,7 @@ window.FACILITY_DATASET={
           "city": "水戸市",
           "name": "水戸市植物公園",
           "type": "植物園・温室",
-          "note": "テラスガーデン、温室、公共建築の80〜90年代感。",
+          "note": "テラスガーデン、温室、公共建築の80〜90年代感。1987年開園。",
           "official": "http://www.mito-botanical-park.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E6%88%B8%E5%B8%82%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92%20%E6%B0%B4%E6%88%B8%E5%B8%82%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -695,7 +695,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.mito-botanical-park.com/"
+            "参照": "公式サイト：http://www.mito-botanical-park.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%88%B8%E5%B8%82%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92"
           }
         },
         {
@@ -737,7 +737,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.flower-park.jp/"
+            "参照": "公式サイト：http://www.flower-park.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%81%90%E3%82%93%E3%81%BE%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF"
           }
         },
         {
@@ -745,7 +745,7 @@ window.FACILITY_DATASET={
           "city": "川口市",
           "name": "川口市立グリーンセンター",
           "type": "植物公園・温室",
-          "note": "昭和の市営レジャー施設感が残る。園内施設込みで強い。",
+          "note": "昭和の市営レジャー施設感が残る。園内施設込みで強い。1960年設立。",
           "official": "http://greencenter.1110city.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%B7%9D%E5%8F%A3%E5%B8%82%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -758,7 +758,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://greencenter.1110city.com/"
+            "参照": "公式サイト：http://greencenter.1110city.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
           }
         },
         {
@@ -787,7 +787,7 @@ window.FACILITY_DATASET={
           "city": "千葉市",
           "name": "千葉市都市緑化植物園",
           "type": "植物園",
-          "note": "観光化されすぎていない。 月曜日休館。",
+          "note": "観光化されすぎていない。 月曜日休館。1981年開業。",
           "official": "http://www.cue-net.or.jp/kouen/chiba-toshiryokka/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E5%B8%82%E9%83%BD%E5%B8%82%E7%B7%91%E5%8C%96%E6%A4%8D%E7%89%A9%E5%9C%92%20%E5%8D%83%E8%91%89%E5%B8%82%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -800,7 +800,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.cue-net.or.jp/kouen/chiba-toshiryokka/index.html"
+            "参照": "公式サイト：http://www.cue-net.or.jp/kouen/chiba-toshiryokka/index.html\nWikipedia：https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E5%B8%82%E9%83%BD%E5%B8%82%E7%B7%91%E5%8C%96%E6%A4%8D%E7%89%A9%E5%9C%92"
           }
         },
         {
@@ -829,7 +829,7 @@ window.FACILITY_DATASET={
           "city": "鎌倉市",
           "name": "神奈川県立大船フラワーセンター",
           "type": "植物園・温室",
-          "note": "県立施設らしい展示と園芸研究の名残。",
+          "note": "県立施設らしい展示と園芸研究の名残。1967年開園。",
           "official": "http://www.fcofuna-kanagawa.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E5%A4%A7%E8%88%B9%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%8E%8C%E5%80%89%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -842,7 +842,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.fcofuna-kanagawa.jp/"
+            "参照": "公式サイト：http://www.fcofuna-kanagawa.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E5%A4%A7%E8%88%B9%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
           }
         },
         {
@@ -850,7 +850,7 @@ window.FACILITY_DATASET={
           "city": "横浜市",
           "name": "横浜市こども植物園",
           "type": "植物園・温室",
-          "note": "公共教育施設感が濃い。規模と古さがちょうどいい。9:00〜16:30",
+          "note": "公共教育施設感が濃い。規模と古さがちょうどいい。9:00〜16:30。1979年開園。",
           "official": "http://www.hama-midorinokyokai.or.jp/kodomo/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -863,7 +863,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.hama-midorinokyokai.or.jp/kodomo/"
+            "参照": "公式サイト：http://www.hama-midorinokyokai.or.jp/kodomo/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E6%A4%8D%E7%89%A9%E5%9C%92"
           }
         },
         {
@@ -871,7 +871,7 @@ window.FACILITY_DATASET={
           "city": "箱根町",
           "name": "箱根湿生花園",
           "type": "湿生植物園",
-          "note": "温室型ではないが、木道と人工湿地に境界空間感がある。",
+          "note": "温室型ではないが、木道と人工湿地に境界空間感がある。1976年開業。",
           "official": "https://hakone-shisseikaen.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AE%B1%E6%A0%B9%E6%B9%BF%E7%94%9F%E8%8A%B1%E5%9C%92%20%E7%AE%B1%E6%A0%B9%E7%94%BA%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -884,7 +884,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://hakone-shisseikaen.com/"
+            "参照": "公式サイト：https://hakone-shisseikaen.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%AE%B1%E6%A0%B9%E6%B9%BF%E7%94%9F%E8%8A%B1%E5%9C%92"
           }
         },
         {
@@ -892,7 +892,7 @@ window.FACILITY_DATASET={
           "city": "新潟市",
           "name": "新潟県立植物園",
           "type": "巨大ドーム温室",
-          "note": "全面ガラスの巨大ドーム。90年代県立施設感がかなり強い。",
+          "note": "全面ガラスの巨大ドーム。90年代県立施設感がかなり強い。1998年開園。",
           "official": "https://botanical.greenery-niigata.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%AB%8B%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%96%B0%E6%BD%9F%E5%B8%82%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -909,7 +909,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://botanical.greenery-niigata.or.jp/"
+            "参照": "公式サイト：https://botanical.greenery-niigata.or.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%AB%8B%E6%A4%8D%E7%89%A9%E5%9C%92"
           }
         },
         {
@@ -917,7 +917,7 @@ window.FACILITY_DATASET={
           "city": "富山市",
           "name": "富山県中央植物園",
           "type": "大型温室群",
-          "note": "複数温室を公共施設的なホールで接続。",
+          "note": "複数温室を公共施設的なホールで接続。9:00〜17:00。",
           "official": "http://www.bgtym.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E4%B8%AD%E5%A4%AE%E6%A4%8D%E7%89%A9%E5%9C%92%20%E5%AF%8C%E5%B1%B1%E5%B8%82%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -930,7 +930,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.bgtym.org/"
+            "参照": "公式サイト：http://www.bgtym.org/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E7%9C%8C%E4%B8%AD%E5%A4%AE%E6%A4%8D%E7%89%A9%E5%9C%92"
           }
         },
         {
@@ -938,7 +938,7 @@ window.FACILITY_DATASET={
           "city": "七尾市",
           "name": "のと蘭ノ国",
           "type": "大型温室",
-          "note": "巨大温室と地方観光施設の組み合わせ。営業状況要確認。",
+          "note": "巨大温室と地方観光施設の組み合わせ。営業状況要確認。2000年開園。",
           "official": "https://www.notorannokuni.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AE%E3%81%A8%E8%98%AD%E3%83%8E%E5%9B%BD%20%E4%B8%83%E5%B0%BE%E5%B8%82%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -951,7 +951,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.notorannokuni.com/"
+            "参照": "公式サイト：https://www.notorannokuni.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%81%AE%E3%81%A8%E8%98%AD%E3%83%8E%E5%9B%BD"
           }
         },
         {
@@ -959,7 +959,7 @@ window.FACILITY_DATASET={
           "city": "長野市",
           "name": "長野県植物園（戸隠森林植物園）",
           "type": "森林植物園",
-          "note": "温室ではないが公共自然施設としての静けさがある。 月曜日休館。",
+          "note": "温室ではないが公共自然施設としての静けさがある。 月曜日休館。9:30〜16:30。",
           "official": "https://www.pref.nagano.lg.jp/nagachi/nagachi-rimmu/shokonorin/togakusisinrinsyokubutuen.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E6%A4%8D%E7%89%A9%E5%9C%92%EF%BC%88%E6%88%B8%E9%9A%A0%E6%A3%AE%E6%9E%97%E6%A4%8D%E7%89%A9%E5%9C%92%EF%BC%89%20%E9%95%B7%E9%87%8E%E5%B8%82%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -1035,7 +1035,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://bananawani.jp/"
+            "参照": "公式サイト：http://bananawani.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%86%B1%E5%B7%9D%E3%83%90%E3%83%8A%E3%83%8A%E3%83%AF%E3%83%8B%E5%9C%92"
           }
         },
         {
@@ -1106,7 +1106,7 @@ window.FACILITY_DATASET={
           "city": "大阪市",
           "name": "咲くやこの花館",
           "type": "巨大温室",
-          "note": "花博由来の巨大人工環境と公共施設建築。10:00～17:00",
+          "note": "花博由来の巨大人工環境と公共施設建築。10:00～17:00。1990年竣工。",
           "official": "https://www.sakuyakonohana.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%B2%E3%81%8F%E3%82%84%E3%81%93%E3%81%AE%E8%8A%B1%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -1123,7 +1123,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.sakuyakonohana.jp/"
+            "参照": "公式サイト：https://www.sakuyakonohana.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%92%B2%E3%81%8F%E3%82%84%E3%81%93%E3%81%AE%E8%8A%B1%E9%A4%A8"
           }
         },
         {
@@ -1144,7 +1144,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.omu.ac.jp/bg/"
+            "参照": "公式サイト：https://www.omu.ac.jp/bg/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E6%A4%8D%E7%89%A9%E5%9C%92"
           }
         },
         {
@@ -1165,7 +1165,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://flowercenter.jp/"
+            "参照": "公式サイト：https://flowercenter.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
           }
         },
         {
@@ -1186,7 +1186,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.kobe-park.or.jp/shinrin/"
+            "参照": "公式サイト：http://www.kobe-park.or.jp/shinrin/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E5%B8%82%E7%AB%8B%E6%A3%AE%E6%9E%97%E6%A4%8D%E7%89%A9%E5%9C%92"
           }
         },
         {
@@ -1207,7 +1207,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.kobe-oukoku.com/"
+            "参照": "公式サイト：https://www.kobe-oukoku.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E3%81%A9%E3%81%86%E3%81%B6%E3%81%A4%E7%8E%8B%E5%9B%BD"
           }
         },
         {
@@ -1249,7 +1249,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.tottorihanakairou.or.jp/?utm_source"
+            "参照": "公式サイト：https://www.tottorihanakairou.or.jp/?utm_source\nWikipedia：https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%A3%E3%81%A8%E3%82%8A%E8%8A%B1%E5%9B%9E%E5%BB%8A"
           }
         },
         {
@@ -1257,7 +1257,7 @@ window.FACILITY_DATASET={
           "city": "松江市",
           "name": "松江フォーゲルパーク",
           "type": "巨大温室",
-          "note": "巨大温室と動く歩道、展望施設。テーマパーク型リミナル。9:00～17:00",
+          "note": "巨大温室と動く歩道、展望施設。テーマパーク型リミナル。9:00～17:00。2001年開業。",
           "official": "https://www.ichibata.co.jp/vogelpark/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E6%B1%9F%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B2%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%20%E6%9D%BE%E6%B1%9F%E5%B8%82%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -1270,7 +1270,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.ichibata.co.jp/vogelpark/"
+            "参照": "公式サイト：https://www.ichibata.co.jp/vogelpark/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B1%9F%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B2%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF"
           }
         },
         {
@@ -1291,7 +1291,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": ""
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%B8%82%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92"
           }
         },
         {
@@ -1375,7 +1375,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.biopark.co.jp/"
+            "参照": "公式サイト：http://www.biopark.co.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E3%83%90%E3%82%A4%E3%82%AA%E3%83%91%E3%83%BC%E3%82%AF"
           }
         },
         {
@@ -1438,7 +1438,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.fp-k.org/"
+            "参照": "公式サイト：http://www.fp-k.org/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E3%81%8B%E3%81%94%E3%81%97%E3%81%BE"
           }
         },
         {
@@ -1446,7 +1446,7 @@ window.FACILITY_DATASET={
           "city": "沖縄市",
           "name": "東南植物楽園",
           "type": "熱帯植物園",
-          "note": "温室より屋外主体だが、人工熱帯景観として強い。9:30-21:00",
+          "note": "温室より屋外主体だが、人工熱帯景観として強い。9:30-21:00。1968年開業。",
           "official": "http://www.southeast-botanical.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E6%A5%BD%E5%9C%92%20%E6%B2%96%E7%B8%84%E5%B8%82%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -1459,7 +1459,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.southeast-botanical.jp/"
+            "参照": "公式サイト：http://www.southeast-botanical.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8D%97%E6%A4%8D%E7%89%A9%E6%A5%BD%E5%9C%92"
           }
         },
         {
@@ -1519,7 +1519,7 @@ window.FACILITY_DATASET={
           "city": "寄居町",
           "name": "埼玉県立川の博物館",
           "type": "河川・自然史",
-          "note": "巨大水車・河川展示。9:00～17:00。 月曜日休館。",
+          "note": "巨大水車・河川展示。9:00～17:00。 月曜日休館。1997年開館。",
           "official": "https://www.river-museum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%AB%8B%E5%B7%9D%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%AF%84%E5%B1%85%E7%94%BA",
           "kind": "ドリームコア",
@@ -1532,7 +1532,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.river-museum.jp/"
+            "参照": "公式サイト：https://www.river-museum.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%AB%8B%E5%B7%9D%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -1540,7 +1540,7 @@ window.FACILITY_DATASET={
           "city": "草津市",
           "name": "琵琶湖博物館",
           "type": "水環境・総合博物館",
-          "note": "水環境展示。9時30分 - 17時00分。 月曜日休館。",
+          "note": "水環境展示。9時30分 - 17時00分。 月曜日休館。1996年竣工。",
           "official": "https://www.biwahaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E8%8D%89%E6%B4%A5%E5%B8%82",
           "kind": "リミナル",
@@ -1553,7 +1553,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.biwahaku.jp/"
+            "参照": "公式サイト：https://www.biwahaku.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -1561,7 +1561,7 @@ window.FACILITY_DATASET={
           "city": "北九州市門司区",
           "name": "海峡ドラマシップ",
           "type": "港湾・歴史展示",
-          "note": "巨大屋内展示＋港湾。",
+          "note": "巨大屋内展示＋港湾。2003年開館。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E5%B3%A1%E3%83%89%E3%83%A9%E3%83%9E%E3%82%B7%E3%83%83%E3%83%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
           "kind": "ドリームコア",
@@ -1582,7 +1582,7 @@ window.FACILITY_DATASET={
           "city": "北九州市門司区",
           "name": "関門海峡ミュージアム",
           "type": "港湾・歴史展示",
-          "note": "港湾展示と大規模吹き抜け。9:00～17:00",
+          "note": "港湾展示と大規模吹き抜け。9:00～17:00。2003年開館。",
           "official": "https://mojiko-retoro9.jp/spot/kanmon_kaikyo_museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%A2%E9%96%80%E6%B5%B7%E5%B3%A1%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
           "kind": "ドリームコア",
@@ -1595,7 +1595,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://mojiko-retoro9.jp/spot/kanmon_kaikyo_museum/"
+            "参照": "公式サイト：https://mojiko-retoro9.jp/spot/kanmon_kaikyo_museum/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%96%A2%E9%96%80%E6%B5%B7%E5%B3%A1%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0"
           }
         },
         {
@@ -1616,7 +1616,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.tatecal.or.jp/tatecal/index.html"
+            "参照": "公式サイト：http://www.tatecal.or.jp/tatecal/index.html\nWikipedia：https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%87%E3%83%A9%E7%A0%82%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -1645,7 +1645,7 @@ window.FACILITY_DATASET={
           "city": "札幌市",
           "name": "札幌市青少年科学館",
           "type": "科学館",
-          "note": "9:00〜17:00",
+          "note": "9:00〜17:00。1981年開館。",
           "official": "https://www.ssc.slp.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82",
           "kind": "科学系施設",
@@ -1658,7 +1658,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.ssc.slp.or.jp/"
+            "参照": "公式サイト：https://www.ssc.slp.or.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -1666,7 +1666,7 @@ window.FACILITY_DATASET={
           "city": "旭川市",
           "name": "旭川市科学館 サイパル",
           "type": "科学館",
-          "note": "9:30～17:00",
+          "note": "9:30～17:00。2005年竣工。",
           "official": "http://www.city.asahikawa.hokkaido.jp/science/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%AD%E5%B7%9D%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%B5%E3%82%A4%E3%83%91%E3%83%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%AD%E5%B7%9D%E5%B8%82",
           "kind": "科学系施設",
@@ -1679,7 +1679,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.city.asahikawa.hokkaido.jp/science/"
+            "参照": "公式サイト：http://www.city.asahikawa.hokkaido.jp/science/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%97%AD%E5%B7%9D%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8_%E3%82%B5%E3%82%A4%E3%83%91%E3%83%AB"
           }
         },
         {
@@ -1687,7 +1687,7 @@ window.FACILITY_DATASET={
           "city": "苫小牧市",
           "name": "苫小牧市科学センター",
           "type": "科学館",
-          "note": "9時30分～17時",
+          "note": "9時30分～17時。1970年竣工。",
           "official": "https://www.city.tomakomai.hokkaido.jp/kagaku/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82",
           "kind": "科学系施設",
@@ -1700,7 +1700,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.city.tomakomai.hokkaido.jp/kagaku/"
+            "参照": "公式サイト：https://www.city.tomakomai.hokkaido.jp/kagaku/\nWikipedia：https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
           }
         },
         {
@@ -1708,7 +1708,7 @@ window.FACILITY_DATASET={
           "city": "室蘭市",
           "name": "DENZAI環境科学館",
           "type": "科学・環境",
-          "note": "10:00～17:00。 月曜日休館。",
+          "note": "10:00～17:00。 月曜日休館。2021年開館。",
           "official": "https://www.kujiran.net/emiran/kagakukan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=DENZAI%E7%92%B0%E5%A2%83%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%AE%A4%E8%98%AD%E5%B8%82",
           "kind": "科学系施設",
@@ -1721,7 +1721,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.kujiran.net/emiran/kagakukan/"
+            "参照": "公式サイト：https://www.kujiran.net/emiran/kagakukan/\nWikipedia：https://ja.wikipedia.org/wiki/DENZAI%E7%92%B0%E5%A2%83%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -1729,7 +1729,7 @@ window.FACILITY_DATASET={
           "city": "釧路市",
           "name": "釧路市こども遊学館",
           "type": "科学館",
-          "note": "",
+          "note": "2005年竣工。",
           "official": "http://kodomoyugakukan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%A7%E8%B7%AF%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E9%81%8A%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82",
           "kind": "科学系施設",
@@ -1742,7 +1742,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://kodomoyugakukan.jp/"
+            "参照": "公式サイト：http://kodomoyugakukan.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%87%A7%E8%B7%AF%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E9%81%8A%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -1784,7 +1784,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://kokukagaku.jp/"
+            "参照": "公式サイト：https://kokukagaku.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E7%9C%8C%E7%AB%8B%E4%B8%89%E6%B2%A2%E8%88%AA%E7%A9%BA%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -1792,7 +1792,7 @@ window.FACILITY_DATASET={
           "city": "むつ市",
           "name": "むつ科学技術館",
           "type": "科学・エネルギー",
-          "note": "",
+          "note": "1996年開館。",
           "official": "https://msm720.jaea.go.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%80%E3%81%A4%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E3%82%80%E3%81%A4%E5%B8%82",
           "kind": "科学系施設",
@@ -1805,7 +1805,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://msm720.jaea.go.jp/"
+            "参照": "公式サイト：https://msm720.jaea.go.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%82%80%E3%81%A4%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E9%A4%A8"
           }
         },
         {
@@ -1826,7 +1826,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.kodomokagakukan.com/"
+            "参照": "公式サイト：http://www.kodomokagakukan.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B2%A1%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -1834,7 +1834,7 @@ window.FACILITY_DATASET={
           "city": "大仙市",
           "name": "秋田県立農業科学館",
           "type": "農業科学",
-          "note": "月曜日休館。",
+          "note": "月曜日休館。9:30〜16:30。",
           "official": "https://www.obako.or.jp/sun-agrin/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%E7%AB%8B%E8%BE%B2%E6%A5%AD%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E5%A4%A7%E4%BB%99%E5%B8%82",
           "kind": "科学系施設",
@@ -1847,7 +1847,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.obako.or.jp/sun-agrin/"
+            "参照": "公式サイト：https://www.obako.or.jp/sun-agrin/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E7%9C%8C%E7%AB%8B%E8%BE%B2%E6%A5%AD%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -1910,7 +1910,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.gsj.jp/Muse/"
+            "参照": "公式サイト：http://www.gsj.jp/Muse/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%B3%AA%E6%A8%99%E6%9C%AC%E9%A4%A8"
           }
         },
         {
@@ -1918,7 +1918,7 @@ window.FACILITY_DATASET={
           "city": "つくば市",
           "name": "つくばエキスポセンター",
           "type": "科学館",
-          "note": "月曜日休館。",
+          "note": "月曜日休館。1985年竣工。",
           "official": "http://www.expocenter.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A4%E3%81%8F%E3%81%B0%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%9D%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
           "kind": "科学系施設",
@@ -1931,7 +1931,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.expocenter.or.jp/"
+            "参照": "公式サイト：http://www.expocenter.or.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%8F%E3%81%B0%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%9D%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
           }
         },
         {
@@ -1994,7 +1994,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://t-csm.jp/"
+            "参照": "公式サイト：https://t-csm.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AD%90%E3%81%A9%E3%82%82%E7%B7%8F%E5%90%88%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2036,7 +2036,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.kawaguchi.science.museum/"
+            "参照": "公式サイト：http://www.kawaguchi.science.museum/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2099,7 +2099,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.city.atsugi.kanagawa.jp/acsc/index.html"
+            "参照": "公式サイト：https://www.city.atsugi.kanagawa.jp/acsc/index.html\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%8E%9A%E6%9C%A8%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2120,7 +2120,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.sciencemuseum.jp/"
+            "参照": "公式サイト：https://www.sciencemuseum.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2141,7 +2141,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.matsunoyama.com/kyororo/"
+            "参照": "公式サイト：https://www.matsunoyama.com/kyororo/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82%E7%AB%8B%E9%87%8C%E5%B1%B1%E7%A7%91%E5%AD%A6%E9%A4%A8_%E8%B6%8A%E5%BE%8C%E6%9D%BE%E4%B9%8B%E5%B1%B1%E3%80%8C%E6%A3%AE%E3%81%AE%E5%AD%A6%E6%A0%A1%E3%80%8D%E3%82%AD%E3%83%A7%E3%83%AD%E3%83%AD"
           }
         },
         {
@@ -2178,7 +2178,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://science-hills-komatsu.jp/"
+            "参照": "公式サイト：http://science-hills-komatsu.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%92%E3%83%AB%E3%82%BA%E3%81%93%E3%81%BE%E3%81%A4"
           }
         },
         {
@@ -2228,7 +2228,7 @@ window.FACILITY_DATASET={
           "city": "甲府市",
           "name": "山梨県立科学館",
           "type": "科学館",
-          "note": "9時30分～17時。 月曜日休館。",
+          "note": "9時30分～17時。 月曜日休館。1998年竣工。",
           "official": "https://www.kagakukan.pref.yamanashi.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E7%94%B2%E5%BA%9C%E5%B8%82",
           "kind": "科学系施設",
@@ -2241,7 +2241,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.kagakukan.pref.yamanashi.jp/"
+            "参照": "公式サイト：https://www.kagakukan.pref.yamanashi.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2262,7 +2262,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://kodomomiraikan.jp/"
+            "参照": "公式サイト：https://kodomomiraikan.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B9%85%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E6%9C%AA%E6%9D%A5%E9%A4%A8"
           }
         },
         {
@@ -2304,7 +2304,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.rukuru.jp/"
+            "参照": "公式サイト：https://www.rukuru.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%82%8B%E3%83%BB%E3%81%8F%E3%83%BB%E3%82%8B"
           }
         },
         {
@@ -2312,7 +2312,7 @@ window.FACILITY_DATASET={
           "city": "浜松市",
           "name": "浜松科学館",
           "type": "科学館",
-          "note": "",
+          "note": "1986年竣工。",
           "official": "https://www.mirai-ra.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%9C%E6%9D%BE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%B5%9C%E6%9D%BE%E5%B8%82",
           "kind": "科学系施設",
@@ -2325,7 +2325,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.mirai-ra.jp/"
+            "参照": "公式サイト：https://www.mirai-ra.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%B5%9C%E6%9D%BE%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2346,7 +2346,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://bananawani.jp/"
+            "参照": "公式サイト：http://bananawani.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%86%B1%E5%B7%9D%E3%83%90%E3%83%8A%E3%83%8A%E3%83%AF%E3%83%8B%E5%9C%92"
           }
         },
         {
@@ -2367,7 +2367,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.city.gamagori.lg.jp/site/kagakukan/"
+            "参照": "公式サイト：http://www.city.gamagori.lg.jp/site/kagakukan/\nWikipedia：https://ja.wikipedia.org/wiki/%E8%92%B2%E9%83%A1%E5%B8%82%E7%94%9F%E5%91%BD%E3%81%AE%E6%B5%B7%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2375,7 +2375,7 @@ window.FACILITY_DATASET={
           "city": "豊橋市",
           "name": "豊橋市地下資源館",
           "type": "資源・地質",
-          "note": "",
+          "note": "1980年開館。",
           "official": "https://www.toyohaku.gr.jp/chika/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%A9%8B%E5%B8%82%E5%9C%B0%E4%B8%8B%E8%B3%87%E6%BA%90%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E6%A9%8B%E5%B8%82",
           "kind": "科学系施設",
@@ -2388,7 +2388,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.toyohaku.gr.jp/chika/"
+            "参照": "公式サイト：https://www.toyohaku.gr.jp/chika/\nWikipedia：https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%A9%8B%E5%B8%82%E5%9C%B0%E4%B8%8B%E8%B3%87%E6%BA%90%E9%A4%A8"
           }
         },
         {
@@ -2430,7 +2430,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.itakon.com/"
+            "参照": "公式サイト：http://www.itakon.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%B8%B9%E5%B8%82%E6%98%86%E8%99%AB%E9%A4%A8"
           }
         },
         {
@@ -2451,7 +2451,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.city.himeji.lg.jp/atom/"
+            "参照": "公式サイト：http://www.city.himeji.lg.jp/atom/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2472,7 +2472,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://satokouen.jp/"
+            "参照": "公式サイト：https://satokouen.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%82%B3%E3%82%A6%E3%83%8E%E3%83%88%E3%83%AA%E3%81%AE%E9%83%B7%E5%85%AC%E5%9C%92"
           }
         },
         {
@@ -2493,7 +2493,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.city.kashihara.nara.jp/kanko_bunka_sports/kodomokagakukan/index.html"
+            "参照": "公式サイト：https://www.city.kashihara.nara.jp/kanko_bunka_sports/kodomokagakukan/index.html\nWikipedia：https://ja.wikipedia.org/wiki/%E6%A9%BF%E5%8E%9F%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2501,7 +2501,7 @@ window.FACILITY_DATASET={
           "city": "和歌山市",
           "name": "和歌山市立こども科学館",
           "type": "科学館",
-          "note": "９:３０ ～ １６:３０。 月曜日休館。",
+          "note": "９:３０ ～ １６:３０。 月曜日休館。1981年竣工。",
           "official": "https://kodomo123.jp/wordpress/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82",
           "kind": "科学系施設",
@@ -2514,7 +2514,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://kodomo123.jp/wordpress/"
+            "参照": "公式サイト：https://kodomo123.jp/wordpress/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2522,7 +2522,7 @@ window.FACILITY_DATASET={
           "city": "出雲市",
           "name": "出雲科学館",
           "type": "科学館",
-          "note": "",
+          "note": "2002年竣工。",
           "official": "https://www.izumo.ed.jp/kagaku/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BA%E9%9B%B2%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%87%BA%E9%9B%B2%E5%B8%82",
           "kind": "科学系施設",
@@ -2535,7 +2535,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.izumo.ed.jp/kagaku/"
+            "参照": "公式サイト：https://www.izumo.ed.jp/kagaku/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%87%BA%E9%9B%B2%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2543,7 +2543,7 @@ window.FACILITY_DATASET={
           "city": "津山市",
           "name": "つやま自然のふしぎ館",
           "type": "自然史",
-          "note": "9:00～17:00。 月曜日休館。",
+          "note": "9:00～17:00。 月曜日休館。1963年開設。",
           "official": "http://www.fushigikan.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A4%E3%82%84%E3%81%BE%E8%87%AA%E7%84%B6%E3%81%AE%E3%81%B5%E3%81%97%E3%81%8E%E9%A4%A8%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E6%B4%A5%E5%B1%B1%E5%B8%82",
           "kind": "科学系施設",
@@ -2556,7 +2556,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.fushigikan.jp/"
+            "参照": "公式サイト：http://www.fushigikan.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%81%A4%E3%82%84%E3%81%BE%E8%87%AA%E7%84%B6%E3%81%AE%E3%81%B5%E3%81%97%E3%81%8E%E9%A4%A8"
           }
         },
         {
@@ -2564,7 +2564,7 @@ window.FACILITY_DATASET={
           "city": "広島市",
           "name": "広島市江波山気象館",
           "type": "気象",
-          "note": "",
+          "note": "1934年竣工。",
           "official": "http://www.ebayama.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82",
           "kind": "科学系施設",
@@ -2577,7 +2577,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.ebayama.jp/"
+            "参照": "公式サイト：http://www.ebayama.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8"
           }
         },
         {
@@ -2601,7 +2601,7 @@ window.FACILITY_DATASET={
           "city": "久留米市",
           "name": "福岡県青少年科学館",
           "type": "科学館",
-          "note": "",
+          "note": "1990年開館。",
           "official": "http://www.science.pref.fukuoka.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82",
           "kind": "科学系施設",
@@ -2614,7 +2614,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.science.pref.fukuoka.jp/"
+            "参照": "公式サイト：http://www.science.pref.fukuoka.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E7%9C%8C%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2677,7 +2677,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.kiseichu.org/"
+            "参照": "公式サイト：https://www.kiseichu.org/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%9B%AE%E9%BB%92%E5%AF%84%E7%94%9F%E8%99%AB%E9%A4%A8"
           }
         },
         {
@@ -2743,7 +2743,7 @@ window.FACILITY_DATASET={
           "city": "北見市",
           "name": "北網圏北見文化センター",
           "type": "科学館・児童科学館",
-          "note": "科学館・博物館・美術館・プラネタリウム複合施設 開館年：1984年。 月曜日休館。",
+          "note": "科学館・博物館・美術館・プラネタリウム複合施設 開館年：1984年。 月曜日休館。9:30〜16:30。",
           "official": "https://hokumouken.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E7%B6%B2%E5%9C%8F%E5%8C%97%E8%A6%8B%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E8%A6%8B%E5%B8%82",
           "kind": "リミナル科学館",
@@ -2798,7 +2798,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.sandanike-kouen.or.jp/science-museum/"
+            "参照": "公式サイト：https://www.sandanike-kouen.or.jp/science-museum/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%E5%85%90%E7%AB%A5%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2827,7 +2827,7 @@ window.FACILITY_DATASET={
           "city": "伊丹市",
           "name": "伊丹市立こども文化科学館",
           "type": "科学館・児童科学館",
-          "note": "平成初期型の公共科学施設 開館年：1990年。 火曜休館。",
+          "note": "平成初期型の公共科学施設 開館年：1990年。 火曜休館。9:00〜17:15。",
           "official": "https://www.city.itami.lg.jp/SOSIKI/KODOMO/kodomobunka_kagakukan/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E4%B8%B9%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E6%96%87%E5%8C%96%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E4%BC%8A%E4%B8%B9%E5%B8%82",
           "kind": "リミナル科学館",
@@ -2985,7 +2985,7 @@ window.FACILITY_DATASET={
           "city": "江東区",
           "name": "東京都立第五福竜丸展示館",
           "type": "都立展示施設",
-          "note": "独立展示館・大空間・船体展示。建物内部の空間体験が強い。９時３０分〜１６時",
+          "note": "独立展示館・大空間・船体展示。建物内部の空間体験が強い。９時３０分〜１６時。1976年竣工。",
           "official": "http://d5f.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%AC%AC%E4%BA%94%E7%A6%8F%E7%AB%9C%E4%B8%B8%E5%B1%95%E7%A4%BA%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "公共空間",
@@ -2993,7 +2993,7 @@ window.FACILITY_DATASET={
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://d5f.org/"
+            "参照": "公式サイト：http://d5f.org/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%AC%AC%E4%BA%94%E7%A6%8F%E7%AB%9C%E4%B8%B8%E5%B1%95%E7%A4%BA%E9%A4%A8"
           }
         },
         {
@@ -3069,7 +3069,7 @@ window.FACILITY_DATASET={
           "city": "江東区",
           "name": "東京都水の科学館",
           "type": "上下水道",
-          "note": "水道PR館。人工的な水空間。9:30～17:00。 月曜日休館。",
+          "note": "水道PR館。人工的な水空間。9:30～17:00。 月曜日休館。1995年竣工。",
           "official": "http://www.mizunokagaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B0%B4%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "リミナル",
@@ -3086,7 +3086,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.mizunokagaku.jp/"
+            "参照": "公式サイト：http://www.mizunokagaku.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B0%B4%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -3291,7 +3291,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.osaka-ssm.jp/"
+            "参照": "公式サイト：https://www.osaka-ssm.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%8B%E6%B0%B4%E9%81%93%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -3614,7 +3614,7 @@ window.FACILITY_DATASET={
           "city": "小平市",
           "name": "小平市ふれあい下水道館",
           "type": "上下水道",
-          "note": "月曜休館。",
+          "note": "月曜休館。10:00〜16:00。",
           "official": "https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B9%B3%E5%B8%82%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
           "kind": "科学系施設",
@@ -3723,7 +3723,7 @@ window.FACILITY_DATASET={
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-11/index.html"
+            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-11/index.html\nWikipedia：https://ja.wikipedia.org/wiki/%E6%A3%AE%E3%83%B6%E5%B4%8E%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
           }
         },
         {
@@ -4715,7 +4715,7 @@ window.FACILITY_DATASET={
           "city": "いわき市",
           "name": "アクアマリンふくしま",
           "type": "海洋科学",
-          "note": "福島県沖で黒潮と親潮が出会う「潮目」をテーマにする水族館。「潮目の海」では二つの大水槽と三角形のトンネルで海流の境目を表している。",
+          "note": "福島県沖で黒潮と親潮が出会う「潮目」をテーマにする水族館。「潮目の海」では二つの大水槽と三角形のトンネルで海流の境目を表している。2000年竣工。",
           "official": "https://www.aquamarine.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%9E%E3%83%AA%E3%83%B3%E3%81%B5%E3%81%8F%E3%81%97%E3%81%BE%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82",
           "kind": "科学系施設",
@@ -4728,7 +4728,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.aquamarine.or.jp/\n公式資料：https://www.aquamarine.or.jp/exhibitions/sea-of-current-rip/"
+            "参照": "公式サイト：https://www.aquamarine.or.jp/\n公式資料：https://www.aquamarine.or.jp/exhibitions/sea-of-current-rip/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%9E%E3%83%AA%E3%83%B3%E3%81%B5%E3%81%8F%E3%81%97%E3%81%BE"
           }
         },
         {
@@ -4799,7 +4799,7 @@ window.FACILITY_DATASET={
           "city": "板橋区",
           "name": "板橋区立熱帯環境植物館",
           "type": "植物・水生生物",
-          "note": "",
+          "note": "1994年開園。",
           "official": "http://www.seibu-la.co.jp/nettaikan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E7%86%B1%E5%B8%AF%E7%92%B0%E5%A2%83%E6%A4%8D%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
           "kind": "科学系施設",
@@ -4812,7 +4812,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.seibu-la.co.jp/nettaikan/"
+            "参照": "公式サイト：http://www.seibu-la.co.jp/nettaikan/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E7%86%B1%E5%B8%AF%E7%92%B0%E5%A2%83%E6%A4%8D%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -4989,7 +4989,7 @@ window.FACILITY_DATASET={
           "city": "高千穂町",
           "name": "高千穂峡淡水魚水族館",
           "type": "淡水・河川型",
-          "note": "五ヶ瀬川水系のドンコなど地域淡水魚と、チョウザメ等を展示する町立水族館。 水曜日休館。",
+          "note": "五ヶ瀬川水系のドンコなど地域淡水魚と、チョウザメ等を展示する町立水族館。 水曜日休館。9:00〜16:00。",
           "official": "https://www.town-takachiho.jp/top/soshiki/kikakukanko/2/3/313.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%8D%83%E7%A9%82%E5%B3%A1%E6%B7%A1%E6%B0%B4%E9%AD%9A%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E9%AB%98%E5%8D%83%E7%A9%82%E7%94%BA",
           "kind": "",
@@ -5068,7 +5068,7 @@ window.FACILITY_DATASET={
           "city": "北見市",
           "name": "北網圏北見文化センター",
           "type": "科学・博物館",
-          "note": "月曜日休館。",
+          "note": "月曜日休館。9:30〜16:30。",
           "official": "https://hokumouken.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E7%B6%B2%E5%9C%8F%E5%8C%97%E8%A6%8B%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E8%A6%8B%E5%B8%82",
           "kind": "科学系施設",
@@ -5110,7 +5110,7 @@ window.FACILITY_DATASET={
           "city": "釧路市",
           "name": "釧路市立博物館",
           "type": "自然史",
-          "note": "月曜日休館。",
+          "note": "月曜日休館。9:30〜17:00。",
           "official": "http://www.city.kushiro.lg.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%A7%E8%B7%AF%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82",
           "kind": "科学系施設",
@@ -5215,7 +5215,7 @@ window.FACILITY_DATASET={
           "city": "三笠市",
           "name": "三笠市立博物館",
           "type": "化石・地質",
-          "note": "月曜日休館。",
+          "note": "月曜日休館。9:00〜17:00。",
           "official": "https://www.city.mikasa.hokkaido.jp/museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E7%AC%A0%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E4%B8%89%E7%AC%A0%E5%B8%82",
           "kind": "科学系施設",
@@ -5278,7 +5278,7 @@ window.FACILITY_DATASET={
           "city": "根室市",
           "name": "根室市歴史と自然の資料館",
           "type": "自然史",
-          "note": "月曜日休館。",
+          "note": "月曜日休館。9:30〜16:30。",
           "official": "http://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%B9%E5%AE%A4%E5%B8%82%E6%AD%B4%E5%8F%B2%E3%81%A8%E8%87%AA%E7%84%B6%E3%81%AE%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%A0%B9%E5%AE%A4%E5%B8%82",
           "kind": "科学系施設",
@@ -5354,7 +5354,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.kuji.co.jp/"
+            "参照": "公式サイト：http://www.kuji.co.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E4%B9%85%E6%85%88%E7%90%A5%E7%8F%80%E5%8D%9A%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -5562,7 +5562,7 @@ window.FACILITY_DATASET={
           "city": "みどり市",
           "name": "みどり市大間々博物館 コノドント館",
           "type": "化石・地質",
-          "note": "月曜日休館。",
+          "note": "月曜日休館。9:00〜17:00。",
           "official": "https://www.city.midori.gunma.jp/conodont/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%A9%E3%82%8A%E5%B8%82%E5%A4%A7%E9%96%93%E3%80%85%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E3%82%B3%E3%83%8E%E3%83%89%E3%83%B3%E3%83%88%E9%A4%A8%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E3%81%BF%E3%81%A9%E3%82%8A%E5%B8%82",
           "kind": "科学系施設",
@@ -5583,7 +5583,7 @@ window.FACILITY_DATASET={
           "city": "宮代町",
           "name": "日本工業大学工業技術博物館",
           "type": "産業技術",
-          "note": "日曜休館。",
+          "note": "日曜休館。9:30〜16:30。",
           "official": "https://museum.nit.ac.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%AE%AE%E4%BB%A3%E7%94%BA",
           "kind": "科学系施設",
@@ -5646,7 +5646,7 @@ window.FACILITY_DATASET={
           "city": "身延町",
           "name": "甲斐黄金村・湯之奥金山博物館",
           "type": "鉱山・産業",
-          "note": "",
+          "note": "9:00〜17:00。",
           "official": "https://www.town.minobu.lg.jp/site/kinzan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E6%96%90%E9%BB%84%E9%87%91%E6%9D%91%E3%83%BB%E6%B9%AF%E4%B9%8B%E5%A5%A5%E9%87%91%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E8%BA%AB%E5%BB%B6%E7%94%BA",
           "kind": "科学系施設",
@@ -5825,7 +5825,7 @@ window.FACILITY_DATASET={
           "city": "草津市",
           "name": "滋賀県立琵琶湖博物館",
           "type": "湖沼・自然史",
-          "note": "9時30分 - 17時00分。 月曜日休館。",
+          "note": "9時30分 - 17時00分。 月曜日休館。1996年竣工。",
           "official": "https://www.biwahaku.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E7%AB%8B%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E8%8D%89%E6%B4%A5%E5%B8%82",
           "kind": "科学系施設",
@@ -5838,7 +5838,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.biwahaku.jp/"
+            "参照": "公式サイト：https://www.biwahaku.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%BB%8B%E8%B3%80%E7%9C%8C%E7%AB%8B%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -5867,7 +5867,7 @@ window.FACILITY_DATASET={
           "city": "奥出雲町",
           "name": "奥出雲多根自然博物館",
           "type": "自然史",
-          "note": "火曜日休館。",
+          "note": "火曜日休館。10:00〜16:00。",
           "official": "http://tanemuseum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E5%87%BA%E9%9B%B2%E5%A4%9A%E6%A0%B9%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%A5%A5%E5%87%BA%E9%9B%B2%E7%94%BA",
           "kind": "科学系施設",
@@ -5951,7 +5951,7 @@ window.FACILITY_DATASET={
           "city": "越知町",
           "name": "横倉山自然の森博物館",
           "type": "自然史・地質",
-          "note": "火曜日休館。",
+          "note": "火曜日休館。9:00〜16:30。",
           "official": "https://www.yokogurayama-museum.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E5%80%89%E5%B1%B1%E8%87%AA%E7%84%B6%E3%81%AE%E6%A3%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E8%B6%8A%E7%9F%A5%E7%94%BA",
           "kind": "科学系施設",
@@ -6327,7 +6327,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.kiseichu.org/"
+            "参照": "公式サイト：https://www.kiseichu.org/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%9B%AE%E9%BB%92%E5%AF%84%E7%94%9F%E8%99%AB%E9%A4%A8"
           }
         },
         {
@@ -6393,7 +6393,7 @@ window.FACILITY_DATASET={
           "city": "新宿区",
           "name": "消防博物館",
           "type": "消防・防災",
-          "note": "消防車両、装備、都市防災の歴史を展示。 月曜日休館。",
+          "note": "消防車両、装備、都市防災の歴史を展示。 月曜日休館。9:30〜17:00。",
           "official": "https://www.tfd.metro.tokyo.lg.jp/hp-hkkan/museum.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B6%88%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "消防・防災",
@@ -6577,7 +6577,7 @@ window.FACILITY_DATASET={
           "city": "大阪市北区",
           "name": "造幣博物館",
           "type": "貨幣・産業",
-          "note": "貨幣製造、造幣機械、勲章の資料を公開。 水曜日休館。",
+          "note": "貨幣製造、造幣機械、勲章の資料を公開。 水曜日休館。9:00〜16:45。",
           "official": "https://www.mint.go.jp/enjoy/plant-osaka/plant_visit_museum_h.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%80%A0%E5%B9%A3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
           "kind": "貨幣・産業",
@@ -6632,7 +6632,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://naramachi.co.jp/"
+            "参照": "公式サイト：http://naramachi.co.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E7%94%BA%E8%B3%87%E6%96%99%E9%A4%A8"
           }
         },
         {
@@ -6653,7 +6653,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.minakata.org/"
+            "参照": "公式サイト：http://www.minakata.org/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%8D%97%E6%96%B9%E7%86%8A%E6%A5%A0%E9%A1%95%E5%BD%B0%E9%A4%A8"
           }
         },
         {
@@ -6661,7 +6661,7 @@ window.FACILITY_DATASET={
           "city": "鳥取市",
           "name": "わらべ館",
           "type": "童謡・玩具",
-          "note": "童謡と玩具を扱う専門館。施設管理棟は、昭和5年建設の旧県立図書館の外観を復元している。 水曜日休館。",
+          "note": "童謡と玩具を扱う専門館。施設管理棟は、昭和5年建設の旧県立図書館の外観を復元している。 水曜日休館。9:00〜17:00。",
           "official": "https://www.warabe.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%8F%E3%82%89%E3%81%B9%E9%A4%A8%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E9%B3%A5%E5%8F%96%E5%B8%82",
           "kind": "童謡・玩具",
@@ -6745,7 +6745,7 @@ window.FACILITY_DATASET={
           "city": "佐賀市",
           "name": "佐賀バルーンミュージアム",
           "type": "気球・航空",
-          "note": "熱気球の構造、競技、佐賀との関係を紹介。10:00〜17:00。 月曜日休館。",
+          "note": "熱気球の構造、競技、佐賀との関係を紹介。10:00〜17:00。 月曜日休館。2016年開館。",
           "official": "https://www.sagabai.com/balloon-museum/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BD%90%E8%B3%80%E5%B8%82",
           "kind": "気球・航空",
@@ -6758,7 +6758,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.sagabai.com/balloon-museum/"
+            "参照": "公式サイト：https://www.sagabai.com/balloon-museum/\nWikipedia：https://ja.wikipedia.org/wiki/%E4%BD%90%E8%B3%80%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0"
           }
         },
         {
@@ -6850,7 +6850,7 @@ window.FACILITY_DATASET={
           "city": "鳥羽市",
           "name": "鳥羽市立海の博物館",
           "type": "海洋・漁業",
-          "note": "9:00～17:00",
+          "note": "9:00～17:00。1989年竣工。",
           "official": "http://www.umihaku.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E7%BE%BD%E5%B8%82%E7%AB%8B%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E9%B3%A5%E7%BE%BD%E5%B8%82",
           "kind": "科学系施設",
@@ -6863,7 +6863,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.umihaku.com/"
+            "参照": "公式サイト：http://www.umihaku.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%B3%A5%E7%BE%BD%E5%B8%82%E7%AB%8B%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -6913,7 +6913,7 @@ window.FACILITY_DATASET={
           "city": "美波町",
           "name": "日和佐うみがめ博物館カレッタ",
           "type": "生物・海洋",
-          "note": "月曜日休館。",
+          "note": "月曜日休館。9:00〜17:00。",
           "official": "https://caretta.town.minami.lg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%92%8C%E4%BD%90%E3%81%86%E3%81%BF%E3%81%8C%E3%82%81%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%82%AB%E3%83%AC%E3%83%83%E3%82%BF%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E7%BE%8E%E6%B3%A2%E7%94%BA",
           "kind": "科学系施設",
@@ -6976,7 +6976,7 @@ window.FACILITY_DATASET={
           "city": "板橋区",
           "name": "板橋区立郷土資料館",
           "type": "郷土資料館",
-          "note": "自治体展示・展示ケース・休憩空間。古い公共展示施設感を狙える。",
+          "note": "自治体展示・展示ケース・休憩空間。古い公共展示施設感を狙える。1969年開館。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
           "kind": "公共空間",
@@ -6989,7 +6989,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": ""
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8"
           }
         },
         {
@@ -6997,7 +6997,7 @@ window.FACILITY_DATASET={
           "city": "世田谷区",
           "name": "世田谷区立郷土資料館",
           "type": "郷土資料館",
-          "note": "建築・展示室双方が対象。 月曜日休館。",
+          "note": "建築・展示室双方が対象。 月曜日休館。9:00〜16:30。",
           "official": "https://www.city.setagaya.lg.jp/mokuji/kusei/012/011/002/d00138265.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
           "kind": "公共空間",
@@ -7375,7 +7375,7 @@ window.FACILITY_DATASET={
           "city": "一宮市",
           "name": "一宮地域文化広場 プラネタリウム館",
           "type": "天文",
-          "note": "月曜日休館。",
+          "note": "月曜日休館。9:00〜12:30。",
           "official": "https://www.hamada-sports.com/ichinomiya_chiikibunka/ichi?tab",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E5%AE%AE%E5%9C%B0%E5%9F%9F%E6%96%87%E5%8C%96%E5%BA%83%E5%A0%B4%20%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E4%B8%80%E5%AE%AE%E5%B8%82",
           "kind": "科学系施設",
@@ -7496,7 +7496,7 @@ window.FACILITY_DATASET={
           "city": "津和野町",
           "name": "日原天文台",
           "type": "天文",
-          "note": "",
+          "note": "1985年開館。",
           "official": "http://www.sun-net.jp/~polaris/?utm_source",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%8E%9F%E5%A4%A9%E6%96%87%E5%8F%B0%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%B4%A5%E5%92%8C%E9%87%8E%E7%94%BA",
           "kind": "科学系施設",
@@ -7509,7 +7509,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.sun-net.jp/~polaris/?utm_source"
+            "参照": "公式サイト：http://www.sun-net.jp/~polaris/?utm_source\nWikipedia：https://ja.wikipedia.org/wiki/%E6%97%A5%E5%8E%9F%E5%A4%A9%E6%96%87%E5%8F%B0"
           }
         },
         {
@@ -7601,7 +7601,7 @@ window.FACILITY_DATASET={
           "city": "向日市",
           "name": "向日市天文館",
           "type": "天文台・プラネタリウム",
-          "note": "小規模自治体天文館 開館年：1993年。 月曜日休館。",
+          "note": "小規模自治体天文館 開館年：1993年。 月曜日休館。9:30〜17:30。",
           "official": "https://www.city.muko.kyoto.jp/site/tenmonkan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%91%E6%97%A5%E5%B8%82%E5%A4%A9%E6%96%87%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E5%90%91%E6%97%A5%E5%B8%82",
           "kind": "リミナル科学館",
@@ -7816,7 +7816,7 @@ window.FACILITY_DATASET={
           "city": "太田市",
           "name": "太田市美術館・図書館",
           "type": "美術館・図書館",
-          "note": "美術館と図書館がスロープ状に連続する複合施設。",
+          "note": "美術館と図書館がスロープ状に連続する複合施設。2017年開館。",
           "official": "http://www.artmuseumlibraryota.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E7%94%B0%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8%E3%83%BB%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%A4%AA%E7%94%B0%E5%B8%82",
           "kind": "美術館・図書館",
@@ -7829,7 +7829,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.artmuseumlibraryota.jp/"
+            "参照": "公式サイト：http://www.artmuseumlibraryota.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8%E3%83%BB%E5%9B%B3%E6%9B%B8%E9%A4%A8"
           }
         },
         {
@@ -8089,7 +8089,7 @@ window.FACILITY_DATASET={
           "city": "高知市",
           "name": "オーテピア高知図書館",
           "type": "複合図書館",
-          "note": "",
+          "note": "9:00〜20:00。",
           "official": "https://otepia.kochi.jp/library/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%BC%E3%83%86%E3%83%94%E3%82%A2%E9%AB%98%E7%9F%A5%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E9%AB%98%E7%9F%A5%E5%B8%82",
           "kind": "複合図書館",
@@ -8152,7 +8152,7 @@ window.FACILITY_DATASET={
           "city": "港区",
           "name": "東京都立中央図書館",
           "type": "図書館",
-          "note": "巨大閲覧室・長い照明・公共施設的内装・食堂。1970年代大型公共建築の雰囲気。 土曜日休館。",
+          "note": "巨大閲覧室・長い照明・公共施設的内装・食堂。1970年代大型公共建築の雰囲気。 土曜日休館。10:00〜21:00。",
           "official": "https://www.library.metro.tokyo.lg.jp/guide/central_library/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
           "kind": "公共空間",
@@ -8194,7 +8194,7 @@ window.FACILITY_DATASET={
           "city": "国分寺市",
           "name": "東京都立多摩図書館",
           "type": "図書館",
-          "note": "大規模閲覧空間・研究施設的雰囲気。比較的新しいが無機質系。",
+          "note": "大規模閲覧空間・研究施設的雰囲気。比較的新しいが無機質系。1972年竣工。 10:00〜21:00。",
           "official": "https://www.library.metro.tokyo.lg.jp/guide/tama_library/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%A4%9A%E6%91%A9%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E5%88%86%E5%AF%BA%E5%B8%82",
           "kind": "公共空間",
@@ -8215,7 +8215,7 @@ window.FACILITY_DATASET={
           "city": "東京都立図書館",
           "name": "東京都立図書館「東京の地域資料に関するリンク集」",
           "type": "郷土資料",
-          "note": "各区市町村の古写真、郷土資料、デジタルアーカイブを掘る入口。 土曜日休館。",
+          "note": "各区市町村の古写真、郷土資料、デジタルアーカイブを掘る入口。 土曜日休館。10:00〜21:00。",
           "official": "https://www.library.metro.tokyo.lg.jp/guide/central_library/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
           "kind": "自治体ウェブ資料",
@@ -8252,7 +8252,7 @@ window.FACILITY_DATASET={
           "city": "武蔵野市",
           "name": "武蔵野プレイス「屋上・テラス系空間」",
           "type": "公共図書館・文化施設",
-          "note": "開館時。公共建築として面白い。 水曜日休館。",
+          "note": "開館時。公共建築として面白い。 水曜日休館。9:30〜22:00。",
           "official": "http://www.musashino.or.jp/place/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
@@ -8367,7 +8367,7 @@ window.FACILITY_DATASET={
           "city": "新宿区",
           "name": "新宿高島屋タイムズスクエア「上層階テラス・屋外空間」",
           "type": "商業施設高層テラス",
-          "note": "無料・営業時間内。新宿駅南口の高層商業施設。",
+          "note": "無料・営業時間内。新宿駅南口の高層商業施設。11:00〜23:00。",
           "official": "https://www.takashimaya.co.jp/shinjuku/timessquare/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E9%AB%98%E5%B3%B6%E5%B1%8B%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
@@ -8693,7 +8693,7 @@ window.FACILITY_DATASET={
           "city": "千代田区",
           "name": "KITTE丸の内「KITTEガーデン」",
           "type": "屋上庭園",
-          "note": "無料。東京駅舎とホームを上から見られる。",
+          "note": "無料。東京駅舎とホームを上から見られる。11:00〜19:00。",
           "official": "https://marunouchi.jp-kitte.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=KITTE%E4%B8%B8%E3%81%AE%E5%86%85%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
@@ -9185,7 +9185,7 @@ window.FACILITY_DATASET={
           "city": "中央区",
           "name": "築地魚河岸「屋上広場」",
           "type": "市場関連施設屋上",
-          "note": "無料・開館時間内。市場施設の上にある広場。",
+          "note": "無料・開館時間内。市場施設の上にある広場。5:00〜15:00。",
           "official": "https://www.tsukiji.or.jp/professional/uogashi/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AF%89%E5%9C%B0%E9%AD%9A%E6%B2%B3%E5%B2%B8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
@@ -9505,7 +9505,7 @@ window.FACILITY_DATASET={
           "city": "江東区",
           "name": "ららぽーと豊洲「シーサイドデッキ」",
           "type": "商業施設屋外デッキ",
-          "note": "無料。造船所跡地・海沿いの人工地盤。",
+          "note": "無料。造船所跡地・海沿いの人工地盤。10:00〜18:00。",
           "official": "https://mitsui-shopping-park.com/lalaport/toyosu/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%89%E3%82%89%E3%81%BD%E3%83%BC%E3%81%A8%E8%B1%8A%E6%B4%B2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
@@ -9521,7 +9521,7 @@ window.FACILITY_DATASET={
           "city": "文京区",
           "name": "文京グリーンコート「屋上・公開空地テラス」",
           "type": "複合施設屋外空間",
-          "note": "無料。オフィス複合施設の公開空間。",
+          "note": "無料。オフィス複合施設の公開空間。6:45〜24:00。",
           "official": "http://www.bunkyo-greencourt.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E4%BA%AC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%88%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
@@ -9665,7 +9665,7 @@ window.FACILITY_DATASET={
           "city": "多摩市",
           "name": "ココリア多摩センター「屋上・テラス」",
           "type": "商業施設屋上",
-          "note": "営業時間内。ニュータウン商業施設の屋上候補。",
+          "note": "営業時間内。ニュータウン商業施設の屋上候補。10:00〜20:00。",
           "official": "http://www.cocolia-tamacenter.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%82%B3%E3%83%AA%E3%82%A2%E5%A4%9A%E6%91%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
           "kind": "屋上・屋上庭園・公開テラス",
@@ -10011,7 +10011,7 @@ window.FACILITY_DATASET={
           "city": "江東区",
           "name": "東京港フェリーターミナル",
           "type": "フェリー・港湾",
-          "note": "待合、長い乗船動線、夜の港。",
+          "note": "待合、長い乗船動線、夜の港。5:00〜20:00。",
           "official": "http://www.tptc.co.jp/terminal/guide/ferry",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E6%B8%AF%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "バックルーム",
@@ -10746,7 +10746,7 @@ window.FACILITY_DATASET={
           "city": "渋谷区",
           "name": "恵比寿ガーデンプレイスタワー「SKY LOUNGE周辺屋外眺望空間」",
           "type": "高層展望・テラス",
-          "note": "無料。都市俯瞰系。庭園より眺望重視。 火曜日休館。",
+          "note": "無料。都市俯瞰系。庭園より眺望重視。 火曜日休館。12:00〜20:00。",
           "official": "https://gardenplace.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "屋上・屋上庭園・公開テラス",
@@ -10958,7 +10958,7 @@ window.FACILITY_DATASET={
           "city": "輪島市",
           "name": "能登空港",
           "type": "空港",
-          "note": "",
+          "note": "2003年開業。",
           "official": "http://www.noto-airport.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%83%BD%E7%99%BB%E7%A9%BA%E6%B8%AF%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E8%BC%AA%E5%B3%B6%E5%B8%82",
           "kind": "リミナル",
@@ -10966,7 +10966,7 @@ window.FACILITY_DATASET={
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://www.noto-airport.jp/"
+            "参照": "公式サイト：http://www.noto-airport.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E8%83%BD%E7%99%BB%E7%A9%BA%E6%B8%AF"
           }
         },
         {
@@ -11022,7 +11022,7 @@ window.FACILITY_DATASET={
           "city": "宇部市",
           "name": "山口宇部空港",
           "type": "空港",
-          "note": "地方空港・ガラス張りターミナル。",
+          "note": "地方空港・ガラス張りターミナル。1966年開港。",
           "official": "http://www.yamaguchiube-airport.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E5%AE%87%E9%83%A8%E7%A9%BA%E6%B8%AF%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E5%AE%87%E9%83%A8%E5%B8%82",
           "kind": "リミナル",
@@ -11030,7 +11030,7 @@ window.FACILITY_DATASET={
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://www.yamaguchiube-airport.jp/"
+            "参照": "公式サイト：http://www.yamaguchiube-airport.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%AE%87%E9%83%A8%E7%A9%BA%E6%B8%AF"
           }
         },
         {
@@ -11054,7 +11054,7 @@ window.FACILITY_DATASET={
           "city": "佐賀市",
           "name": "佐賀空港",
           "type": "空港",
-          "note": "",
+          "note": "2023年竣工。",
           "official": "http://saga-ab.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%A9%BA%E6%B8%AF%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BD%90%E8%B3%80%E5%B8%82",
           "kind": "リミナル",
@@ -11062,7 +11062,7 @@ window.FACILITY_DATASET={
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://saga-ab.jp/"
+            "参照": "公式サイト：http://saga-ab.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E4%BD%90%E8%B3%80%E7%A9%BA%E6%B8%AF"
           }
         }
       ]
@@ -12914,7 +12914,7 @@ window.FACILITY_DATASET={
           "city": "広島市中区",
           "name": "広島市江波山気象館",
           "type": "気象・風水害学習施設",
-          "note": "旧気象台を利用する気象館。利用条件：一般観覧可。突風・雷・台風の体験展示。団体見学は事前連絡。公的主体：広島市",
+          "note": "旧気象台を利用する気象館。利用条件：一般観覧可。突風・雷・台風の体験展示。団体見学は事前連絡。公的主体：広島市。1934年竣工。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA",
           "kind": "",
@@ -12922,7 +12922,7 @@ window.FACILITY_DATASET={
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://www.ebayama.jp/ 公式資料：https://www.ebayama.jp/?p=11996 Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%20%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8"
+            "参照": "公式サイト：https://www.ebayama.jp/ 公式資料：https://www.ebayama.jp/?p=11996 Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%20%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8\nWikipedia：https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8"
           }
         },
         {
@@ -13244,7 +13244,7 @@ window.FACILITY_DATASET={
           "city": "横須賀市",
           "name": "コースカ ベイサイドストアーズ",
           "type": "駅前再開発型商業施設",
-          "note": "旧ショッパーズプラザ系。",
+          "note": "旧ショッパーズプラザ系。10:00〜18:00。",
           "official": "https://coaska.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%AB%20%E3%83%99%E3%82%A4%E3%82%B5%E3%82%A4%E3%83%89%E3%82%B9%E3%83%88%E3%82%A2%E3%83%BC%E3%82%BA%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%9C%AC%E7%94%BA2-1-12",
           "kind": "駅前再開発型商業施設",
@@ -13455,7 +13455,7 @@ window.FACILITY_DATASET={
           "city": "札幌市厚別区",
           "name": "新さっぽろアークシティ サンピアザ",
           "type": "駅ビル・ターミナル商業施設",
-          "note": "1977年開業の副都心型SC。サンピアザ、デュオ、カテプリ、イオン、駅・公共施設を地下・地上の連絡動線で結び、現行フロアガイドにも「光の広場」と吹き抜けスペースが残る。",
+          "note": "1977年開業の副都心型SC。サンピアザ、デュオ、カテプリ、イオン、駅・公共施設を地下・地上の連絡動線で結び、現行フロアガイドにも「光の広場」と吹き抜けスペースが残る。10:00〜21:00。",
           "official": "http://www.sunpi-duo.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3%20%E3%82%B5%E3%83%B3%E3%83%94%E3%82%A2%E3%82%B6%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8E%9A%E5%88%A5%E5%8C%BA",
           "kind": "駅ビル・ターミナル商業施設",
@@ -13804,7 +13804,7 @@ window.FACILITY_DATASET={
           "city": "函館市",
           "name": "函館公園こどものくに ゲームコーナー",
           "type": "遊園地のゲームコーナー",
-          "note": "古い遊園地に残るゲームコーナー。観覧車や小型遊具と一緒に記録したい。利用条件：入園無料。ゲームは別料金。季節・天候による休園あり",
+          "note": "古い遊園地に残るゲームコーナー。観覧車や小型遊具と一緒に記録したい。利用条件：入園無料。ゲームは別料金。季節・天候による休園あり。10:00〜17:00。",
           "official": "https://kodomonokuni.sakuraweb.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%87%BD%E9%A4%A8%E5%B8%82%20%E5%87%BD%E9%A4%A8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8F%E3%81%AB%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
@@ -14188,7 +14188,7 @@ window.FACILITY_DATASET={
           "city": "新宿区",
           "name": "高田馬場ゲーセンミカド",
           "type": "街のゲームセンター",
-          "note": "旧作ビデオ・体感ゲームを継続運用。収集保存の活動も強い。利用条件：ゲームごとに課金。最新営業日は要確認",
+          "note": "旧作ビデオ・体感ゲームを継続運用。収集保存の活動も強い。利用条件：ゲームごとに課金。最新営業日は要確認。2006年開業。",
           "official": "https://mi-ka-do.net/baba/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA%20%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B4%E3%82%B2%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%9F%E3%82%AB%E3%83%89",
           "kind": "",
@@ -15124,7 +15124,7 @@ window.FACILITY_DATASET={
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://www.amfantasista.com/"
+            "参照": "公式サイト：https://www.amfantasista.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%B9%E3%82%BF"
           }
         },
         {
@@ -15366,7 +15366,7 @@ window.FACILITY_DATASET={
           "city": "渋谷区",
           "name": "東京体育館",
           "type": "公共文化・体育",
-          "note": "大規模公共体育館。9:00～23:00",
+          "note": "大規模公共体育館。9:00～23:00。1990年竣工。",
           "official": "http://www.tef.or.jp/tmg/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%BD%93%E8%82%B2%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "リミナル",
@@ -15374,7 +15374,7 @@ window.FACILITY_DATASET={
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://www.tef.or.jp/tmg/"
+            "参照": "公式サイト：http://www.tef.or.jp/tmg/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E4%BD%93%E8%82%B2%E9%A4%A8"
           }
         },
         {
@@ -15582,7 +15582,7 @@ window.FACILITY_DATASET={
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://www.gsj.jp/Muse/"
+            "参照": "公式サイト：http://www.gsj.jp/Muse/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%B3%AA%E6%A8%99%E6%9C%AC%E9%A4%A8"
           }
         }
       ]
@@ -15616,7 +15616,7 @@ window.FACILITY_DATASET={
           "city": "札幌市",
           "name": "あけぼのアート＆コミュニティセンター（旧曙小学校）",
           "type": "廃校活用・文化施設",
-          "note": "一般利用。旧小学校の教室・廊下を残した文化拠点。 月曜日休館。",
+          "note": "一般利用。旧小学校の教室・廊下を残した文化拠点。 月曜日休館。10:00〜21:00。",
           "official": "https://akebono.concarino.or.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%91%E3%81%BC%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%EF%BC%86%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E6%97%A7%E6%9B%99%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82",
           "kind": "見学可能な公的建築",
@@ -16006,7 +16006,7 @@ window.FACILITY_DATASET={
           "city": "渋谷区",
           "name": "天文博物館 五島プラネタリウム",
           "type": "プラネタリウム",
-          "note": "特徴・説明：渋谷の天文教育拠点。2001年3月11日が最終投影。旧所在地：東京都渋谷区渋谷駅東口・東急文化会館内開業年：1957年（竣工・移転等の扱いは特徴・説明参照）消滅年：2001年消滅種別：閉館現在の状態：旧施設は閉館。投影機は別施設で保存展示。資料URL：https://www.tokyu.co.jp/area/shibuya/article/arti-01KGZVF7MVYMMBNTSKYQ9XV6VT/ | https://www.itmedia.co.jp/news/bursts/0102/28/goto.htmlGoogleマップ検索用名称：天文博物館 五島プラネタリウム 東京都渋谷区。",
+          "note": "特徴・説明：渋谷の天文教育拠点。2001年3月11日が最終投影。旧所在地：東京都渋谷区渋谷駅東口・東急文化会館内開業年：1957年（竣工・移転等の扱いは特徴・説明参照）消滅年：2001年消滅種別：閉館現在の状態：旧施設は閉館。投影機は別施設で保存展示。資料URL：https://www.tokyu.co.jp/area/shibuya/article/arti-01KGZVF7MVYMMBNTSKYQ9XV6VT/ | https://www.itmedia.co.jp/news/bursts/0102/28/goto.htmlGoogleマップ検索用名称：天文博物館 五島プラネタリウム 東京都渋谷区。12:00〜20:00。",
           "official": "https://www.tokyu.co.jp/area/shibuya/article/arti-01KGZVF7MVYMMBNTSKYQ9XV6VT/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E6%96%87%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%BA%94%E5%B3%B6%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "",
@@ -18625,7 +18625,7 @@ window.FACILITY_DATASET={
           "city": "国分寺市",
           "name": "東京都立多摩図書館｜館内カフェ",
           "type": "図書館内カフェ",
-          "note": "東京都立多摩図書館内の館内カフェ。一般来館者が利用できることを確認。",
+          "note": "東京都立多摩図書館内の館内カフェ。一般来館者が利用できることを確認。10:00〜21:00。",
           "official": "https://www.library.metro.tokyo.lg.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%A4%9A%E6%91%A9%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E9%A4%A8%E5%86%85%E3%82%AB%E3%83%95%E3%82%A7%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E5%88%86%E5%AF%BA%E5%B8%82",
           "kind": "公共施設内の食堂・レストラン",
@@ -18993,7 +18993,7 @@ window.FACILITY_DATASET={
           "city": "練馬区",
           "name": "練馬区役所｜職員レストラン Ra dish",
           "type": "庁舎内職員レストラン",
-          "note": "練馬区役所西庁舎地下1階。区職員以外の一般客も利用可能。モーニングとランチを営業。 土曜休館。",
+          "note": "練馬区役所西庁舎地下1階。区職員以外の一般客も利用可能。モーニングとランチを営業。 土曜休館。8:00〜10:00。",
           "official": "https://www.city.nerima.tokyo.jp/shisetsu/ku/ku/resutoran.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%B4%E9%A6%AC%E5%8C%BA%E5%BD%B9%E6%89%80%20Ra%20dish%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
           "kind": "公共施設内の食堂・レストラン",
@@ -19062,7 +19062,7 @@ window.FACILITY_DATASET={
           "city": "台東区",
           "name": "台東区役所｜チカショク さくら",
           "type": "庁舎内職員食堂",
-          "note": "台東区役所地下1階の職員食堂。区公式事業や現行営業情報があり、一般利用可能。",
+          "note": "台東区役所地下1階の職員食堂。区公式事業や現行営業情報があり、一般利用可能。11:00〜14:00。",
           "official": "https://www.city.taito.lg.jp/kusei/shokai/shimaitoshi/news/minamiaizu_sinnmai.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%BD%B9%E6%89%80%20%E3%83%81%E3%82%AB%E3%82%B7%E3%83%A7%E3%82%AF%20%E3%81%95%E3%81%8F%E3%82%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
           "kind": "公共施設内の食堂・レストラン",
@@ -20254,7 +20254,7 @@ window.FACILITY_DATASET={
           "city": "日光市",
           "name": "足尾銅山観光",
           "type": "地域文化施設",
-          "note": "足尾銅山の採鉱・製錬が谷間の町を形づくった歴史を、実際の坑道と鉱山資料で伝える。",
+          "note": "足尾銅山の採鉱・製錬が谷間の町を形づくった歴史を、実際の坑道と鉱山資料で伝える。1980年開業。 9:00〜17:00。",
           "official": "https://www.city.nikko.lg.jp/kanko_bunka_sports/activity/1/4/6164.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%B3%E5%B0%BE%E9%8A%85%E5%B1%B1%E8%A6%B3%E5%85%89%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E6%97%A5%E5%85%89%E5%B8%82",
           "kind": "",
@@ -20326,7 +20326,7 @@ window.FACILITY_DATASET={
           "city": "富山市",
           "name": "富山市民俗民芸村",
           "type": "地域文化施設",
-          "note": "富山の農村住宅、薬売り、養蚕、祭礼など立山山麓と越中の生活文化を移築民家や民具で保存する。",
+          "note": "富山の農村住宅、薬売り、養蚕、祭礼など立山山麓と越中の生活文化を移築民家や民具で保存する。9:00〜17:00。",
           "official": "https://www.city.toyama.toyama.jp/etc/minzokumingei/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E5%B8%82%E6%B0%91%E4%BF%97%E6%B0%91%E8%8A%B8%E6%9D%91%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
           "kind": "",
@@ -20445,7 +20445,7 @@ window.FACILITY_DATASET={
           "city": "香南市",
           "name": "絵金蔵",
           "type": "地域文化施設",
-          "note": "土佐の絵師・絵金が描いた芝居絵屏風を、赤岡の夏祭りと町の商家文化の中で保存・公開する。 月曜日休館。",
+          "note": "土佐の絵師・絵金が描いた芝居絵屏風を、赤岡の夏祭りと町の商家文化の中で保存・公開する。 月曜日休館。9:00〜17:00。",
           "official": "https://www.ekingura.com/user_guide/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B5%B5%E9%87%91%E8%94%B5%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E9%A6%99%E5%8D%97%E5%B8%82",
           "kind": "",
@@ -20476,7 +20476,7 @@ window.FACILITY_DATASET={
           "city": "水俣市",
           "name": "水俣市立水俣病資料館",
           "type": "地域文化施設",
-          "note": "水俣の漁村と工業都市で起きた公害の歴史を、患者・家族の証言と地域資料で記録し、環境と地域再生を考える場にしている。 月曜日休館。",
+          "note": "水俣の漁村と工業都市で起きた公害の歴史を、患者・家族の証言と地域資料で記録し、環境と地域再生を考える場にしている。 月曜日休館。9:00〜17:00。",
           "official": "https://www.city.minamata.lg.jp/mdmm/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E4%BF%A3%E5%B8%82%E7%AB%8B%E6%B0%B4%E4%BF%A3%E7%97%85%E8%B3%87%E6%96%99%E9%A4%A8%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E6%B0%B4%E4%BF%A3%E5%B8%82",
           "kind": "",
@@ -20566,7 +20566,7 @@ window.FACILITY_DATASET={
           "city": "北杜市",
           "name": "スーパーおの",
           "type": "地域独自スーパー",
-          "note": "武川の小規模店で、地元野菜・刺身・手作り弁当や揚げ物を仕込み、アニメ「スーパーカブ」の舞台としてファンが訪れる。 日曜日休館。",
+          "note": "武川の小規模店で、地元野菜・刺身・手作り弁当や揚げ物を仕込み、アニメ「スーパーカブ」の舞台としてファンが訪れる。 日曜日休館。9:30〜19:00。",
           "official": "https://sp-ono.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8C%97%E6%9D%9C%E5%B8%82%E6%AD%A6%E5%B7%9D%E7%94%BA%E4%B8%89%E5%90%B92157-1",
           "kind": "",
@@ -20734,7 +20734,7 @@ window.FACILITY_DATASET={
           "city": "高山市",
           "name": "ファミリーストアさとう ピュア店",
           "type": "地域独自スーパー",
-          "note": "1959年創業の飛騨の食品スーパー。自社惣菜と飛騨食材、契約農家の「ひだっ子朝市」、飛騨グルメMAPを売場に組み込み、チェーン標準店ではなく地域の食文化を編集する。",
+          "note": "1959年創業の飛騨の食品スーパー。自社惣菜と飛騨食材、契約農家の「ひだっ子朝市」、飛騨グルメMAPを売場に組み込み、チェーン標準店ではなく地域の食文化を編集する。9:00〜20:00。",
           "official": "https://www.tokutokusatou.com/company/shop/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E7%9C%8C%E9%AB%98%E5%B1%B1%E5%B8%82%E8%A5%BF%E4%B9%8B%E4%B8%80%E8%89%B2%E7%94%BA3%E4%B8%81%E7%9B%AE1135",
           "kind": "",
@@ -21250,7 +21250,7 @@ window.FACILITY_DATASET={
           "city": "名古屋市中村区",
           "name": "エスカ地下街",
           "type": "地下街・地下道",
-          "note": "新幹線側の地下街。10:00〜20:30",
+          "note": "新幹線側の地下街。10:00〜20:30。1964年設立。",
           "official": "https://www.esca-sc.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%82%B9%E3%82%AB%E5%9C%B0%E4%B8%8B%E8%A1%97%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E6%9D%91%E5%8C%BA",
           "kind": "",
@@ -21276,7 +21276,7 @@ window.FACILITY_DATASET={
           "city": "大阪市北区",
           "name": "ホワイティうめだ",
           "type": "地下街・地下道",
-          "note": "迷路性のある巨大地下街。",
+          "note": "迷路性のある巨大地下街。10:00〜21:00。",
           "official": "http://whity.osaka-chikagai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%86%E3%82%A3%E3%81%86%E3%82%81%E3%81%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
           "kind": "",
@@ -21289,7 +21289,7 @@ window.FACILITY_DATASET={
           "city": "大阪市中央区",
           "name": "なんばウォーク",
           "type": "地下街・地下道",
-          "note": "長い地下商業軸。",
+          "note": "長い地下商業軸。10:00〜21:00。",
           "official": "http://walk.osaka-chikagai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%82%93%E3%81%B0%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
           "kind": "",
@@ -21302,7 +21302,7 @@ window.FACILITY_DATASET={
           "city": "大阪市天王寺区",
           "name": "あべちか",
           "type": "地下街・地下道",
-          "note": "規模が比較的小さく古い地下街系。",
+          "note": "規模が比較的小さく古い地下街系。10:00〜21:00。",
           "official": "http://avetika.osaka-chikagai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%B9%E3%81%A1%E3%81%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA",
           "kind": "",
@@ -21315,7 +21315,7 @@ window.FACILITY_DATASET={
           "city": "大阪市北区",
           "name": "ドージマ地下センター",
           "type": "地下街・地下道",
-          "note": "オフィス街下の地下商店街。 日曜日休館。",
+          "note": "オフィス街下の地下商店街。 日曜日休館。10:00〜20:00。",
           "official": "https://dotica.osaka-chikagai.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%89%E3%83%BC%E3%82%B8%E3%83%9E%E5%9C%B0%E4%B8%8B%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
           "kind": "",
@@ -21432,7 +21432,7 @@ window.FACILITY_DATASET={
           "city": "京都市下京区",
           "name": "京都ポルタ",
           "type": "地下街・地下道",
-          "note": "京都駅直下で1970年代から営業する地下街。東西・南エリアの地下店舗と駅・地下鉄・地下広場が複雑に接続し、現在も約210店舗が営業する。",
+          "note": "京都駅直下で1970年代から営業する地下街。東西・南エリアの地下店舗と駅・地下鉄・地下広場が複雑に接続し、現在も約210店舗が営業する。11:00〜20:30。",
           "official": "https://www.porta.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%83%AB%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA902",
           "kind": "",
@@ -21509,7 +21509,7 @@ window.FACILITY_DATASET={
           "city": "函館市",
           "name": "函館公園こどものくに",
           "type": "遊園地・レジャー施設",
-          "note": "現役最古級の観覧車を含む小規模遊園地。",
+          "note": "現役最古級の観覧車を含む小規模遊園地。10:00〜17:00。",
           "official": "http://kodomonokuni.sakuraweb.com/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BD%E9%A4%A8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8F%E3%81%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82%E9%9D%92%E6%9F%B3%E7%94%BA17-4",
           "kind": "",
@@ -21548,7 +21548,7 @@ window.FACILITY_DATASET={
           "city": "盛岡市",
           "name": "岩山パークランド",
           "type": "遊園地・レジャー施設",
-          "note": "山上の地方遊園地。小規模遊具群。",
+          "note": "山上の地方遊園地。小規模遊具群。1972年開園。",
           "official": "https://iwayamapark.hp.peraichi.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E5%B1%B1%E3%83%91%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%20%E5%B2%A9%E6%89%8B%E7%9C%8C%E7%9B%9B%E5%B2%A1%E5%B8%82%E6%96%B0%E5%BA%84%E5%B2%A9%E5%B1%B1",
           "kind": "",
@@ -21574,7 +21574,7 @@ window.FACILITY_DATASET={
           "city": "八戸市",
           "name": "八戸公園こどもの国",
           "type": "遊園地・レジャー施設",
-          "note": "公園内の地方遊園地。 月曜日休館。",
+          "note": "公園内の地方遊園地。 月曜日休館。9:00〜17:00。",
           "official": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koenryokuchika/koen/3884.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%85%AB%E6%88%B8%E5%B8%82%E5%8D%81%E6%97%A5%E5%B8%82%E5%A4%A9%E6%91%A933-2",
           "kind": "",
@@ -21665,7 +21665,7 @@ window.FACILITY_DATASET={
           "city": "別府市",
           "name": "城島高原パーク",
           "type": "遊園地・レジャー施設",
-          "note": "高原型遊園地。地方レジャー施設系。10:00-17:00",
+          "note": "高原型遊園地。地方レジャー施設系。10:00-17:00。1967年開業。",
           "official": "https://www.kijimakogen-park.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%8E%E5%B3%B6%E9%AB%98%E5%8E%9F%E3%83%91%E3%83%BC%E3%82%AF%20%E5%A4%A7%E5%88%86%E7%9C%8C%E5%88%A5%E5%BA%9C%E5%B8%82%E5%9F%8E%E5%B3%B6%E9%AB%98%E5%8E%9F123",
           "kind": "",
@@ -22002,7 +22002,7 @@ window.FACILITY_DATASET={
           "city": "武蔵野市",
           "name": "武蔵野市民文化会館",
           "type": "文化会館",
-          "note": "ホール・ロビー・階段・共用部。文化会館系。 水曜日休館。",
+          "note": "ホール・ロビー・階段・共用部。文化会館系。 水曜日休館。9:00〜22:00。",
           "official": "https://www.musashino.or.jp/bunka/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E6%B0%91%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
           "kind": "公共空間",
@@ -22472,7 +22472,7 @@ window.FACILITY_DATASET={
           "city": "登別市",
           "name": "第一滝本館",
           "type": "大型温泉ホテル",
-          "note": "1858年創業を起点に増築を重ねた登別温泉の大型ホテル。1500坪の別棟大浴場に5泉質・多数の浴槽を集め、ロビー、売店、宴会場、ゲームプラザ、プールを複数棟の館内動線で接続する。",
+          "note": "1858年創業を起点に増築を重ねた登別温泉の大型ホテル。1500坪の別棟大浴場に5泉質・多数の浴槽を集め、ロビー、売店、宴会場、ゲームプラザ、プールを複数棟の館内動線で接続する。1952年設立。 10:00〜17:30。",
           "official": "https://takimotokan.co.jp/ja/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AC%AC%E4%B8%80%E6%BB%9D%E6%9C%AC%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%E7%99%BB%E5%88%A5%E5%B8%82",
           "kind": "大型リゾート",
@@ -22480,7 +22480,7 @@ window.FACILITY_DATASET={
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://takimotokan.co.jp/ja/"
+            "参照": "公式サイト：https://takimotokan.co.jp/ja/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E6%BB%9D%E6%9C%AC%E9%A4%A8"
           }
         },
         {
@@ -22853,7 +22853,7 @@ window.FACILITY_DATASET={
           "city": "三鷹市",
           "name": "武蔵野の森公園・大沢掩体壕",
           "type": "掩体壕・公園",
-          "note": "現在は都立公園。調布飛行場周辺に構築された有蓋掩体のうち大沢1号・2号が保存されている。",
+          "note": "現在は都立公園。調布飛行場周辺に構築された有蓋掩体のうち大沢1号・2号が保存されている。9:00〜16:30。",
           "official": "https://www.tokyo-park.or.jp/park/musashino-no-mori/index.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%E3%83%BB%E5%A4%A7%E6%B2%A2%E6%8E%A9%E4%BD%93%E5%A3%95%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%89%E9%B7%B9%E5%B8%82",
           "kind": "",
@@ -22920,7 +22920,7 @@ window.FACILITY_DATASET={
           "city": "文京区",
           "name": "小石川後楽園",
           "type": "旧水戸藩邸・東京砲兵工廠隣接地",
-          "note": "現在は都立庭園。隣接する東京砲兵工廠と戦時都市の土地利用を考えられる庭園で、戦後都市化との変化を周辺から読める。",
+          "note": "現在は都立庭園。隣接する東京砲兵工廠と戦時都市の土地利用を考えられる庭園で、戦後都市化との変化を周辺から読める。9:00〜17:00。",
           "official": "https://www.tokyo-park.or.jp/park/koishikawakorakuen/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%9F%B3%E5%B7%9D%E5%BE%8C%E6%A5%BD%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
           "kind": "",
@@ -23228,7 +23228,7 @@ window.FACILITY_DATASET={
             }
           ],
           "extra": {
-            "参照": ""
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E8%B6%B3%E7%AB%8B%E5%8C%BA%E7%94%9F%E7%89%A9%E5%9C%92"
           }
         },
         {
