@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 27,
-  "total": 1371,
+  "total": 1376,
   "materials": [
     {
       "id": "botanical",
@@ -12447,20 +12447,20 @@ window.FACILITY_DATASET={
     {
       "id": "csv-93632f78566b28f084a4",
       "number": 16,
-      "name": "ドリームコア／モールコア",
-      "shortName": "ドリームコア／モールコア",
-      "file": "ドリームコア／モールコア.csv",
-      "count": 20,
+      "name": "旧世代型商業施設",
+      "shortName": "旧世代型商業施設",
+      "file": "旧世代型商業施設.csv",
+      "count": 25,
       "items": [
         {
           "prefecture": "千葉県",
           "city": "佐倉市",
           "name": "ユーカリプラザ（YOU!PLA）",
-          "type": "モールコア",
+          "type": "団地・ニュータウン型商業施設",
           "note": "ニュータウン型商業施設。\n狙い目：ニュータウンの生活動線と館内の商業動線がどこで接続するかを見る。",
           "official": "https://www.you-pla.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%A6%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%97%E3%83%A9%E3%82%B6%EF%BC%88YOU%21PLA%EF%BC%89%20%E5%8D%83%E8%91%89%E7%9C%8C%E4%BD%90%E5%80%89%E5%B8%82%E3%83%A6%E3%83%BC%E3%82%AB%E3%83%AA%E3%81%8C%E4%B8%984-1-4",
-          "kind": "モールコア",
+          "kind": "団地・ニュータウン型商業施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
@@ -12472,11 +12472,11 @@ window.FACILITY_DATASET={
           "prefecture": "茨城県",
           "city": "稲敷市",
           "name": "ショッピングセンター パルナ",
-          "type": "モールコア",
+          "type": "旧世代ショッピングセンター",
           "note": "地方大型SC。郊外モール系の空間を観察。\n狙い目：郊外の広い敷地と館内の買い物動線の関係を観察したい。",
           "official": "http://www.palna.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%91%E3%83%AB%E3%83%8A%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E8%A5%BF%E4%BB%A31495",
-          "kind": "モールコア",
+          "kind": "旧世代ショッピングセンター",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
@@ -12488,11 +12488,11 @@ window.FACILITY_DATASET={
           "prefecture": "滋賀県",
           "city": "守山市",
           "name": "ピエリ守山",
-          "type": "モールコア",
+          "type": "旧世代ショッピングモール",
           "note": "大型郊外モール。改装済みだが巨大空間系。\n狙い目：改装後の現状を起点に、大きな商業空間の奥行きと歩く距離を見たい。",
           "official": "http://pieri.sc/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%82%A8%E3%83%AA%E5%AE%88%E5%B1%B1%20%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%AE%88%E5%B1%B1%E5%B8%82%E4%BB%8A%E6%B5%9C%E7%94%BA2620-5",
-          "kind": "モールコア",
+          "kind": "旧世代ショッピングモール",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
@@ -12504,11 +12504,11 @@ window.FACILITY_DATASET={
           "prefecture": "青森県",
           "city": "五所川原市",
           "name": "ELM",
-          "type": "モールコア",
+          "type": "旧世代ショッピングモール",
           "note": "地方大型モール。\n狙い目：地方大型モールとして、館内を移動する距離と各区画の配置を観察する。",
           "official": "https://elm-no-machi.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=ELM%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E4%BA%94%E6%89%80%E5%B7%9D%E5%8E%9F%E5%B8%82%E5%94%90%E7%AC%A0%E6%9F%B3%E8%97%A4%E5%B7%BB517-1",
-          "kind": "モールコア",
+          "kind": "旧世代ショッピングモール",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
@@ -12520,11 +12520,11 @@ window.FACILITY_DATASET={
           "prefecture": "栃木県",
           "city": "宇都宮市",
           "name": "ベルモール",
-          "type": "モールコア",
+          "type": "旧世代ショッピングモール",
           "note": "地方大型モール。館内外の巨大商業空間系。\n狙い目：建物の外から感じる大きさと、館内を歩いて感じる距離を比べたい。",
           "official": "https://www.bellmall.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%AB%E3%83%A2%E3%83%BC%E3%83%AB%20%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E9%99%BD%E6%9D%B16-2-1",
-          "kind": "モールコア",
+          "kind": "旧世代ショッピングモール",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
@@ -12536,11 +12536,11 @@ window.FACILITY_DATASET={
           "prefecture": "神奈川県",
           "city": "横須賀市",
           "name": "コースカ ベイサイドストアーズ",
-          "type": "モールコア",
+          "type": "駅前再開発型商業施設",
           "note": "港湾部の大型商業施設。旧ショッパーズプラザ系。\n狙い目：港側の景観と館内の商業空間を対比する。旧施設の沿革と現在の使われ方を区別して観察する。",
           "official": "https://coaska.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%AB%20%E3%83%99%E3%82%A4%E3%82%B5%E3%82%A4%E3%83%89%E3%82%B9%E3%83%88%E3%82%A2%E3%83%BC%E3%82%BA%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%9C%AC%E7%94%BA2-1-12",
-          "kind": "モールコア",
+          "kind": "駅前再開発型商業施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
@@ -12552,11 +12552,11 @@ window.FACILITY_DATASET={
           "prefecture": "兵庫県",
           "city": "加古川市",
           "name": "ニッケパークタウン",
-          "type": "モールコア",
+          "type": "旧世代ショッピングセンター",
           "note": "1980年代開業の地域型SC 開業年：1984年。\n狙い目：地域の買い物施設として、周囲からの入口と館内動線のつながりを見る。",
           "official": "http://nikke-parktown.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%83%E3%82%B1%E3%83%91%E3%83%BC%E3%82%AF%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%B8%82%E5%8A%A0%E5%8F%A4%E5%B7%9D%E7%94%BA%E5%AF%BA%E5%AE%B6%E7%94%BA173-1",
-          "kind": "モールコア",
+          "kind": "旧世代ショッピングセンター",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
@@ -12568,11 +12568,11 @@ window.FACILITY_DATASET={
           "prefecture": "岡山県",
           "city": "新見市",
           "name": "にいみショッピングタウン プラザ",
-          "type": "モールコア",
+          "type": "旧世代ショッピングセンター",
           "note": "1980〜90年代型の地方ショッピングセンターとして営業を継続。2階建ての館内に食品・衣料・書店・100円ショップ・飲食などが入り、中央部の吹き抜けと交差するエスカレーター、旧来のシャンデリアや案内サインが残る。狙い目：中央吹き抜け、上階回廊、エスカレーター、昭和期の照明・サイン、現役テナントの配置。",
           "official": "https://page.line.me/379vovbe",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AB%E3%81%84%E3%81%BF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BF%E3%82%A6%E3%83%B3%20%E3%83%97%E3%83%A9%E3%82%B6%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%E6%96%B0%E8%A6%8B%E5%B8%82%E9%AB%98%E5%B0%BE2477-1",
-          "kind": "モールコア",
+          "kind": "旧世代ショッピングセンター",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12589,11 +12589,11 @@ window.FACILITY_DATASET={
           "prefecture": "新潟県",
           "city": "妙高市",
           "name": "新井ショッピングセンターCOA",
-          "type": "モールコア",
+          "type": "旧世代ショッピングセンター",
           "note": "1989年開業の旧ニチイ／上越サティ系施設を地域型SCとして継承。現在も食品スーパー、衣料、100円ショップ、飲食など約30テナントが営業し、旧レストランモールの天窓付き空間、巨大吹き抜け、エスカレーター周辺の「街」表示、旧来のエレベーター案内が残る。狙い目：三角形の天窓、吹き抜けと回廊、旧ニチイのサイン、閉鎖区画と現役店舗の対比。",
           "official": "https://myoko-arai.com/news-detail/news6",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E4%BA%95%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCCOA%20%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%A6%99%E9%AB%98%E5%B8%82%E6%A0%97%E5%8E%9F4-7-11",
-          "kind": "モールコア",
+          "kind": "旧世代ショッピングセンター",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12618,11 +12618,11 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "杉並区",
           "name": "荻窪タウンセブン",
-          "type": "モールコア",
+          "type": "駅前再開発型商業施設",
           "note": "1981年完成の駅前ショッピングセンター。旧商店街を再編した建物で、現在も複数階の店舗群、駅・地下連絡動線、屋上広場、1階セントラルコートを備える。開業当時から続く「街」を階ごとに見立てた構成と中央の待合・イベント空間を観察できる。狙い目：1階セントラルコート、駅側入口、地下から上階への動線、屋上へ続くグリーンカーペット階段、案内サイン。",
           "official": "https://www.town7.net/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8D%BB%E7%AA%AA%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%96%E3%83%B3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E4%B8%8A%E8%8D%BB1-9-1",
-          "kind": "モールコア",
+          "kind": "駅前再開発型商業施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12647,11 +12647,11 @@ window.FACILITY_DATASET={
           "prefecture": "石川県",
           "city": "金沢市",
           "name": "香林坊アトリオ",
-          "type": "モールコア",
+          "type": "百貨店系複合商業施設",
           "note": "1986年開業の再開発型商業施設。地下1階から地上4階まで連続する吹き抜け、アーチ状トップライト、2階のからくり時計「アトリオクロック」、イベント用アトリオステージを現在も備え、大和百貨店と各階で接続する。狙い目：吹き抜けを縦に見る回廊、からくり時計、地下食品売場、トップライトとステージ、百貨店との連絡動線。",
           "official": "https://www.clasoplace-korinbo.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%9E%97%E5%9D%8A%E3%82%A2%E3%83%88%E3%83%AA%E3%82%AA%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82%E9%A6%99%E6%9E%97%E5%9D%8A1-1-1",
-          "kind": "モールコア",
+          "kind": "百貨店系複合商業施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12676,11 +12676,11 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "台東区",
           "name": "浅草ROX",
-          "type": "モールコア",
+          "type": "専門店街型商業施設",
           "note": "1986年開業の浅草六区の複合商業施設。ROX本館を中心にROX2G・ROX・3G・ROX DOMEが連結し、買物、飲食、温浴、フィットネス、ゲーム・バッティングなどを内包する。増築と建替えを重ねた複数棟の動線、長い館内移動、旧来の娯楽施設の痕跡を現在も歩いて観察できる。狙い目：本館と別棟の接続、階別の店舗街、まつり湯への動線、ROX DOME、旧アミューズメント区画の痕跡。",
           "official": "https://www.rox.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89ROX%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-25-15",
-          "kind": "モールコア",
+          "kind": "専門店街型商業施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12705,11 +12705,11 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "練馬区",
           "name": "光が丘IMA",
-          "type": "モールコア",
+          "type": "団地・ニュータウン型商業施設",
           "note": "1987年開業のニュータウン型複合SC。館内に「IMAストリート」と中央の吹き抜け「光の広場」があり、ホール・飲食・複数棟を商業動線でつなぐ。大規模改装後も中央広場、回廊、館内案内板が現存する。狙い目：IMAストリート、光の広場、東館・南館・LIVIN・イマミセの接続、駅・公園側の歩行者動線。",
           "official": "https://www.ima-hikarigaoka.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%89%E3%81%8C%E4%B8%98IMA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
-          "kind": "モールコア",
+          "kind": "団地・ニュータウン型商業施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12734,11 +12734,11 @@ window.FACILITY_DATASET={
           "prefecture": "東京都",
           "city": "多摩市",
           "name": "京王聖蹟桜ヶ丘ショッピングセンター",
-          "type": "モールコア",
+          "type": "駅ビル・ターミナル商業施設",
           "note": "1986年開業の駅一体型SC。A・B・C館とさくらゲートを4階連絡ブリッジや中央通路で接続し、複数棟を一つの商業街として回遊できる。狙い目：4階連絡ブリッジ、B館中央通路、丘のうえキッチン、駅改札から各館へ変化する上下動線。",
           "official": "http://www.keio-sc.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E8%81%96%E8%B9%9F%E6%A1%9C%E3%83%B6%E4%B8%98%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
-          "kind": "モールコア",
+          "kind": "駅ビル・ターミナル商業施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12759,11 +12759,11 @@ window.FACILITY_DATASET={
           "prefecture": "北海道",
           "city": "札幌市厚別区",
           "name": "新さっぽろアークシティ サンピアザ",
-          "type": "モールコア",
+          "type": "駅ビル・ターミナル商業施設",
           "note": "1977年開業の副都心型SC。サンピアザ、デュオ、カテプリ、イオン、駅・公共施設を地下・地上の連絡動線で結び、現行フロアガイドにも「光の広場」と吹き抜けスペースが残る。狙い目：吹き抜け、光の広場、地下鉄・JRからの連絡、サンピアザ水族館への館内動線。",
           "official": "http://www.sunpi-duo.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3%20%E3%82%B5%E3%83%B3%E3%83%94%E3%82%A2%E3%82%B6%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8E%9A%E5%88%A5%E5%8C%BA",
-          "kind": "モールコア",
+          "kind": "駅ビル・ターミナル商業施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12788,11 +12788,11 @@ window.FACILITY_DATASET={
           "prefecture": "山口県",
           "city": "下関市",
           "name": "シーモール下関",
-          "type": "モールコア",
+          "type": "駅前再開発型商業施設",
           "note": "1977年開業の駅前大型SC。館内に吹き抜けと長い回廊、屋上庭園、旧ゲームコーナーの装飾が残り、百貨店・専門店・駅前広場を一体化した人工的な商業街を形成する。狙い目：シーモール側吹き抜け、回廊、屋上庭園、旧来の案内・ゲーム空間。",
           "official": "https://www.seamall.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%BC%E3%83%A2%E3%83%BC%E3%83%AB%E4%B8%8B%E9%96%A2%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
-          "kind": "モールコア",
+          "kind": "駅前再開発型商業施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12813,11 +12813,11 @@ window.FACILITY_DATASET={
           "prefecture": "兵庫県",
           "city": "尼崎市",
           "name": "グンゼタウンセンター つかしん",
-          "type": "モールコア",
+          "type": "旧世代ショッピングモール",
           "note": "1985年開業。「新しい街」を施設内外に作る構想で整備された大型SC。現在もひがしまち・にしまち、ロマンチック広場、フードコート、温浴・スポーツ等をつなぐ長い回遊動線と、元百貨店由来の吹き抜けが残る。狙い目：ロマンチック広場、ひがしまち／にしまちの通り、中央インフォメーション付近の吹き抜け、温浴・スポーツへの接続。",
           "official": "https://www.tsukashin.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%B3%E3%82%BC%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%A4%E3%81%8B%E3%81%97%E3%82%93%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%B0%BC%E5%B4%8E%E5%B8%82",
-          "kind": "モールコア",
+          "kind": "旧世代ショッピングモール",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12842,11 +12842,11 @@ window.FACILITY_DATASET={
           "prefecture": "広島県",
           "city": "広島市西区",
           "name": "アルパーク",
-          "type": "モールコア",
+          "type": "駅前再開発型商業施設",
           "note": "1990年開業の複合SC。大通りで分断された敷地を2階ペデストリアンデッキでつなぎ、センターコートとモールを核に東・西・北棟を回遊させる構成。現在も複数棟、映画館、イベント空間を営業し、計画時の人工的な街区構成を歩いて確認できる。狙い目：2階デッキ、センターコート、棟間モール、映画館・飲食への上下動線。",
           "official": "https://www.alpark.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E8%A5%BF%E5%8C%BA",
-          "kind": "モールコア",
+          "kind": "駅前再開発型商業施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12867,11 +12867,11 @@ window.FACILITY_DATASET={
           "prefecture": "千葉県",
           "city": "市川市",
           "name": "ニッケコルトンプラザ",
-          "type": "モールコア",
+          "type": "旧世代ショッピングモール",
           "note": "1988年開業の地域共生型大型SC。工場跡地の広大な敷地に専門店モール、広場、ホール、屋外庭園、スポーツ施設を組み合わせ、屋内外を連続する商業街として構成する。狙い目：センターモール、コルトン広場、ホール・庭園・専門店モール間の回遊、開業時から続く複合用途。",
           "official": "https://www.nikke-cp.gr.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%83%E3%82%B1%E3%82%B3%E3%83%AB%E3%83%88%E3%83%B3%E3%83%97%E3%83%A9%E3%82%B6%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E9%AC%BC%E9%AB%981-1-1",
-          "kind": "モールコア",
+          "kind": "旧世代ショッピングモール",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12896,11 +12896,11 @@ window.FACILITY_DATASET={
           "prefecture": "大分県",
           "city": "大分市",
           "name": "トキハインダストリーあけのアクロスタウン",
-          "type": "モールコア",
+          "type": "団地・ニュータウン型商業施設",
           "note": "1971年開業の明野センターを増床・改称してきた大型SC。本館地下1階〜4階と新館を接続し、館内吹き抜け、古い総合スーパー型の階段、専門店の「ごちそうの森」、アクロスホール、広場状空間を現在も営業している。狙い目：本館吹き抜け、旧来の階段・案内、地下から上層階への動線、新館レストラン街、アクロスホール。",
           "official": "https://www.tokiwa-industry.co.jp/shops/facility1.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%82%AD%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%80%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%81%82%E3%81%91%E3%81%AE%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%BF%E3%82%A6%E3%83%B3%20%E5%A4%A7%E5%88%86%E7%9C%8C%E5%A4%A7%E5%88%86%E5%B8%82%E6%98%8E%E9%87%8E%E6%9D%B11-1-1",
-          "kind": "モールコア",
+          "kind": "団地・ニュータウン型商業施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
@@ -12915,6 +12915,111 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.tokiwa-industry.co.jp/shops/facility1.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "昭島市",
+          "name": "モリタウン",
+          "type": "旧世代ショッピングセンター",
+          "note": "1984年開業。昭和飛行機の工場跡地をJR昭島駅北口の大型SCへ転用し、駅直結の本館・東館・西館と屋外広場、映画館などを段階的に増築してきた。狙い目：本館と東館の接続、駅側の長い商業動線、屋外広場と旧工場跡地の関係、昭和期開業SCの増床後の構成。",
+          "official": "https://www.moritown.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%A2%E3%83%AA%E3%82%BF%E3%82%A6%E3%83%B3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%98%AD%E5%B3%B6%E5%B8%82",
+          "kind": "旧世代ショッピングセンター",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "モリタウン昭和の森（エスパ昭島）／竣工1984年",
+              "url": "https://www.yendo.co.jp/works/800"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.moritown.com/"
+          }
+        },
+        {
+          "prefecture": "青森県",
+          "city": "青森市",
+          "name": "サンロード青森",
+          "type": "旧世代ショッピングセンター",
+          "note": "1977年開業。イオン青森店を核に専門店、映画館、カルチャーセンター、クリニック、アミューズメントを組み合わせた複合型SCで、1階サンホールを中心に複数階の専門店街が続く。狙い目：サンホール、1〜3階の回遊、映画館・カルチャー・医療の複合、現行フロアガイドに残る開業期からの館内構成。",
+          "official": "https://www.sunroad.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E9%9D%92%E6%A3%AE%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E9%9D%92%E6%A3%AE%E5%B8%82",
+          "kind": "旧世代ショッピングセンター",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "写真で見る、SCのあゆみ（サンロード青森）",
+              "url": "https://www.jcsc.or.jp/50th/history/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.sunroad.or.jp/"
+          }
+        },
+        {
+          "prefecture": "福井県",
+          "city": "勝山市",
+          "name": "勝山サンプラザ",
+          "type": "専門店街型商業施設",
+          "note": "1977年開業の地元商業者主導の2階建て共同店舗。現在も食品店と専門店が営業し、地方都市の共同店舗型SCとして商業と地域活動を併せ持つ。狙い目：2階建ての小規模な店舗列、共同店舗らしい共用部、現役テナントと地域イベントの配置。",
+          "official": "https://sunplazakatsuyama.wixsite.com/sunplaza",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8B%9D%E5%B1%B1%E3%82%B5%E3%83%B3%E3%83%97%E3%83%A9%E3%82%B6%20%E7%A6%8F%E4%BA%95%E7%9C%8C%E5%8B%9D%E5%B1%B1%E5%B8%82",
+          "kind": "専門店街型商業施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "福井方式の共同店舗施設一覧（開業年・店舗数）",
+              "url": "https://fukui-shoppingcenter.com/company/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://sunplazakatsuyama.wixsite.com/sunplaza"
+          }
+        },
+        {
+          "prefecture": "鳥取県",
+          "city": "倉吉市",
+          "name": "パープルタウン",
+          "type": "旧世代ショッピングセンター",
+          "note": "1981年開業。食品・衣料・日用品に加えて映画館、フィットネスを内包し、中央イベントスペース「パータン広場」を核に駅徒歩圏の地域商業施設として営業を続ける。狙い目：パータン広場、2階回廊、映画館・食品売場への動線、地域カードや公共施設との結びつき。",
+          "official": "https://www.purpletown.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%82%BF%E3%82%A6%E3%83%B3%20%E9%B3%A5%E5%8F%96%E7%9C%8C%E5%80%89%E5%90%89%E5%B8%82",
+          "kind": "旧世代ショッピングセンター",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "倉吉観光MICE協会の施設紹介（1981年開業・パータン広場）",
+              "url": "https://www.kurayoshi-kankou.jp/purpletown/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.purpletown.com/"
+          }
+        },
+        {
+          "prefecture": "福井県",
+          "city": "福井市",
+          "name": "ショッピングシティ・ベル",
+          "type": "旧世代ショッピングセンター",
+          "note": "1980年開業。ベル前駅に近い2階建て・約2万8000平方メートルの地域密着型SCで、平和堂と約70の専門店、レストラン街、イベント利用可能な共用部を組み合わせる。狙い目：2階建ての長い専門店動線、駅・屋上駐車場との上下動線、イベントスペース、開業40年超の地域共同運営の痕跡。",
+          "official": "https://bell.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%86%E3%82%A3%E3%83%BB%E3%83%99%E3%83%AB%20%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%A6%8F%E4%BA%95%E5%B8%82",
+          "kind": "旧世代ショッピングセンター",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "福井県共同店舗協同組合連合会の施設概要（1980年開業）",
+              "url": "https://fukui-shoppingcenter.com/company/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://bell.or.jp/"
           }
         }
       ]
