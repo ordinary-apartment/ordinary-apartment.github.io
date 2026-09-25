@@ -36,10 +36,10 @@
     "short": "屋上・屋上庭園"
   },
   {
-    "file": "全国候補・その他.csv",
+    "file": "ターミナル・展望施設.csv",
     "id": "other",
     "number": 7,
-    "short": "全国候補・その他"
+    "short": "ターミナル・展望施設"
   },
   {
     "file": "古いイオン.csv",
@@ -78,65 +78,60 @@
     "number": 14
   },
   {
-    "file": "自治体の面白いホームページ.csv",
-    "id": "csv-8d201c27e111597f8974",
-    "number": 15
-  },
-  {
     "file": "公共施設・文化施設内の食堂.csv",
     "id": "csv-5a1c6e719fd1f4465fe8",
-    "number": 16,
+    "number": 15,
     "short": "公共施設内食堂"
   },
   {
     "file": "団地商店街.csv",
     "id": "csv-c4fa45758baf41ff7963",
-    "number": 17,
+    "number": 16,
     "short": "団地商店街"
   },
   {
     "file": "地域文化施設.csv",
     "id": "csv-fc8f63487c880b68a990",
-    "number": 18
+    "number": 17
   },
   {
     "file": "地域独自スーパー.csv",
     "id": "csv-80b2e57215a517cc6a94",
-    "number": 19
+    "number": 18
   },
   {
     "file": "古いビル.csv",
     "id": "csv-c1d3cdeb630a678c2197",
-    "number": 20
+    "number": 19
   },
   {
     "file": "地下街・地下道.csv",
     "id": "csv-a9061f27f0797254e38e",
-    "number": 21
+    "number": 20
   },
   {
     "file": "遊園地・レジャー施設.csv",
     "id": "csv-44c1bade3e768ab28165",
-    "number": 22
+    "number": 21
   },
   {
     "file": "東京の区民ホール・公共ホール.csv",
     "id": "csv-f42fa0b1db8117f70960",
-    "number": 23
+    "number": 22
   },
   {
     "file": "大型リゾート施設.csv",
     "id": "csv-a71b6a7e2a42c34c90c7",
-    "number": 24
+    "number": 23
   },
   {
     "file": "東京都内の戦争史・戦争遺構を歩く.csv",
     "id": "csv-ce160b36e71b6e1d1bbf",
-    "number": 25
+    "number": 24
   },
   {
     "file": "生物展示施設.csv",
     "id": "csv-e319ac9433420da124a4",
-    "number": 26
+    "number": 25
   }
 ]

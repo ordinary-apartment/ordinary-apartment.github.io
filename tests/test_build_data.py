@@ -59,6 +59,29 @@ class BuildTests(unittest.TestCase):
         builder.build(self.root)
         self.assertEqual((self.root/'generated/facility-data.js').read_bytes(),old)
 
+    def test_rename_and_delete_preserve_surviving_material_identity(self):
+        self.write('削除.csv', [['施設名'], ['削除対象']])
+        self.write('変更前.csv', [['施設名', '公式サイト'], ['残す施設', 'https://example.com/']])
+        before = builder.build(self.root)
+        survivor = next(m for m in before['materials'] if m['name'] == '変更前')
+        (self.root/'data/削除.csv').unlink()
+        (self.root/'data/変更前.csv').rename(self.root/'data/変更後.csv')
+        registry_path = self.root/'data/material-registry.json'
+        registry = json.loads(registry_path.read_text())
+        next(r for r in registry if r['id'] == survivor['id'])['file'] = '変更後.csv'
+        registry_path.write_text(json.dumps(registry, ensure_ascii=False))
+        for name in ('facility-data.js', 'facility-data.json', 'material-registry.json'):
+            (self.root/name).write_text('outdated')
+        after = builder.build(self.root)
+        self.assertEqual(after['materialCount'], 1)
+        self.assertEqual(after['materials'][0]['number'], 1)
+        self.assertEqual(after['materials'][0]['id'], survivor['id'])
+        self.assertEqual(after['materials'][0]['items'], survivor['items'])
+        self.assertEqual(after['materials'][0]['name'], '変更後')
+        for name in ('facility-data.js', 'facility-data.json', 'material-registry.json'):
+            source = self.root/('data' if name == 'material-registry.json' else 'generated')/name
+            self.assertEqual((self.root/name).read_bytes(), source.read_bytes())
+
     def test_nfc_and_nfd_filename_keep_same_material_identity(self):
         nfc='植物園.csv'
         nfd=unicodedata.normalize('NFD', nfc)

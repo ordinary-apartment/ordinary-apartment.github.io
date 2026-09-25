@@ -19,15 +19,22 @@ class MaterialNumberTests(unittest.TestCase):
         self.assertEqual(numbers, list(range(1, len(numbers) + 1)))
         by_number = {material['number']: material['name'] for material in dataset['materials']}
         expected = {
+            7: 'ターミナル・展望施設',
             10: '旧世代型商業施設',
             11: 'レトロゲームセンター',
             13: '東京の失われた名所',
-            17: '団地商店街',
-            19: '地域独自スーパー',
-            26: '生物展示施設',
+            16: '団地商店街',
+            18: '地域独自スーパー',
+            25: '生物展示施設',
         }
         for number, name in expected.items():
             self.assertEqual(by_number[number], name)
+        registry = json.loads((ROOT / 'data/material-registry.json').read_text(encoding='utf-8'))
+        self.assertEqual(
+            [(r['id'], r['number']) for r in registry],
+            [(m['id'], m['number']) for m in dataset['materials']],
+        )
+        self.assertNotIn('csv-8d201c27e111597f8974', {m['id'] for m in dataset['materials']})
 
 
 if __name__ == '__main__':

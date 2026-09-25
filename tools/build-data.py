@@ -166,6 +166,15 @@ def build(root=ROOT):
     (generated/'facility-data.json').write_text(payload, encoding='utf-8')
     (generated/'facility-data.js').write_text('window.FACILITY_DATASET='+payload.rstrip().replace('\u2028','\\u2028').replace('\u2029','\\u2029')+';\n', encoding='utf-8')
     registry_path.write_text(json.dumps(registry,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    # Keep the legacy root copies consistent with the canonical outputs when
+    # present, so direct links cannot expose an outdated material catalogue.
+    for source, mirror in [
+        (generated/'facility-data.json', root/'facility-data.json'),
+        (generated/'facility-data.js', root/'facility-data.js'),
+        (registry_path, root/'material-registry.json'),
+    ]:
+        if mirror.exists():
+            mirror.write_bytes(source.read_bytes())
     print(f"{len(materials)}資料 / {dataset['total']}件を生成しました")
     return dataset
 
