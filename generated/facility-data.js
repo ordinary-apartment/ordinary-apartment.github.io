@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 26,
-  "total": 1346,
+  "materialCount": 27,
+  "total": 1366,
   "materials": [
     {
       "id": "botanical",
@@ -23972,6 +23972,381 @@ window.FACILITY_DATASET={
               "url": "https://www.showa-aircraft.co.jp/company/company/index.html"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "csv-e319ac9433420da124a4",
+      "number": 33,
+      "name": "生物展示施設",
+      "shortName": "生物展示施設",
+      "file": "生物展示施設.csv",
+      "count": 20,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "足立区",
+          "name": "足立区生物園",
+          "type": "生物園",
+          "note": "元渕江公園内で蝶の大温室、年間飼育のホタル、昆虫ドーム、大水槽を一体的に見せる区立生物園。狙い目：温室・昆虫ドーム・ホタル展示を歩き、生物園型の都市環境学習空間を観察する。",
+          "official": "https://seibutuen.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%B3%E7%AB%8B%E5%8C%BA%E7%94%9F%E7%89%A9%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B6%B3%E7%AB%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "足立区公式施設案内",
+              "url": "https://www.city.adachi.tokyo.jp/k-iji/shisetsu/toshokan/2022seibutuen.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "桐生市",
+          "name": "ぐんま昆虫の森",
+          "type": "昆虫園",
+          "note": "45haの里山に昆虫観察館、チョウの温室、雑木林・棚田・小川を組み合わせた県立施設。狙い目：館内展示だけでなく、再現里山を歩いて生息環境と展示を連続して見る。",
+          "official": "https://www.pref.gunma.jp/site/giw/index-2.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%90%E3%82%93%E3%81%BE%E6%98%86%E8%99%AB%E3%81%AE%E6%A3%AE%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E6%A1%90%E7%94%9F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "石川県",
+          "city": "白山市",
+          "name": "石川県ふれあい昆虫館",
+          "type": "昆虫館",
+          "note": "常設の放蝶温室「チョウの園」と石川県の昆虫を扱う展示室を備える県立昆虫館。狙い目：二層構成の展示空間と大きな放蝶温室の回遊動線。",
+          "official": "https://www.furekon.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E6%98%86%E8%99%AB%E9%A4%A8%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E7%99%BD%E5%B1%B1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "石川県施設案内",
+              "url": "https://www.pref.ishikawa.lg.jp/eizen/kaga/kontyuu/kontyuu.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "磐田市",
+          "name": "磐田市竜洋昆虫自然観察公園",
+          "type": "昆虫自然観察公園",
+          "note": "生きた昆虫を展示するこんちゅう館と、ビオトープ・観察ゾーンを一体運営する市立施設。狙い目：館内の生体展示から屋外の水辺・林へ連続する構成。",
+          "official": "https://ryu-yo.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A3%90%E7%94%B0%E5%B8%82%E7%AB%9C%E6%B4%8B%E6%98%86%E8%99%AB%E8%87%AA%E7%84%B6%E8%A6%B3%E5%AF%9F%E5%85%AC%E5%9C%92%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%A3%90%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "磐田市施設ガイド",
+              "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/koen_shisetsu/kouen/1005911.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "奈良県",
+          "city": "橿原市",
+          "name": "橿原市昆虫館",
+          "type": "昆虫館",
+          "note": "生態展示室、放蝶温室、飼育情報コーナーを恒常的に備える市立昆虫館。狙い目：標本室だけでなく、生態展示室と温室を巡る展示構成。",
+          "official": "https://www.city.kashihara.nara.jp/kanko_bunka_sports/konchukan/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A9%BF%E5%8E%9F%E5%B8%82%E6%98%86%E8%99%AB%E9%A4%A8%20%E5%A5%88%E8%89%AF%E7%9C%8C%20%E6%A9%BF%E5%8E%9F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "館内案内",
+              "url": "https://www.city.kashihara.nara.jp/soshiki/1062/gyomu/1/5/3137.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市",
+          "name": "広島市森林公園こんちゅう館",
+          "type": "昆虫館",
+          "note": "森林公園内で常時50種1000頭以上の生きた昆虫を観察できる市立昆虫館。狙い目：パピヨンドームと森林公園の自然環境を一続きに体験する。",
+          "official": "https://www.city.hiroshima.lg.jp/soshiki/121/18573.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E3%81%93%E3%82%93%E3%81%A1%E3%82%85%E3%81%86%E9%A4%A8%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "北九州市",
+          "name": "北九州市ほたる館",
+          "type": "水生生物館",
+          "note": "ヘイケボタルを一年中飼育し、実験水路・せせらぎ水路も備える無料の環境学習施設。狙い目：屋内の発光展示と屋外水路を比較し、都市の水辺再生を観察する。",
+          "official": "https://www.city.kitakyushu.lg.jp/shisetsu/menu06_00001.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E3%81%BB%E3%81%9F%E3%82%8B%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "北九州市観光情報",
+              "url": "https://kitakyushucity.guide/spots/detail/166a8408-d925-4443-8703-cf7d84626a7a"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "北九州市",
+          "name": "香月・黒川ほたる館",
+          "type": "水生生物館",
+          "note": "黒川流域のホタルと水辺環境を扱う市立施設。狙い目：地域河川の生態系学習と、季節に左右されない展示解説を確認する。",
+          "official": "https://www.city.kitakyushu.lg.jp/contents/05101142.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%9C%88%E3%83%BB%E9%BB%92%E5%B7%9D%E3%81%BB%E3%81%9F%E3%82%8B%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "高知県",
+          "city": "四万十市",
+          "name": "四万十川学遊館あきついお",
+          "type": "地域生態系館",
+          "note": "四万十川の淡水魚とトンボを中心に展示し、隣接するトンボ自然公園と環境学習を行う。狙い目：魚類水槽とトンボ保護区を歩き、流域生態系を屋内外で見る。",
+          "official": "https://gakuyukan.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E4%B8%87%E5%8D%81%E5%B7%9D%E5%AD%A6%E9%81%8A%E9%A4%A8%E3%81%82%E3%81%8D%E3%81%A4%E3%81%84%E3%81%8A%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E5%9B%9B%E4%B8%87%E5%8D%81%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "高知県観光情報",
+              "url": "https://kochi-tabi.jp/search_spot.html?id=1326"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "栃木県",
+          "city": "大田原市",
+          "name": "なかがわ水遊園",
+          "type": "淡水水族館",
+          "note": "那珂川の魚から世界の淡水魚までを主題とする県立水族施設。狙い目：地域河川の展示と大水槽の淡水環境再現を見比べる。",
+          "official": "https://www.tnap.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%8B%E3%81%8C%E3%82%8F%E6%B0%B4%E9%81%8A%E5%9C%92%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%A4%A7%E7%94%B0%E5%8E%9F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "栃木県公式施設案内",
+              "url": "https://www.pref.tochigi.lg.jp/g02/shisetsu/leisure/004.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "羽生市",
+          "name": "さいたま水族館",
+          "type": "淡水魚館",
+          "note": "羽生水郷公園内で荒川・利根川水系を含む国内淡水魚を展示する県立施設。狙い目：屋外の水郷公園と淡水魚展示の関係を歩いて見る。",
+          "official": "https://www.parks.or.jp/suizokukan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E7%BE%BD%E7%94%9F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "埼玉県施設案内",
+              "url": "https://www.pref.saitama.lg.jp/shisetsu/koen/029.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "北見市",
+          "name": "北の大地の水族館（山の水族館）",
+          "type": "淡水魚館",
+          "note": "北海道の川を主役に、滝つぼ水槽や冬に凍る水槽で淡水魚を展示する施設。狙い目：屋外河川環境と、季節変化を再現した水槽。",
+          "official": "https://onneyu-aq.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E3%81%AE%E5%A4%A7%E5%9C%B0%E3%81%AE%E6%B0%B4%E6%97%8F%E9%A4%A8%EF%BC%88%E5%B1%B1%E3%81%AE%E6%B0%B4%E6%97%8F%E9%A4%A8%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E8%A6%8B%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "出雲市",
+          "name": "島根県立宍道湖自然館ゴビウス",
+          "type": "地域水族館",
+          "note": "島根の川と宍道湖・中海の魚や水辺生物を約200種展示する県立の体験学習型水族館。狙い目：汽水域の生物展示と地域環境の解説。",
+          "official": "https://www.gobius.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%A0%B9%E7%9C%8C%E7%AB%8B%E5%AE%8D%E9%81%93%E6%B9%96%E8%87%AA%E7%84%B6%E9%A4%A8%E3%82%B4%E3%83%93%E3%82%A6%E3%82%B9%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%87%BA%E9%9B%B2%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "島根県公式案内",
+              "url": "https://www.pref.shimane.lg.jp/tourism/nature/shizen/gobius/gobius/"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "長崎県",
+          "city": "対馬市",
+          "name": "対馬野生生物保護センター",
+          "type": "野生生物保護施設",
+          "note": "ツシマヤマネコを中心に、対馬の野生生物保護と環境教育を行う環境省施設。狙い目：保護個体の展示と島の生態系資料を合わせて見る。",
+          "official": "https://kyushu.env.go.jp/twcc/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%BE%E9%A6%AC%E9%87%8E%E7%94%9F%E7%94%9F%E7%89%A9%E4%BF%9D%E8%AD%B7%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E5%AF%BE%E9%A6%AC%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "沖縄県",
+          "city": "竹富町",
+          "name": "西表野生生物保護センター",
+          "type": "野生生物保護施設",
+          "note": "イリオモテヤマネコを中心に西表島の生態系と保護活動を紹介する環境省施設。狙い目：生体・保護情報と島の自然環境の関係を確認する。",
+          "official": "https://iwcc.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E8%A1%A8%E9%87%8E%E7%94%9F%E7%94%9F%E7%89%A9%E4%BF%9D%E8%AD%B7%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E7%AB%B9%E5%AF%8C%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "沖縄県",
+          "city": "国頭村",
+          "name": "やんばる野生生物保護センター（ウフギー自然館）",
+          "type": "野生生物保護施設",
+          "note": "ヤンバルクイナなどやんばる固有の野生生物と保全活動を展示する環境省施設。狙い目：地域固有種の生態と交通事故対策など保護現場の展示。",
+          "official": "https://kyushu.env.go.jp/okinawa/awcc/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%84%E3%82%93%E3%81%B0%E3%82%8B%E9%87%8E%E7%94%9F%E7%94%9F%E7%89%A9%E4%BF%9D%E8%AD%B7%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%82%A6%E3%83%95%E3%82%AE%E3%83%BC%E8%87%AA%E7%84%B6%E9%A4%A8%EF%BC%89%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E5%9B%BD%E9%A0%AD%E6%9D%91",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "佐渡市",
+          "name": "トキの森公園",
+          "type": "野生生物展示施設",
+          "note": "トキの飼育展示と野生復帰事業をつなぐ佐渡市の公開施設。狙い目：飼育ケージと保護増殖・放鳥の解説を一体で見る。",
+          "official": "https://tokinotayori.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%82%AD%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E4%BD%90%E6%B8%A1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "山口県",
+          "city": "下関市",
+          "name": "豊田ホタルの里ミュージアム",
+          "type": "水生生物館",
+          "note": "ホタルと水辺環境を中心に、生体展示・飼育・地域河川の解説を行う施設。狙い目：発光生態の展示と水路環境の再現。",
+          "official": "https://hotaru-museum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E7%94%B0%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E9%87%8C%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "和気町",
+          "name": "岡山県自然保護センター",
+          "type": "自然観察館",
+          "note": "湿地・里山の昆虫、両生類、水生生物を観察できる県立自然保護施設。狙い目：生体観察展示と湿地環境を同時に歩く。",
+          "official": "https://okayama-shizenhogo-c.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E8%87%AA%E7%84%B6%E4%BF%9D%E8%AD%B7%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%92%8C%E6%B0%97%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "大田市",
+          "name": "島根県立三瓶自然館サヒメル",
+          "type": "自然観察館",
+          "note": "三瓶山の自然と昆虫・両生類など地域生物を扱う県立自然館。狙い目：地域生態系の展示と野外観察環境の接続。",
+          "official": "https://www.nature-sanbe.jp/sahimel/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%A0%B9%E7%9C%8C%E7%AB%8B%E4%B8%89%E7%93%B6%E8%87%AA%E7%84%B6%E9%A4%A8%E3%82%B5%E3%83%92%E3%83%A1%E3%83%AB%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%A4%A7%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         }
       ]
     }
