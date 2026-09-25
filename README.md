@@ -72,6 +72,11 @@ PRと既定以外のブランチでは検証のみで、公開しません。生
 - ルートの旧 `facilities.js` と `facility-catalog.js` も保持していますが、新しい台帳からは読み込みません。以後はCSVを編集してください。
 - `styles.css`、`data.js`、`icon.png` は変更していません。
 
+## 検索用ファイルのキャッシュ更新
+
+通常の公開は `main` ブランチの `/ (root)` から行い、`git push origin main` で更新します。
+JS/CSS変更後はpush前に `python3 -B tools/version-assets.py` を実行してください。HTML内の全ローカルJS/CSS（`generated/facility-data.js`を含む）に内容のSHA-256の先頭16桁をURLクエリとして付け、更新前のキャッシュの再利用を防ぎます。`python3 -B tools/version-assets.py --check` で更新漏れを検出できます。開いたままのタブは更新後に再読込してください。
+
 ## ローカルで生成する場合
 
 Python 3.10以上（追加ライブラリ不要）でフォルダ内から実行します。

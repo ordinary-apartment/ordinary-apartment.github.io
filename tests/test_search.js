@@ -13,6 +13,7 @@ const index=search.buildIndex(dataset,numbers);
 const find=query=>index.entries.filter(entry=>search.matches(entry,search.parseQuery(query,index)));
 const names=entries=>entries.map(entry=>`${entry.item.prefecture}/${entry.item.city}/${entry.item.name}`);
 
+assert.strictEqual(find('リミナル').length,0);
 const tokyo=find('東京');
 assert(tokyo.length>0);
 assert(tokyo.every(entry=>[entry.item.prefecture,entry.item.city,entry.item.name].join(' ').includes('東京')));
