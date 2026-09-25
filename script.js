@@ -32,24 +32,10 @@ function wireSortTables(){
   });
 }
 
-// Search normalizes text without changing the source records.
-const normalizeSearch=value=>String(value??'').normalize('NFKC').toLocaleLowerCase('ja').replace(/\s+/g,' ').trim();
-const prefectureAliases=new Map();
-facilityDataset.materials.forEach(m=>m.items.forEach(x=>{
-  const full=normalizeSearch(x.prefecture);
-  if(full)prefectureAliases.set(full,full.replace(/[都府県]$/,''));
-}));
-const normalizeRegion=value=>{
-  let text=normalizeSearch(value);
-  for(const [full,short] of prefectureAliases){
-    if(full!==short)text=text.split(full).join(short);
-  }
-  return text;
-};
-const facilityEntries=facilityDataset.materials.flatMap(m=>m.items.map((item,index)=>({
-  item,key:m.id,index,number:materialDisplayNumbers.get(m.id),title:m.name,
-  text:normalizeRegion([item.prefecture,item.city,item.name,item.type,item.kind,item.note,item.description,item.aim,m.name,m.shortName,...(item.relatedLinks||[]).flatMap(link=>[link.title,link.url])].filter(Boolean).join(' '))
-})));
+// Region terms are matched against structured location fields; other terms
+// continue to use the full-text index without changing source records.
+const facilitySearchIndex=FACILITY_SEARCH.buildIndex(facilityDataset,materialDisplayNumbers);
+const facilityEntries=facilitySearchIndex.entries;
 let facilityQuery='',selectedFacilityId=null,unfilteredList=null,unfilteredScroll=0;
 function detailMarkup(selected,definition){
   return selected?`<section class="material-detail facilities-top-detail"><div class="material-detail-copy"><div class="facility-record-head"><span>資料${definition[1]} / 個別記録</span><span>関連リンク ${selected.relatedLinks?.length||0}件</span></div><h2>${h(selected.name)}</h2><div class="facility-register"><div><span>都道府県</span><span>${h(selected.prefecture)}</span></div><div><span>市区町村</span><span>${h(selected.city)}</span></div><div><span>分類</span><span>${h(selected.type)}</span></div><div class="facility-register-wide"><span>関連リンク</span><span>${relatedLinksMarkup(selected.relatedLinks)}</span></div><div class="facility-register-wide"><span>説明</span><span>${h(selected.note)}</span></div><div class="facility-register-wide"><span>参照</span><span>${selected.official?`<a href="${h(selected.official)}" target="_blank" rel="noopener noreferrer">公式サイト</a>　`:''}<a href="${h(selected.maps)}" target="_blank" rel="noopener noreferrer">地図</a>　<a href="${h(selected.maps)}" target="_blank" rel="noopener noreferrer">Googleマップで写真を見る ↗</a></span></div></div></div><iframe title="${h(selected.name)}の地図" src="https://maps.google.com/maps?q=${encodeURIComponent(`${selected.name} ${selected.prefecture}${selected.city}`)}&output=embed" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></section>`:'';
@@ -110,7 +96,8 @@ function wireLedgerRows(){
 }
 function renderLedgerResults(){
   const scroller=document.querySelector('.facilities-ledger-scroll');
-  const tokens=normalizeRegion(facilityQuery).split(/\s+/).filter(Boolean);
+  const parsedQuery=FACILITY_SEARCH.parseQuery(facilityQuery,facilitySearchIndex);
+  const tokens=parsedQuery.tokens;
   hideFacilityDetail();
   if(tokens.length){
     if(!unfilteredList){
@@ -118,7 +105,7 @@ function renderLedgerResults(){
       unfilteredList=document.createDocumentFragment();
       unfilteredList.append(...scroller.childNodes);
     }
-    const matches=facilityEntries.filter(entry=>tokens.every(token=>entry.text.includes(token)));
+    const matches=facilityEntries.filter(entry=>FACILITY_SEARCH.matches(entry,parsedQuery));
     scroller.innerHTML=matches.length?ledgerSection('facility-search-results','横断検索','全資料の検索結果',matches,true):'<p class="empty">該当する施設はありません。検索語を変えてお試しください。</p>';
     document.querySelector('#facility-search-status').textContent=`${matches.length} / ${facilityEntries.length}件`;
     scroller.scrollTop=0;
