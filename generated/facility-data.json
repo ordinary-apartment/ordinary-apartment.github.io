@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "materialCount": 25,
-  "total": 1306,
+  "materialCount": 26,
+  "total": 1335,
   "materials": [
     {
       "id": "botanical",
@@ -23347,6 +23347,463 @@
           "extra": {
             "参照": "公式サイト：https://www.sunhatoya.co.jp/"
           }
+        }
+      ]
+    },
+    {
+      "id": "csv-ce160b36e71b6e1d1bbf",
+      "number": 32,
+      "name": "東京都内の戦争史・戦争遺構を歩く",
+      "shortName": "東京都内の戦争史・戦争遺構を歩く",
+      "file": "東京都内の戦争史・戦争遺構を歩く.csv",
+      "count": 29,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "武蔵野市",
+          "name": "NTT武蔵野研究開発センタ",
+          "type": "軍需工場跡・研究施設",
+          "note": "現在はNTTの研究開発拠点。敷地は中島飛行機武蔵製作所の組立工場跡地の一部にあたり、航空機生産拠点から通信研究施設へ転用された土地の変化を読む。狙い目：公開道路から研究施設の敷地境界と周辺住宅地を観察する。",
+          "official": "https://www.rd.ntt/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=NTT%E6%AD%A6%E8%94%B5%E9%87%8E%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E3%82%BB%E3%83%B3%E3%82%BF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "武蔵野市",
+          "name": "武蔵野中央公園",
+          "type": "軍需工場跡・公園",
+          "note": "現在は都立公園。中島飛行機武蔵製作所が置かれた土地で、工場跡が公園と住宅地へ変わった。狙い目：広い原っぱと周辺道路を旧工場配置と比較する。",
+          "official": "https://www.tokyo-park.or.jp/park/musashinochuo/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "武蔵野市平和案内説明板マップ",
+              "url": "https://www.city.musashino.lg.jp/heiwa_bunka_sports/heiwa/1015084.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "武蔵野市",
+          "name": "グリーンパーク遊歩道（中島飛行機引込線跡）",
+          "type": "軍用鉄道跡・遊歩道",
+          "note": "現在は歩行者道。武蔵境駅から中島飛行機武蔵製作所へ資材を運んだ引込線の線形を歩ける。狙い目：直線的な遊歩道と工場跡地の位置関係を地図で照合する。",
+          "official": "https://www.city.musashino.lg.jp/heiwa_bunka_sports/heiwa/1015084.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%E9%81%8A%E6%AD%A9%E9%81%93%EF%BC%88%E4%B8%AD%E5%B3%B6%E9%A3%9B%E8%A1%8C%E6%A9%9F%E5%BC%95%E8%BE%BC%E7%B7%9A%E8%B7%A1%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "三鷹市",
+          "name": "国際基督教大学本館",
+          "type": "軍需研究所跡・大学",
+          "note": "現在は大学本館。1944年に建てられた中島飛行機三鷹研究所の本館を戦後に大学施設へ転用している。狙い目：本館の外観と教育空間を研究所本館の履歴と重ねて見る。",
+          "official": "https://www.icu.ac.jp/about/campus/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E9%9A%9B%E5%9F%BA%E7%9D%A3%E6%95%99%E5%A4%A7%E5%AD%A6%E6%9C%AC%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%89%E9%B7%B9%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧中島飛行機三鷹研究所本館の紹介",
+              "url": "https://www.icu.ac.jp/news/2511281000.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "北区立中央公園文化センター",
+          "type": "旧造兵廠本部・文化施設",
+          "note": "現在は区民文化施設。昭和5年築の東京第一陸軍造兵廠本部建物を、米軍接収と返還を経て文化センターとして使う。狙い目：本部建築の外観、地下を含む階層構成、公園との位置関係。",
+          "official": "https://www.city.kita.lg.jp/children-edu/adult-learning/1010206/1010207/1010208.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%8C%BA%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧東京第一陸軍造兵廠本部事務所",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/906/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "板橋区",
+          "name": "陸軍板橋火薬製造所跡・加賀公園",
+          "type": "火薬製造所跡・史跡",
+          "note": "現在は加賀公園を中心とする国史跡。陸軍火薬製造・研究の敷地で、旧研究施設や弾道管などの遺構が残る。狙い目：石神井川沿いの敷地、保存遺構、公園の地形を歩く。",
+          "official": "https://www.city.itabashi.tokyo.jp/bunka/bunkazi/1045996.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%99%B8%E8%BB%8D%E6%9D%BF%E6%A9%8B%E7%81%AB%E8%96%AC%E8%A3%BD%E9%80%A0%E6%89%80%E8%B7%A1%E3%83%BB%E5%8A%A0%E8%B3%80%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "陸軍板橋火薬製造所跡（東京都文化財）",
+              "url": "https://www.syougai.metro.tokyo.lg.jp/image/tokyobunkazai123.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "戸山公園箱根山地区",
+          "type": "軍学校跡・公園",
+          "note": "現在は都立公園。箱根山一帯は陸軍戸山学校の敷地で、軍事教育施設の地形と戦後公園化の変化をたどれる。狙い目：箱根山の高低差、園路、旧軍用地境界を歩く。",
+          "official": "https://www.tokyo-park.or.jp/park/toyama/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%88%B8%E5%B1%B1%E5%85%AC%E5%9C%92%E7%AE%B1%E6%A0%B9%E5%B1%B1%E5%9C%B0%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "国立国際医療センター（旧陸軍軍医学校跡）",
+          "type": "軍医学校跡・病院",
+          "note": "現在は国立病院。敷地は旧陸軍軍医学校の所在地で、軍医教育・衛生研究の土地が医療施設へ継承された。狙い目：公開道路から病院敷地と戸山公園・旧軍学校跡の関係を歩く。",
+          "official": "https://www.hosp.ncgm.go.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E6%97%A7%E9%99%B8%E8%BB%8D%E8%BB%8D%E5%8C%BB%E5%AD%A6%E6%A0%A1%E8%B7%A1%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "防衛省市ヶ谷地区",
+          "type": "軍司令部跡・現役防衛施設",
+          "note": "現在は防衛省の庁舎地区。陸軍省・参謀本部などの所在地から戦後の防衛行政拠点へ継承された。狙い目：内部立入を前提にせず、外周から門・塀・市ヶ谷台の高低差を観察する。",
+          "official": "https://www.mod.go.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%98%B2%E8%A1%9B%E7%9C%81%E5%B8%82%E3%83%B6%E8%B0%B7%E5%9C%B0%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "旧近衛師団司令部庁舎",
+          "type": "旧軍司令部建築",
+          "note": "現在も北の丸公園内に残る旧陸軍近衛師団司令部庁舎。戦後の文化施設化を経た建築で、皇居周辺の軍用地の変化を示す。狙い目：公開区域から煉瓦造の立面と北の丸の配置を見る。",
+          "official": "https://www.kunaicho.go.jp/about/shisetsu/kitanomaru.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E8%BF%91%E8%A1%9B%E5%B8%AB%E5%9B%A3%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%BA%81%E8%88%8E%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京都文化財情報",
+              "url": "https://www.syougai.metro.tokyo.lg.jp/image/tokyobunkazai123.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中野区",
+          "name": "中野四季の森公園・中野セントラルパーク",
+          "type": "陸軍学校跡・公園複合施設",
+          "note": "現在は公園と業務地区。旧陸軍中野学校を含む軍施設用地が戦後の警察大学校を経て再開発された。狙い目：公園・業務棟・道路の広がりを旧中野学校の敷地履歴と重ねる。",
+          "official": "https://www.city.tokyo-nakano.lg.jp/kanko/machinami/shikinomori.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E9%87%8E%E5%9B%9B%E5%AD%A3%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%E3%83%BB%E4%B8%AD%E9%87%8E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中野区",
+          "name": "旧中野刑務所表門・平和の森公園",
+          "type": "刑務所遺構・公園",
+          "note": "現在は平和の森公園と保存門。豊多摩刑務所の表門が残り、戦時期の政治・思想弾圧と戦後公園化を現地で読める。狙い目：表門の煉瓦・石造部分と公園の対比。",
+          "official": "https://www.city.tokyo-nakano.lg.jp/kanko/machinami/heiwa-no-mori.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E4%B8%AD%E9%87%8E%E5%88%91%E5%8B%99%E6%89%80%E8%A1%A8%E9%96%80%E3%83%BB%E5%B9%B3%E5%92%8C%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "光が丘公園",
+          "type": "旧飛行場・米軍住宅地・公園",
+          "note": "現在は都立公園。戦時中の成増飛行場、戦後の米軍グラントハイツを経て公園と団地へ転用された。狙い目：広い園路と直線的な区画、光が丘団地との境界を歩く。",
+          "official": "https://www.tokyo-park.or.jp/park/hikarigaoka/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%89%E3%81%8C%E4%B8%98%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "光が丘地区のまちづくり史",
+              "url": "https://www.city.nerima.tokyo.jp/kusei/machi/kakuchiiki/hikarigaokachiku.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "東大和市",
+          "name": "旧日立航空機株式会社変電所",
+          "type": "軍需工場変電所・戦災建造物",
+          "note": "現在は東大和南公園内に保存公開される市指定文化財。1938年建設の軍需工場変電所で、機銃掃射・爆撃の弾痕が外壁に残る。狙い目：弾痕、公開される内部設備、工場跡を公園化した周辺景観。",
+          "official": "https://www.city.higashiyamato.lg.jp/bunkasports/museum/1006099/1006102.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E6%97%A5%E7%AB%8B%E8%88%AA%E7%A9%BA%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%A4%89%E9%9B%BB%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧日立航空機株式会社変電所の解説",
+              "url": "https://www.city.higashiyamato.lg.jp/shisei/furusato/1003931/1003934.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "東大和市",
+          "name": "東大和南公園",
+          "type": "軍需工場跡・公園",
+          "note": "現在は都立公園。日立航空機立川工場跡地を公園として利用し、敷地内に旧変電所を保存する。狙い目：緑地と工場跡建物、玉川上水駅からの導線を観察する。",
+          "official": "https://www.tokyo-park.or.jp/park/higashiyamato/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%8D%97%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧日立航空機株式会社変電所の解説",
+              "url": "https://www.city.higashiyamato.lg.jp/shisei/furusato/1003931/1003934.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "調布市",
+          "name": "調布飛行場",
+          "type": "陸軍飛行場・現役飛行場",
+          "note": "現在は民間空港。1941年開設の調布飛行場は戦時中に陸軍飛行場として使用され、周辺に門柱・掩体壕・高射砲陣地跡が残る。狙い目：公開道路から滑走路周辺の地形と門柱を観察する。",
+          "official": "https://www.kouwan.metro.tokyo.lg.jp/airport/chofu/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%AA%BF%E5%B8%83%E9%A3%9B%E8%A1%8C%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%AA%BF%E5%B8%83%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "調布市「戦争と平和の軌跡巡り」",
+              "url": "https://www.city.chofu.lg.jp/040010/p020909.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "三鷹市",
+          "name": "武蔵野の森公園・大沢掩体壕",
+          "type": "掩体壕・公園",
+          "note": "現在は都立公園。調布飛行場周辺に構築された有蓋掩体のうち大沢1号・2号が保存されている。狙い目：開口部・厚い屋根、飛行場との距離、公園園路からの見え方。",
+          "official": "https://www.tokyo-park.or.jp/park/musashinonomori/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%E3%83%BB%E5%A4%A7%E6%B2%A2%E6%8E%A9%E4%BD%93%E5%A3%95%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%89%E9%B7%B9%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "掩体壕 大沢1号・2号",
+              "url": "https://www.city.mitaka.lg.jp/peace-tourism/spots/mitaka_01_10.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "立川市",
+          "name": "国営昭和記念公園",
+          "type": "旧飛行場・米軍基地跡・公園",
+          "note": "現在は国営公園。旧陸軍立川飛行場、戦後の米軍立川基地を経て公園化された180haの土地で、現在の原っぱ・道路に基地跡のスケールが残る。狙い目：広域園路と旧基地境界、防災基地との連続性。",
+          "official": "https://www.ktr.mlit.go.jp/showa/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E5%96%B6%E6%98%AD%E5%92%8C%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "公園の経緯（立川飛行場・米軍基地）",
+              "url": "https://www.ktr.mlit.go.jp/showa/showa_00012.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "立川市",
+          "name": "立川飛行場・立川駐屯地周辺",
+          "type": "旧陸軍飛行場・現役基地",
+          "note": "現在は陸上自衛隊立川駐屯地など。1922年開設の立川飛行場は陸軍航空拠点、戦後は米軍基地となり、返還後も飛行場機能が続く。狙い目：内部立入を前提にせず、公道・公開行事の範囲で周辺を観察する。",
+          "official": "https://www.mod.go.jp/gsdf/eae/eaavn/contents/2-1-history/2-1-history.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%B7%9D%E9%A3%9B%E8%A1%8C%E5%A0%B4%E3%83%BB%E7%AB%8B%E5%B7%9D%E9%A7%90%E5%B1%AF%E5%9C%B0%E5%91%A8%E8%BE%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "立川飛行場のあゆみ",
+              "url": "https://www.city.tachikawa.lg.jp/_res/projects/default_project/_page_/001/004/905/7tatikawahikoujou.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "八王子市",
+          "name": "浅川地下壕",
+          "type": "地下壕・軍需工場関連",
+          "note": "現在は八王子市内に残る大規模地下壕。戦時中に軍需工場の疎開先として掘削され、地上の住宅地・道路の下に地下空間の痕跡を残す。狙い目：見学会など合法的な機会に限定して坑道と地上地形を比較する。",
+          "official": "https://www.city.hachioji.tokyo.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E5%B7%9D%E5%9C%B0%E4%B8%8B%E5%A3%95%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "浅川地下壕の現地記録",
+              "url": "https://cave.8park.jp/asakawa.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "小石川後楽園",
+          "type": "旧水戸藩邸・東京砲兵工廠隣接地",
+          "note": "現在は都立庭園。隣接する東京砲兵工廠と戦時都市の土地利用を考えられる庭園で、戦後都市化との変化を周辺から読める。狙い目：庭園外周、後楽園駅・東京ドーム側との位置関係。",
+          "official": "https://www.tokyo-park.or.jp/park/koishikawakorakuen/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%9F%B3%E5%B7%9D%E5%BE%8C%E6%A5%BD%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "東京ドームシティ周辺（旧東京砲兵工廠跡）",
+          "type": "軍需工場跡・複合都市施設",
+          "note": "現在は東京ドームシティ。旧東京砲兵工廠の敷地に野球場・遊園地・商業施設が展開した土地利用の変化を、現在の回遊空間から考える。狙い目：ドーム、駅、区役所周辺の敷地境界を地図で照合する。",
+          "official": "https://www.tokyo-dome.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%86%E3%82%A3%E5%91%A8%E8%BE%BA%EF%BC%88%E6%97%A7%E6%9D%B1%E4%BA%AC%E7%A0%B2%E5%85%B5%E5%B7%A5%E5%BB%A0%E8%B7%A1%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "横網町公園・東京都慰霊堂",
+          "type": "旧陸軍被服廠跡・震災戦災記憶",
+          "note": "現在は公園と慰霊施設。旧陸軍被服廠跡で関東大震災の火災旋風と東京大空襲の記憶を重ねて伝える。狙い目：慰霊堂、復興記念館、園内広場と市街地の関係。",
+          "official": "https://tokyoireido.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E7%B6%B2%E7%94%BA%E5%85%AC%E5%9C%92%E3%83%BB%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%85%B0%E9%9C%8A%E5%A0%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京都慰霊堂・横網町公園案内",
+              "url": "https://www.tokyo-park.or.jp/park/yokoamicho/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区・墨田区",
+          "name": "言問橋",
+          "type": "東京大空襲戦災地点・橋梁",
+          "note": "現在も使われる隅田川の橋。1945年3月10日の東京大空襲で多数の犠牲者が出た地点として、都市交通の現在と戦災の記憶を重ねて歩ける。狙い目：橋上から隅田川・浅草側を見渡す。",
+          "official": "https://www.kensetsu.metro.tokyo.lg.jp/jigyo/river/kasen/kototoibashi.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%A8%80%E5%95%8F%E6%A9%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA%E3%83%BB%E5%A2%A8%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "旧東京第一陸軍造兵廠旧254号棟（十条駐屯地外周）",
+          "type": "旧造兵廠建築・現役施設",
+          "note": "現在は自衛隊十条駐屯地内の建物。旧東京第一陸軍造兵廠254号棟として北区平和マップに記録される。狙い目：立入禁止区域へ入らず、外周の公道から位置を確認する。",
+          "official": "https://www.city.kita.lg.jp/_res/projects/default_project/_page_/001/010/294/kitaku_heiwa_map2024.pdf",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E6%9D%B1%E4%BA%AC%E7%AC%AC%E4%B8%80%E9%99%B8%E8%BB%8D%E9%80%A0%E5%85%B5%E5%BB%A0%E6%97%A7254%E5%8F%B7%E6%A3%9F%EF%BC%88%E5%8D%81%E6%9D%A1%E9%A7%90%E5%B1%AF%E5%9C%B0%E5%A4%96%E5%91%A8%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "赤羽緑道公園（軍用貨物引込線跡）",
+          "type": "軍用鉄道跡・公園",
+          "note": "現在は緑道公園。北区平和マップが示す軍用貨物引込線跡で、造兵廠・兵器補給廠と鉄道網の関係を歩いて確認できる。狙い目：緑道の直線、線路跡の高低差、旧工場地区への方向。",
+          "official": "https://www.city.kita.lg.jp/_res/projects/default_project/_page_/001/010/294/kitaku_heiwa_map2024.pdf",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E7%BE%BD%E7%B7%91%E9%81%93%E5%85%AC%E5%9C%92%EF%BC%88%E8%BB%8D%E7%94%A8%E8%B2%A8%E7%89%A9%E5%BC%95%E8%BE%BC%E7%B7%9A%E8%B7%A1%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "名主の滝公園（戦災樹木）",
+          "type": "戦災樹木・公園",
+          "note": "現在は区立公園。北区平和マップに1945年4月の空襲被災が記録された樹木が示される。狙い目：樹木の位置と公園地形を観察し、都市の緑に残る戦災痕跡を確認する。",
+          "official": "https://www.city.kita.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E4%B8%BB%E3%81%AE%E6%BB%9D%E5%85%AC%E5%9C%92%EF%BC%88%E6%88%A6%E7%81%BD%E6%A8%B9%E6%9C%A8%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "三鷹市",
+          "name": "調布飛行場門柱",
+          "type": "飛行場遺構・門柱",
+          "note": "現在は調布飛行場周辺に残る門柱。1941年竣工時の正門として設置された。狙い目：公道から門柱の位置と飛行場入口、住宅地との境界を確認する。",
+          "official": "https://www.city.chofu.lg.jp/040010/p020909.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%AA%BF%E5%B8%83%E9%A3%9B%E8%A1%8C%E5%A0%B4%E9%96%80%E6%9F%B1%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%89%E9%B7%B9%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "三鷹市",
+          "name": "三鷹市大沢高射砲陣地跡",
+          "type": "高射砲陣地跡・碑",
+          "note": "現在は民有地内の碑を道路から確認する平和スポット。調布飛行場防空のための高射砲陣地跡で、1945年の戦闘記録が残る。狙い目：立入可能範囲から碑と飛行場周辺の地形を確認する。",
+          "official": "https://www.city.chofu.lg.jp/040010/p020909.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%B7%B9%E5%B8%82%E5%A4%A7%E6%B2%A2%E9%AB%98%E5%B0%84%E7%A0%B2%E9%99%A3%E5%9C%B0%E8%B7%A1%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%89%E9%B7%B9%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
         }
       ]
     }
