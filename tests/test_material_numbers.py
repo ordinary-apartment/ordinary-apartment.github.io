@@ -19,13 +19,17 @@ class MaterialNumberTests(unittest.TestCase):
         self.assertEqual(numbers, list(range(1, len(numbers) + 1)))
         by_number = {material['number']: material['name'] for material in dataset['materials']}
         expected = {
-            7: 'ターミナル・展望施設',
-            10: '旧世代型商業施設',
-            11: 'レトロゲームセンター',
-            13: '東京の失われた名所',
-            16: '団地商店街',
-            18: '地域独自スーパー',
-            25: '生物展示施設',
+            3: '都市インフラ見学・PR施設',
+            6: '天文台・プラネタリウム',
+            9: 'フェリー・旅客船ターミナル',
+            10: '展望塔・展望施設',
+            11: '空港ターミナル',
+            14: '旧世代型商業施設',
+            15: 'レトロゲームセンター',
+            18: '東京の失われた名所',
+            21: '団地商店街',
+            23: '地域独自スーパー',
+            30: '生物展示施設',
         }
         for number, name in expected.items():
             self.assertEqual(by_number[number], name)

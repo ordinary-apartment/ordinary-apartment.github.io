@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "materialCount": 25,
-  "total": 1299,
+  "materialCount": 30,
+  "total": 1298,
   "materials": [
     {
       "id": "botanical",
@@ -1512,154 +1512,8 @@
       "name": "科学館",
       "shortName": "科学館",
       "file": "科学館.csv",
-      "count": 124,
+      "count": 74,
       "items": [
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "東京都虹の下水道館",
-          "type": "インフラ・PR館",
-          "note": "有明水再生センター5階にある東京都下水道局の広報施設。「レインボータウン」を舞台に、下水道管・ポンプ所・中央監視室・水質検査室での仕事を体験する構成。\n狙い目：普段立ち入れないインフラの仕事場を、来館者向けの室内空間として再現している点。",
-          "official": "https://www.nijinogesuidoukan.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%99%B9%E3%81%AE%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖徹底比較〗東京都虹の下水道館と小平市ふれあい下水道館に行ってきた！",
-              "url": "https://tabicoffret.com/article/81796/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.nijinogesuidoukan.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "東京都水の科学館",
-          "type": "インフラ・PR館",
-          "note": "水道PR館。人工的な水空間。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
-          "official": "http://www.mizunokagaku.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B0%B4%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖暑い日に最適お出かけスポット〗東京都水の科学館に行ってみた",
-              "url": "https://ameblo.jp/soratomon/entry-12910841485.html"
-            },
-            {
-              "title": "東京都水の科学館に行ってきました！",
-              "url": "https://kodomo-to-odekake.blog/mizunokagaku202307/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.mizunokagaku.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "小平市",
-          "name": "ふれあい下水道館",
-          "type": "インフラ・PR館",
-          "note": "実際の下水道管近くまで降りる展示。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "下水道管の中へ・・・小平市ふれあい下水道館",
-              "url": "https://urban-development.jp/blog/other/hureai-gesui/"
-            },
-            {
-              "title": "ふれあい下水道館(小平市)で下水道見学",
-              "url": "https://www.arinoki.com/diary/?id=154"
-            },
-            {
-              "title": "モハメイドペーパーの　　　　　　何が出てくるか２ : 小平市ふれあい下水道館",
-              "url": "https://jorc.livedoor.blog/archives/16717122.html"
-            }
-          ],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "荒川区",
-          "name": "旧三河島汚水処分場喞筒場施設",
-          "type": "インフラ・PR館",
-          "note": "近代下水処理施設。公開日に狙いたい。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
-          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/s-mikawa/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E4%B8%89%E6%B2%B3%E5%B3%B6%E6%B1%9A%E6%B0%B4%E5%87%A6%E5%88%86%E5%A0%B4%E5%96%9E%E7%AD%92%E5%A0%B4%E6%96%BD%E8%A8%AD%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "散歩記録　旧三河島汚水処分場喞筒（ポンプ）場施設",
-              "url": "https://note.com/osanpoyoshida/n/n47cdde8f9f49"
-            },
-            {
-              "title": "旧三河島汚水処分場喞筒場施設に行ってきた　その１　2016 8/3",
-              "url": "https://dreamshizuhama.blog.fc2.com/blog-entry-89.html"
-            },
-            {
-              "title": "旧三河島汚水処分場喞筒場施設に行ってきた - 荒川区に住んでます-うちの夫観察絵日記-",
-              "url": "https://www.arakawalove.com/archives/20180612"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/s-mikawa/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "寒川町",
-          "name": "神奈川県水道記念館",
-          "type": "インフラ・PR館",
-          "note": "旧ポンプ所系の水道資料館。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
-          "official": "https://www.pref.kanagawa.jp/docs/r4a/suidoukinenkan/suidoukinenkan.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%AF%92%E5%B7%9D%E7%94%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "神奈川県水道記念館・水の広場（寒川町）～日本で最初の広域水道 - 青空のスローな生活",
-              "url": "https://kirakunist.hatenablog.com/entry/2025/10/21/200610"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.pref.kanagawa.jp/docs/r4a/suidoukinenkan/suidoukinenkan.html"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横浜市保土ケ谷区",
-          "name": "横浜市水道記念館",
-          "type": "インフラ・PR館",
-          "note": "公共水道展示館。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%BF%9D%E5%9C%9F%E3%82%B1%E8%B0%B7%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "水道記念館 - star-river blog",
-              "url": "https://greenboxblog.blog.fc2.com/blog-entry-1401.html"
-            }
-          ],
-          "extra": {
-            "参照": ""
-          }
-        },
         {
           "prefecture": "埼玉県",
           "city": "寄居町",
@@ -1682,90 +1536,6 @@
           }
         },
         {
-          "prefecture": "東京都",
-          "city": "北区",
-          "name": "荒川知水資料館 amoA",
-          "type": "インフラ・PR館",
-          "note": "河川・治水展示館。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
-          "official": "https://www.ara-amoa.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8D%92%E5%B7%9D%E7%9F%A5%E6%B0%B4%E8%B3%87%E6%96%99%E9%A4%A8%20amoA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "荒川知水資料館amoaの施設案内",
-              "url": "https://www.ara-amoa.com/amoa%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/%E8%8D%92%E5%B7%9D%E7%9F%A5%E6%B0%B4%E8%B3%87%E6%96%99%E9%A4%A8qanda/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.ara-amoa.com/"
-          }
-        },
-        {
-          "prefecture": "埼玉県",
-          "city": "春日部市",
-          "name": "首都圏外郭放水路 地底探検ミュージアム 龍Q館",
-          "type": "インフラ・PR館",
-          "note": "巨大地下放水路。見学予約前提。\n狙い目：地下放水路の解説と、予約制の現地見学を区別して利用する。地上では見えない治水設備の大きさを読み取りたい。",
-          "official": "https://gaikaku.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%96%E9%83%BD%E5%9C%8F%E5%A4%96%E9%83%AD%E6%94%BE%E6%B0%B4%E8%B7%AF%20%E5%9C%B0%E5%BA%95%E6%8E%A2%E6%A4%9C%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E9%BE%8DQ%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "埼玉県・春日部市にある巨大地下神殿〖首都圏外郭放水路〗に行ってきた！ - あずのけだらけブログ",
-              "url": "https://azunokedarake.hatenablog.com/entry/2019/07/13/031216"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://gaikaku.jp/"
-          }
-        },
-        {
-          "prefecture": "茨城県",
-          "city": "行方市",
-          "name": "霞ヶ浦ふれあいランド",
-          "type": "インフラ・PR館",
-          "note": "水辺公共施設＋展望塔系。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
-          "official": "https://namegata.mypl.net/shop/00000369105/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9C%9E%E3%83%B6%E6%B5%A6%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E3%83%A9%E3%83%B3%E3%83%89%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E8%A1%8C%E6%96%B9%E5%B8%82",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "霞ヶ浦ふれあいランド（茨城県行方） - 水辺遍路",
-              "url": "https://bunbun.hatenablog.com/entry/2015/09/22/101029"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://namegata.mypl.net/shop/00000369105/"
-          }
-        },
-        {
-          "prefecture": "滋賀県",
-          "city": "大津市",
-          "name": "アクア琵琶",
-          "type": "インフラ・PR館",
-          "note": "琵琶湖・治水系展示。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
-          "official": "https://www.kkr.mlit.go.jp/biwako/aquabiwa/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AF%E3%82%A2%E7%90%B5%E7%90%B6%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〈大津市〉入館料無料！体験しながら学ぶ水のめぐみ館アクア琵琶に行って来ました♪ - 滋賀のママがイベント・育児・遊び・学びを発信 | シガマンマ｜ピースマム",
-              "url": "https://news.p-mom.net/2019/06/09/%E3%80%88%E5%A4%A7%E6%B4%A5%E5%B8%82%E3%80%89%E5%85%A5%E9%A4%A8%E6%96%99%E7%84%A1%E6%96%99%EF%BC%81%E4%BD%93%E9%A8%93%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6%E6%B0%B4%E3%81%AE%E3%82%81/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.kkr.mlit.go.jp/biwako/aquabiwa/"
-          }
-        },
-        {
           "prefecture": "滋賀県",
           "city": "草津市",
           "name": "琵琶湖博物館",
@@ -1784,132 +1554,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.biwahaku.jp/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市此花区",
-          "name": "大阪市下水道科学館",
-          "type": "インフラ・PR館",
-          "note": "下水道PR施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "https://www.osaka-ssm.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%8B%E6%B0%B4%E9%81%93%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "大阪市下水道科学館の訪問記",
-              "url": "https://ameblo.jp/kappe0812/entry-12767320631.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.osaka-ssm.jp/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市東淀川区",
-          "name": "大阪市水道記念館",
-          "type": "インフラ・PR館",
-          "note": "旧配水ポンプ場建築。公開状況は事前確認。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
-          "official": "https://suido-kinenkan.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%B7%80%E5%B7%9D%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "大阪市水道局の水道記念館で水道について学ぶ",
-              "url": "https://hiratake.dev/blog/20230923/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://suido-kinenkan.jp/"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "神戸市兵庫区",
-          "name": "神戸市水の科学博物館",
-          "type": "インフラ・PR館",
-          "note": "水道施設系の歴史建築。公開状況は確認。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E5%B8%82%E6%B0%B4%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%85%B5%E5%BA%AB%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "神戸市水の科学博物館 | hoyusoのブログ",
-              "url": "https://ameblo.jp/hoyuso/entry-12531861078.html"
-            }
-          ],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "神戸市垂水区",
-          "name": "明石海峡大橋 ブリッジワールド周辺施設",
-          "type": "インフラ・PR館",
-          "note": "巨大橋梁インフラ見学。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
-          "official": "https://www.jb-honshi.co.jp/bridgeworld/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E7%9F%B3%E6%B5%B7%E5%B3%A1%E5%A4%A7%E6%A9%8B%20%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%91%A8%E8%BE%BA%E6%96%BD%E8%A8%AD%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "明石海峡大橋塔頂体験ブリッジワールドに参加してみた｜けろもぐ",
-              "url": "https://note.com/keromogu_tayori/n/n888c37237741"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.jb-honshi.co.jp/bridgeworld/index.html"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "神戸市垂水区",
-          "name": "本州四国連絡高速道路 橋の科学館",
-          "type": "インフラ・PR館",
-          "note": "橋梁PR館。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
-          "official": "https://www.hashinokagakukan.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AC%E5%B7%9E%E5%9B%9B%E5%9B%BD%E9%80%A3%E7%B5%A1%E9%AB%98%E9%80%9F%E9%81%93%E8%B7%AF%20%E6%A9%8B%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "「橋の科学館」を見学 | 趣味は‘散財’！ - 楽天ブログ",
-              "url": "https://plaza.rakuten.co.jp/kenji07/diary/201305250000/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.hashinokagakukan.jp/"
-          }
-        },
-        {
-          "prefecture": "徳島県",
-          "city": "鳴門市",
-          "name": "大鳴門橋架橋記念館エディ",
-          "type": "インフラ・PR館",
-          "note": "巨大橋と渦潮の展示施設。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
-          "official": "https://www.uzunomichi.jp/usage-guide-eddy/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%B3%B4%E9%96%80%E6%A9%8B%E6%9E%B6%E6%A9%8B%E8%A8%98%E5%BF%B5%E9%A4%A8%E3%82%A8%E3%83%87%E3%82%A3%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E9%B3%B4%E9%96%80%E5%B8%82",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "大鳴門橋架橋記念館エディ　 - sogensyookuのブログ",
-              "url": "https://sogensyooku.hatenablog.com/entry/2025/04/01/222310"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.uzunomichi.jp/usage-guide-eddy/"
           }
         },
         {
@@ -1955,69 +1599,6 @@
           }
         },
         {
-          "prefecture": "山口県",
-          "city": "下関市",
-          "name": "関門トンネル人道",
-          "type": "インフラ・PR館",
-          "note": "海底を歩く長い人道トンネル。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%A2%E9%96%80%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E4%BA%BA%E9%81%93%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "関門トンネルの人道へ（門司～下関） | 大歩 悠（おおぶ ゆう）ブログ《悠歩路私記》",
-              "url": "https://ameblo.jp/yusa-09/entry-12702052197.html"
-            }
-          ],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "青森県",
-          "city": "外ヶ浜町",
-          "name": "青函トンネル記念館",
-          "type": "インフラ・PR館",
-          "note": "トンネル展示＋地下体験坑道。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
-          "official": "http://seikan-tunnel-museum.jp/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E5%87%BD%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%A4%96%E3%83%B6%E6%B5%9C%E7%94%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "青函トンネル記念館に行ってきました｜ちえのわ",
-              "url": "https://note.com/nowatown/n/n7bd537a9df0d"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://seikan-tunnel-museum.jp/index.html"
-          }
-        },
-        {
-          "prefecture": "富山県",
-          "city": "立山町",
-          "name": "黒部ダム 展示・トンネル動線",
-          "type": "インフラ・PR館",
-          "note": "巨大ダムと地下通路。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
-          "official": "http://www.kurobe-dam.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%BB%92%E9%83%A8%E3%83%80%E3%83%A0%20%E5%B1%95%E7%A4%BA%E3%83%BB%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E5%8B%95%E7%B7%9A%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E7%AB%8B%E5%B1%B1%E7%94%BA",
-          "kind": "バックルーム",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "世紀の大事業「黒部ダム」と、関電トンネル電気バス〖立山・黒部乗り物の旅⑩ 最終回〗 | 湘南軽便鉄道のブログ",
-              "url": "https://ameblo.jp/kenichi-0801/entry-12869291000.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.kurobe-dam.com/"
-          }
-        },
-        {
           "prefecture": "富山県",
           "city": "立山町",
           "name": "立山カルデラ砂防博物館",
@@ -2036,132 +1617,6 @@
           ],
           "extra": {
             "参照": "公式サイト：http://www.tatecal.or.jp/tatecal/index.html"
-          }
-        },
-        {
-          "prefecture": "静岡県",
-          "city": "浜松市天竜区",
-          "name": "佐久間電力館",
-          "type": "インフラ・PR館",
-          "note": "ダム横の電力PR館。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
-          "official": "https://www.jpower.co.jp/learn/facilities/sakuma.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E4%B9%85%E9%96%93%E9%9B%BB%E5%8A%9B%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%B5%9C%E6%9D%BE%E5%B8%82%E5%A4%A9%E7%AB%9C%E5%8C%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "佐久間電力館〖2019年9月16日〗 | Subaru6の休日お出かけ記録",
-              "url": "https://ameblo.jp/subaru6ss/entry-12528980301.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.jpower.co.jp/learn/facilities/sakuma.html"
-          }
-        },
-        {
-          "prefecture": "静岡県",
-          "city": "御前崎市",
-          "name": "浜岡原子力館",
-          "type": "インフラ・PR館",
-          "note": "巨大エネルギーPR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
-          "official": "http://www.chuden.co.jp/hamaoka-pr/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%9C%E5%B2%A1%E5%8E%9F%E5%AD%90%E5%8A%9B%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E5%BE%A1%E5%89%8D%E5%B4%8E%E5%B8%82",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "浜岡原子力館へ行ってきた | 散歩の思考",
-              "url": "https://swingbooks.jp/2012/08/27/hamaoka/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.chuden.co.jp/hamaoka-pr/"
-          }
-        },
-        {
-          "prefecture": "佐賀県",
-          "city": "玄海町",
-          "name": "玄海エネルギーパーク",
-          "type": "インフラ・PR館",
-          "note": "地方の巨大エネルギーPR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
-          "official": "http://www.kyuden.co.jp/life_pavilion_enepark_index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%8E%84%E6%B5%B7%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E7%8E%84%E6%B5%B7%E7%94%BA",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "玄海エネルギーパーク | ぽよんのブログ　次はどこ行こう",
-              "url": "https://ameblo.jp/pepe1283/entry-12862115037.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.kyuden.co.jp/life_pavilion_enepark_index.html"
-          }
-        },
-        {
-          "prefecture": "鹿児島県",
-          "city": "薩摩川内市",
-          "name": "川内原子力発電所展示館",
-          "type": "インフラ・PR館",
-          "note": "原子力PR館。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
-          "official": "http://www.kyuden.co.jp/life_pavilion_sendai_index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%86%85%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80%E5%B1%95%E7%A4%BA%E9%A4%A8%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "『川内原子力発電所展示館』に行ってきました(前編) - （´・ω・`）まったりいこうぜ",
-              "url": "https://souki.hatenadiary.jp/entry/ar1042208"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.kyuden.co.jp/life_pavilion_sendai_index.html"
-          }
-        },
-        {
-          "prefecture": "愛媛県",
-          "city": "伊方町",
-          "name": "四国電力 伊方ビジターズハウス",
-          "type": "インフラ・PR館",
-          "note": "半島の電力PR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
-          "official": "https://www.yonden.co.jp/energy/atom/tour/ikata_visitorshouse.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E5%9B%BD%E9%9B%BB%E5%8A%9B%20%E4%BC%8A%E6%96%B9%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BA%E3%83%8F%E3%82%A6%E3%82%B9%20%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E4%BC%8A%E6%96%B9%E7%94%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "道の駅めぐりパート５１３-２　伊方きらら館　展望台から伊方ビジターハウスへ | ホロちゃんのパパの道の駅めぐり",
-              "url": "https://ameblo.jp/horo-3115/entry-12624425446.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.yonden.co.jp/energy/atom/tour/ikata_visitorshouse.html"
-          }
-        },
-        {
-          "prefecture": "新潟県",
-          "city": "魚沼市",
-          "name": "J-POWER 電源開発 奥只見電力館",
-          "type": "インフラ・PR館",
-          "note": "山奥のダム・電力展示。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=J-POWER%20%E9%9B%BB%E6%BA%90%E9%96%8B%E7%99%BA%20%E5%A5%A5%E5%8F%AA%E8%A6%8B%E9%9B%BB%E5%8A%9B%E9%A4%A8%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E9%AD%9A%E6%B2%BC%E5%B8%82",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "奥只見ドライブ　奥只見電力館(新潟県魚沼市) | シンカの進化",
-              "url": "https://ameblo.jp/siokaradaisuki/entry-12686250448.html"
-            }
-          ],
-          "extra": {
-            "参照": ""
           }
         },
         {
@@ -2354,27 +1809,6 @@
           }
         },
         {
-          "prefecture": "青森県",
-          "city": "六ヶ所村",
-          "name": "六ヶ所原燃PRセンター",
-          "type": "エネルギー",
-          "note": "エネルギーを扱う地域施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
-          "official": "https://6prc.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E3%83%B6%E6%89%80%E5%8E%9F%E7%87%83PR%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%85%AD%E3%83%B6%E6%89%80%E6%9D%91",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖博物館〗六ヶ所原燃PRセンター｜もんばん",
-              "url": "https://note.com/mon_ban/n/n078fc0b0907e"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://6prc.jp/"
-          }
-        },
-        {
           "prefecture": "岩手県",
           "city": "盛岡市",
           "name": "盛岡市子ども科学館",
@@ -2393,27 +1827,6 @@
           ],
           "extra": {
             "参照": "公式サイト：http://www.kodomokagakukan.com/"
-          }
-        },
-        {
-          "prefecture": "岩手県",
-          "city": "奥州市",
-          "name": "奥州宇宙遊学館",
-          "type": "宇宙・天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://uchuyugakukan.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E5%B7%9E%E5%AE%87%E5%AE%99%E9%81%8A%E5%AD%A6%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A5%A5%E5%B7%9E%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "奥州宇宙遊学館に行ってみた！！　宇宙ド素人が思った感想を正直にお話しします - 一般薬学生の日常",
-              "url": "https://hukukazu2263.hatenablog.com/entry/uchuyugakukan-iwate"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://uchuyugakukan.com/"
           }
         },
         {
@@ -2456,27 +1869,6 @@
           ],
           "extra": {
             "参照": "公式サイト：http://www.kagakukan.sendai-c.ed.jp/"
-          }
-        },
-        {
-          "prefecture": "宮城県",
-          "city": "仙台市",
-          "name": "仙台市天文台",
-          "type": "天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.sendai-astro.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E5%B8%82%E5%A4%A9%E6%96%87%E5%8F%B0%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "文化の日、仙台市天文台に行ってきました。 : 仙台人が仙台観光をしているブログ",
-              "url": "https://tanji-sendai.blog.jp/article/234667943.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.sendai-astro.jp/"
           }
         },
         {
@@ -2606,27 +1998,6 @@
           }
         },
         {
-          "prefecture": "栃木県",
-          "city": "大田原市",
-          "name": "大田原市ふれあいの丘天文館",
-          "type": "天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://www.fureai-tenmonkan.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%B0%E5%8E%9F%E5%B8%82%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E3%81%AE%E4%B8%98%E5%A4%A9%E6%96%87%E9%A4%A8%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%A4%A7%E7%94%B0%E5%8E%9F%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "「大田原市ふれあいの丘天文館」訪台記",
-              "url": "https://yamanon.seesaa.net/article/201501article_8.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.fureai-tenmonkan.jp/"
-          }
-        },
-        {
           "prefecture": "群馬県",
           "city": "下仁田町",
           "name": "下仁田町自然史館",
@@ -2645,27 +2016,6 @@
           ],
           "extra": {
             "参照": "公式サイト：http://www.shimonita-geopark.jp/shizenshikan/index.html"
-          }
-        },
-        {
-          "prefecture": "埼玉県",
-          "city": "加須市",
-          "name": "加須未来館",
-          "type": "科学・天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.city.kazo.lg.jp/soshiki/shougai/kazomiraikan/6606.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8A%A0%E9%A0%88%E6%9C%AA%E6%9D%A5%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%8A%A0%E9%A0%88%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "実際に行ってみたツーリングスポット　加須未来館｜かぜなび",
-              "url": "https://note.com/hiro_felice/n/nd3b611a29aeb"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.kazo.lg.jp/soshiki/shougai/kazomiraikan/6606.html"
           }
         },
         {
@@ -2712,43 +2062,6 @@
         },
         {
           "prefecture": "千葉県",
-          "city": "市川市",
-          "name": "市川市少年自然の家 プラネタリウム",
-          "type": "天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.city.ichikawa.lg.jp/page/52380.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B8%82%E5%B7%9D%E5%B8%82%E5%B0%91%E5%B9%B4%E8%87%AA%E7%84%B6%E3%81%AE%E5%AE%B6%20%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%B8%82%E5%B7%9D%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.ichikawa.lg.jp/page/52380.html"
-          }
-        },
-        {
-          "prefecture": "千葉県",
-          "city": "船橋市",
-          "name": "船橋市総合教育センタープラネタリウム館",
-          "type": "天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://www.city.funabashi.lg.jp/shisetsu/bunka/0002/0002/0001/p011085.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%88%B9%E6%A9%8B%E5%B8%82%E7%B7%8F%E5%90%88%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E8%88%B9%E6%A9%8B%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "全国のプラネタリウムから 第１７５回 千葉県船橋市 船橋市総合教育センタープラネタリウム館 | 日々平安",
-              "url": "https://ameblo.jp/k-orihira/entry-12829519605.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.funabashi.lg.jp/shisetsu/bunka/0002/0002/0001/p011085.html"
-          }
-        },
-        {
-          "prefecture": "千葉県",
           "city": "東金市",
           "name": "東金こども科学館",
           "type": "科学館",
@@ -2787,27 +2100,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.city.atsugi.kanagawa.jp/acsc/index.html"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "川崎市",
-          "name": "かわさき宙と緑の科学館",
-          "type": "天文・自然",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://www.nature-kawasaki.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%82%8F%E3%81%95%E3%81%8D%E5%AE%99%E3%81%A8%E7%B7%91%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "かわさき宙と緑の科学館 - PM21:00南",
-              "url": "https://pm21south.hatenablog.com/entry/2022/07/16/083217"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.nature-kawasaki.jp/"
           }
         },
         {
@@ -2850,22 +2142,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.matsunoyama.com/kyororo/"
-          }
-        },
-        {
-          "prefecture": "富山県",
-          "city": "黒部市",
-          "name": "吉田科学館",
-          "type": "科学・天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://kysm.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%89%E7%94%B0%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E9%BB%92%E9%83%A8%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://kysm.or.jp/"
           }
         },
         {
@@ -3054,27 +2330,6 @@
         },
         {
           "prefecture": "静岡県",
-          "city": "焼津市",
-          "name": "ディスカバリーパーク焼津天文科学館",
-          "type": "天文・科学",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.discoverypark.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E7%84%BC%E6%B4%A5%E5%A4%A9%E6%96%87%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%84%BC%E6%B4%A5%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "ディスカバリーパーク焼津天文科学館に行ってみた - maruku_2009のブログ",
-              "url": "https://maruku-2009.hatenablog.com/entry/2026/06/17/203856"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.discoverypark.jp/"
-          }
-        },
-        {
-          "prefecture": "静岡県",
           "city": "東伊豆町",
           "name": "熱川バナナワニ園",
           "type": "生物・植物",
@@ -3137,64 +2392,6 @@
           }
         },
         {
-          "prefecture": "愛知県",
-          "city": "半田市",
-          "name": "半田空の科学館",
-          "type": "天文・科学",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://sky-handa.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%8A%E7%94%B0%E7%A9%BA%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%8D%8A%E7%94%B0%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "半田空の科学館とダイ平水産に一歳の娘と行ってきた - アカパパchannel",
-              "url": "https://akapapachannel.hatenablog.com/entry/2025/01/03/013026"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://sky-handa.com/"
-          }
-        },
-        {
-          "prefecture": "愛知県",
-          "city": "一宮市",
-          "name": "一宮地域文化広場 プラネタリウム館",
-          "type": "天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.hamada-sports.com/ichinomiya_chiikibunka/ichi?tab",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E5%AE%AE%E5%9C%B0%E5%9F%9F%E6%96%87%E5%8C%96%E5%BA%83%E5%A0%B4%20%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E4%B8%80%E5%AE%AE%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "古き良き・・・？：一宮地域文化広場　プラネタリウム館（愛知） | ZEL's：プラネタリウムと科学施設を見に行こう",
-              "url": "https://ameblo.jp/keith18/entry-12742643164.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.hamada-sports.com/ichinomiya_chiikibunka/ichi?tab"
-          }
-        },
-        {
-          "prefecture": "京都府",
-          "city": "京都市",
-          "name": "京都産業大学神山天文台",
-          "type": "天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.kyoto-su.ac.jp/observatory/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E7%94%A3%E6%A5%AD%E5%A4%A7%E5%AD%A6%E7%A5%9E%E5%B1%B1%E5%A4%A9%E6%96%87%E5%8F%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.kyoto-su.ac.jp/observatory/"
-          }
-        },
-        {
           "prefecture": "大阪府",
           "city": "貝塚市",
           "name": "貝塚市立自然遊学館",
@@ -3213,48 +2410,6 @@
           ],
           "extra": {
             "参照": "公式サイト：http://www.city.kaizuka.lg.jp/shizen/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "富田林市",
-          "name": "すばるホール プラネタリウム",
-          "type": "天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://subaruhall.org/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%B0%E3%82%8B%E3%83%9B%E3%83%BC%E3%83%AB%20%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%AF%8C%E7%94%B0%E6%9E%97%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "すばるホールプラネタリウム/スターリーテイルズ（大阪府富田林市） | ○○日記",
-              "url": "https://ameblo.jp/mahina/entry-11116449263.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://subaruhall.org/"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "明石市",
-          "name": "明石市立天文科学館",
-          "type": "天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.am12.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E7%9F%B3%E5%B8%82%E7%AB%8B%E5%A4%A9%E6%96%87%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%98%8E%E7%9F%B3%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "大人11人、子ども0人。明石市立天文科学館で楽しく大人の社会科見学⭐️｜Shoco",
-              "url": "https://note.com/shocolog_2026/n/nafe407da8aa3"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.am12.jp/"
           }
         },
         {
@@ -3363,48 +2518,6 @@
           }
         },
         {
-          "prefecture": "鳥取県",
-          "city": "鳥取市",
-          "name": "鳥取市さじアストロパーク",
-          "type": "天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.city.tottori.lg.jp/www/contents/1425466200201/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E5%B8%82%E3%81%95%E3%81%98%E3%82%A2%E3%82%B9%E3%83%88%E3%83%AD%E3%83%91%E3%83%BC%E3%82%AF%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E9%B3%A5%E5%8F%96%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "天文台を独り占め！鳥取市さじアストロパーク「星のコテージ」に宿泊 | ワーママゆきゃのすまいるブログ",
-              "url": "https://hanamarusmileblog.com/saji2022/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.tottori.lg.jp/www/contents/1425466200201/"
-          }
-        },
-        {
-          "prefecture": "鳥取県",
-          "city": "米子市",
-          "name": "米子市児童文化センター",
-          "type": "科学・天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://yonagobunka.net/jibun/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E5%AD%90%E5%B8%82%E5%85%90%E7%AB%A5%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E7%B1%B3%E5%AD%90%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "米子のプラネタリウム見ました｜MRYM",
-              "url": "https://note.com/mrym_hoshi/n/n0933f7785ff5"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://yonagobunka.net/jibun/"
-          }
-        },
-        {
           "prefecture": "島根県",
           "city": "出雲市",
           "name": "出雲科学館",
@@ -3423,48 +2536,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.izumo.ed.jp/kagaku/"
-          }
-        },
-        {
-          "prefecture": "島根県",
-          "city": "津和野町",
-          "name": "日原天文台",
-          "type": "天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://www.sun-net.jp/~polaris/?utm_source",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%8E%9F%E5%A4%A9%E6%96%87%E5%8F%B0%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%B4%A5%E5%92%8C%E9%87%8E%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "日原天文台に行ってみました｜MRYM",
-              "url": "https://note.com/mrym_hoshi/n/nec43a219a736"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.sun-net.jp/~polaris/?utm_source"
-          }
-        },
-        {
-          "prefecture": "岡山県",
-          "city": "倉敷市",
-          "name": "倉敷科学センター",
-          "type": "科学・天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%80%89%E6%95%B7%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖倉敷市〗倉敷科学センター行ってみた",
-              "url": "https://treasure-yourself.com/okayamalunch/388/"
-            }
-          ],
-          "extra": {
-            "参照": ""
           }
         },
         {
@@ -3526,27 +2597,6 @@
           }
         },
         {
-          "prefecture": "香川県",
-          "city": "さぬき市",
-          "name": "さぬきこどもの国 スペースシアター",
-          "type": "科学・天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.sanuki.or.jp/guide/kidshouse/spacetheater.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%AC%E3%81%8D%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%20%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E3%81%95%E3%81%AC%E3%81%8D%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "さぬきこどもの国スペースシアター（プラネタリウム「水の惑星」） | A's balcony",
-              "url": "https://asbalcony.com/20221001-sanuki-space-theater/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.sanuki.or.jp/guide/kidshouse/spacetheater.html"
-          }
-        },
-        {
           "prefecture": "福岡県",
           "city": "久留米市",
           "name": "福岡県青少年科学館",
@@ -3589,48 +2639,6 @@
           }
         },
         {
-          "prefecture": "佐賀県",
-          "city": "武雄市",
-          "name": "佐賀県立宇宙科学館 ゆめぎんが",
-          "type": "宇宙・科学",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.yumeginga.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E7%AB%8B%E5%AE%87%E5%AE%99%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%86%E3%82%81%E3%81%8E%E3%82%93%E3%81%8C%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E6%AD%A6%E9%9B%84%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖4歳・1歳半と行ってきた〗佐賀県立宇宙科学館ゆめぎんがは幼児でも楽しめる？駐車場・ランチ・体験レビュー - へろきみち◇福岡の情報発信",
-              "url": "https://heroki4.hatenablog.com/entry/yumeginga-saga"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.yumeginga.jp/"
-          }
-        },
-        {
-          "prefecture": "長崎県",
-          "city": "長崎市",
-          "name": "長崎市科学館",
-          "type": "科学・天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.nagasaki-kagakukan.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E9%95%B7%E5%B4%8E%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "長崎市科学館で長崎の大地から宇宙に飛び立ってみては？｜しましょ｜穏健派ゆるふわ系サイエンスライター",
-              "url": "https://note.com/shimasho_work/n/n56b1cdc94d3c"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.nagasaki-kagakukan.jp/"
-          }
-        },
-        {
           "prefecture": "東京都",
           "city": "葛飾区",
           "name": "水元公園 水辺の生きもの館",
@@ -3649,27 +2657,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.tokyo-park.or.jp/park/format/facilities041.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "小平市",
-          "name": "小平市ふれあい下水道館",
-          "type": "下水道・インフラ",
-          "note": "水処理・供給設備と都市インフラの仕組みを扱う。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B9%B3%E5%B8%82%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "日本で唯一下水道に入れる！？小平市ふれあい下水道館に行ってきた - えむえぬえる - 暇を楽しむ日記帳 -",
-              "url": "https://semi20251.hatenablog.com/entry/2025/09/17/193000_1"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html"
           }
         },
         {
@@ -3915,27 +2902,6 @@
           }
         },
         {
-          "prefecture": "京都府",
-          "city": "向日市",
-          "name": "向日市天文館",
-          "type": "天文台・プラネタリウム",
-          "note": "小規模自治体天文館 開館年：1993年。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "https://www.city.muko.kyoto.jp/site/tenmonkan/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%91%E6%97%A5%E5%B8%82%E5%A4%A9%E6%96%87%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E5%90%91%E6%97%A5%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "全国プラ『レア』リウム33箇所巡り ～長岡京の都で星を見よう・京都向日市天文館編～ - いつも心に花束を（手には拳銃）。",
-              "url": "https://gonsyo.blog.fc2.com/blog-entry-208.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.muko.kyoto.jp/site/tenmonkan/"
-          }
-        },
-        {
           "prefecture": "福岡県",
           "city": "大牟田市",
           "name": "大牟田文化会館",
@@ -3970,27 +2936,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://yurix.munakata.com/index.php"
-          }
-        },
-        {
-          "prefecture": "石川県",
-          "city": "羽咋市",
-          "name": "コスモアイル羽咋",
-          "type": "宇宙・産業展示",
-          "note": "地方都市の大型宇宙展示施設 開館年：1996年。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://www.hakui.ne.jp/ufo/?utm_source",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%A2%E3%82%A4%E3%83%AB%E7%BE%BD%E5%92%8B%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E7%BE%BD%E5%92%8B%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "コスモアイル羽咋とイタリアン - okurejeの日記",
-              "url": "https://okureje.hatenablog.com/entry/20150721/1437488594"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.hakui.ne.jp/ufo/?utm_source"
           }
         },
         {
@@ -4091,12 +3036,838 @@
       ]
     },
     {
-      "id": "aquarium",
+      "id": "infrastructure-pr",
       "number": 3,
+      "name": "都市インフラ見学・PR施設",
+      "shortName": "都市インフラ見学・PR施設",
+      "file": "都市インフラ見学・PR施設.csv",
+      "count": 41,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "東京都虹の下水道館",
+          "type": "インフラ・PR館",
+          "note": "有明水再生センター5階にある東京都下水道局の広報施設。「レインボータウン」を舞台に、下水道管・ポンプ所・中央監視室・水質検査室での仕事を体験する構成。\n狙い目：普段立ち入れないインフラの仕事場を、来館者向けの室内空間として再現している点。",
+          "official": "https://www.nijinogesuidoukan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%99%B9%E3%81%AE%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖徹底比較〗東京都虹の下水道館と小平市ふれあい下水道館に行ってきた！",
+              "url": "https://tabicoffret.com/article/81796/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.nijinogesuidoukan.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "東京都水の科学館",
+          "type": "インフラ・PR館",
+          "note": "水道PR館。人工的な水空間。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
+          "official": "http://www.mizunokagaku.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B0%B4%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖暑い日に最適お出かけスポット〗東京都水の科学館に行ってみた",
+              "url": "https://ameblo.jp/soratomon/entry-12910841485.html"
+            },
+            {
+              "title": "東京都水の科学館に行ってきました！",
+              "url": "https://kodomo-to-odekake.blog/mizunokagaku202307/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.mizunokagaku.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "小平市",
+          "name": "ふれあい下水道館",
+          "type": "インフラ・PR館",
+          "note": "実際の下水道管近くまで降りる展示。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "下水道管の中へ・・・小平市ふれあい下水道館",
+              "url": "https://urban-development.jp/blog/other/hureai-gesui/"
+            },
+            {
+              "title": "ふれあい下水道館(小平市)で下水道見学",
+              "url": "https://www.arinoki.com/diary/?id=154"
+            },
+            {
+              "title": "モハメイドペーパーの　　　　　　何が出てくるか２ : 小平市ふれあい下水道館",
+              "url": "https://jorc.livedoor.blog/archives/16717122.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "荒川区",
+          "name": "旧三河島汚水処分場喞筒場施設",
+          "type": "インフラ・PR館",
+          "note": "近代下水処理施設。公開日に狙いたい。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
+          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/s-mikawa/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E4%B8%89%E6%B2%B3%E5%B3%B6%E6%B1%9A%E6%B0%B4%E5%87%A6%E5%88%86%E5%A0%B4%E5%96%9E%E7%AD%92%E5%A0%B4%E6%96%BD%E8%A8%AD%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "散歩記録　旧三河島汚水処分場喞筒（ポンプ）場施設",
+              "url": "https://note.com/osanpoyoshida/n/n47cdde8f9f49"
+            },
+            {
+              "title": "旧三河島汚水処分場喞筒場施設に行ってきた　その１　2016 8/3",
+              "url": "https://dreamshizuhama.blog.fc2.com/blog-entry-89.html"
+            },
+            {
+              "title": "旧三河島汚水処分場喞筒場施設に行ってきた - 荒川区に住んでます-うちの夫観察絵日記-",
+              "url": "https://www.arakawalove.com/archives/20180612"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/s-mikawa/"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "寒川町",
+          "name": "神奈川県水道記念館",
+          "type": "インフラ・PR館",
+          "note": "旧ポンプ所系の水道資料館。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
+          "official": "https://www.pref.kanagawa.jp/docs/r4a/suidoukinenkan/suidoukinenkan.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%AF%92%E5%B7%9D%E7%94%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "神奈川県水道記念館・水の広場（寒川町）～日本で最初の広域水道 - 青空のスローな生活",
+              "url": "https://kirakunist.hatenablog.com/entry/2025/10/21/200610"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.pref.kanagawa.jp/docs/r4a/suidoukinenkan/suidoukinenkan.html"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市保土ケ谷区",
+          "name": "横浜市水道記念館",
+          "type": "インフラ・PR館",
+          "note": "公共水道展示館。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%BF%9D%E5%9C%9F%E3%82%B1%E8%B0%B7%E5%8C%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "水道記念館 - star-river blog",
+              "url": "https://greenboxblog.blog.fc2.com/blog-entry-1401.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "荒川知水資料館 amoA",
+          "type": "インフラ・PR館",
+          "note": "河川・治水展示館。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
+          "official": "https://www.ara-amoa.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8D%92%E5%B7%9D%E7%9F%A5%E6%B0%B4%E8%B3%87%E6%96%99%E9%A4%A8%20amoA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "荒川知水資料館amoaの施設案内",
+              "url": "https://www.ara-amoa.com/amoa%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/%E8%8D%92%E5%B7%9D%E7%9F%A5%E6%B0%B4%E8%B3%87%E6%96%99%E9%A4%A8qanda/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.ara-amoa.com/"
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "春日部市",
+          "name": "首都圏外郭放水路 地底探検ミュージアム 龍Q館",
+          "type": "インフラ・PR館",
+          "note": "巨大地下放水路。見学予約前提。\n狙い目：地下放水路の解説と、予約制の現地見学を区別して利用する。地上では見えない治水設備の大きさを読み取りたい。",
+          "official": "https://gaikaku.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%96%E9%83%BD%E5%9C%8F%E5%A4%96%E9%83%AD%E6%94%BE%E6%B0%B4%E8%B7%AF%20%E5%9C%B0%E5%BA%95%E6%8E%A2%E6%A4%9C%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E9%BE%8DQ%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "埼玉県・春日部市にある巨大地下神殿〖首都圏外郭放水路〗に行ってきた！ - あずのけだらけブログ",
+              "url": "https://azunokedarake.hatenablog.com/entry/2019/07/13/031216"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://gaikaku.jp/"
+          }
+        },
+        {
+          "prefecture": "茨城県",
+          "city": "行方市",
+          "name": "霞ヶ浦ふれあいランド",
+          "type": "インフラ・PR館",
+          "note": "水辺公共施設＋展望塔系。\n狙い目：案内図と公開されている共用部を照合し、用事の異なる利用者がどう移動するかを見たい。",
+          "official": "https://namegata.mypl.net/shop/00000369105/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9C%9E%E3%83%B6%E6%B5%A6%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E3%83%A9%E3%83%B3%E3%83%89%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E8%A1%8C%E6%96%B9%E5%B8%82",
+          "kind": "ドリームコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "霞ヶ浦ふれあいランド（茨城県行方） - 水辺遍路",
+              "url": "https://bunbun.hatenablog.com/entry/2015/09/22/101029"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://namegata.mypl.net/shop/00000369105/"
+          }
+        },
+        {
+          "prefecture": "滋賀県",
+          "city": "大津市",
+          "name": "アクア琵琶",
+          "type": "インフラ・PR館",
+          "note": "琵琶湖・治水系展示。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
+          "official": "https://www.kkr.mlit.go.jp/biwako/aquabiwa/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AF%E3%82%A2%E7%90%B5%E7%90%B6%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〈大津市〉入館料無料！体験しながら学ぶ水のめぐみ館アクア琵琶に行って来ました♪ - 滋賀のママがイベント・育児・遊び・学びを発信 | シガマンマ｜ピースマム",
+              "url": "https://news.p-mom.net/2019/06/09/%E3%80%88%E5%A4%A7%E6%B4%A5%E5%B8%82%E3%80%89%E5%85%A5%E9%A4%A8%E6%96%99%E7%84%A1%E6%96%99%EF%BC%81%E4%BD%93%E9%A8%93%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6%E6%B0%B4%E3%81%AE%E3%82%81/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.kkr.mlit.go.jp/biwako/aquabiwa/"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市此花区",
+          "name": "大阪市下水道科学館",
+          "type": "インフラ・PR館",
+          "note": "下水道PR施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "https://www.osaka-ssm.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%8B%E6%B0%B4%E9%81%93%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA",
+          "kind": "ドリームコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "大阪市下水道科学館の訪問記",
+              "url": "https://ameblo.jp/kappe0812/entry-12767320631.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.osaka-ssm.jp/"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市東淀川区",
+          "name": "大阪市水道記念館",
+          "type": "インフラ・PR館",
+          "note": "旧配水ポンプ場建築。公開状況は事前確認。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
+          "official": "https://suido-kinenkan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B0%B4%E9%81%93%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%B7%80%E5%B7%9D%E5%8C%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "大阪市水道局の水道記念館で水道について学ぶ",
+              "url": "https://hiratake.dev/blog/20230923/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://suido-kinenkan.jp/"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市兵庫区",
+          "name": "神戸市水の科学博物館",
+          "type": "インフラ・PR館",
+          "note": "水道施設系の歴史建築。公開状況は確認。\n狙い目：水の流れと設備の役割を対応させて読む。地形と都市の暮らしをつなぐ展示の構成に注目。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E5%B8%82%E6%B0%B4%E3%81%AE%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%85%B5%E5%BA%AB%E5%8C%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "神戸市水の科学博物館 | hoyusoのブログ",
+              "url": "https://ameblo.jp/hoyuso/entry-12531861078.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市垂水区",
+          "name": "明石海峡大橋 ブリッジワールド周辺施設",
+          "type": "インフラ・PR館",
+          "note": "巨大橋梁インフラ見学。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
+          "official": "https://www.jb-honshi.co.jp/bridgeworld/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E7%9F%B3%E6%B5%B7%E5%B3%A1%E5%A4%A7%E6%A9%8B%20%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%91%A8%E8%BE%BA%E6%96%BD%E8%A8%AD%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "明石海峡大橋塔頂体験ブリッジワールドに参加してみた｜けろもぐ",
+              "url": "https://note.com/keromogu_tayori/n/n888c37237741"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.jb-honshi.co.jp/bridgeworld/index.html"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市垂水区",
+          "name": "本州四国連絡高速道路 橋の科学館",
+          "type": "インフラ・PR館",
+          "note": "橋梁PR館。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
+          "official": "https://www.hashinokagakukan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AC%E5%B7%9E%E5%9B%9B%E5%9B%BD%E9%80%A3%E7%B5%A1%E9%AB%98%E9%80%9F%E9%81%93%E8%B7%AF%20%E6%A9%8B%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「橋の科学館」を見学 | 趣味は‘散財’！ - 楽天ブログ",
+              "url": "https://plaza.rakuten.co.jp/kenji07/diary/201305250000/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.hashinokagakukan.jp/"
+          }
+        },
+        {
+          "prefecture": "徳島県",
+          "city": "鳴門市",
+          "name": "大鳴門橋架橋記念館エディ",
+          "type": "インフラ・PR館",
+          "note": "巨大橋と渦潮の展示施設。\n狙い目：橋の構造と渡るための経路を結び付けて見る。実物の大きさを説明展示と対比したい。",
+          "official": "https://www.uzunomichi.jp/usage-guide-eddy/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%B3%B4%E9%96%80%E6%A9%8B%E6%9E%B6%E6%A9%8B%E8%A8%98%E5%BF%B5%E9%A4%A8%E3%82%A8%E3%83%87%E3%82%A3%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E9%B3%B4%E9%96%80%E5%B8%82",
+          "kind": "ドリームコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "大鳴門橋架橋記念館エディ　 - sogensyookuのブログ",
+              "url": "https://sogensyooku.hatenablog.com/entry/2025/04/01/222310"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.uzunomichi.jp/usage-guide-eddy/"
+          }
+        },
+        {
+          "prefecture": "山口県",
+          "city": "下関市",
+          "name": "関門トンネル人道",
+          "type": "インフラ・PR館",
+          "note": "海底を歩く長い人道トンネル。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%A2%E9%96%80%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E4%BA%BA%E9%81%93%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E4%B8%8B%E9%96%A2%E5%B8%82",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "関門トンネルの人道へ（門司～下関） | 大歩 悠（おおぶ ゆう）ブログ《悠歩路私記》",
+              "url": "https://ameblo.jp/yusa-09/entry-12702052197.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "青森県",
+          "city": "外ヶ浜町",
+          "name": "青函トンネル記念館",
+          "type": "インフラ・PR館",
+          "note": "トンネル展示＋地下体験坑道。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
+          "official": "http://seikan-tunnel-museum.jp/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E5%87%BD%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%A4%96%E3%83%B6%E6%B5%9C%E7%94%BA",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "青函トンネル記念館に行ってきました｜ちえのわ",
+              "url": "https://note.com/nowatown/n/n7bd537a9df0d"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://seikan-tunnel-museum.jp/index.html"
+          }
+        },
+        {
+          "prefecture": "富山県",
+          "city": "立山町",
+          "name": "黒部ダム 展示・トンネル動線",
+          "type": "インフラ・PR館",
+          "note": "巨大ダムと地下通路。\n狙い目：地上から地下へ進む際の光と見通しの変化を見たい。通路の奥行きと地上の景観を対比する。",
+          "official": "http://www.kurobe-dam.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%BB%92%E9%83%A8%E3%83%80%E3%83%A0%20%E5%B1%95%E7%A4%BA%E3%83%BB%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E5%8B%95%E7%B7%9A%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E7%AB%8B%E5%B1%B1%E7%94%BA",
+          "kind": "バックルーム",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "世紀の大事業「黒部ダム」と、関電トンネル電気バス〖立山・黒部乗り物の旅⑩ 最終回〗 | 湘南軽便鉄道のブログ",
+              "url": "https://ameblo.jp/kenichi-0801/entry-12869291000.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.kurobe-dam.com/"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "浜松市天竜区",
+          "name": "佐久間電力館",
+          "type": "インフラ・PR館",
+          "note": "ダム横の電力PR館。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
+          "official": "https://www.jpower.co.jp/learn/facilities/sakuma.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E4%B9%85%E9%96%93%E9%9B%BB%E5%8A%9B%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%B5%9C%E6%9D%BE%E5%B8%82%E5%A4%A9%E7%AB%9C%E5%8C%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "佐久間電力館〖2019年9月16日〗 | Subaru6の休日お出かけ記録",
+              "url": "https://ameblo.jp/subaru6ss/entry-12528980301.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.jpower.co.jp/learn/facilities/sakuma.html"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "御前崎市",
+          "name": "浜岡原子力館",
+          "type": "インフラ・PR館",
+          "note": "巨大エネルギーPR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
+          "official": "http://www.chuden.co.jp/hamaoka-pr/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%9C%E5%B2%A1%E5%8E%9F%E5%AD%90%E5%8A%9B%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E5%BE%A1%E5%89%8D%E5%B4%8E%E5%B8%82",
+          "kind": "ドリームコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "浜岡原子力館へ行ってきた | 散歩の思考",
+              "url": "https://swingbooks.jp/2012/08/27/hamaoka/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.chuden.co.jp/hamaoka-pr/"
+          }
+        },
+        {
+          "prefecture": "佐賀県",
+          "city": "玄海町",
+          "name": "玄海エネルギーパーク",
+          "type": "インフラ・PR館",
+          "note": "地方の巨大エネルギーPR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
+          "official": "http://www.kyuden.co.jp/life_pavilion_enepark_index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%8E%84%E6%B5%B7%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E7%8E%84%E6%B5%B7%E7%94%BA",
+          "kind": "ドリームコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "玄海エネルギーパーク | ぽよんのブログ　次はどこ行こう",
+              "url": "https://ameblo.jp/pepe1283/entry-12862115037.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.kyuden.co.jp/life_pavilion_enepark_index.html"
+          }
+        },
+        {
+          "prefecture": "鹿児島県",
+          "city": "薩摩川内市",
+          "name": "川内原子力発電所展示館",
+          "type": "インフラ・PR館",
+          "note": "原子力PR館。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
+          "official": "http://www.kyuden.co.jp/life_pavilion_sendai_index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%86%85%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80%E5%B1%95%E7%A4%BA%E9%A4%A8%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82",
+          "kind": "ドリームコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "『川内原子力発電所展示館』に行ってきました(前編) - （´・ω・`）まったりいこうぜ",
+              "url": "https://souki.hatenadiary.jp/entry/ar1042208"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.kyuden.co.jp/life_pavilion_sendai_index.html"
+          }
+        },
+        {
+          "prefecture": "愛媛県",
+          "city": "伊方町",
+          "name": "四国電力 伊方ビジターズハウス",
+          "type": "インフラ・PR館",
+          "note": "半島の電力PR施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
+          "official": "https://www.yonden.co.jp/energy/atom/tour/ikata_visitorshouse.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E5%9B%BD%E9%9B%BB%E5%8A%9B%20%E4%BC%8A%E6%96%B9%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BA%E3%83%8F%E3%82%A6%E3%82%B9%20%E6%84%9B%E5%AA%9B%E7%9C%8C%20%E4%BC%8A%E6%96%B9%E7%94%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "道の駅めぐりパート５１３-２　伊方きらら館　展望台から伊方ビジターハウスへ | ホロちゃんのパパの道の駅めぐり",
+              "url": "https://ameblo.jp/horo-3115/entry-12624425446.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.yonden.co.jp/energy/atom/tour/ikata_visitorshouse.html"
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "魚沼市",
+          "name": "J-POWER 電源開発 奥只見電力館",
+          "type": "インフラ・PR館",
+          "note": "山奥のダム・電力展示。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=J-POWER%20%E9%9B%BB%E6%BA%90%E9%96%8B%E7%99%BA%20%E5%A5%A5%E5%8F%AA%E8%A6%8B%E9%9B%BB%E5%8A%9B%E9%A4%A8%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E9%AD%9A%E6%B2%BC%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "奥只見ドライブ　奥只見電力館(新潟県魚沼市) | シンカの進化",
+              "url": "https://ameblo.jp/siokaradaisuki/entry-12686250448.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "青森県",
+          "city": "六ヶ所村",
+          "name": "六ヶ所原燃PRセンター",
+          "type": "エネルギー",
+          "note": "エネルギーを扱う地域施設。\n狙い目：発電の仕組みと地域に置かれた設備の関係を読む。大規模な技術を来館者向けにどう説明するかが対象。",
+          "official": "https://6prc.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E3%83%B6%E6%89%80%E5%8E%9F%E7%87%83PR%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%85%AD%E3%83%B6%E6%89%80%E6%9D%91",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖博物館〗六ヶ所原燃PRセンター｜もんばん",
+              "url": "https://note.com/mon_ban/n/n078fc0b0907e"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://6prc.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "小平市",
+          "name": "小平市ふれあい下水道館",
+          "type": "下水道・インフラ",
+          "note": "水処理・供給設備と都市インフラの仕組みを扱う。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B9%B3%E5%B8%82%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "日本で唯一下水道に入れる！？小平市ふれあい下水道館に行ってきた - えむえぬえる - 暇を楽しむ日記帳 -",
+              "url": "https://semi20251.hatenablog.com/entry/2025/09/17/193000_1"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "芝浦水再生センター",
+          "type": "水再生センター",
+          "note": "予約見学。下水処理施設そのものに入り、水処理工程を見学できる。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-01/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%9D%E6%B5%A6%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-01/index.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "荒川区",
+          "name": "三河島水再生センター",
+          "type": "水再生センター・近代化遺産",
+          "note": "予約見学。現役施設に加え旧三河島汚水処分場喞筒場が残る。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E6%B2%B3%E5%B3%B6%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "砂町水再生センター",
+          "type": "水再生センター",
+          "note": "予約見学。巨大な沈殿池・反応槽を含む都市インフラ。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-06/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A0%82%E7%94%BA%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-06/index.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "有明水再生センター",
+          "type": "水再生センター",
+          "note": "予約見学。臨海副都心の大型下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-12/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-12/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "落合水再生センター",
+          "type": "水再生センター",
+          "note": "予約見学。住宅地の中にある大規模処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/guide/sise-list/44994",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%90%BD%E5%90%88%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/guide/sise-list/44994"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "大田区",
+          "name": "森ヶ崎水再生センター",
+          "type": "水再生センター",
+          "note": "予約見学。東京都最大級の水再生センター。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-11/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A3%AE%E3%83%B6%E5%B4%8E%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-11/index.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "府中市",
+          "name": "北多摩一号水再生センター",
+          "type": "水再生センター",
+          "note": "予約見学。多摩川流域の広域下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-01/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%A4%9A%E6%91%A9%E4%B8%80%E5%8F%B7%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%BA%9C%E4%B8%AD%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-01/index.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "稲城市",
+          "name": "南多摩水再生センター",
+          "type": "水再生センター",
+          "note": "予約見学。処理施設内部を見学可能。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-04/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E5%A4%9A%E6%91%A9%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%A8%B2%E5%9F%8E%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-04/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "国立市",
+          "name": "北多摩二号水再生センター",
+          "type": "水再生センター",
+          "note": "予約見学。多摩地域の公共下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%A4%9A%E6%91%A9%E4%BA%8C%E5%8F%B7%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E7%AB%8B%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "日野市",
+          "name": "浅川水再生センター",
+          "type": "水再生センター",
+          "note": "予約見学。水処理設備を実地見学できる。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-05/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E5%B7%9D%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%97%A5%E9%87%8E%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-05/index.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "大田区",
+          "name": "多摩川清掃工場",
+          "type": "清掃工場",
+          "note": "見学。巨大な都市ごみ焼却施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "http://www.union.tokyo23-seisou.lg.jp/kojo/tamagawa/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%9A%E6%91%A9%E5%B7%9D%E6%B8%85%E6%8E%83%E5%B7%A5%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.union.tokyo23-seisou.lg.jp/kojo/tamagawa/index.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "特別区",
+          "name": "東京23区の清掃工場",
+          "type": "清掃工場・見学施設",
+          "note": "施設ごと。複数の現役清掃工場を実際に見学できる公式索引。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
+          "official": "http://www.union.tokyo23-seisou.lg.jp/kojo/nerima/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC23%E5%8C%BA%E3%81%AE%E6%B8%85%E6%8E%83%E5%B7%A5%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%89%B9%E5%88%A5%E5%8C%BA",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.union.tokyo23-seisou.lg.jp/kojo/nerima/"
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "春日部市",
+          "name": "首都圏外郭放水路・庄和排水機場",
+          "type": "地下放水路・排水機場",
+          "note": "見学会。巨大立坑と地下神殿状の調圧水槽を持つ国の治水施設。\n狙い目：立坑や調圧水槽の大きさと、見学者の通る位置の関係を見たい。見学コース内から設備のスケールを捉える。",
+          "official": "https://www.ktr.mlit.go.jp/edogawa/edogawa00233.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%96%E9%83%BD%E5%9C%8F%E5%A4%96%E9%83%AD%E6%94%BE%E6%B0%B4%E8%B7%AF%E3%83%BB%E5%BA%84%E5%92%8C%E6%8E%92%E6%B0%B4%E6%A9%9F%E5%A0%B4%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.ktr.mlit.go.jp/edogawa/edogawa00233.html"
+          }
+        },
+        {
+          "prefecture": "沖縄県",
+          "city": "宮古島市",
+          "name": "地下ダム資料館",
+          "type": "地下ダム・資料館",
+          "note": "一般入館。地中に造られた巨大ダムを解説する公的施設。\n狙い目：地上からは見えないダムの仕組みを、地下水と地層の関係から読みたい。巨大インフラを室内で説明する方法が対象。",
+          "official": "http://www.city.miyakojima.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E4%B8%8B%E3%83%80%E3%83%A0%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E5%AE%AE%E5%8F%A4%E5%B3%B6%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "宮古島３日目①貝と地下ダムの博物館",
+              "url": "https://ameblo.jp/stitch-chacha/entry-12883426409.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.city.miyakojima.lg.jp/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aquarium",
+      "number": 4,
       "name": "水族館・海中施設",
       "shortName": "水族館・海中施設",
       "file": "水族館・海中施設.csv",
-      "count": 39,
+      "count": 38,
       "items": [
         {
           "prefecture": "和歌山県",
@@ -4582,27 +4353,6 @@
           }
         },
         {
-          "prefecture": "高知県",
-          "city": "室戸市",
-          "name": "むろと廃校水族館",
-          "type": "海洋生物",
-          "note": "旧椎名小学校を改修した水族館。屋外プールと校舎内の水槽で、地元の定置網にかかった魚やウミガメを展示する。\n狙い目：学校のために造られた校舎・プールを水族展示に使い替えた部分。元の用途と現在の使い方の重なりを見たい。",
-          "official": "https://www.city.muroto.kochi.jp/pages/page0343.php",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%80%E3%82%8D%E3%81%A8%E5%BB%83%E6%A0%A1%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E5%AE%A4%E6%88%B8%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "むろと廃校水族館に行ってみた | フミ調",
-              "url": "https://fumishira.com/kouchi-aquarium1/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.muroto.kochi.jp/pages/page0343.php"
-          }
-        },
-        {
           "prefecture": "沖縄県",
           "city": "本部町",
           "name": "沖縄美ら海水族館",
@@ -4886,11 +4636,11 @@
     },
     {
       "id": "museums",
-      "number": 4,
+      "number": 5,
       "name": "博物館",
       "shortName": "博物館",
       "file": "博物館.csv",
-      "count": 109,
+      "count": 103,
       "items": [
         {
           "prefecture": "愛媛県",
@@ -5079,22 +4829,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.city.mikasa.hokkaido.jp/museum/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "厚岸町",
-          "name": "厚岸町海事記念館",
-          "type": "海事・天文",
-          "note": "厚岸の海と町の人々との関わりを後世に伝えるために設けられた記念館。役場庁舎前に立地する。\n狙い目：港町の暮らしを海事資料から読む展示の構成と、町の行政拠点との位置関係。",
-          "official": "http://edu.town.akkeshi.hokkaido.jp/kaiji/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8E%9A%E5%B2%B8%E7%94%BA%E6%B5%B7%E4%BA%8B%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8E%9A%E5%B2%B8%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://edu.town.akkeshi.hokkaido.jp/kaiji/\n公式資料：https://www.akkeshi-town.jp/file/contents/2778/31216/all-1.pdf"
           }
         },
         {
@@ -5466,27 +5200,6 @@
           }
         },
         {
-          "prefecture": "神奈川県",
-          "city": "相模原市",
-          "name": "相模原市立博物館",
-          "type": "科学・天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://sagamiharacitymuseum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "相模原市立博物館　見学記その1・・・・令和7年3月20日 | 19450426のブログ",
-              "url": "https://ameblo.jp/19450426/entry-12890612829.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://sagamiharacitymuseum.jp/"
-          }
-        },
-        {
           "prefecture": "新潟県",
           "city": "糸魚川市",
           "name": "フォッサマグナミュージアム",
@@ -5505,27 +5218,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://fmm.geo-itoigawa.com/"
-          }
-        },
-        {
-          "prefecture": "富山県",
-          "city": "富山市",
-          "name": "富山市科学博物館",
-          "type": "自然史・天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://www.tsm.toyama.toyama.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E5%B8%82%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "富山市科学博物館は、雨の日＆子連れの強い味方！プラネタリウムや動く恐竜…コスパよく長時間楽しめる｜Naota_t",
-              "url": "https://note.com/naota_t/n/n7b0abd4a42e6"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.tsm.toyama.toyama.jp/"
           }
         },
         {
@@ -5584,27 +5276,6 @@
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://www.seisenryo.jp/yamane_museum.html"
-          }
-        },
-        {
-          "prefecture": "長野県",
-          "city": "飯田市",
-          "name": "飯田市美術博物館",
-          "type": "自然史・天文",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://www.iida-museum.org/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A3%AF%E7%94%B0%E5%B8%82%E7%BE%8E%E8%A1%93%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E9%A3%AF%E7%94%B0%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "飯田市美術博物館｜konn",
-              "url": "https://note.com/amaharpsicordist/n/nbcd4fe12b1ab"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.iida-museum.org/"
           }
         },
         {
@@ -5731,27 +5402,6 @@
           ],
           "extra": {
             "参照": "公式サイト：http://www.kiseki-jp.com/"
-          }
-        },
-        {
-          "prefecture": "三重県",
-          "city": "四日市市",
-          "name": "四日市市立博物館・プラネタリウム",
-          "type": "天文・科学",
-          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
-          "official": "http://www.city.yokkaichi.mie.jp/museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%83%BB%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖行ってみたい〗四日市市立博物館・プラネタリウム｜さぶ",
-              "url": "https://note.com/random_memo/n/nb522262f881a"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.yokkaichi.mie.jp/museum/"
           }
         },
         {
@@ -7109,33 +6759,590 @@
           "extra": {
             "参照": ""
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "astronomy-planetarium",
+      "number": 6,
+      "name": "天文台・プラネタリウム",
+      "shortName": "天文台・プラネタリウム",
+      "file": "天文台・プラネタリウム.csv",
+      "count": 28,
+      "items": [
         {
-          "prefecture": "沖縄県",
-          "city": "宮古島市",
-          "name": "地下ダム資料館",
-          "type": "地下ダム・資料館",
-          "note": "一般入館。地中に造られた巨大ダムを解説する公的施設。\n狙い目：地上からは見えないダムの仕組みを、地下水と地層の関係から読みたい。巨大インフラを室内で説明する方法が対象。",
-          "official": "http://www.city.miyakojima.lg.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E4%B8%8B%E3%83%80%E3%83%A0%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E5%AE%AE%E5%8F%A4%E5%B3%B6%E5%B8%82",
-          "kind": "見学可能な公的建築",
+          "prefecture": "岩手県",
+          "city": "奥州市",
+          "name": "奥州宇宙遊学館",
+          "type": "宇宙・天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://uchuyugakukan.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E5%B7%9E%E5%AE%87%E5%AE%99%E9%81%8A%E5%AD%A6%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A5%A5%E5%B7%9E%E5%B8%82",
+          "kind": "科学系施設",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [
             {
-              "title": "宮古島３日目①貝と地下ダムの博物館",
-              "url": "https://ameblo.jp/stitch-chacha/entry-12883426409.html"
+              "title": "奥州宇宙遊学館に行ってみた！！　宇宙ド素人が思った感想を正直にお話しします - 一般薬学生の日常",
+              "url": "https://hukukazu2263.hatenablog.com/entry/uchuyugakukan-iwate"
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.city.miyakojima.lg.jp/"
+            "参照": "公式サイト：http://uchuyugakukan.com/"
+          }
+        },
+        {
+          "prefecture": "宮城県",
+          "city": "仙台市",
+          "name": "仙台市天文台",
+          "type": "天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.sendai-astro.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E5%B8%82%E5%A4%A9%E6%96%87%E5%8F%B0%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "文化の日、仙台市天文台に行ってきました。 : 仙台人が仙台観光をしているブログ",
+              "url": "https://tanji-sendai.blog.jp/article/234667943.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.sendai-astro.jp/"
+          }
+        },
+        {
+          "prefecture": "栃木県",
+          "city": "大田原市",
+          "name": "大田原市ふれあいの丘天文館",
+          "type": "天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://www.fureai-tenmonkan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%B0%E5%8E%9F%E5%B8%82%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E3%81%AE%E4%B8%98%E5%A4%A9%E6%96%87%E9%A4%A8%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%A4%A7%E7%94%B0%E5%8E%9F%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「大田原市ふれあいの丘天文館」訪台記",
+              "url": "https://yamanon.seesaa.net/article/201501article_8.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.fureai-tenmonkan.jp/"
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "加須市",
+          "name": "加須未来館",
+          "type": "科学・天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.city.kazo.lg.jp/soshiki/shougai/kazomiraikan/6606.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8A%A0%E9%A0%88%E6%9C%AA%E6%9D%A5%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%8A%A0%E9%A0%88%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "実際に行ってみたツーリングスポット　加須未来館｜かぜなび",
+              "url": "https://note.com/hiro_felice/n/nd3b611a29aeb"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.city.kazo.lg.jp/soshiki/shougai/kazomiraikan/6606.html"
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "市川市",
+          "name": "市川市少年自然の家 プラネタリウム",
+          "type": "天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.city.ichikawa.lg.jp/page/52380.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B8%82%E5%B7%9D%E5%B8%82%E5%B0%91%E5%B9%B4%E8%87%AA%E7%84%B6%E3%81%AE%E5%AE%B6%20%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%B8%82%E5%B7%9D%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.ichikawa.lg.jp/page/52380.html"
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "船橋市",
+          "name": "船橋市総合教育センタープラネタリウム館",
+          "type": "天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://www.city.funabashi.lg.jp/shisetsu/bunka/0002/0002/0001/p011085.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%88%B9%E6%A9%8B%E5%B8%82%E7%B7%8F%E5%90%88%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E8%88%B9%E6%A9%8B%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "全国のプラネタリウムから 第１７５回 千葉県船橋市 船橋市総合教育センタープラネタリウム館 | 日々平安",
+              "url": "https://ameblo.jp/k-orihira/entry-12829519605.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.city.funabashi.lg.jp/shisetsu/bunka/0002/0002/0001/p011085.html"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "川崎市",
+          "name": "かわさき宙と緑の科学館",
+          "type": "天文・自然",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://www.nature-kawasaki.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%82%8F%E3%81%95%E3%81%8D%E5%AE%99%E3%81%A8%E7%B7%91%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%B7%9D%E5%B4%8E%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "かわさき宙と緑の科学館 - PM21:00南",
+              "url": "https://pm21south.hatenablog.com/entry/2022/07/16/083217"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.nature-kawasaki.jp/"
+          }
+        },
+        {
+          "prefecture": "富山県",
+          "city": "黒部市",
+          "name": "吉田科学館",
+          "type": "科学・天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://kysm.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%89%E7%94%B0%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E9%BB%92%E9%83%A8%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://kysm.or.jp/"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "焼津市",
+          "name": "ディスカバリーパーク焼津天文科学館",
+          "type": "天文・科学",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.discoverypark.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E7%84%BC%E6%B4%A5%E5%A4%A9%E6%96%87%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E7%84%BC%E6%B4%A5%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "ディスカバリーパーク焼津天文科学館に行ってみた - maruku_2009のブログ",
+              "url": "https://maruku-2009.hatenablog.com/entry/2026/06/17/203856"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.discoverypark.jp/"
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "半田市",
+          "name": "半田空の科学館",
+          "type": "天文・科学",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://sky-handa.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%8A%E7%94%B0%E7%A9%BA%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%8D%8A%E7%94%B0%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "半田空の科学館とダイ平水産に一歳の娘と行ってきた - アカパパchannel",
+              "url": "https://akapapachannel.hatenablog.com/entry/2025/01/03/013026"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://sky-handa.com/"
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "一宮市",
+          "name": "一宮地域文化広場 プラネタリウム館",
+          "type": "天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.hamada-sports.com/ichinomiya_chiikibunka/ichi?tab",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E5%AE%AE%E5%9C%B0%E5%9F%9F%E6%96%87%E5%8C%96%E5%BA%83%E5%A0%B4%20%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E4%B8%80%E5%AE%AE%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "古き良き・・・？：一宮地域文化広場　プラネタリウム館（愛知） | ZEL's：プラネタリウムと科学施設を見に行こう",
+              "url": "https://ameblo.jp/keith18/entry-12742643164.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.hamada-sports.com/ichinomiya_chiikibunka/ichi?tab"
+          }
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市",
+          "name": "京都産業大学神山天文台",
+          "type": "天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.kyoto-su.ac.jp/observatory/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E7%94%A3%E6%A5%AD%E5%A4%A7%E5%AD%A6%E7%A5%9E%E5%B1%B1%E5%A4%A9%E6%96%87%E5%8F%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.kyoto-su.ac.jp/observatory/"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "富田林市",
+          "name": "すばるホール プラネタリウム",
+          "type": "天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://subaruhall.org/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%B0%E3%82%8B%E3%83%9B%E3%83%BC%E3%83%AB%20%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%AF%8C%E7%94%B0%E6%9E%97%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "すばるホールプラネタリウム/スターリーテイルズ（大阪府富田林市） | ○○日記",
+              "url": "https://ameblo.jp/mahina/entry-11116449263.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://subaruhall.org/"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "明石市",
+          "name": "明石市立天文科学館",
+          "type": "天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.am12.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E7%9F%B3%E5%B8%82%E7%AB%8B%E5%A4%A9%E6%96%87%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%98%8E%E7%9F%B3%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "大人11人、子ども0人。明石市立天文科学館で楽しく大人の社会科見学⭐️｜Shoco",
+              "url": "https://note.com/shocolog_2026/n/nafe407da8aa3"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.am12.jp/"
+          }
+        },
+        {
+          "prefecture": "鳥取県",
+          "city": "鳥取市",
+          "name": "鳥取市さじアストロパーク",
+          "type": "天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.city.tottori.lg.jp/www/contents/1425466200201/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E5%B8%82%E3%81%95%E3%81%98%E3%82%A2%E3%82%B9%E3%83%88%E3%83%AD%E3%83%91%E3%83%BC%E3%82%AF%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E9%B3%A5%E5%8F%96%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "天文台を独り占め！鳥取市さじアストロパーク「星のコテージ」に宿泊 | ワーママゆきゃのすまいるブログ",
+              "url": "https://hanamarusmileblog.com/saji2022/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.city.tottori.lg.jp/www/contents/1425466200201/"
+          }
+        },
+        {
+          "prefecture": "鳥取県",
+          "city": "米子市",
+          "name": "米子市児童文化センター",
+          "type": "科学・天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://yonagobunka.net/jibun/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E5%AD%90%E5%B8%82%E5%85%90%E7%AB%A5%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E7%B1%B3%E5%AD%90%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "米子のプラネタリウム見ました｜MRYM",
+              "url": "https://note.com/mrym_hoshi/n/n0933f7785ff5"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://yonagobunka.net/jibun/"
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "津和野町",
+          "name": "日原天文台",
+          "type": "天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://www.sun-net.jp/~polaris/?utm_source",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%8E%9F%E5%A4%A9%E6%96%87%E5%8F%B0%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%B4%A5%E5%92%8C%E9%87%8E%E7%94%BA",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "日原天文台に行ってみました｜MRYM",
+              "url": "https://note.com/mrym_hoshi/n/nec43a219a736"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.sun-net.jp/~polaris/?utm_source"
+          }
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "倉敷市",
+          "name": "倉敷科学センター",
+          "type": "科学・天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%80%89%E6%95%B7%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖倉敷市〗倉敷科学センター行ってみた",
+              "url": "https://treasure-yourself.com/okayamalunch/388/"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "香川県",
+          "city": "さぬき市",
+          "name": "さぬきこどもの国 スペースシアター",
+          "type": "科学・天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.sanuki.or.jp/guide/kidshouse/spacetheater.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%AC%E3%81%8D%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%20%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E3%81%95%E3%81%AC%E3%81%8D%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "さぬきこどもの国スペースシアター（プラネタリウム「水の惑星」） | A's balcony",
+              "url": "https://asbalcony.com/20221001-sanuki-space-theater/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.sanuki.or.jp/guide/kidshouse/spacetheater.html"
+          }
+        },
+        {
+          "prefecture": "佐賀県",
+          "city": "武雄市",
+          "name": "佐賀県立宇宙科学館 ゆめぎんが",
+          "type": "宇宙・科学",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.yumeginga.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E7%AB%8B%E5%AE%87%E5%AE%99%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%86%E3%82%81%E3%81%8E%E3%82%93%E3%81%8C%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E6%AD%A6%E9%9B%84%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖4歳・1歳半と行ってきた〗佐賀県立宇宙科学館ゆめぎんがは幼児でも楽しめる？駐車場・ランチ・体験レビュー - へろきみち◇福岡の情報発信",
+              "url": "https://heroki4.hatenablog.com/entry/yumeginga-saga"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.yumeginga.jp/"
+          }
+        },
+        {
+          "prefecture": "長崎県",
+          "city": "長崎市",
+          "name": "長崎市科学館",
+          "type": "科学・天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.nagasaki-kagakukan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E9%95%B7%E5%B4%8E%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "長崎市科学館で長崎の大地から宇宙に飛び立ってみては？｜しましょ｜穏健派ゆるふわ系サイエンスライター",
+              "url": "https://note.com/shimasho_work/n/n56b1cdc94d3c"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.nagasaki-kagakukan.jp/"
+          }
+        },
+        {
+          "prefecture": "京都府",
+          "city": "向日市",
+          "name": "向日市天文館",
+          "type": "天文台・プラネタリウム",
+          "note": "小規模自治体天文館 開館年：1993年。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "https://www.city.muko.kyoto.jp/site/tenmonkan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%91%E6%97%A5%E5%B8%82%E5%A4%A9%E6%96%87%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E5%90%91%E6%97%A5%E5%B8%82",
+          "kind": "リミナル科学館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "全国プラ『レア』リウム33箇所巡り ～長岡京の都で星を見よう・京都向日市天文館編～ - いつも心に花束を（手には拳銃）。",
+              "url": "https://gonsyo.blog.fc2.com/blog-entry-208.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.city.muko.kyoto.jp/site/tenmonkan/"
+          }
+        },
+        {
+          "prefecture": "石川県",
+          "city": "羽咋市",
+          "name": "コスモアイル羽咋",
+          "type": "宇宙・産業展示",
+          "note": "地方都市の大型宇宙展示施設 開館年：1996年。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://www.hakui.ne.jp/ufo/?utm_source",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%A2%E3%82%A4%E3%83%AB%E7%BE%BD%E5%92%8B%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E7%BE%BD%E5%92%8B%E5%B8%82",
+          "kind": "リミナル科学館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "コスモアイル羽咋とイタリアン - okurejeの日記",
+              "url": "https://okureje.hatenablog.com/entry/20150721/1437488594"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.hakui.ne.jp/ufo/?utm_source"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "厚岸町",
+          "name": "厚岸町海事記念館",
+          "type": "海事・天文",
+          "note": "厚岸の海と町の人々との関わりを後世に伝えるために設けられた記念館。役場庁舎前に立地する。\n狙い目：港町の暮らしを海事資料から読む展示の構成と、町の行政拠点との位置関係。",
+          "official": "http://edu.town.akkeshi.hokkaido.jp/kaiji/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8E%9A%E5%B2%B8%E7%94%BA%E6%B5%B7%E4%BA%8B%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8E%9A%E5%B2%B8%E7%94%BA",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://edu.town.akkeshi.hokkaido.jp/kaiji/\n公式資料：https://www.akkeshi-town.jp/file/contents/2778/31216/all-1.pdf"
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "相模原市",
+          "name": "相模原市立博物館",
+          "type": "科学・天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://sagamiharacitymuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "相模原市立博物館　見学記その1・・・・令和7年3月20日 | 19450426のブログ",
+              "url": "https://ameblo.jp/19450426/entry-12890612829.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://sagamiharacitymuseum.jp/"
+          }
+        },
+        {
+          "prefecture": "富山県",
+          "city": "富山市",
+          "name": "富山市科学博物館",
+          "type": "自然史・天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://www.tsm.toyama.toyama.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E5%B8%82%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "富山市科学博物館は、雨の日＆子連れの強い味方！プラネタリウムや動く恐竜…コスパよく長時間楽しめる｜Naota_t",
+              "url": "https://note.com/naota_t/n/n7b0abd4a42e6"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.tsm.toyama.toyama.jp/"
+          }
+        },
+        {
+          "prefecture": "長野県",
+          "city": "飯田市",
+          "name": "飯田市美術博物館",
+          "type": "自然史・天文",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://www.iida-museum.org/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A3%AF%E7%94%B0%E5%B8%82%E7%BE%8E%E8%A1%93%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E9%A3%AF%E7%94%B0%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "飯田市美術博物館｜konn",
+              "url": "https://note.com/amaharpsicordist/n/nbcd4fe12b1ab"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.iida-museum.org/"
+          }
+        },
+        {
+          "prefecture": "三重県",
+          "city": "四日市市",
+          "name": "四日市市立博物館・プラネタリウム",
+          "type": "天文・科学",
+          "note": "天文観測と宇宙、投影展示を扱う。\n狙い目：天体を説明する展示と投影による見せ方を比べたい。距離や時間の大きさを室内に置き換える方法が対象。",
+          "official": "http://www.city.yokkaichi.mie.jp/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%83%BB%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖行ってみたい〗四日市市立博物館・プラネタリウム｜さぶ",
+              "url": "https://note.com/random_memo/n/nb522262f881a"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.city.yokkaichi.mie.jp/museum/"
           }
         }
       ]
     },
     {
       "id": "libraries",
-      "number": 5,
+      "number": 7,
       "name": "空間に特徴のある図書館",
       "shortName": "図書館",
       "file": "空間に特徴のある図書館.csv",
@@ -7686,11 +7893,11 @@
     },
     {
       "id": "rooftops",
-      "number": 6,
+      "number": 8,
       "name": "東京都内の入れる屋上・屋上庭園・公開テラス",
       "shortName": "屋上・屋上庭園",
       "file": "東京都内の入れる屋上・屋上庭園・公開テラス.csv",
-      "count": 107,
+      "count": 97,
       "items": [
         {
           "prefecture": "東京都",
@@ -7863,27 +8070,6 @@
         {
           "prefecture": "東京都",
           "city": "渋谷区",
-          "name": "渋谷スクランブルスクエア「SHIBUYA SKY SKY STAGE」",
-          "type": "屋上展望施設",
-          "note": "有料・チケット制。完全な屋外屋上。高所感は最大級。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
-          "official": "https://www.shibuya-scramble-square.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "渋谷スクランブルスクエア",
-          "relatedLinks": [
-            {
-              "title": "【東京旅】9割が外国人、SHIBUYÅ SKY @渋谷スクランブルスクエア",
-              "url": "https://ameblo.jp/nocovic/entry-12882615889.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.shibuya-scramble-square.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "渋谷区",
           "name": "MIYASHITA PARK「渋谷区立宮下公園」",
           "type": "屋上都市公園",
           "note": "無料。商業施設上の都市公園。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
@@ -7942,27 +8128,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.tokyu-plaza.com/shibuya/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "渋谷区",
-          "name": "恵比寿ガーデンプレイスタワー「SKY LOUNGE周辺屋外眺望空間」",
-          "type": "高層展望・テラス",
-          "note": "無料。都市俯瞰系。庭園より眺望重視。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
-          "official": "https://gardenplace.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "恵比寿ガーデンプレイスタワー",
-          "relatedLinks": [
-            {
-              "title": "恵比寿ガーデンプレイス「スカイラウンジ」で夜景撮影してきた",
-              "url": "https://ameblo.jp/e10dokup/entry-12552020110.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://gardenplace.jp/"
           }
         },
         {
@@ -8289,27 +8454,6 @@
         {
           "prefecture": "東京都",
           "city": "港区",
-          "name": "六本木ヒルズ「屋上スカイデッキ系公開イベント」",
-          "type": "高層屋外展望",
-          "note": "開催時・条件あり。通常庭園とは別系統の高所屋外体験。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
-          "official": "https://www.roppongihills.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E6%9C%AC%E6%9C%A8%E3%83%92%E3%83%AB%E3%82%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "六本木ヒルズ",
-          "relatedLinks": [
-            {
-              "title": "六本木ヒルズ　スカイデッキへ行ってきた　vol.1",
-              "url": "https://ameblo.jp/kantokuyo/entry-12122544740.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.roppongihills.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "港区",
           "name": "東京ミッドタウン「ミッドタウン・ガーデン上部テラス」",
           "type": "人工地盤・庭園",
           "note": "無料。都市再開発と緑地の混合。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
@@ -8622,54 +8766,6 @@
         },
         {
           "prefecture": "東京都",
-          "city": "練馬区",
-          "name": "練馬区役所「屋上・展望ロビー周辺」",
-          "type": "庁舎展望・屋外系",
-          "note": "無料。自治体庁舎の眺望施設。\n狙い目：屋内の眺望空間として、窓越しの街の見え方と閲覧・滞在する場所の配置を観察したい。",
-          "official": "http://www.city.nerima.tokyo.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%B4%E9%A6%AC%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "練馬区役所",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.city.nerima.tokyo.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "文京区",
-          "name": "文京シビックセンター「展望ラウンジ周辺」",
-          "type": "庁舎展望施設",
-          "note": "無料。屋内中心だが公共高所施設として近い。\n狙い目：屋内の眺望空間として、窓越しの街の見え方と閲覧・滞在する場所の配置を観察したい。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E4%BA%AC%E3%82%B7%E3%83%93%E3%83%83%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "文京シビックセンター",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "北区",
-          "name": "北とぴあ「展望ロビー・屋外系イベント」",
-          "type": "公共文化施設高所",
-          "note": "無料。公共施設の高所空間。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
-          "official": "http://www.hokutopia.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E3%81%A8%E3%81%B4%E3%81%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "北とぴあ",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.hokutopia.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
           "city": "立川市",
           "name": "国営昭和記念公園 花みどり文化センター「浮游の庭」",
           "type": "公共施設屋上庭園",
@@ -8682,38 +8778,6 @@
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：http://www.showakinen-koen.jp/facility/facility_green-culture/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "台東区",
-          "name": "浅草文化観光センター「8階展望テラス」",
-          "type": "公共施設高層テラス",
-          "note": "無料。雷門と仲見世を見下ろす。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
-          "official": "https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/a-tic-gaiyo.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89%E6%96%87%E5%8C%96%E8%A6%B3%E5%85%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "浅草文化観光センター",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/a-tic-gaiyo.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "墨田区",
-          "name": "すみだリバーサイドホール／墨田区役所「上層展望スペース」",
-          "type": "公共施設高所",
-          "note": "無料。隅田川沿い庁舎の眺望空間。\n狙い目：行政施設の業務空間から庭園・眺望空間へ移る動線を見たい。一般利用できる区画と執務区域の分け方も対象。",
-          "official": "http://www.city.sumida.lg.jp/sisetu_info/tamokuteki/sumidariversidehall/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%BF%E3%81%A0%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%8F%E5%A2%A8%E7%94%B0%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "すみだリバーサイドホール／墨田区役所",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.city.sumida.lg.jp/sisetu_info/tamokuteki/sumidariversidehall/"
           }
         },
         {
@@ -8810,22 +8874,6 @@
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：http://www.tokyo-solamachi.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "墨田区",
-          "name": "東京スカイツリー「天望回廊周辺屋外イベント空間」",
-          "type": "高所展望施設",
-          "note": "有料。屋内中心だが屋上・高所収集の関連候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
-          "official": "https://www.tokyo-skytree.jp/?utm_source",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%84%E3%83%AA%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "東京スカイツリー",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.tokyo-skytree.jp/?utm_source"
           }
         },
         {
@@ -9502,22 +9550,6 @@
         },
         {
           "prefecture": "東京都",
-          "city": "江戸川区",
-          "name": "タワーホール船堀「展望塔・上層屋外系空間」",
-          "type": "公共文化施設",
-          "note": "無料。公共施設高所系。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
-          "official": "https://www.towerhall.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E8%88%B9%E5%A0%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "タワーホール船堀",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.towerhall.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
           "city": "北区",
           "name": "赤羽会館「屋上・高層テラス系」",
           "type": "公共施設",
@@ -9567,12 +9599,12 @@
       ]
     },
     {
-      "id": "other",
-      "number": 7,
-      "name": "ターミナル・展望施設",
-      "shortName": "ターミナル・展望施設",
-      "file": "ターミナル・展望施設.csv",
-      "count": 48,
+      "id": "ferry-terminals",
+      "number": 9,
+      "name": "フェリー・旅客船ターミナル",
+      "shortName": "フェリー・旅客船ターミナル",
+      "file": "フェリー・旅客船ターミナル.csv",
+      "count": 24,
       "items": [
         {
           "prefecture": "東京都",
@@ -9831,165 +9863,143 @@
           }
         },
         {
-          "prefecture": "茨城県",
-          "city": "小美玉市",
-          "name": "茨城空港",
-          "type": "空港",
-          "note": "小規模空港の大きな待合空間。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
-          "official": "http://www.ibaraki-airport.net/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%A9%BA%E6%B8%AF%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E5%B0%8F%E7%BE%8E%E7%8E%89%E5%B8%82",
-          "kind": "リミナル",
+          "prefecture": "神奈川県",
+          "city": "横須賀市",
+          "name": "東京九州フェリー 横須賀フェリーターミナル",
+          "type": "ターミナル・展望施設",
+          "note": "巨大待合・乗船前後の空間。夜便との相性が高い。\n狙い目：待合から乗船へ進む流れを見る。乗船前後で人の密度が変わるターミナルとして観察したい。",
+          "official": "https://tqf.co.jp/embark/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%B9%9D%E5%B7%9E%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E6%A8%AA%E9%A0%88%E8%B3%80%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%96%B0%E6%B8%AF%E7%94%BA11-4",
+          "kind": "モールコア",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://www.ibaraki-airport.net/"
+            "参照": "公式サイト：https://tqf.co.jp/embark/"
           }
         },
         {
-          "prefecture": "福島県",
-          "city": "玉川村",
-          "name": "福島空港",
-          "type": "空港",
-          "note": "地方空港。展望・ロビーが狙い目。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
-          "official": "http://www.fks-ab.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%A9%BA%E6%B8%AF%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E7%8E%89%E5%B7%9D%E6%9D%91",
-          "kind": "リミナル",
+          "prefecture": "北海道",
+          "city": "小樽市",
+          "name": "新日本海フェリー 小樽ターミナル",
+          "type": "ターミナル・展望施設",
+          "note": "フェリー待合・長い移動動線・夜間照明。\n狙い目：待合と長い移動経路をたどり、夜間照明の下で奥行きがどう見えるかを見る。",
+          "official": "http://www.snf.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E5%B0%8F%E6%A8%BD%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%B0%8F%E6%A8%BD%E5%B8%82%E7%AF%89%E6%B8%AF7-2%20%E5%8B%9D%E7%B4%8D%E5%9F%A0%E9%A0%AD",
+          "kind": "モールコア",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://www.fks-ab.co.jp/"
+            "参照": "公式サイト：http://www.snf.jp/"
           }
         },
         {
-          "prefecture": "富山県",
-          "city": "富山市",
-          "name": "富山きときと空港",
-          "type": "空港",
-          "note": "地方空港ターミナル。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
-          "official": "https://www.toyama-airport.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E3%81%8D%E3%81%A8%E3%81%8D%E3%81%A8%E7%A9%BA%E6%B8%AF%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
-          "kind": "リミナル",
+          "prefecture": "大阪府",
+          "city": "大阪市",
+          "name": "天保山渡船場",
+          "type": "市営渡船・待合施設",
+          "note": "一般利用。道路扱いの無料渡船に実際に乗れる。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
+          "official": "http://www.city.osaka.lg.jp/kensetsu/page/0000011249.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E4%BF%9D%E5%B1%B1%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "kind": "見学可能な公的建築",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://www.toyama-airport.co.jp/"
+            "参照": "公式サイト：http://www.city.osaka.lg.jp/kensetsu/page/0000011249.html"
           }
         },
         {
-          "prefecture": "石川県",
-          "city": "輪島市",
-          "name": "能登空港",
-          "type": "空港",
-          "note": "小規模地方空港。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
-          "official": "http://www.noto-airport.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%83%BD%E7%99%BB%E7%A9%BA%E6%B8%AF%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E8%BC%AA%E5%B3%B6%E5%B8%82",
-          "kind": "リミナル",
+          "prefecture": "大阪府",
+          "city": "大阪市",
+          "name": "甚兵衛渡船場",
+          "type": "市営渡船・待合施設",
+          "note": "一般利用。工業地帯の日常交通として残る無料渡船。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
+          "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000011251.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%9A%E5%85%B5%E8%A1%9B%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "kind": "見学可能な公的建築",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://www.noto-airport.jp/"
+            "参照": "公式サイト：https://www.city.osaka.lg.jp/kensetsu/page/0000011251.html"
           }
         },
         {
-          "prefecture": "鳥取県",
-          "city": "鳥取市",
-          "name": "鳥取砂丘コナン空港",
-          "type": "空港",
-          "note": "地方空港の長い待合・展望動線。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
-          "official": "http://www.ttj-ap-bld.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%A0%82%E4%B8%98%E3%82%B3%E3%83%8A%E3%83%B3%E7%A9%BA%E6%B8%AF%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E9%B3%A5%E5%8F%96%E5%B8%82",
-          "kind": "リミナル",
+          "prefecture": "大阪府",
+          "city": "大阪市",
+          "name": "千歳渡船場",
+          "type": "市営渡船・待合施設",
+          "note": "一般利用。巨大橋梁下の水路を渡る公共交通施設。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
+          "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000011253.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E6%AD%B3%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "kind": "見学可能な公的建築",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://www.ttj-ap-bld.co.jp/"
+            "参照": "公式サイト：https://www.city.osaka.lg.jp/kensetsu/page/0000011253.html"
           }
         },
         {
-          "prefecture": "鳥取県",
-          "city": "境港市",
-          "name": "米子鬼太郎空港",
-          "type": "空港",
-          "note": "地方空港ターミナル。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
-          "official": "http://www.yonago-air.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E5%AD%90%E9%AC%BC%E5%A4%AA%E9%83%8E%E7%A9%BA%E6%B8%AF%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E5%A2%83%E6%B8%AF%E5%B8%82",
-          "kind": "リミナル",
+          "prefecture": "大阪府",
+          "city": "大阪市",
+          "name": "千本松渡船場",
+          "type": "市営渡船・待合施設",
+          "note": "一般利用。ループ橋直下を船で横断する。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
+          "official": "http://www.city.osaka.lg.jp/kensetsu/page/0000011258.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E6%9C%AC%E6%9D%BE%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "kind": "見学可能な公的建築",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://www.yonago-air.com/"
-          }
-        },
-        {
-          "prefecture": "島根県",
-          "city": "出雲市",
-          "name": "出雲縁結び空港",
-          "type": "空港",
-          "note": "地方空港の人工的な待合空間。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
-          "official": "http://www.izumo-airport.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BA%E9%9B%B2%E7%B8%81%E7%B5%90%E3%81%B3%E7%A9%BA%E6%B8%AF%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%87%BA%E9%9B%B2%E5%B8%82",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.izumo-airport.co.jp/"
-          }
-        },
-        {
-          "prefecture": "山口県",
-          "city": "宇部市",
-          "name": "山口宇部空港",
-          "type": "空港",
-          "note": "地方空港・ガラス張りターミナル。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
-          "official": "http://www.yamaguchiube-airport.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E5%AE%87%E9%83%A8%E7%A9%BA%E6%B8%AF%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E5%AE%87%E9%83%A8%E5%B8%82",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.yamaguchiube-airport.jp/"
+            "参照": "公式サイト：http://www.city.osaka.lg.jp/kensetsu/page/0000011258.html"
           }
         },
         {
           "prefecture": "福岡県",
-          "city": "北九州市小倉南区",
-          "name": "北九州空港",
-          "type": "空港",
-          "note": "人工島空港。夜間が強い。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
-          "official": "http://www.kitakyu-air.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E7%A9%BA%E6%B8%AF%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%B0%8F%E5%80%89%E5%8D%97%E5%8C%BA",
-          "kind": "リミナル",
+          "city": "福岡市",
+          "name": "博多港 市営渡船ターミナル",
+          "type": "市営渡船・港湾施設",
+          "note": "一般利用。市営離島航路の公共ターミナル。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
+          "official": "https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/ferry_city.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E6%B8%AF%20%E5%B8%82%E5%96%B6%E6%B8%A1%E8%88%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82",
+          "kind": "見学可能な公的建築",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://www.kitakyu-air.jp/"
+            "参照": "公式サイト：https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/ferry_city.html"
           }
         },
         {
-          "prefecture": "佐賀県",
-          "city": "佐賀市",
-          "name": "佐賀空港",
-          "type": "空港",
-          "note": "平野の中の小規模空港。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
-          "official": "http://saga-ab.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%A9%BA%E6%B8%AF%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BD%90%E8%B3%80%E5%B8%82",
-          "kind": "リミナル",
+          "prefecture": "鹿児島県",
+          "city": "鹿児島市",
+          "name": "桜島フェリーターミナル",
+          "type": "市営フェリー・港湾施設",
+          "note": "一般利用。自治体直営フェリーの旅客施設。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
+          "official": "https://www.city.kagoshima.lg.jp/sakurajima-ferry/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%9C%E5%B3%B6%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82",
+          "kind": "見学可能な公的建築",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://saga-ab.jp/"
+            "参照": "公式サイト：https://www.city.kagoshima.lg.jp/sakurajima-ferry/index.html"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "viewpoint-facilities",
+      "number": 10,
+      "name": "展望塔・展望施設",
+      "shortName": "展望塔・展望施設",
+      "file": "展望塔・展望施設.csv",
+      "count": 30,
+      "items": [
         {
           "prefecture": "千葉県",
           "city": "千葉市中央区",
@@ -10311,42 +10321,355 @@
           }
         },
         {
-          "prefecture": "神奈川県",
-          "city": "横須賀市",
-          "name": "東京九州フェリー 横須賀フェリーターミナル",
-          "type": "ターミナル・展望施設",
-          "note": "巨大待合・乗船前後の空間。夜便との相性が高い。\n狙い目：待合から乗船へ進む流れを見る。乗船前後で人の密度が変わるターミナルとして観察したい。",
-          "official": "https://tqf.co.jp/embark/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%B9%9D%E5%B7%9E%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E6%A8%AA%E9%A0%88%E8%B3%80%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%96%B0%E6%B8%AF%E7%94%BA11-4",
-          "kind": "モールコア",
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "渋谷スクランブルスクエア「SHIBUYA SKY SKY STAGE」",
+          "type": "屋上展望施設",
+          "note": "有料・チケット制。完全な屋外屋上。高所感は最大級。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
+          "official": "https://www.shibuya-scramble-square.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
           "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
+          "mapQueryName": "渋谷スクランブルスクエア",
+          "relatedLinks": [
+            {
+              "title": "【東京旅】9割が外国人、SHIBUYÅ SKY @渋谷スクランブルスクエア",
+              "url": "https://ameblo.jp/nocovic/entry-12882615889.html"
+            }
+          ],
           "extra": {
-            "参照": "公式サイト：https://tqf.co.jp/embark/"
+            "参照": "公式サイト：https://www.shibuya-scramble-square.com/"
           }
         },
         {
-          "prefecture": "北海道",
-          "city": "小樽市",
-          "name": "新日本海フェリー 小樽ターミナル",
-          "type": "ターミナル・展望施設",
-          "note": "フェリー待合・長い移動動線・夜間照明。\n狙い目：待合と長い移動経路をたどり、夜間照明の下で奥行きがどう見えるかを見る。",
-          "official": "http://www.snf.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%E5%B0%8F%E6%A8%BD%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%B0%8F%E6%A8%BD%E5%B8%82%E7%AF%89%E6%B8%AF7-2%20%E5%8B%9D%E7%B4%8D%E5%9F%A0%E9%A0%AD",
-          "kind": "モールコア",
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "恵比寿ガーデンプレイスタワー「SKY LOUNGE周辺屋外眺望空間」",
+          "type": "高層展望・テラス",
+          "note": "無料。都市俯瞰系。庭園より眺望重視。\n狙い目：植栽のまとまりと建物の縁、街への見通しの関係を見たい。庭園として滞在する場所と通行する場所を比べる。",
+          "official": "https://gardenplace.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "恵比寿ガーデンプレイスタワー",
+          "relatedLinks": [
+            {
+              "title": "恵比寿ガーデンプレイス「スカイラウンジ」で夜景撮影してきた",
+              "url": "https://ameblo.jp/e10dokup/entry-12552020110.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://gardenplace.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "六本木ヒルズ「屋上スカイデッキ系公開イベント」",
+          "type": "高層屋外展望",
+          "note": "開催時・条件あり。通常庭園とは別系統の高所屋外体験。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
+          "official": "https://www.roppongihills.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E6%9C%AC%E6%9C%A8%E3%83%92%E3%83%AB%E3%82%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "六本木ヒルズ",
+          "relatedLinks": [
+            {
+              "title": "六本木ヒルズ　スカイデッキへ行ってきた　vol.1",
+              "url": "https://ameblo.jp/kantokuyo/entry-12122544740.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.roppongihills.com/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "練馬区役所「屋上・展望ロビー周辺」",
+          "type": "庁舎展望・屋外系",
+          "note": "無料。自治体庁舎の眺望施設。\n狙い目：屋内の眺望空間として、窓越しの街の見え方と閲覧・滞在する場所の配置を観察したい。",
+          "official": "http://www.city.nerima.tokyo.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%B4%E9%A6%AC%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "練馬区役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.city.nerima.tokyo.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "文京シビックセンター「展望ラウンジ周辺」",
+          "type": "庁舎展望施設",
+          "note": "無料。屋内中心だが公共高所施設として近い。\n狙い目：屋内の眺望空間として、窓越しの街の見え方と閲覧・滞在する場所の配置を観察したい。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E4%BA%AC%E3%82%B7%E3%83%93%E3%83%83%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "文京シビックセンター",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "北とぴあ「展望ロビー・屋外系イベント」",
+          "type": "公共文化施設高所",
+          "note": "無料。公共施設の高所空間。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
+          "official": "http://www.hokutopia.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E3%81%A8%E3%81%B4%E3%81%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "北とぴあ",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.hokutopia.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "浅草文化観光センター「8階展望テラス」",
+          "type": "公共施設高層テラス",
+          "note": "無料。雷門と仲見世を見下ろす。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
+          "official": "https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/a-tic-gaiyo.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89%E6%96%87%E5%8C%96%E8%A6%B3%E5%85%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "浅草文化観光センター",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/a-tic-gaiyo.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "すみだリバーサイドホール／墨田区役所「上層展望スペース」",
+          "type": "公共施設高所",
+          "note": "無料。隅田川沿い庁舎の眺望空間。\n狙い目：行政施設の業務空間から庭園・眺望空間へ移る動線を見たい。一般利用できる区画と執務区域の分け方も対象。",
+          "official": "http://www.city.sumida.lg.jp/sisetu_info/tamokuteki/sumidariversidehall/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%BF%E3%81%A0%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%8F%E5%A2%A8%E7%94%B0%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "すみだリバーサイドホール／墨田区役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.city.sumida.lg.jp/sisetu_info/tamokuteki/sumidariversidehall/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "東京スカイツリー「天望回廊周辺屋外イベント空間」",
+          "type": "高所展望施設",
+          "note": "有料。屋内中心だが屋上・高所収集の関連候補。\n狙い目：一般公開されている場合に、屋内から屋外へ移る経路と周囲の建物との高さの関係を見たい。常時開放の屋上とは区別して扱う。",
+          "official": "https://www.tokyo-skytree.jp/?utm_source",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%84%E3%83%AA%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "東京スカイツリー",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.tokyo-skytree.jp/?utm_source"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江戸川区",
+          "name": "タワーホール船堀「展望塔・上層屋外系空間」",
+          "type": "公共文化施設",
+          "note": "無料。公共施設高所系。\n狙い目：屋内から外へ出たときの視界と、周囲の街との高さの違いを見たい。眺望だけでなく屋外空間へ至る経路も対象。",
+          "official": "https://www.towerhall.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E8%88%B9%E5%A0%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "タワーホール船堀",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.towerhall.jp/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "airport-terminals",
+      "number": 11,
+      "name": "空港ターミナル",
+      "shortName": "空港ターミナル",
+      "file": "空港ターミナル.csv",
+      "count": 10,
+      "items": [
+        {
+          "prefecture": "茨城県",
+          "city": "小美玉市",
+          "name": "茨城空港",
+          "type": "空港",
+          "note": "小規模空港の大きな待合空間。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
+          "official": "http://www.ibaraki-airport.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%A9%BA%E6%B8%AF%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E5%B0%8F%E7%BE%8E%E7%8E%89%E5%B8%82",
+          "kind": "リミナル",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：http://www.snf.jp/"
+            "参照": "公式サイト：http://www.ibaraki-airport.net/"
+          }
+        },
+        {
+          "prefecture": "福島県",
+          "city": "玉川村",
+          "name": "福島空港",
+          "type": "空港",
+          "note": "地方空港。展望・ロビーが狙い目。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
+          "official": "http://www.fks-ab.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%A9%BA%E6%B8%AF%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E7%8E%89%E5%B7%9D%E6%9D%91",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.fks-ab.co.jp/"
+          }
+        },
+        {
+          "prefecture": "富山県",
+          "city": "富山市",
+          "name": "富山きときと空港",
+          "type": "空港",
+          "note": "地方空港ターミナル。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
+          "official": "https://www.toyama-airport.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E3%81%8D%E3%81%A8%E3%81%8D%E3%81%A8%E7%A9%BA%E6%B8%AF%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.toyama-airport.co.jp/"
+          }
+        },
+        {
+          "prefecture": "石川県",
+          "city": "輪島市",
+          "name": "能登空港",
+          "type": "空港",
+          "note": "小規模地方空港。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
+          "official": "http://www.noto-airport.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%83%BD%E7%99%BB%E7%A9%BA%E6%B8%AF%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E8%BC%AA%E5%B3%B6%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.noto-airport.jp/"
+          }
+        },
+        {
+          "prefecture": "鳥取県",
+          "city": "鳥取市",
+          "name": "鳥取砂丘コナン空港",
+          "type": "空港",
+          "note": "地方空港の長い待合・展望動線。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
+          "official": "http://www.ttj-ap-bld.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%A0%82%E4%B8%98%E3%82%B3%E3%83%8A%E3%83%B3%E7%A9%BA%E6%B8%AF%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E9%B3%A5%E5%8F%96%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.ttj-ap-bld.co.jp/"
+          }
+        },
+        {
+          "prefecture": "鳥取県",
+          "city": "境港市",
+          "name": "米子鬼太郎空港",
+          "type": "空港",
+          "note": "地方空港ターミナル。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
+          "official": "http://www.yonago-air.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E5%AD%90%E9%AC%BC%E5%A4%AA%E9%83%8E%E7%A9%BA%E6%B8%AF%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E5%A2%83%E6%B8%AF%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.yonago-air.com/"
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "出雲市",
+          "name": "出雲縁結び空港",
+          "type": "空港",
+          "note": "地方空港の人工的な待合空間。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
+          "official": "http://www.izumo-airport.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BA%E9%9B%B2%E7%B8%81%E7%B5%90%E3%81%B3%E7%A9%BA%E6%B8%AF%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%87%BA%E9%9B%B2%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.izumo-airport.co.jp/"
+          }
+        },
+        {
+          "prefecture": "山口県",
+          "city": "宇部市",
+          "name": "山口宇部空港",
+          "type": "空港",
+          "note": "地方空港・ガラス張りターミナル。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
+          "official": "http://www.yamaguchiube-airport.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E5%AE%87%E9%83%A8%E7%A9%BA%E6%B8%AF%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E5%AE%87%E9%83%A8%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.yamaguchiube-airport.jp/"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "北九州市小倉南区",
+          "name": "北九州空港",
+          "type": "空港",
+          "note": "人工島空港。夜間が強い。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
+          "official": "http://www.kitakyu-air.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E7%A9%BA%E6%B8%AF%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%B0%8F%E5%80%89%E5%8D%97%E5%8C%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.kitakyu-air.jp/"
+          }
+        },
+        {
+          "prefecture": "佐賀県",
+          "city": "佐賀市",
+          "name": "佐賀空港",
+          "type": "空港",
+          "note": "平野の中の小規模空港。\n狙い目：一般区域の待合から見た建物の奥行きと、出発・到着の動線を比べたい。搭乗口などの制限区域への立入りは前提にしない。",
+          "official": "http://saga-ab.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%A9%BA%E6%B8%AF%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BD%90%E8%B3%80%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://saga-ab.jp/"
           }
         }
       ]
     },
     {
       "id": "csv-285c092b6240cc427307",
-      "number": 8,
+      "number": 12,
       "name": "古いイオン",
       "shortName": "古いイオン",
       "file": "古いイオン.csv",
@@ -10836,11 +11159,11 @@
     },
     {
       "id": "csv-abe02098a033b6a51560",
-      "number": 9,
+      "number": 13,
       "name": "公的防災関連施設",
       "shortName": "公的防災関連施設",
       "file": "公的防災関連施設.csv",
-      "count": 100,
+      "count": 99,
       "items": [
         {
           "prefecture": "北海道",
@@ -11048,22 +11371,6 @@
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://kesennuma-memorial.jp/ Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%20%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E9%81%BA%E6%A7%8B%E3%83%BB%E4%BC%9D%E6%89%BF%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "宮城県",
-          "city": "栗原市",
-          "name": "栗駒山麓ジオパークビジターセンター",
-          "type": "地震・土砂災害学習施設",
-          "note": "旧小学校を活用した施設で、荒砥沢地すべりなどの大型映像展示を見る。 利用条件：一般見学可・無料。荒砥沢地すべり等を紹介。2026年4月1日に通常開館再開。 公的主体：栗原市",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%97%E9%A7%92%E5%B1%B1%E9%BA%93%E3%82%B8%E3%82%AA%E3%83%91%E3%83%BC%E3%82%AF%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%A0%97%E5%8E%9F%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.kuriharacity.jp/geopark/060/index.html 公式資料：https://www.kuriharacity.jp/geopark/060/030/PAGE000000000000015630.html Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%A0%97%E5%8E%9F%E5%B8%82%20%E6%A0%97%E9%A7%92%E5%B1%B1%E9%BA%93%E3%82%B8%E3%82%AA%E3%83%91%E3%83%BC%E3%82%AF%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
           }
         },
         {
@@ -12446,7 +12753,7 @@
     },
     {
       "id": "csv-93632f78566b28f084a4",
-      "number": 10,
+      "number": 14,
       "name": "旧世代型商業施設",
       "shortName": "旧世代型商業施設",
       "file": "旧世代型商業施設.csv",
@@ -13026,7 +13333,7 @@
     },
     {
       "id": "csv-7953300f77b059b02352",
-      "number": 11,
+      "number": 15,
       "name": "レトロゲームセンター",
       "shortName": "レトロゲームセンター",
       "file": "レトロゲームセンター.csv",
@@ -14636,11 +14943,11 @@
     },
     {
       "id": "csv-877a4e5380a78a2bff06",
-      "number": 12,
+      "number": 16,
       "name": "人が入れる公的建築施設",
       "shortName": "人が入れる公的建築施設",
       "file": "人が入れる公的建築施設.csv",
-      "count": 52,
+      "count": 25,
       "items": [
         {
           "prefecture": "群馬県",
@@ -14820,278 +15127,6 @@
         },
         {
           "prefecture": "東京都",
-          "city": "港区",
-          "name": "芝浦水再生センター",
-          "type": "水再生センター",
-          "note": "予約見学。下水処理施設そのものに入り、水処理工程を見学できる。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-01/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%9D%E6%B5%A6%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-01/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "荒川区",
-          "name": "三河島水再生センター",
-          "type": "水再生センター・近代化遺産",
-          "note": "予約見学。現役施設に加え旧三河島汚水処分場喞筒場が残る。\n狙い目：ポンプを扱うための建物・設備の大きさを、公開範囲から観察したい。現役の設備と保存された施設を区別して見る。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E6%B2%B3%E5%B3%B6%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "砂町水再生センター",
-          "type": "水再生センター",
-          "note": "予約見学。巨大な沈殿池・反応槽を含む都市インフラ。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-06/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A0%82%E7%94%BA%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-06/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "有明水再生センター",
-          "type": "水再生センター",
-          "note": "予約見学。臨海副都心の大型下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-12/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-12/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "新宿区",
-          "name": "落合水再生センター",
-          "type": "水再生センター",
-          "note": "予約見学。住宅地の中にある大規模処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/guide/sise-list/44994",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%90%BD%E5%90%88%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/pr/kengaku/guide/sise-list/44994"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "大田区",
-          "name": "森ヶ崎水再生センター",
-          "type": "水再生センター",
-          "note": "予約見学。東京都最大級の水再生センター。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-11/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A3%AE%E3%83%B6%E5%B4%8E%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/03-11/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "府中市",
-          "name": "北多摩一号水再生センター",
-          "type": "水再生センター",
-          "note": "予約見学。多摩川流域の広域下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-01/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%A4%9A%E6%91%A9%E4%B8%80%E5%8F%B7%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%BA%9C%E4%B8%AD%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-01/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "稲城市",
-          "name": "南多摩水再生センター",
-          "type": "水再生センター",
-          "note": "予約見学。処理施設内部を見学可能。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-04/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E5%A4%9A%E6%91%A9%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%A8%B2%E5%9F%8E%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-04/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "国立市",
-          "name": "北多摩二号水再生センター",
-          "type": "水再生センター",
-          "note": "予約見学。多摩地域の公共下水処理施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%A4%9A%E6%91%A9%E4%BA%8C%E5%8F%B7%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E7%AB%8B%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "日野市",
-          "name": "浅川水再生センター",
-          "type": "水再生センター",
-          "note": "予約見学。水処理設備を実地見学できる。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-05/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E5%B7%9D%E6%B0%B4%E5%86%8D%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%97%A5%E9%87%8E%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.gesui.metro.tokyo.lg.jp/business/b4/guide/sise-list/04-05/index.html"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "美唄市",
-          "name": "アルテピアッツァ美唄（旧栄小学校）",
-          "type": "廃校活用・文化施設",
-          "note": "一般利用。木造校舎を再利用した公共性の高い芸術空間。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
-          "official": "https://www.artepiazza.jp/guide/map/art-space/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%86%E3%83%94%E3%82%A2%E3%83%83%E3%83%84%E3%82%A1%E7%BE%8E%E5%94%84%EF%BC%88%E6%97%A7%E6%A0%84%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%BE%8E%E5%94%84%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.artepiazza.jp/guide/map/art-space/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "札幌市",
-          "name": "あけぼのアート＆コミュニティセンター（旧曙小学校）",
-          "type": "廃校活用・文化施設",
-          "note": "一般利用。旧小学校の教室・廊下を残した文化拠点。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
-          "official": "https://akebono.concarino.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%91%E3%81%BC%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%EF%BC%86%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E6%97%A7%E6%9B%99%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://akebono.concarino.or.jp/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "札幌市",
-          "name": "まこまる（旧真駒内緑小学校）",
-          "type": "廃校活用・複合公共施設",
-          "note": "一般利用。学校建築を子育て・地域施設へ転用。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
-          "official": "http://www.city.sapporo.jp/keikaku/kougai/makomanai/makomaru.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%93%E3%81%BE%E3%82%8B%EF%BC%88%E6%97%A7%E7%9C%9F%E9%A7%92%E5%86%85%E7%B7%91%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.city.sapporo.jp/keikaku/kougai/makomanai/makomaru.html"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "北広島市",
-          "name": "広葉交流センター いこーよ（旧広葉小学校）",
-          "type": "廃校活用・交流施設",
-          "note": "一般利用。ニュータウンの旧学校を地域施設へ転用。\n狙い目：学校として造られた建物を地域施設へ使い替えた点に注目。旧用途を読み取れる部分と現在の案内を照合する。",
-          "official": "http://www.city.kitahiroshima.hokkaido.jp/hotnews/detail/00010640.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E8%91%89%E4%BA%A4%E6%B5%81%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%84%E3%81%93%E3%83%BC%E3%82%88%EF%BC%88%E6%97%A7%E5%BA%83%E8%91%89%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E5%BA%83%E5%B3%B6%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.city.kitahiroshima.hokkaido.jp/hotnews/detail/00010640.html"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "石狩市",
-          "name": "石狩市学び交流センター（旧紅葉山小学校）",
-          "type": "廃校活用・交流施設",
-          "note": "一般利用。学校校舎を学習交流施設として再利用。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E7%8B%A9%E5%B8%82%E5%AD%A6%E3%81%B3%E4%BA%A4%E6%B5%81%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E6%97%A7%E7%B4%85%E8%91%89%E5%B1%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%9F%B3%E7%8B%A9%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "新冠町",
-          "name": "太陽の森 ディマシオ美術館（旧太陽小学校）",
-          "type": "廃校活用・美術館",
-          "note": "一般利用。山間の旧校舎を巨大絵画の美術館に転用。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
-          "official": "https://dimaccio-museum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E9%99%BD%E3%81%AE%E6%A3%AE%20%E3%83%87%E3%82%A3%E3%83%9E%E3%82%B7%E3%82%AA%E7%BE%8E%E8%A1%93%E9%A4%A8%EF%BC%88%E6%97%A7%E5%A4%AA%E9%99%BD%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%96%B0%E5%86%A0%E7%94%BA",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://dimaccio-museum.jp/"
-          }
-        },
-        {
-          "prefecture": "全国",
-          "city": "",
-          "name": "文部科学省 廃校施設等活用事例リンク集掲載施設",
-          "type": "廃校活用・全国索引",
-          "note": "施設ごと。全国の廃校転用建築を用途別に追える公式索引。\n狙い目：旧学校名と現在の用途を対応させ、用途が変わっても使われ続ける建築の例を比較する。見学条件は掲載施設ごとに異なる。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E9%83%A8%E7%A7%91%E5%AD%A6%E7%9C%81%20%E5%BB%83%E6%A0%A1%E6%96%BD%E8%A8%AD%E7%AD%89%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86%E6%8E%B2%E8%BC%89%E6%96%BD%E8%A8%AD%20%E5%85%A8%E5%9B%BD%20",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "東京都",
           "city": "江東区",
           "name": "豊洲市場",
           "type": "公設卸売市場",
@@ -15235,27 +15270,6 @@
           }
         },
         {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "東京都虹の下水道館",
-          "type": "下水道・体験施設",
-          "note": "有明水再生センター5階にある東京都下水道局の広報施設。「レインボータウン」を舞台に、下水道管・ポンプ所・中央監視室・水質検査室での仕事を体験する構成。\n狙い目：普段立ち入れないインフラの仕事場を、来館者向けの室内空間として再現している点。",
-          "official": "https://www.nijinogesuidoukan.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%99%B9%E3%81%AE%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖徹底比較〗東京都虹の下水道館と小平市ふれあい下水道館に行ってきた！",
-              "url": "https://tabicoffret.com/article/81796/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.nijinogesuidoukan.jp/"
-          }
-        },
-        {
           "prefecture": "神奈川県",
           "city": "川崎市",
           "name": "浮島処理センター",
@@ -15273,54 +15287,6 @@
         },
         {
           "prefecture": "東京都",
-          "city": "大田区",
-          "name": "多摩川清掃工場",
-          "type": "清掃工場",
-          "note": "見学。巨大な都市ごみ焼却施設。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "http://www.union.tokyo23-seisou.lg.jp/kojo/tamagawa/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%9A%E6%91%A9%E5%B7%9D%E6%B8%85%E6%8E%83%E5%B7%A5%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.union.tokyo23-seisou.lg.jp/kojo/tamagawa/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "特別区",
-          "name": "東京23区の清掃工場",
-          "type": "清掃工場・見学施設",
-          "note": "施設ごと。複数の現役清掃工場を実際に見学できる公式索引。\n狙い目：処理の順序と設備の配置を結び付けて見る。見学用の解説と、実際に水やごみが流れる経路の対応が狙い目。",
-          "official": "http://www.union.tokyo23-seisou.lg.jp/kojo/nerima/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC23%E5%8C%BA%E3%81%AE%E6%B8%85%E6%8E%83%E5%B7%A5%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%89%B9%E5%88%A5%E5%8C%BA",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.union.tokyo23-seisou.lg.jp/kojo/nerima/"
-          }
-        },
-        {
-          "prefecture": "埼玉県",
-          "city": "春日部市",
-          "name": "首都圏外郭放水路・庄和排水機場",
-          "type": "地下放水路・排水機場",
-          "note": "見学会。巨大立坑と地下神殿状の調圧水槽を持つ国の治水施設。\n狙い目：立坑や調圧水槽の大きさと、見学者の通る位置の関係を見たい。見学コース内から設備のスケールを捉える。",
-          "official": "https://www.ktr.mlit.go.jp/edogawa/edogawa00233.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%96%E9%83%BD%E5%9C%8F%E5%A4%96%E9%83%AD%E6%94%BE%E6%B0%B4%E8%B7%AF%E3%83%BB%E5%BA%84%E5%92%8C%E6%8E%92%E6%B0%B4%E6%A9%9F%E5%A0%B4%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.ktr.mlit.go.jp/edogawa/edogawa00233.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
           "city": "東京都",
           "name": "環状七号線地下調節池",
           "type": "地下調節池",
@@ -15333,102 +15299,6 @@
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：http://kanzyou7.com/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市",
-          "name": "天保山渡船場",
-          "type": "市営渡船・待合施設",
-          "note": "一般利用。道路扱いの無料渡船に実際に乗れる。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
-          "official": "http://www.city.osaka.lg.jp/kensetsu/page/0000011249.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E4%BF%9D%E5%B1%B1%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.city.osaka.lg.jp/kensetsu/page/0000011249.html"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市",
-          "name": "甚兵衛渡船場",
-          "type": "市営渡船・待合施設",
-          "note": "一般利用。工業地帯の日常交通として残る無料渡船。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
-          "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000011251.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%9A%E5%85%B5%E8%A1%9B%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.osaka.lg.jp/kensetsu/page/0000011251.html"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市",
-          "name": "千歳渡船場",
-          "type": "市営渡船・待合施設",
-          "note": "一般利用。巨大橋梁下の水路を渡る公共交通施設。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
-          "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000011253.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E6%AD%B3%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.osaka.lg.jp/kensetsu/page/0000011253.html"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市",
-          "name": "千本松渡船場",
-          "type": "市営渡船・待合施設",
-          "note": "一般利用。ループ橋直下を船で横断する。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
-          "official": "http://www.city.osaka.lg.jp/kensetsu/page/0000011258.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E6%9C%AC%E6%9D%BE%E6%B8%A1%E8%88%B9%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.city.osaka.lg.jp/kensetsu/page/0000011258.html"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "福岡市",
-          "name": "博多港 市営渡船ターミナル",
-          "type": "市営渡船・港湾施設",
-          "note": "一般利用。市営離島航路の公共ターミナル。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
-          "official": "https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/ferry_city.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E6%B8%AF%20%E5%B8%82%E5%96%B6%E6%B8%A1%E8%88%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.fukuoka.lg.jp/kowan/kyakusen/hakata-port/ferry_city.html"
-          }
-        },
-        {
-          "prefecture": "鹿児島県",
-          "city": "鹿児島市",
-          "name": "桜島フェリーターミナル",
-          "type": "市営フェリー・港湾施設",
-          "note": "一般利用。自治体直営フェリーの旅客施設。\n狙い目：待つ場所から乗り込む場所へ進む経路を見たい。観光の演出より、日常の移動を支える設備として読む。",
-          "official": "https://www.city.kagoshima.lg.jp/sakurajima-ferry/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%9C%E5%B3%B6%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.kagoshima.lg.jp/sakurajima-ferry/index.html"
           }
         },
         {
@@ -15482,8 +15352,167 @@
       ]
     },
     {
+      "id": "school-reuse",
+      "number": 17,
+      "name": "廃校活用施設",
+      "shortName": "廃校活用施設",
+      "file": "廃校活用施設.csv",
+      "count": 9,
+      "items": [
+        {
+          "prefecture": "北海道",
+          "city": "美唄市",
+          "name": "アルテピアッツァ美唄（旧栄小学校）",
+          "type": "廃校活用・文化施設",
+          "note": "一般利用。木造校舎を再利用した公共性の高い芸術空間。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
+          "official": "https://www.artepiazza.jp/guide/map/art-space/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%86%E3%83%94%E3%82%A2%E3%83%83%E3%83%84%E3%82%A1%E7%BE%8E%E5%94%84%EF%BC%88%E6%97%A7%E6%A0%84%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%BE%8E%E5%94%84%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.artepiazza.jp/guide/map/art-space/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市",
+          "name": "あけぼのアート＆コミュニティセンター（旧曙小学校）",
+          "type": "廃校活用・文化施設",
+          "note": "一般利用。旧小学校の教室・廊下を残した文化拠点。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
+          "official": "https://akebono.concarino.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%91%E3%81%BC%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%EF%BC%86%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E6%97%A7%E6%9B%99%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://akebono.concarino.or.jp/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市",
+          "name": "まこまる（旧真駒内緑小学校）",
+          "type": "廃校活用・複合公共施設",
+          "note": "一般利用。学校建築を子育て・地域施設へ転用。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
+          "official": "http://www.city.sapporo.jp/keikaku/kougai/makomanai/makomaru.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%93%E3%81%BE%E3%82%8B%EF%BC%88%E6%97%A7%E7%9C%9F%E9%A7%92%E5%86%85%E7%B7%91%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.city.sapporo.jp/keikaku/kougai/makomanai/makomaru.html"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "北広島市",
+          "name": "広葉交流センター いこーよ（旧広葉小学校）",
+          "type": "廃校活用・交流施設",
+          "note": "一般利用。ニュータウンの旧学校を地域施設へ転用。\n狙い目：学校として造られた建物を地域施設へ使い替えた点に注目。旧用途を読み取れる部分と現在の案内を照合する。",
+          "official": "http://www.city.kitahiroshima.hokkaido.jp/hotnews/detail/00010640.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E8%91%89%E4%BA%A4%E6%B5%81%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%84%E3%81%93%E3%83%BC%E3%82%88%EF%BC%88%E6%97%A7%E5%BA%83%E8%91%89%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E5%BA%83%E5%B3%B6%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.city.kitahiroshima.hokkaido.jp/hotnews/detail/00010640.html"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "石狩市",
+          "name": "石狩市学び交流センター（旧紅葉山小学校）",
+          "type": "廃校活用・交流施設",
+          "note": "一般利用。学校校舎を学習交流施設として再利用。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E7%8B%A9%E5%B8%82%E5%AD%A6%E3%81%B3%E4%BA%A4%E6%B5%81%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E6%97%A7%E7%B4%85%E8%91%89%E5%B1%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E7%9F%B3%E7%8B%A9%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "新冠町",
+          "name": "太陽の森 ディマシオ美術館（旧太陽小学校）",
+          "type": "廃校活用・美術館",
+          "note": "一般利用。山間の旧校舎を巨大絵画の美術館に転用。\n狙い目：教室や廊下として造られた部分を現在の用途にどう使っているかを見る。学校時代の構成と新しい利用の重なりが狙い目。",
+          "official": "https://dimaccio-museum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E9%99%BD%E3%81%AE%E6%A3%AE%20%E3%83%87%E3%82%A3%E3%83%9E%E3%82%B7%E3%82%AA%E7%BE%8E%E8%A1%93%E9%A4%A8%EF%BC%88%E6%97%A7%E5%A4%AA%E9%99%BD%E5%B0%8F%E5%AD%A6%E6%A0%A1%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%96%B0%E5%86%A0%E7%94%BA",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://dimaccio-museum.jp/"
+          }
+        },
+        {
+          "prefecture": "全国",
+          "city": "",
+          "name": "文部科学省 廃校施設等活用事例リンク集掲載施設",
+          "type": "廃校活用・全国索引",
+          "note": "施設ごと。全国の廃校転用建築を用途別に追える公式索引。\n狙い目：旧学校名と現在の用途を対応させ、用途が変わっても使われ続ける建築の例を比較する。見学条件は掲載施設ごとに異なる。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E9%83%A8%E7%A7%91%E5%AD%A6%E7%9C%81%20%E5%BB%83%E6%A0%A1%E6%96%BD%E8%A8%AD%E7%AD%89%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86%E6%8E%B2%E8%BC%89%E6%96%BD%E8%A8%AD%20%E5%85%A8%E5%9B%BD%20",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "高知県",
+          "city": "室戸市",
+          "name": "むろと廃校水族館",
+          "type": "海洋生物",
+          "note": "旧椎名小学校を改修した水族館。屋外プールと校舎内の水槽で、地元の定置網にかかった魚やウミガメを展示する。\n狙い目：学校のために造られた校舎・プールを水族展示に使い替えた部分。元の用途と現在の使い方の重なりを見たい。",
+          "official": "https://www.city.muroto.kochi.jp/pages/page0343.php",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%80%E3%82%8D%E3%81%A8%E5%BB%83%E6%A0%A1%E6%B0%B4%E6%97%8F%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E5%AE%A4%E6%88%B8%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "むろと廃校水族館に行ってみた | フミ調",
+              "url": "https://fumishira.com/kouchi-aquarium1/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.city.muroto.kochi.jp/pages/page0343.php"
+          }
+        },
+        {
+          "prefecture": "宮城県",
+          "city": "栗原市",
+          "name": "栗駒山麓ジオパークビジターセンター",
+          "type": "地震・土砂災害学習施設",
+          "note": "旧小学校を活用した施設で、荒砥沢地すべりなどの大型映像展示を見る。 利用条件：一般見学可・無料。荒砥沢地すべり等を紹介。2026年4月1日に通常開館再開。 公的主体：栗原市",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%97%E9%A7%92%E5%B1%B1%E9%BA%93%E3%82%B8%E3%82%AA%E3%83%91%E3%83%BC%E3%82%AF%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%A0%97%E5%8E%9F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.kuriharacity.jp/geopark/060/index.html 公式資料：https://www.kuriharacity.jp/geopark/060/030/PAGE000000000000015630.html Googleマップ：https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E6%A0%97%E5%8E%9F%E5%B8%82%20%E6%A0%97%E9%A7%92%E5%B1%B1%E9%BA%93%E3%82%B8%E3%82%AA%E3%83%91%E3%83%BC%E3%82%AF%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        }
+      ]
+    },
+    {
       "id": "csv-16d6ffe93a3cf21e777b",
-      "number": 13,
+      "number": 18,
       "name": "東京の失われた名所",
       "shortName": "東京の失われた名所",
       "file": "東京の失われた名所.csv",
@@ -16975,7 +17004,7 @@
     },
     {
       "id": "csv-882cdb3d8104ba14582e",
-      "number": 14,
+      "number": 19,
       "name": "病院内タリーズ",
       "shortName": "病院内タリーズ",
       "file": "病院内タリーズ.csv",
@@ -17833,7 +17862,7 @@
     },
     {
       "id": "csv-5a1c6e719fd1f4465fe8",
-      "number": 15,
+      "number": 20,
       "name": "公共施設・文化施設内の食堂",
       "shortName": "公共施設内食堂",
       "file": "公共施設・文化施設内の食堂.csv",
@@ -19108,7 +19137,7 @@
     },
     {
       "id": "csv-c4fa45758baf41ff7963",
-      "number": 16,
+      "number": 21,
       "name": "団地商店街",
       "shortName": "団地商店街",
       "file": "団地商店街.csv",
@@ -19916,7 +19945,7 @@
     },
     {
       "id": "csv-fc8f63487c880b68a990",
-      "number": 17,
+      "number": 22,
       "name": "地域文化施設",
       "shortName": "地域文化施設",
       "file": "地域文化施設.csv",
@@ -20323,7 +20352,7 @@
     },
     {
       "id": "csv-80b2e57215a517cc6a94",
-      "number": 18,
+      "number": 23,
       "name": "地域独自スーパー",
       "shortName": "地域独自スーパー",
       "file": "地域独自スーパー.csv",
@@ -20616,7 +20645,7 @@
     },
     {
       "id": "csv-c1d3cdeb630a678c2197",
-      "number": 19,
+      "number": 24,
       "name": "古いビル",
       "shortName": "古いビル",
       "file": "古いビル.csv",
@@ -20841,7 +20870,7 @@
     },
     {
       "id": "csv-a9061f27f0797254e38e",
-      "number": 20,
+      "number": 25,
       "name": "地下街・地下道",
       "shortName": "地下街・地下道",
       "file": "地下街・地下道.csv",
@@ -21295,7 +21324,7 @@
     },
     {
       "id": "csv-44c1bade3e768ab28165",
-      "number": 21,
+      "number": 26,
       "name": "遊園地・レジャー施設",
       "shortName": "遊園地・レジャー施設",
       "file": "遊園地・レジャー施設.csv",
@@ -21611,7 +21640,7 @@
     },
     {
       "id": "csv-f42fa0b1db8117f70960",
-      "number": 22,
+      "number": 27,
       "name": "東京の区民ホール・公共ホール",
       "shortName": "東京の区民ホール・公共ホール",
       "file": "東京の区民ホール・公共ホール.csv",
@@ -22186,7 +22215,7 @@
     },
     {
       "id": "csv-a71b6a7e2a42c34c90c7",
-      "number": 23,
+      "number": 28,
       "name": "大型リゾート施設",
       "shortName": "大型リゾート施設",
       "file": "大型リゾート施設.csv",
@@ -22424,7 +22453,7 @@
     },
     {
       "id": "csv-ce160b36e71b6e1d1bbf",
-      "number": 24,
+      "number": 29,
       "name": "東京都内の戦争史・戦争遺構を歩く",
       "shortName": "東京都内の戦争史・戦争遺構を歩く",
       "file": "東京都内の戦争史・戦争遺構を歩く.csv",
@@ -23049,7 +23078,7 @@
     },
     {
       "id": "csv-e319ac9433420da124a4",
-      "number": 25,
+      "number": 30,
       "name": "生物展示施設",
       "shortName": "生物展示施設",
       "file": "生物展示施設.csv",
