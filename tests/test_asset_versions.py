@@ -29,5 +29,5 @@ class AssetVersionTests(unittest.TestCase):
 
     def test_entrypoint_versions_all_runtime_assets(self):
         html = versions.version_html(versions.ROOT)
-        for name in ('facility-search.js', 'script.js', 'data.js', 'generated/facility-data.js', 'styles.css'):
+        for name in ('script.js', 'data.js', 'generated/facility-data.js', 'styles.css'):
             self.assertIn(name + '?v=', html)
