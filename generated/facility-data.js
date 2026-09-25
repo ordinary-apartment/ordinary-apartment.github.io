@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 26,
-  "total": 1337,
+  "total": 1341,
   "materials": [
     {
       "id": "botanical",
@@ -23356,7 +23356,7 @@ window.FACILITY_DATASET={
       "name": "東京都内の戦争史・戦争遺構を歩く",
       "shortName": "東京都内の戦争史・戦争遺構を歩く",
       "file": "東京都内の戦争史・戦争遺構を歩く.csv",
-      "count": 31,
+      "count": 35,
       "items": [
         {
           "prefecture": "東京都",
@@ -23821,6 +23821,68 @@ window.FACILITY_DATASET={
           "note": "現在は小平市の生活道路・遊歩道の一部。旧陸軍経理学校の敷地から流れていた排水路が「経理排水」と呼ばれ、戦後の住宅地の中に水路・道の線形として残る。狙い目：喜平町から回田町へ続く遊歩道の線形と周辺住宅地を地図で照合し、巨大な軍学校跡が日常の歩行空間へ変わった過程を観察する。",
           "official": "https://www.city.kodaira.tokyo.jp/kurashi/files/119076/119076/att_0000002.pdf",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B5%8C%E7%90%86%E6%8E%92%E6%B0%B4%E9%81%8A%E6%AD%A9%E9%81%93%EF%BC%88%E6%97%A7%E9%99%B8%E8%BB%8D%E7%B5%8C%E7%90%86%E5%AD%A6%E6%A0%A1%E8%B7%A1%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "赤羽台・西が丘の軍用地跡（東京北医療センター周辺）",
+          "type": "旧工兵隊用地・病院",
+          "note": "現在は東京北医療センターなどの医療・住宅地。戦前は近衛師団工兵連隊の兵営・射撃場・作業場があり、戦後の接収・農地利用を経て病院や学校、住宅へ転用された。狙い目：病院敷地と赤羽台の高低差、周辺道路・団地の区画を旧工兵隊配置と照合する。",
+          "official": "https://www.tokyokita-jadecom.jp/hospital/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E7%BE%BD%E5%8F%B0%E3%83%BB%E8%A5%BF%E3%81%8C%E4%B8%98%E3%81%AE%E8%BB%8D%E7%94%A8%E5%9C%B0%E8%B7%A1%EF%BC%88%E6%9D%B1%E4%BA%AC%E5%8C%97%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%91%A8%E8%BE%BA%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "桐ヶ丘団地・桐ヶ丘中央公園（旧赤羽火薬庫跡）",
+          "type": "旧火薬庫・団地・公園",
+          "note": "現在は大規模な都営団地と中央公園。北区の戦後資料では旧陸軍兵器補給廠赤羽火薬庫が米軍接収を経て赤羽郷・都営住宅、桐ヶ丘団地へ転用されたと確認できる。狙い目：団地の広い住棟配置、中央公園、学校と旧火薬庫区域の境界を歩く。",
+          "official": "https://www.city.kita.lg.jp/dev-environment/planning/1009619/1009678/1009679.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%90%E3%83%B6%E4%B8%98%E5%9B%A3%E5%9C%B0%E3%83%BB%E6%A1%90%E3%83%B6%E4%B8%98%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%EF%BC%88%E6%97%A7%E8%B5%A4%E7%BE%BD%E7%81%AB%E8%96%AC%E5%BA%AB%E8%B7%A1%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "北区戦後史・軍用地転用資料",
+              "url": "https://www.city.kita.lg.jp/_res/projects/default_project/_page_/001/010/291/39-47_80.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "旧キャンプ王子跡地（都立北療育医療センター・王子特別支援学校周辺）",
+          "type": "旧造兵廠・米軍施設・福祉施設",
+          "note": "現在は療育医療センター、学校、公園など。東京第一陸軍造兵廠関連地が戦後キャンプ王子・野戦病院等に転用され、返還後に福祉・教育施設へ再編された土地を歩ける。狙い目：中央公園文化センター周辺から北療育医療センター、学校、公園へ続く旧敷地の境界を確認する。",
+          "official": "https://www.toshiseibi.metro.tokyo.lg.jp/bunyabetsu/kichitaisaku/pdf/tokyo2022/10.pdf",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E7%8E%8B%E5%AD%90%E8%B7%A1%E5%9C%B0%EF%BC%88%E9%83%BD%E7%AB%8B%E5%8C%97%E7%99%82%E8%82%B2%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E7%8E%8B%E5%AD%90%E7%89%B9%E5%88%A5%E6%94%AF%E6%8F%B4%E5%AD%A6%E6%A0%A1%E5%91%A8%E8%BE%BA%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "北区軍用地跡のまち歩き資料",
+              "url": "https://www.city.kita.lg.jp/socialcare-health/health/1008314/1008321/1008328/1008345/1008352.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "秋の陽公園（旧成増飛行場・グラントハイツ跡）",
+          "type": "旧飛行場・米軍住宅地・田園公園",
+          "note": "現在は田んぼ・池・せせらぎを備えた区立公園。昭和18年に水田が成増飛行場となり、戦後グラントハイツ、返還後に光が丘団地となった土地の一部を、田園風景を復元する公園として歩ける。狙い目：田んぼ、水路、長屋門風入口と周辺団地・道路の位置関係を観察する。",
+          "official": "https://www.city.nerima.tokyo.jp/kankomoyoshi/annai/fukei/nerima_park/kunai/omonakoen/akinohi.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E3%81%AE%E9%99%BD%E5%85%AC%E5%9C%92%EF%BC%88%E6%97%A7%E6%88%90%E5%A2%97%E9%A3%9B%E8%A1%8C%E5%A0%B4%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%83%8F%E3%82%A4%E3%83%84%E8%B7%A1%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
