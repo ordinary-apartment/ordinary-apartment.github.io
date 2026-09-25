@@ -118,19 +118,15 @@
     "short": "公共施設内食堂"
   },
   {
-    "file": "東京の消えゆく団地商店街.csv",
+    "file": "団地商店街.csv",
     "id": "csv-c4fa45758baf41ff7963",
-    "number": 23
+    "number": 23,
+    "short": "団地商店街"
   },
   {
     "file": "地域文化施設.csv",
     "id": "csv-fc8f63487c880b68a990",
     "number": 24
-  },
-  {
-    "file": "現存する団地商店街.csv",
-    "id": "csv-d66f17da223b3be46b77",
-    "number": 25
   },
   {
     "file": "地域独自スーパー.csv",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "materialCount": 27,
-  "total": 1376,
+  "materialCount": 26,
+  "total": 1377,
   "materials": [
     {
       "id": "botanical",
@@ -20367,16 +20367,16 @@
     {
       "id": "csv-c4fa45758baf41ff7963",
       "number": 23,
-      "name": "東京の消えゆく団地商店街",
-      "shortName": "東京の消えゆく団地商店街",
-      "file": "東京の消えゆく団地商店街.csv",
-      "count": 17,
+      "name": "団地商店街",
+      "shortName": "団地商店街",
+      "file": "団地商店街.csv",
+      "count": 44,
       "items": [
         {
           "prefecture": "東京都",
           "city": "北区",
           "name": "桐ヶ丘中央商店街",
-          "type": "消えゆく団地商店街",
+          "type": "衰退・縮小",
           "note": "桐ヶ丘団地の建替えに伴い取り壊しが決まった商店街。高齢化・後継者不足でシャッター化が進み、70年近い団地の日常を支えた店舗街の変化を記録する。所在地目安：桐ヶ丘1-9。",
           "official": "https://www.akabanefan.club/kirigaoka",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%90%E3%83%B6%E4%B8%98%E4%B8%AD%E5%A4%AE%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
@@ -20389,7 +20389,7 @@
           "prefecture": "東京都",
           "city": "北区",
           "name": "東豊名店街",
-          "type": "消えゆく団地商店街",
+          "type": "衰退・縮小",
           "note": "豊島五丁目団地の1階に残る名店街。惣菜店など一部の営業を確認できる一方、内部通路にはシャッター店舗が目立つと報告されている。所在地目安：豊島5-4周辺。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E8%B1%8A%E5%90%8D%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
@@ -20407,7 +20407,7 @@
           "prefecture": "東京都",
           "city": "板橋区",
           "name": "高島平イーストサイド名店街",
-          "type": "消えゆく団地商店街",
+          "type": "衰退・縮小",
           "note": "高島平二丁目団地の1階にある名店街。昭和47年開設の団地商店街として現在も店舗が残るが、空き区画・閉鎖店舗と生活拠点の更新を観察できる。所在地目安：高島平2-28-1。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%B3%B6%E5%B9%B3%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B5%E3%82%A4%E3%83%89%E5%90%8D%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
@@ -20429,7 +20429,7 @@
           "prefecture": "東京都",
           "city": "板橋区",
           "name": "ファンシーフロア商店街",
-          "type": "消えゆく団地商店街",
+          "type": "衰退・縮小",
           "note": "高島平団地2-32-1号棟の1階に残る小規模商店街。寂れた団地商店街として紹介され、周辺の高齢化と店舗の変化を記録する対象。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%95%E3%83%AD%E3%82%A2%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
@@ -20451,7 +20451,7 @@
           "prefecture": "東京都",
           "city": "板橋区",
           "name": "高島平中央商店街",
-          "type": "消えゆく団地商店街",
+          "type": "衰退・縮小",
           "note": "高島平二丁目団地の中庭に面する団地商店街。食料品店など一部店舗が営業を続ける一方、静かなシャッターの多い風景が残る。所在地目安：高島平2丁目。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%B3%B6%E5%B9%B3%E4%B8%AD%E5%A4%AE%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
@@ -20469,7 +20469,7 @@
           "prefecture": "東京都",
           "city": "江東区",
           "name": "辰巳団地バス通り商店街（辰巳商店会）",
-          "type": "消えゆく団地商店街",
+          "type": "衰退・縮小",
           "note": "都営辰巳アパート1-2-9周辺の団地内商店街。建替え工事が進む辰巳団地の下層店舗と、シャッター店舗・現役店が混在する変化を記録する。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%BE%B0%E5%B7%B3%E5%9B%A3%E5%9C%B0%E3%83%90%E3%82%B9%E9%80%9A%E3%82%8A%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E8%BE%B0%E5%B7%B3%E5%95%86%E5%BA%97%E4%BC%9A%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
@@ -20482,7 +20482,7 @@
           "prefecture": "東京都",
           "city": "西東京市",
           "name": "ひばりが丘団地北商店街",
-          "type": "消えゆく団地商店街",
+          "type": "衰退・縮小",
           "note": "ひばりが丘二丁目の団地北商店街。商店街協同組合は2024年11月18日に閉鎖登記され、団地商店街の消滅過程を記録する対象。所在地：ひばりが丘2-8-15。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%B2%E3%81%B0%E3%82%8A%E3%81%8C%E4%B8%98%E5%9B%A3%E5%9C%B0%E5%8C%97%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82",
@@ -20500,7 +20500,7 @@
           "prefecture": "東京都",
           "city": "北区",
           "name": "赤羽台団地商店街（旧赤羽団地商店街）",
-          "type": "消えた団地商店街",
+          "type": "衰退・縮小",
           "note": "1962年完成の赤羽台団地に設けられた屋根付き商店街。再開発と団地建替えで旧住棟・店舗区画が解体され、2011年前後に残っていた看板や生活店舗の姿も失われた。狙い目：旧商店街の写真、店先の看板、建替え前後の団地配置を個人記録で追う。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E7%BE%BD%E5%8F%B0%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E6%97%A7%E8%B5%A4%E7%BE%BD%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
@@ -20518,7 +20518,7 @@
           "prefecture": "北海道",
           "city": "札幌市北区",
           "name": "幌北団地・北26条中心街",
-          "type": "消えた団地商店街",
+          "type": "衰退・縮小",
           "note": "札幌市営幌北団地の1・2号棟1階に個人商店が連なる北26条中心街があった。団地再編で住棟と店舗部分が解体され、2017年時点で23棟中22棟が解体済み、中心街の棟も取り壊し完了と記録されている。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B9%8C%E5%8C%97%E5%9B%A3%E5%9C%B0%E3%83%BB%E5%8C%9726%E6%9D%A1%E4%B8%AD%E5%BF%83%E8%A1%97%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA",
@@ -20536,7 +20536,7 @@
           "prefecture": "神奈川県",
           "city": "厚木市",
           "name": "緑ヶ丘団地緑ヶ丘店舗",
-          "type": "消えた団地商店街",
+          "type": "衰退・縮小",
           "note": "1963年完成の緑ヶ丘団地に併設された長屋型商店街。店舗廃止決定後の2014年に解体され更地となり、翌年コンビニとドラッグストアへ再編された。商店街の廃止・解体を具体的に確認できる。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%91%E3%83%B6%E4%B8%98%E5%9B%A3%E5%9C%B0%E7%B7%91%E3%83%B6%E4%B8%98%E5%BA%97%E8%88%97%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82",
@@ -20549,7 +20549,7 @@
           "prefecture": "愛知県",
           "city": "名古屋市千種区",
           "name": "希望ヶ丘センター（キボセン）",
-          "type": "消えた団地商店街",
+          "type": "衰退・縮小",
           "note": "千種台団地造成時の1957年に開業した商業テナント。地下鉄開通に伴う千種台団地再開発で2004年に閉鎖され、再開発前の解体写真と店舗の記憶が個人サイトに残る。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B8%8C%E6%9C%9B%E3%83%B6%E4%B8%98%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%82%AD%E3%83%9C%E3%82%BB%E3%83%B3%EF%BC%89%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%8D%83%E7%A8%AE%E5%8C%BA",
@@ -20567,7 +20567,7 @@
           "prefecture": "京都府",
           "city": "京都市上京区",
           "name": "堀川団地商店街（堀川椹木町団地）",
-          "type": "消えゆく団地商店街",
+          "type": "衰退・縮小",
           "note": "戦後の堀川京極商店街復興として建設された店舗併用団地。老朽化と空き店舗を背景に一部建替え・解体と再生が進み、店舗併用住宅としての当初形態が変化している。",
           "official": "https://kyoto-juko.jp/horikawa/html/page1.php",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A0%80%E5%B7%9D%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E5%A0%80%E5%B7%9D%E6%A4%B9%E6%9C%A8%E7%94%BA%E5%9B%A3%E5%9C%B0%EF%BC%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA",
@@ -20585,7 +20585,7 @@
           "prefecture": "群馬県",
           "city": "前橋市",
           "name": "広瀬団地内商店街",
-          "type": "消えゆく団地商店街",
+          "type": "衰退・縮小",
           "note": "広瀬団地内の旧商店群は、群馬県の再生ビジョンで『元々は商店街だったが現在は廃墟化』『八百屋や薬局、寝具店等の多くが閉店』と具体的に記録されている。一方で精肉店など現役店舗も確認でき、消滅進行中として扱う。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E7%80%AC%E5%9B%A3%E5%9C%B0%E5%86%85%E5%95%86%E5%BA%97%E8%A1%97%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82",
@@ -20603,7 +20603,7 @@
           "prefecture": "千葉県",
           "city": "市川市",
           "name": "二俣団地ショッピングセンター",
-          "type": "消えた団地商店街",
+          "type": "衰退・縮小",
           "note": "防衛庁官舎として整備された二俣団地の中心にあった地上2階建ての商業施設。1階に食品スーパー・寿司店、2階に日用品・文具・玩具・薬局・クリーニング等が入っていたが、個人記録で閉店し跡地になったことを確認できる。狙い目は跡地、かつての店舗配置、団地中央通りと広場との位置関係。",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%8C%E4%BF%A3%E5%9B%A3%E5%9C%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%B8%82%E5%B7%9D%E5%B8%82",
@@ -20621,7 +20621,7 @@
           "prefecture": "大阪府",
           "city": "堺市南区",
           "name": "原山台近隣センター旧商業区画",
-          "type": "消えた団地商店街",
+          "type": "衰退・縮小",
           "note": "泉北ニュータウン初期の1972年に開業した原山台近隣センター。核店舗を置かない複数店舗の近隣センターとして、広場と地域会館を囲む商業区画が住民の日常を支えた。老朽化と商業機能の衰退を経て2022年に地域会館を残して土地・建物が解体され、従来の近隣センター商業空間は消滅した。跡地ではマンション建設が進み、現在の地域会館は商業区画の継承ではない。狙い目は解体前の建物配置、広場、地域会館との関係、跡地の住宅開発。",
           "official": "https://www.mlit.go.jp/common/001249044.pdf",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8E%9F%E5%B1%B1%E5%8F%B0%E8%BF%91%E9%9A%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%97%A7%E5%95%86%E6%A5%AD%E5%8C%BA%E7%94%BB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A0%BA%E5%B8%82%E5%8D%97%E5%8C%BA",
@@ -20643,7 +20643,7 @@
           "prefecture": "大阪府",
           "city": "堺市南区",
           "name": "鴨谷台近隣センター旧商業区画",
-          "type": "消えた団地商店街",
+          "type": "衰退・縮小",
           "note": "泉北ニュータウン末期の1984年に整備された鴨谷台近隣センターのうち、旧店舗・商業区画を記録する。鴨谷台は当初から大規模な店舗群ではなくコンビニ中心の小規模な商業機能だったが、その店舗跡地は住宅・マンション等へ建て替えられ、現在は自治会館と医院を中心とする別形態になった。近隣センター全体が消えたのではなく、旧商業区画だけが失われた事例である。狙い目は旧店舗位置、住宅化した跡地、自治会館・医院との機能転換。",
           "official": "https://www.city.sakai.lg.jp/shisei/toshi/senbokusaisei/gaiyou/keikaku/kinrin/index.files/kinrin_siryou.pdf",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B4%A8%E8%B0%B7%E5%8F%B0%E8%BF%91%E9%9A%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%97%A7%E5%95%86%E6%A5%AD%E5%8C%BA%E7%94%BB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A0%BA%E5%B8%82%E5%8D%97%E5%8C%BA",
@@ -20665,7 +20665,7 @@
           "prefecture": "埼玉県",
           "city": "春日部市",
           "name": "武里団地名店会旧中央商店街",
-          "type": "消えた団地商店街",
+          "type": "衰退・縮小",
           "note": "昭和42年（1967年）開設の武里団地中央に、2街区と7街区の1・2階テナントを歩道橋で結んだ立体的な名店会が形成されていた。2009年の個人記録には解体直前の店舗配置と写真が残り、2010年9月までに退去、2011年に旧商業棟の解体が完了した。名店会と店舗はカスミ北側の新商業区画へ縮小移転しており、武里団地の商業機能全体ではなく、旧中央商店街・旧商業棟が消滅した事例である。狙い目は歩道橋、2・7街区の店舗配置、解体前の看板と移転後の比較。",
           "official": "https://www.ur-net.go.jp/business/saitama/takesato.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E9%87%8C%E5%9B%A3%E5%9C%B0%E5%90%8D%E5%BA%97%E4%BC%9A%E6%97%A7%E4%B8%AD%E5%A4%AE%E5%95%86%E5%BA%97%E8%A1%97%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82",
@@ -20684,6 +20684,489 @@
             {
               "title": "“新”武里団地名店会（移転後の記録）",
               "url": "https://kasukabe-jyohokan.seesaa.net/article/160923496.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "千葉市花見川区",
+          "name": "花見川団地商店街",
+          "type": "現役",
+          "note": "1968年に整備された約5700戸の花見川団地の中心商業区画。2024年にアーケード撤去と改修が行われ、空き店舗を活用した交流拠点や新規出店が続く。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%A6%8B%E5%B7%9D%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E8%8A%B1%E8%A6%8B%E5%B7%9D%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "団地の商店街暮らし・活動記録",
+              "url": "https://house.muji.com/ur-hanamigawa/category/street/"
+            }
+          ]
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "八千代市",
+          "name": "村上団地商店街（むらかみモール）",
+          "type": "現役",
+          "note": "村上団地中央の商業区画。市役所支所、郵便局、医療機関、食品店などが残り、多文化交流とサービス店舗への転換が進む。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%91%E4%B8%8A%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E3%82%80%E3%82%89%E3%81%8B%E3%81%BF%E3%83%A2%E3%83%BC%E3%83%AB%EF%BC%89%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%85%AB%E5%8D%83%E4%BB%A3%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "村上団地商店街の訪問・聞き取り記録",
+              "url": "https://www.danchijournal.net/post/murakami1shoppingstreet"
+            }
+          ]
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "北本市",
+          "name": "北本団地商店街",
+          "type": "現役",
+          "note": "北本団地のドーム型アーケード。空き店舗が目立つ時期を経ながら、ジャズ喫茶など新しい使われ方が加わっている。狙い目はアーケードと旧店舗区画。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%9C%AC%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%8C%97%E6%9C%AC%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "北本団地商店街を歩く（写真訪問記）",
+              "url": "https://junkissa.jp/blog-entry-2382.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "大島四丁目団地ショッピングモール",
+          "type": "現役",
+          "note": "1969年に誕生した大規模団地の店舗区画。ふれあいショッピングセンターやスーパーなど、団地内の生活機能が続いている。",
+          "official": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1780_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%B3%B6%E5%9B%9B%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市早良区",
+          "name": "室住団地商店街",
+          "type": "現役",
+          "note": "室住団地3号棟1階の13区画。歯科、青果、美容、飲食などが残り、配置図と店舗の聞き取り記録が確認できる。",
+          "official": "https://www.ur-net.go.jp/chintai/kyushu/fukuoka/90_0700_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%A4%E4%BD%8F%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%97%A9%E8%89%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "室住団地商店街訪問（配置図・店舗記録）",
+              "url": "https://www.ur-net.go.jp/chintai_portal/kyojyusha/kanrihou/lrmhph000000hga9-att/Aozora_202206.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "宗像市",
+          "name": "日の里一丁目団地商店街",
+          "type": "現役",
+          "note": "日の里団地の店舗区画。駄菓子バーなど、子どもと大人の交流を担う新しい店舗が入っている。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E3%81%AE%E9%87%8C%E4%B8%80%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%AE%97%E5%83%8F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "日の里一丁目団地の駄菓子バー訪問記",
+              "url": "https://www.ur-net.go.jp/chintai/college/202504/001276.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "北広島市",
+          "name": "北広島さんぽまち商店会（旧北広島団地商店街）",
+          "type": "現役",
+          "note": "1972年から造成された北広島団地内で1977年に発足。2018年にさんぽまち商店会へ改称後も、団地内の店舗・企業による活動が続く。",
+          "official": "https://sanpomachi.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%BA%83%E5%B3%B6%E3%81%95%E3%82%93%E3%81%BD%E3%81%BE%E3%81%A1%E5%95%86%E5%BA%97%E4%BC%9A%EF%BC%88%E6%97%A7%E5%8C%97%E5%BA%83%E5%B3%B6%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E5%BA%83%E5%B3%B6%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "相模原市南区",
+          "name": "相武台団地商店街",
+          "type": "現役",
+          "note": "1967年開設の団地商店街。高齢化と大型店進出で空き店舗が増えた後、グリーンラウンジ・プロジェクトによる交流施設や新店舗の導入が進む。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%B8%E6%AD%A6%E5%8F%B0%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E5%8D%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "相武台団地商店街を巡る訪問記",
+              "url": "https://www.kousha-chintai.com/blog/landscape/soubudai-shopping-street-2025.php"
+            }
+          ]
+        },
+        {
+          "prefecture": "宮城県",
+          "city": "仙台市泉区",
+          "name": "黒松団地商店街（黒松商工振興会）",
+          "type": "現役",
+          "note": "昭和30年代から続く黒松団地の商業区域。生協、飲食店、理美容などが現在も営業し、商工振興会の沿革と個人訪問記から店舗の変化を追える。",
+          "official": "https://kuromatsu.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%BB%92%E6%9D%BE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E9%BB%92%E6%9D%BE%E5%95%86%E5%B7%A5%E6%8C%AF%E8%88%88%E4%BC%9A%EF%BC%89%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E6%B3%89%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "黒松商工振興会の沿革",
+              "url": "https://kuromatsu.net/history/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "国立市",
+          "name": "富士見台名店街（むっさ21）",
+          "type": "現役",
+          "note": "1965年完成の富士見台第一団地1階に広がる名店街。パン店や酒屋などの営業、ストリートピアノ、学生・地域連携の再生活動が確認できる。狙い目は団地広場に面したアーケード、外向き店舗、看板と店舗配置。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%A3%AB%E8%A6%8B%E5%8F%B0%E5%90%8D%E5%BA%97%E8%A1%97%EF%BC%88%E3%82%80%E3%81%A3%E3%81%9521%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E7%AB%8B%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "富士見台名店街「むっさ21」訪問記",
+              "url": "https://ameblo.jp/kobaden-shoutengai/entry-12844379837.html"
+            },
+            {
+              "title": "谷保のむっさ21・ダイヤ街訪問記",
+              "url": "https://tokyovirtualwalk.com/archives/1819"
+            },
+            {
+              "title": "団地商店街むっさ21の酒屋訪問記",
+              "url": "https://kunitachijin.com/article/yabo_night_12/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江戸川区",
+          "name": "小島町二丁目団地ショッピングセンター",
+          "type": "現役",
+          "note": "小島町二丁目団地4〜6号棟の1階に店舗区画が連続し、衣服直し、食品、飲食、理美容、写真、整骨などの店舗が現行一覧に掲載されている。狙い目は号棟ごとに分かれる店舗棟と団地内通路。",
+          "official": "https://kojima2.com/shop/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B3%B6%E7%94%BA%E4%BA%8C%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "町田市",
+          "name": "鶴川団地センター名店街",
+          "type": "現役",
+          "note": "鶴川団地中央広場を囲む1階店舗群。食品、酒、飲食、理美容、郵便局などの店舗一覧があり、2025年の現地ガイドでも営業と祭りを確認できる。狙い目は広場を囲む店舗配置、アーケード、昔からの酒屋・八百屋。",
+          "official": "https://www.turukawa.com/map/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B6%B4%E5%B7%9D%E5%9B%A3%E5%9C%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%90%8D%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%94%BA%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "鶴川団地センター名店街・セントラル商店街訪問記",
+              "url": "https://www.timeout.jp/tokyo/ja/things-to-do/things-to-do-in-tsurukawadanchi"
+            },
+            {
+              "title": "昭和の香りのする商店街訪問記",
+              "url": "https://www.odakyu.biz/7623"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "町田市",
+          "name": "鶴川団地セントラル商店街",
+          "type": "現役",
+          "note": "1969年開業の鶴川団地中心商業施設。商店街公式サイトが現行店舗、祭り、空き店舗を活用したコミュニティ活動を案内している。狙い目はセンター名店街と道路を挟んで向かい合うアーケードと店舗棟。",
+          "official": "https://www.central1969.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B6%B4%E5%B7%9D%E5%9B%A3%E5%9C%B0%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%94%BA%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "鶴川団地センター名店街・セントラル商店街訪問記",
+              "url": "https://www.timeout.jp/tokyo/ja/things-to-do/things-to-do-in-tsurukawadanchi"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "多摩市",
+          "name": "諏訪団地名店街",
+          "type": "現役",
+          "note": "諏訪団地の遊歩道沿いに残る名店街。英国風ブックカフェなどの新規利用が入り、再生中の商業区画として確認できる。狙い目は団地の一角に沿う遊歩道、店舗前の広場、用途転換された区画。",
+          "official": "https://tamashi-oka.jp/story/puddleby",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%AB%8F%E8%A8%AA%E5%9B%A3%E5%9C%B0%E5%90%8D%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "諏訪・永山団地の商店街イベント資料",
+              "url": "https://www.ur-net.go.jp/news/hndcds0000005rlr-att/chirashi001.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市旭区",
+          "name": "左近山ショッピングセンター",
+          "type": "現役",
+          "note": "左近山団地一街区の1階にある生活商業施設。公式サイトが20〜21店舗の飲食・物販・医療等と団地商店連合会の活動を案内している。狙い目は店舗一覧に対応する長屋状の店舗棟と団地広場。",
+          "official": "https://www.sakonyama-danchi.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%A6%E8%BF%91%E5%B1%B1%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%97%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市泉区・大和市",
+          "name": "いちょう団地いちょうマート・いちょうショッピングセンター",
+          "type": "現役",
+          "note": "いちょう団地32号棟1階のいちょうマートと、横浜市泉区・大和市側のいちょうショッピングセンターに、アジア食品店、衣料店、薬局、飲食店等が営業している。狙い目は案内看板、屋内通路、団地1階店舗と多文化商業の連続。",
+          "official": "https://www.klnet.pref.kanagawa.jp/yokohama/uploads/2024/04/R6_teamA4-lib-kanagawa.pdf",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E5%9B%A3%E5%9C%B0%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E3%83%9E%E3%83%BC%E3%83%88%E3%83%BB%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B3%89%E5%8C%BA%E3%83%BB%E5%A4%A7%E5%92%8C%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "いちょう団地ショッピングセンターの店舗記事",
+              "url": "https://www.yamatopi.jp/open-close/menyautida-20221225.html"
+            },
+            {
+              "title": "いちょう団地の商業施設訪問・写真調査",
+              "url": "https://friday.kodansha.co.jp/article/56626"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "稲城市",
+          "name": "平尾団地商店街",
+          "type": "現役",
+          "note": "平尾住宅内の商店街。稲城市公式が商店会を現行一覧に掲載し、スーパー閉店後も新スーパー、飲食店、郵便局、出張所等が商業区画を支えている。狙い目は平尾団地商店街広場、店舗棟、閉店後に用途転換された区画。",
+          "official": "https://www.city.inagi.tokyo.jp/sangyo/shogyo/1005423.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B9%B3%E5%B0%BE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%A8%B2%E5%9F%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "平尾団地商店街のスーパー訪問記",
+              "url": "https://inagi-city.com/?p=9815"
+            },
+            {
+              "title": "平尾住宅の現行商業施設案内",
+              "url": "https://www.to-kousya.or.jp/chintai/news/250417.html"
+            },
+            {
+              "title": "スーパーヤマザキ平尾店閉店記録",
+              "url": "https://tama-inagi.goguynet.jp/2022/09/27/superyamazakihirao_heiten/"
+            }
+          ]
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "習志野市",
+          "name": "袖ヶ浦団地ショッピングセンター",
+          "type": "現役",
+          "note": "袖ヶ浦団地敷地内の商店街。UR現行案内がスーパー、パン店、郵便局、薬局等を確認し、個人訪問記も店舗と建物を記録している。狙い目は店舗棟、共用駐車場、広場、空き店舗を活用した交流拠点。",
+          "official": "https://www.ur-net.go.jp/chintai/kanto/chiba/30_1551_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%A2%96%E3%83%B6%E6%B5%A6%E5%9B%A3%E5%9C%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E7%BF%92%E5%BF%97%E9%87%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "袖ヶ浦団地ショッピングセンター訪問記",
+              "url": "https://anagurachannel.com/2023/03/18/sodegaurasyoppingusentaa/"
+            }
+          ]
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市住之江区",
+          "name": "住吉団地商店街",
+          "type": "現役",
+          "note": "URの現行テナント情報が15店舗を掲載し、飲食、洋菓子、精肉、生花、額縁・画材、整骨、美容等の営業を確認できる。狙い目は団地1階の店舗棟、住棟に囲まれたプロムナード、隣接スーパーとの位置関係。",
+          "official": "https://www.ur-net.go.jp/urtenant/west/80_136.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%8F%E5%90%89%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E4%B9%8B%E6%B1%9F%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "豊中市",
+          "name": "新千里南町近隣センター",
+          "type": "現役",
+          "note": "千里ニュータウン新千里南町の住区商業区画。みんとしょ・カフェ・交流拠点など空室を活用した再生が進み、旧来の店舗機能と地域活動が併存する。狙い目は広場、空室活用区画、住棟との歩行者動線。",
+          "official": "https://toshiseibi.org/renkei/new-town/kinrincenter",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8D%83%E9%87%8C%E5%8D%97%E7%94%BA%E8%BF%91%E9%9A%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E8%B1%8A%E4%B8%AD%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "新千里南町近隣センターのマルシェ訪問記",
+              "url": "https://toyo-2.jp/archives/post-57280.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市",
+          "name": "洛西タウンセンター・ラクセーヌ専門店街",
+          "type": "現役",
+          "note": "洛西ニュータウン中央の商業拠点で、専門店街の全面リニューアル後にスーパー・専門店・医療モールが営業する。狙い目はラクセーヌ専門店街の店舗配置、広場、ニュータウンの公共施設と商業棟の接続。",
+          "official": "https://www.city.kyoto.lg.jp/tokei/cmsfiles/contents/0000312/312065/torimatome.pdf",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B4%9B%E8%A5%BF%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%A9%E3%82%AF%E3%82%BB%E3%83%BC%E3%83%8C%E5%B0%82%E9%96%80%E5%BA%97%E8%A1%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "洛西ニュータウン創生推進委員会の訪問・イベント記録",
+              "url": "https://rakusainewtown.jimdofree.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/"
+            }
+          ]
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市佐伯区",
+          "name": "美鈴モール商店街",
+          "type": "現役",
+          "note": "美鈴が丘団地の中心に計画されたスペイン風意匠の商店街。スーパーや個人店、飲食店が団地の生活を支え、現在も店舗と地域サービスが残る。狙い目はモール状の通路、看板、昔から続く店舗、団地住棟との位置関係。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E9%88%B4%E3%83%A2%E3%83%BC%E3%83%AB%E5%95%86%E5%BA%97%E8%A1%97%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%BD%90%E4%BC%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "美鈴が丘団地の概要",
+              "url": "https://misuzugaoka.net/?page_id=31"
+            },
+            {
+              "title": "美鈴が丘団地の街区",
+              "url": "https://misuzugaoka.net/?page_id=68"
+            }
+          ]
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市早良区",
+          "name": "星の原団地商店街",
+          "type": "現役",
+          "note": "星の原団地の建物1階にスーパー・青果店・整骨院などが集まる商店街。団地内で日常の買い物が完結し、団地カフェなど交流活動も行われている。狙い目は1階の連続店舗、アーケード状の動線、住棟と商店街の接続。",
+          "official": "https://www.ur-net.go.jp/chintai/sp/kyushu/fukuoka/90_0790_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%9F%E3%81%AE%E5%8E%9F%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%97%A9%E8%89%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "福岡市東区",
+          "name": "箱崎三丁目団地商店街",
+          "type": "現役",
+          "note": "箱崎三丁目団地31号棟1階に青果・輸入食材・飲食・理美容・医療など7店舗が営業する店舗棟。狙い目は住棟低層部の店舗配置、団地出入口から商店街への動線、周辺箱崎商店街との関係。",
+          "official": "https://www.ur-net.go.jp/chintai/sp/kyushu/fukuoka/90_0960_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AE%B1%E5%B4%8E%E4%B8%89%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "北九州市小倉北区",
+          "name": "金田一丁目団地商店街",
+          "type": "現役",
+          "note": "金田一丁目団地6号棟1階の店舗区画に惣菜店・デイサービス・薬局・ヘアサロンなどが並び、惣菜店を核に交流や再生が進む。狙い目は広場に面した店舗棟、空き区画の改修、団地住民の居場所としての使われ方。",
+          "official": "https://www.ur-net.go.jp/chintai/kyushu/fukuoka/90_0840_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E7%94%B0%E4%B8%80%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%B0%8F%E5%80%89%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "団地のリビング・惣菜店の取材",
+              "url": "https://www.ur-net.go.jp/aboutus/publication/web-urpress74/special2.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市垂水区",
+          "name": "明舞団地センター",
+          "type": "現役",
+          "note": "明舞団地中央の商業施設群で、KOHYO、銀行、郵便局、ドラッグストア、クリニックなどが営業し、団地再生・交流機能と一体化している。狙い目は明舞センターの店舗棟、商業施設と団地広場・行政サービスの接続。",
+          "official": "https://www.ur-net.go.jp/chintai/sp/kansai/hyogo/80_1300_report.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E8%88%9E%E5%9B%A3%E5%9C%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "明舞団地のまちづくり情報発信基地",
+              "url": "https://meimai.hyogo-jkc.or.jp/about.html"
+            },
+            {
+              "title": "兵庫県住宅供給公社の貸店舗一覧",
+              "url": "https://hyogo-jk.or.jp/office"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "立川市",
+          "name": "立川若葉町公団ショッピングセンター",
+          "type": "現役",
+          "note": "1970年代に整備された若葉町団地に隣接する商業区画。現在は若葉ケヤキモールとして複数店舗が営業し、オーケー、飲食、衣料、ドラッグストア、100円ショップ、クリニック等が2階建てのモールに入る。団地の住棟・歩道から商業棟へ向かう生活動線、低層の店舗列、空き区画と2026年リニューアル告知を確認できる。",
+          "official": "https://wakaba-keyakimall.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8B%A5%E8%91%89%E3%82%B1%E3%83%A4%E3%82%AD%E3%83%A2%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%B7%9D%E5%B8%82%E8%8B%A5%E8%91%89%E7%94%BA1-7-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "若葉ケヤキモールの現状と2026年リニューアル",
+              "url": "https://tachikawa-akishima.goguynet.jp/2026/02/23/wakabakeyakimoru/"
             }
           ]
         }
@@ -21091,481 +21574,6 @@
             {
               "title": "東京都公文書館に行ってきた",
               "url": "https://ameblo.jp/mizumizzo/entry-12856229059.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "csv-d66f17da223b3be46b77",
-      "number": 25,
-      "name": "現存する団地商店街",
-      "shortName": "現存する団地商店街",
-      "file": "現存する団地商店街.csv",
-      "count": 26,
-      "items": [
-        {
-          "prefecture": "千葉県",
-          "city": "千葉市花見川区",
-          "name": "花見川団地商店街",
-          "type": "現存する団地商店街",
-          "note": "1968年に整備された約5700戸の花見川団地の中心商業区画。2024年にアーケード撤去と改修が行われ、空き店舗を活用した交流拠点や新規出店が続く。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%A6%8B%E5%B7%9D%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8D%83%E8%91%89%E5%B8%82%E8%8A%B1%E8%A6%8B%E5%B7%9D%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "団地の商店街暮らし・活動記録",
-              "url": "https://house.muji.com/ur-hanamigawa/category/street/"
-            }
-          ]
-        },
-        {
-          "prefecture": "千葉県",
-          "city": "八千代市",
-          "name": "村上団地商店街（むらかみモール）",
-          "type": "現存する団地商店街",
-          "note": "村上団地中央の商業区画。市役所支所、郵便局、医療機関、食品店などが残り、多文化交流とサービス店舗への転換が進む。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%91%E4%B8%8A%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E3%82%80%E3%82%89%E3%81%8B%E3%81%BF%E3%83%A2%E3%83%BC%E3%83%AB%EF%BC%89%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%85%AB%E5%8D%83%E4%BB%A3%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "村上団地商店街の訪問・聞き取り記録",
-              "url": "https://www.danchijournal.net/post/murakami1shoppingstreet"
-            }
-          ]
-        },
-        {
-          "prefecture": "埼玉県",
-          "city": "北本市",
-          "name": "北本団地商店街",
-          "type": "現存する団地商店街",
-          "note": "北本団地のドーム型アーケード。空き店舗が目立つ時期を経ながら、ジャズ喫茶など新しい使われ方が加わっている。狙い目はアーケードと旧店舗区画。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%9C%AC%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%8C%97%E6%9C%AC%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "北本団地商店街を歩く（写真訪問記）",
-              "url": "https://junkissa.jp/blog-entry-2382.html"
-            }
-          ]
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江東区",
-          "name": "大島四丁目団地ショッピングモール",
-          "type": "現存する団地商店街",
-          "note": "1969年に誕生した大規模団地の店舗区画。ふれあいショッピングセンターやスーパーなど、団地内の生活機能が続いている。",
-          "official": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1780_report.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%B3%B6%E5%9B%9B%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "福岡市早良区",
-          "name": "室住団地商店街",
-          "type": "現存する団地商店街",
-          "note": "室住団地3号棟1階の13区画。歯科、青果、美容、飲食などが残り、配置図と店舗の聞き取り記録が確認できる。",
-          "official": "https://www.ur-net.go.jp/chintai/kyushu/fukuoka/90_0700_report.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%A4%E4%BD%8F%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%97%A9%E8%89%AF%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "室住団地商店街訪問（配置図・店舗記録）",
-              "url": "https://www.ur-net.go.jp/chintai_portal/kyojyusha/kanrihou/lrmhph000000hga9-att/Aozora_202206.pdf"
-            }
-          ]
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "宗像市",
-          "name": "日の里一丁目団地商店街",
-          "type": "現存する団地商店街",
-          "note": "日の里団地の店舗区画。駄菓子バーなど、子どもと大人の交流を担う新しい店舗が入っている。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E3%81%AE%E9%87%8C%E4%B8%80%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%AE%97%E5%83%8F%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "日の里一丁目団地の駄菓子バー訪問記",
-              "url": "https://www.ur-net.go.jp/chintai/college/202504/001276.html"
-            }
-          ]
-        },
-        {
-          "prefecture": "北海道",
-          "city": "北広島市",
-          "name": "北広島さんぽまち商店会（旧北広島団地商店街）",
-          "type": "現存する団地商店街",
-          "note": "1972年から造成された北広島団地内で1977年に発足。2018年にさんぽまち商店会へ改称後も、団地内の店舗・企業による活動が続く。",
-          "official": "https://sanpomachi.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%BA%83%E5%B3%B6%E3%81%95%E3%82%93%E3%81%BD%E3%81%BE%E3%81%A1%E5%95%86%E5%BA%97%E4%BC%9A%EF%BC%88%E6%97%A7%E5%8C%97%E5%BA%83%E5%B3%B6%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E5%BA%83%E5%B3%B6%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "相模原市南区",
-          "name": "相武台団地商店街",
-          "type": "現存する団地商店街",
-          "note": "1967年開設の団地商店街。高齢化と大型店進出で空き店舗が増えた後、グリーンラウンジ・プロジェクトによる交流施設や新店舗の導入が進む。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%B8%E6%AD%A6%E5%8F%B0%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E5%8D%97%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "相武台団地商店街を巡る訪問記",
-              "url": "https://www.kousha-chintai.com/blog/landscape/soubudai-shopping-street-2025.php"
-            }
-          ]
-        },
-        {
-          "prefecture": "宮城県",
-          "city": "仙台市泉区",
-          "name": "黒松団地商店街（黒松商工振興会）",
-          "type": "現存する団地商店街",
-          "note": "昭和30年代から続く黒松団地の商業区域。生協、飲食店、理美容などが現在も営業し、商工振興会の沿革と個人訪問記から店舗の変化を追える。",
-          "official": "https://kuromatsu.net/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%BB%92%E6%9D%BE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%EF%BC%88%E9%BB%92%E6%9D%BE%E5%95%86%E5%B7%A5%E6%8C%AF%E8%88%88%E4%BC%9A%EF%BC%89%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%E6%B3%89%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "黒松商工振興会の沿革",
-              "url": "https://kuromatsu.net/history/"
-            }
-          ]
-        },
-        {
-          "prefecture": "東京都",
-          "city": "国立市",
-          "name": "富士見台名店街（むっさ21）",
-          "type": "現存する団地商店街",
-          "note": "1965年完成の富士見台第一団地1階に広がる名店街。パン店や酒屋などの営業、ストリートピアノ、学生・地域連携の再生活動が確認できる。狙い目は団地広場に面したアーケード、外向き店舗、看板と店舗配置。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%A3%AB%E8%A6%8B%E5%8F%B0%E5%90%8D%E5%BA%97%E8%A1%97%EF%BC%88%E3%82%80%E3%81%A3%E3%81%9521%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E7%AB%8B%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "富士見台名店街「むっさ21」訪問記",
-              "url": "https://ameblo.jp/kobaden-shoutengai/entry-12844379837.html"
-            },
-            {
-              "title": "谷保のむっさ21・ダイヤ街訪問記",
-              "url": "https://tokyovirtualwalk.com/archives/1819"
-            },
-            {
-              "title": "団地商店街むっさ21の酒屋訪問記",
-              "url": "https://kunitachijin.com/article/yabo_night_12/"
-            }
-          ]
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江戸川区",
-          "name": "小島町二丁目団地ショッピングセンター",
-          "type": "現存する団地商店街",
-          "note": "小島町二丁目団地4〜6号棟の1階に店舗区画が連続し、衣服直し、食品、飲食、理美容、写真、整骨などの店舗が現行一覧に掲載されている。狙い目は号棟ごとに分かれる店舗棟と団地内通路。",
-          "official": "https://kojima2.com/shop/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B3%B6%E7%94%BA%E4%BA%8C%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "東京都",
-          "city": "町田市",
-          "name": "鶴川団地センター名店街",
-          "type": "現存する団地商店街",
-          "note": "鶴川団地中央広場を囲む1階店舗群。食品、酒、飲食、理美容、郵便局などの店舗一覧があり、2025年の現地ガイドでも営業と祭りを確認できる。狙い目は広場を囲む店舗配置、アーケード、昔からの酒屋・八百屋。",
-          "official": "https://www.turukawa.com/map/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B6%B4%E5%B7%9D%E5%9B%A3%E5%9C%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%90%8D%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%94%BA%E7%94%B0%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "鶴川団地センター名店街・セントラル商店街訪問記",
-              "url": "https://www.timeout.jp/tokyo/ja/things-to-do/things-to-do-in-tsurukawadanchi"
-            },
-            {
-              "title": "昭和の香りのする商店街訪問記",
-              "url": "https://www.odakyu.biz/7623"
-            }
-          ]
-        },
-        {
-          "prefecture": "東京都",
-          "city": "町田市",
-          "name": "鶴川団地セントラル商店街",
-          "type": "現存する団地商店街",
-          "note": "1969年開業の鶴川団地中心商業施設。商店街公式サイトが現行店舗、祭り、空き店舗を活用したコミュニティ活動を案内している。狙い目はセンター名店街と道路を挟んで向かい合うアーケードと店舗棟。",
-          "official": "https://www.central1969.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B6%B4%E5%B7%9D%E5%9B%A3%E5%9C%B0%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%94%BA%E7%94%B0%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "鶴川団地センター名店街・セントラル商店街訪問記",
-              "url": "https://www.timeout.jp/tokyo/ja/things-to-do/things-to-do-in-tsurukawadanchi"
-            }
-          ]
-        },
-        {
-          "prefecture": "東京都",
-          "city": "多摩市",
-          "name": "諏訪団地名店街",
-          "type": "現存する団地商店街",
-          "note": "諏訪団地の遊歩道沿いに残る名店街。英国風ブックカフェなどの新規利用が入り、再生中の商業区画として確認できる。狙い目は団地の一角に沿う遊歩道、店舗前の広場、用途転換された区画。",
-          "official": "https://tamashi-oka.jp/story/puddleby",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%AB%8F%E8%A8%AA%E5%9B%A3%E5%9C%B0%E5%90%8D%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "諏訪・永山団地の商店街イベント資料",
-              "url": "https://www.ur-net.go.jp/news/hndcds0000005rlr-att/chirashi001.pdf"
-            }
-          ]
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横浜市旭区",
-          "name": "左近山ショッピングセンター",
-          "type": "現存する団地商店街",
-          "note": "左近山団地一街区の1階にある生活商業施設。公式サイトが20〜21店舗の飲食・物販・医療等と団地商店連合会の活動を案内している。狙い目は店舗一覧に対応する長屋状の店舗棟と団地広場。",
-          "official": "https://www.sakonyama-danchi.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%A6%E8%BF%91%E5%B1%B1%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%97%AD%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横浜市泉区・大和市",
-          "name": "いちょう団地いちょうマート・いちょうショッピングセンター",
-          "type": "現存する団地商店街",
-          "note": "いちょう団地32号棟1階のいちょうマートと、横浜市泉区・大和市側のいちょうショッピングセンターに、アジア食品店、衣料店、薬局、飲食店等が営業している。狙い目は案内看板、屋内通路、団地1階店舗と多文化商業の連続。",
-          "official": "https://www.klnet.pref.kanagawa.jp/yokohama/uploads/2024/04/R6_teamA4-lib-kanagawa.pdf",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E5%9B%A3%E5%9C%B0%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E3%83%9E%E3%83%BC%E3%83%88%E3%83%BB%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B3%89%E5%8C%BA%E3%83%BB%E5%A4%A7%E5%92%8C%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "いちょう団地ショッピングセンターの店舗記事",
-              "url": "https://www.yamatopi.jp/open-close/menyautida-20221225.html"
-            },
-            {
-              "title": "いちょう団地の商業施設訪問・写真調査",
-              "url": "https://friday.kodansha.co.jp/article/56626"
-            }
-          ]
-        },
-        {
-          "prefecture": "東京都",
-          "city": "稲城市",
-          "name": "平尾団地商店街",
-          "type": "現存する団地商店街",
-          "note": "平尾住宅内の商店街。稲城市公式が商店会を現行一覧に掲載し、スーパー閉店後も新スーパー、飲食店、郵便局、出張所等が商業区画を支えている。狙い目は平尾団地商店街広場、店舗棟、閉店後に用途転換された区画。",
-          "official": "https://www.city.inagi.tokyo.jp/sangyo/shogyo/1005423.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B9%B3%E5%B0%BE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%A8%B2%E5%9F%8E%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "平尾団地商店街のスーパー訪問記",
-              "url": "https://inagi-city.com/?p=9815"
-            },
-            {
-              "title": "平尾住宅の現行商業施設案内",
-              "url": "https://www.to-kousya.or.jp/chintai/news/250417.html"
-            },
-            {
-              "title": "スーパーヤマザキ平尾店閉店記録",
-              "url": "https://tama-inagi.goguynet.jp/2022/09/27/superyamazakihirao_heiten/"
-            }
-          ]
-        },
-        {
-          "prefecture": "千葉県",
-          "city": "習志野市",
-          "name": "袖ヶ浦団地ショッピングセンター",
-          "type": "現存する団地商店街",
-          "note": "袖ヶ浦団地敷地内の商店街。UR現行案内がスーパー、パン店、郵便局、薬局等を確認し、個人訪問記も店舗と建物を記録している。狙い目は店舗棟、共用駐車場、広場、空き店舗を活用した交流拠点。",
-          "official": "https://www.ur-net.go.jp/chintai/kanto/chiba/30_1551_report.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%A2%96%E3%83%B6%E6%B5%A6%E5%9B%A3%E5%9C%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E7%BF%92%E5%BF%97%E9%87%8E%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "袖ヶ浦団地ショッピングセンター訪問記",
-              "url": "https://anagurachannel.com/2023/03/18/sodegaurasyoppingusentaa/"
-            }
-          ]
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市住之江区",
-          "name": "住吉団地商店街",
-          "type": "現存する団地商店街",
-          "note": "URの現行テナント情報が15店舗を掲載し、飲食、洋菓子、精肉、生花、額縁・画材、整骨、美容等の営業を確認できる。狙い目は団地1階の店舗棟、住棟に囲まれたプロムナード、隣接スーパーとの位置関係。",
-          "official": "https://www.ur-net.go.jp/urtenant/west/80_136.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%8F%E5%90%89%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E4%B9%8B%E6%B1%9F%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "豊中市",
-          "name": "新千里南町近隣センター",
-          "type": "近隣センター",
-          "note": "千里ニュータウン新千里南町の住区商業区画。みんとしょ・カフェ・交流拠点など空室を活用した再生が進み、旧来の店舗機能と地域活動が併存する。狙い目は広場、空室活用区画、住棟との歩行者動線。",
-          "official": "https://toshiseibi.org/renkei/new-town/kinrincenter",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8D%83%E9%87%8C%E5%8D%97%E7%94%BA%E8%BF%91%E9%9A%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E8%B1%8A%E4%B8%AD%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "新千里南町近隣センターのマルシェ訪問記",
-              "url": "https://toyo-2.jp/archives/post-57280.html"
-            }
-          ]
-        },
-        {
-          "prefecture": "京都府",
-          "city": "京都市",
-          "name": "洛西タウンセンター・ラクセーヌ専門店街",
-          "type": "ショッピングセンター",
-          "note": "洛西ニュータウン中央の商業拠点で、専門店街の全面リニューアル後にスーパー・専門店・医療モールが営業する。狙い目はラクセーヌ専門店街の店舗配置、広場、ニュータウンの公共施設と商業棟の接続。",
-          "official": "https://www.city.kyoto.lg.jp/tokei/cmsfiles/contents/0000312/312065/torimatome.pdf",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B4%9B%E8%A5%BF%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%A9%E3%82%AF%E3%82%BB%E3%83%BC%E3%83%8C%E5%B0%82%E9%96%80%E5%BA%97%E8%A1%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "洛西ニュータウン創生推進委員会の訪問・イベント記録",
-              "url": "https://rakusainewtown.jimdofree.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/"
-            }
-          ]
-        },
-        {
-          "prefecture": "広島県",
-          "city": "広島市佐伯区",
-          "name": "美鈴モール商店街",
-          "type": "団地商店街",
-          "note": "美鈴が丘団地の中心に計画されたスペイン風意匠の商店街。スーパーや個人店、飲食店が団地の生活を支え、現在も店舗と地域サービスが残る。狙い目はモール状の通路、看板、昔から続く店舗、団地住棟との位置関係。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E9%88%B4%E3%83%A2%E3%83%BC%E3%83%AB%E5%95%86%E5%BA%97%E8%A1%97%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%BD%90%E4%BC%AF%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "美鈴が丘団地の概要",
-              "url": "https://misuzugaoka.net/?page_id=31"
-            },
-            {
-              "title": "美鈴が丘団地の街区",
-              "url": "https://misuzugaoka.net/?page_id=68"
-            }
-          ]
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "福岡市早良区",
-          "name": "星の原団地商店街",
-          "type": "団地商店街",
-          "note": "星の原団地の建物1階にスーパー・青果店・整骨院などが集まる商店街。団地内で日常の買い物が完結し、団地カフェなど交流活動も行われている。狙い目は1階の連続店舗、アーケード状の動線、住棟と商店街の接続。",
-          "official": "https://www.ur-net.go.jp/chintai/sp/kyushu/fukuoka/90_0790_report.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%9F%E3%81%AE%E5%8E%9F%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%97%A9%E8%89%AF%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "福岡市東区",
-          "name": "箱崎三丁目団地商店街",
-          "type": "団地商店街",
-          "note": "箱崎三丁目団地31号棟1階に青果・輸入食材・飲食・理美容・医療など7店舗が営業する店舗棟。狙い目は住棟低層部の店舗配置、団地出入口から商店街への動線、周辺箱崎商店街との関係。",
-          "official": "https://www.ur-net.go.jp/chintai/sp/kyushu/fukuoka/90_0960_report.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AE%B1%E5%B4%8E%E4%B8%89%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "北九州市小倉北区",
-          "name": "金田一丁目団地商店街",
-          "type": "団地商店街",
-          "note": "金田一丁目団地6号棟1階の店舗区画に惣菜店・デイサービス・薬局・ヘアサロンなどが並び、惣菜店を核に交流や再生が進む。狙い目は広場に面した店舗棟、空き区画の改修、団地住民の居場所としての使われ方。",
-          "official": "https://www.ur-net.go.jp/chintai/kyushu/fukuoka/90_0840_report.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E7%94%B0%E4%B8%80%E4%B8%81%E7%9B%AE%E5%9B%A3%E5%9C%B0%E5%95%86%E5%BA%97%E8%A1%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%B0%8F%E5%80%89%E5%8C%97%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "団地のリビング・惣菜店の取材",
-              "url": "https://www.ur-net.go.jp/aboutus/publication/web-urpress74/special2.html"
-            }
-          ]
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "神戸市垂水区",
-          "name": "明舞団地センター",
-          "type": "ショッピングセンター",
-          "note": "明舞団地中央の商業施設群で、KOHYO、銀行、郵便局、ドラッグストア、クリニックなどが営業し、団地再生・交流機能と一体化している。狙い目は明舞センターの店舗棟、商業施設と団地広場・行政サービスの接続。",
-          "official": "https://www.ur-net.go.jp/chintai/sp/kansai/hyogo/80_1300_report.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E8%88%9E%E5%9B%A3%E5%9C%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "明舞団地のまちづくり情報発信基地",
-              "url": "https://meimai.hyogo-jkc.or.jp/about.html"
-            },
-            {
-              "title": "兵庫県住宅供給公社の貸店舗一覧",
-              "url": "https://hyogo-jk.or.jp/office"
             }
           ]
         }
