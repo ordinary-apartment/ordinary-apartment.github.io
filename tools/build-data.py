@@ -91,6 +91,8 @@ def read_csv(path):
             parsed=urlsplit(url)
             if parsed.scheme.lower() not in ('http','https') or not parsed.netloc or any(ord(c)<32 for c in url):
                 raise ValueError(f'{path.name}:{reader.line_num}: 関連リンク{index}URLはhttp(s)のURLにしてください')
+            if re.search(r'\.pdf(?:$|[?#])', url, re.IGNORECASE):
+                raise ValueError(f'{path.name}:{reader.line_num}: PDFを関連リンクに登録できません')
             if any(link['url']==url for link in related_links):
                 raise ValueError(f'{path.name}:{reader.line_num}: 関連リンクURLが重複しています')
             if item['official'] and canonical_url(item['official']) == canonical_url(url):

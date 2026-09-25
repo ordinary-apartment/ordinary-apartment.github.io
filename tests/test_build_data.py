@@ -117,6 +117,7 @@ class BuildTests(unittest.TestCase):
             [['施設名','関連リンク1タイトル','関連リンク1URL'],['施設','タイトル','javascript:alert(1)']],
             [['施設名','関連リンク1タイトル','関連リンク1URL','関連リンク2タイトル','関連リンク2URL'],['施設','同じ','https://example.com/same','同じ2','https://example.com/same']],
             [['施設名','関連リンク4タイトル','関連リンク4URL'],['施設','4件目','https://example.com/four']],
+            [['施設名','関連リンク1タイトル','関連リンク1URL'],['施設','PDF資料','https://example.com/guide.PDF?page=2#top']],
         ]
         for rows in cases:
             self.write('不正リンク.csv',rows)
