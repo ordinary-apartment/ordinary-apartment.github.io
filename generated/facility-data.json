@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "materialCount": 26,
-  "total": 1341,
+  "total": 1346,
   "materials": [
     {
       "id": "botanical",
@@ -23356,7 +23356,7 @@
       "name": "東京都内の戦争史・戦争遺構を歩く",
       "shortName": "東京都内の戦争史・戦争遺構を歩く",
       "file": "東京都内の戦争史・戦争遺構を歩く.csv",
-      "count": 35,
+      "count": 40,
       "items": [
         {
           "prefecture": "東京都",
@@ -23887,6 +23887,91 @@
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "世田谷公園（旧駒沢練兵場）",
+          "type": "旧練兵場・公園",
+          "note": "現在は池尻1丁目の区立世田谷公園。明治期から下馬・三宿・池尻一帯に置かれた駒沢練兵場の跡地が、戦後に公園・運動施設へ転用された。狙い目：野球場、広場、園路と周辺の池尻・三宿の街区を歩き、旧練兵場の広い土地利用が日常公園へ変わった範囲を確認する。",
+          "official": "https://www.city.setagaya.lg.jp/02075/9084.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%85%AC%E5%9C%92%EF%BC%88%E6%97%A7%E9%A7%92%E6%B2%A2%E7%B7%B4%E5%85%B5%E5%A0%B4%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "世田谷地域の歴史コラム（駒沢練兵場）",
+              "url": "https://www.city.setagaya.lg.jp/02072/10228.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "板橋区",
+          "name": "東京家政大学板橋キャンパス（旧東京第二陸軍造兵廠建物群）",
+          "type": "旧造兵廠・大学キャンパス",
+          "note": "現在は東京家政大学板橋キャンパス。敷地には旧東京第二陸軍造兵廠板橋製造所の煉瓦建物3棟（旧220・225・261号建物）が残り、戦後に大学校地として使われてきた。狙い目：公開されるキャンパス外周から煉瓦建物の外観と、大学施設へ転用された旧工場敷地の配置を確認する。",
+          "official": "https://www.city.itabashi.tokyo.jp/kusei/renkei/renkei/1007847.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%AE%B6%E6%94%BF%E5%A4%A7%E5%AD%A6%E6%9D%BF%E6%A9%8B%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%EF%BC%88%E6%97%A7%E6%9D%B1%E4%BA%AC%E7%AC%AC%E4%BA%8C%E9%99%B8%E8%BB%8D%E9%80%A0%E5%85%B5%E5%BB%A0%E5%BB%BA%E7%89%A9%E7%BE%A4%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧東京第二陸軍造兵廠建物群（東京家政大学構内）",
+              "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/019/966/04_02.pdf"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "立川市",
+          "name": "災害医療センター（旧立川陸軍病院）",
+          "type": "旧陸軍病院・現病院",
+          "note": "現在は国立病院機構の災害医療センター。大正12年に立川陸軍病院となった軍の医療機関が、戦後の国立立川病院を経て現在の災害医療拠点へ転用された。狙い目：病院の公開エントランスと周辺の立川飛行場跡地を歩き、軍医療施設から現代病院への連続性を読む。",
+          "official": "https://saigai.hosp.go.jp/information/outline.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%81%BD%E5%AE%B3%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E6%97%A7%E7%AB%8B%E5%B7%9D%E9%99%B8%E8%BB%8D%E7%97%85%E9%99%A2%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "立川市",
+          "name": "立川病院（旧東京第二陸軍共済病院）",
+          "type": "旧軍共済病院・現病院",
+          "note": "現在は国家公務員共済組合連合会立川病院。昭和18年創設の東京第二陸軍共済病院を前身とし、戦後も病院として機能を継承している。狙い目：病院の公開エントランスと周辺市街地を歩き、旧軍共済病院が現在の医療施設へ引き継がれた立地を確認する。",
+          "official": "https://tachikawa-hosp.kkr.or.jp/about/outline.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%B7%9D%E7%97%85%E9%99%A2%EF%BC%88%E6%97%A7%E6%9D%B1%E4%BA%AC%E7%AC%AC%E4%BA%8C%E9%99%B8%E8%BB%8D%E5%85%B1%E6%B8%88%E7%97%85%E9%99%A2%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "立川市の医療史（立川陸軍病院・東京第二陸軍病院）",
+              "url": "https://www.t-kenseikai.jp/honbu/about/history/1951-59/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "昭島市",
+          "name": "昭島モリパーク（昭和飛行機工業跡地）",
+          "type": "航空機産業跡・商業施設",
+          "note": "現在は昭島駅北口の大型商業・娯楽エリア。昭和飛行機工業が航空機製造を行った広大な社有地の一部が、戦後の産業・都市開発を経てモリタウンを含むモリパークへ転用された。狙い目：モリタウンの長い商業動線と駅前の広い敷地を歩き、航空機工場を起点とする企業用地の現在の商業利用を周辺施設とともに確認する。",
+          "official": "https://moritown.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%AD%E5%B3%B6%E3%83%A2%E3%83%AA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88%E6%98%AD%E5%92%8C%E9%A3%9B%E8%A1%8C%E6%A9%9F%E5%B7%A5%E6%A5%AD%E8%B7%A1%E5%9C%B0%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%98%AD%E5%B3%B6%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "昭和飛行機工業株式会社 会社概要",
+              "url": "https://www.showa-aircraft.co.jp/company/company/index.html"
+            }
+          ]
         }
       ]
     }
