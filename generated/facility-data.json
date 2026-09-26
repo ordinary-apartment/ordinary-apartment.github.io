@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "materialCount": 31,
-  "total": 1320,
+  "total": 1330,
   "materials": [
     {
       "id": "botanical",
@@ -22518,7 +22518,7 @@
       "name": "用途転換された歴史的建築",
       "shortName": "用途転換された歴史的建築",
       "file": "用途転換された歴史的建築.csv",
-      "count": 61,
+      "count": 71,
       "items": [
         {
           "prefecture": "神奈川県",
@@ -23372,6 +23372,181 @@
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "第一生命日比谷ファースト",
+          "type": "保険会社本社→GHQ庁舎→オフィス",
+          "note": "1938年竣工の第一生命館。1945年9月に連合国軍総司令部（GHQ）庁舎として接収され、1952年7月に返還。1993年完成のDNタワー21で旧館の外壁・主要部を保存再生し、現在は第一生命本店とテナントのオフィスビルとして利用。6階の旧社長室はマッカーサー記念室として保存。",
+          "official": "https://www.dai-ichi-life.co.jp/company/info/hibiya.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AC%AC%E4%B8%80%E7%94%9F%E5%91%BD%E6%97%A5%E6%AF%94%E8%B0%B7%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "第一生命日比谷ファースト（Visit Chiyoda）",
+              "url": "https://visit-chiyoda.tokyo/app/spot/detail/95"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "明治生命館",
+          "type": "生命保険会社本社→GHQ・米極東空軍司令部→オフィス・展示施設",
+          "note": "1934年竣工の旧明治生命本社。1945年から1956年までGHQに接収され、アメリカ極東空軍司令部として使用された。1952年まで2階会議室が対日理事会の会場となり、現在は明治安田生命のオフィスと一般公開部分、静嘉堂文庫美術館の展示ギャラリーとして利用。",
+          "official": "https://www.meijiyasuda-v.jp/about/meiji_seimeikan",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E6%B2%BB%E7%94%9F%E5%91%BD%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "明治生命館（Visit Chiyoda）",
+              "url": "https://visit-chiyoda.tokyo/app/spot/detail/60"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市中区",
+          "name": "ホテルニューグランド",
+          "type": "ホテル→GHQ将校宿舎→ホテル",
+          "note": "1927年開業のホテル。1945年8月から1952年6月まで全館が米軍に接収され、GHQ将校宿舎として使用された。接収解除後の1952年7月に営業を再開し、現在も本館をホテル・レストランとして利用。",
+          "official": "https://www.hotel-newgrand.co.jp/corporate/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "九段会館テラス",
+          "type": "軍人会館→GHQアーミーホール→宴会場・オフィス複合施設",
+          "note": "1934年竣工の旧軍人会館。1945年にGHQへ接収され「アーミーホール」として連合軍宿舎・慰労施設に使用され、返還後の1957年に九段会館としてホテル・結婚式場・劇場を再開した。2011年の被災・閉館を経て、旧建物の一部を保存復原した九段会館テラスが2022年に竣工し、現在はオフィス・店舗・会議室・宴会場として利用。",
+          "official": "https://kudan-kaikan-terrace.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E6%AE%B5%E4%BC%9A%E9%A4%A8%E3%83%86%E3%83%A9%E3%82%B9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "九段会館テラス（Visit Chiyoda）",
+              "url": "https://visit-chiyoda.tokyo/app/spot/detail/844"
+            }
+          ]
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "MIRAIZA OSAKA-JO",
+          "type": "陸軍師団司令部→警察本部→博物館→商業施設",
+          "note": "1931年竣工の旧陸軍第四師団司令部庁舎。戦後は大阪市警察本部・大阪府警察本部として使われ、1960年から2001年まで大阪市立博物館となった。建物を維持して改修し、2017年からレストラン・カフェ・物販などの商業複合施設MIRAIZA OSAKA-JOとして利用。",
+          "official": "https://miraiza.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=MIRAIZA%20OSAKA-JO%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧第四師団司令部庁舎（現MIRAIZA OSAKA-JO）",
+              "url": "https://osaka-castle.jp/osakajokoen/miraiza-osaka-jo.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市中央区",
+          "name": "デザイン・クリエイティブセンター神戸（KIITO）",
+          "type": "生糸検査所→占領軍の娯楽施設→行政試験機関→デザインセンター",
+          "note": "1927年竣工の神戸市立生糸検査所と1932年増築の国立生糸検査所。戦後はGHQに接収され、室内運動場・読書室・喫茶売店などを備えた施設として使われた。接収解除後は農林水産省の検査機関を経て、2012年からデザイン・クリエイティブセンターとして利用。",
+          "official": "https://kiito.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%A5%9E%E6%88%B8%EF%BC%88KIITO%EF%BC%89%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "デザイン・クリエイティブセンター神戸（兵庫県観光）",
+              "url": "https://www.hyogo-tourism.jp/spot/detail_1002.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市下京区",
+          "name": "丸福樓（任天堂旧本社社屋）",
+          "type": "玩具・花札会社本社→ホテル",
+          "note": "1930〜1933年に建てられた任天堂旧本社の建物群。任天堂が本社を移転した後も旧社屋の建物が残り、既存棟を保存・改修して2022年からホテル丸福樓として利用。旧事務所棟・倉庫棟の意匠と構造を新しい宿泊空間に組み込む。",
+          "official": "https://marufukuro.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B8%E7%A6%8F%E6%A8%93%EF%BC%88%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%97%A7%E6%9C%AC%E7%A4%BE%E7%A4%BE%E5%B1%8B%EF%BC%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "丸福樓（京都建築祭）",
+              "url": "https://2022.kenchikusai.jp/event/architecture_detail.php?id=166"
+            }
+          ]
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市中区",
+          "name": "旧日本銀行広島支店",
+          "type": "銀行支店→市民の文化活動施設",
+          "note": "1936年竣工の日本銀行広島支店。1992年に支店が移転して銀行としての役割を終え、2000年に広島市の重要文化財に指定された。現在は営業室・金庫室などを公開し、芸術・文化活動の発表の場として利用。",
+          "official": "https://www.city.hiroshima.lg.jp/tourism-culture/history/1026883/1026889/1020544.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%E5%BA%83%E5%B3%B6%E6%94%AF%E5%BA%97%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧日本銀行広島支店（広島県）",
+              "url": "https://www.pref.hiroshima.lg.jp/site/tatemonogatari/tatemonojouhou2.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "小樽市",
+          "name": "旧小樽商工会議所（現OMO5小樽）",
+          "type": "商工会議所→ホテル・レストラン",
+          "note": "1933年竣工の旧小樽商工会議所。2009年に事務所機能を終え、耐震改修と新築棟の増設を経て、2022年からホテルOMO5小樽の南館として利用。旧大会議室はレストランに、旧事務所部分は客室などに転用され、照明や階段などの設備も残る。",
+          "official": "https://hoshinoresorts.com/ja/hotels/omo5otaru/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E5%B0%8F%E6%A8%BD%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80%EF%BC%88%E7%8F%BEOMO5%E5%B0%8F%E6%A8%BD%EF%BC%89%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%B0%8F%E6%A8%BD%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧小樽商工会議所の再生（小樽市）",
+              "url": "https://www.city.otaru.lg.jp/docs/2023112800021/"
+            }
+          ]
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市城東区",
+          "name": "鶴身印刷所",
+          "type": "印刷工場→アトリエ・店舗・文化複合施設",
+          "note": "1939年築の元印刷工場。戦後に印刷会社の工場として稼働し、ラベルなどの印刷物を製造した。印刷業を終えた後、2018年からアトリエ・店舗・貸室・イベントの文化複合施設として利用され、工場の建物と名称を残す。",
+          "official": "https://tsurumi-print.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B6%B4%E8%BA%AB%E5%8D%B0%E5%88%B7%E6%89%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%9F%8E%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "昭和の印刷工場を文化複合施設へ（MEBIC）",
+              "url": "https://www.mebic.com/collabo/case-101.html"
+            }
+          ]
         }
       ]
     }
