@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "materialCount": 30,
-  "total": 1269,
+  "total": 1261,
   "materials": [
     {
       "id": "botanical",
@@ -9,7 +9,7 @@
       "name": "植物園",
       "shortName": "植物園",
       "file": "植物園.csv",
-      "count": 63,
+      "count": 55,
       "items": [
         {
           "prefecture": "東京都",
@@ -133,98 +133,6 @@
           }
         },
         {
-          "prefecture": "茨城県",
-          "city": "つくば市",
-          "name": "筑波実験植物園 温室",
-          "type": "温室",
-          "note": "研究施設的な巨大温室。9:00-16:30",
-          "official": "https://tbg.kahaku.go.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AD%91%E6%B3%A2%E5%AE%9F%E9%A8%93%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "ゆるり散策　Ⅱ-6 ② 筑波実験植物園(温室/アジサイ) ６月 2026.6.16",
-              "url": "https://greensnap.jp/greenBlog/31155287"
-            },
-            {
-              "title": "サバンナ温室がめっちゃ楽し〜い‼️筑波実験植物園の巻",
-              "url": "https://ameblo.jp/neponepochan/entry-12962106566.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://tbg.kahaku.go.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E5%AE%9F%E9%A8%93%E6%A4%8D%E7%89%A9%E5%9C%92"
-          }
-        },
-        {
-          "prefecture": "栃木県",
-          "city": "岩舟町",
-          "name": "とちぎ花センター 大温室",
-          "type": "温室",
-          "note": "地方型巨大温室。9:30～16:30",
-          "official": "http://www.florence.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%81%A1%E3%81%8E%E8%8A%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%B2%A9%E8%88%9F%E7%94%BA",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "とちぎ花センター（岩舟町）",
-              "url": "https://ameblo.jp/pool/entry-10028396005.html"
-            },
-            {
-              "title": "とちぎ花センター・三毳山の大温室訪問記（Garden vision）",
-              "url": "https://garden-vision.net/garden_visit/totigi_hc.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.florence.jp/"
-          }
-        },
-        {
-          "prefecture": "群馬県",
-          "city": "前橋市",
-          "name": "ぐんまフラワーパーク 温室エリア",
-          "type": "温室",
-          "note": "大型公園＋温室。9:00-17:00",
-          "official": "http://www.flower-park.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%90%E3%82%93%E3%81%BE%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E6%B8%A9%E5%AE%A4%E3%82%A8%E3%83%AA%E3%82%A2%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "ぐんまフラワーパーク・冬の温室が熱帯だった思い出。 - ずっとこの空の下で２",
-              "url": "https://yasshing.hateblo.jp/entry/2025/12/26/140341"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.flower-park.jp/"
-          }
-        },
-        {
-          "prefecture": "富山県",
-          "city": "富山市",
-          "name": "富山県中央植物園 温室",
-          "type": "温室",
-          "note": "大型温室群。9:00〜17:00。",
-          "official": "http://www.bgtym.org/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E4%B8%AD%E5%A4%AE%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E5%AF%8C%E5%B1%B1%E5%B8%82",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "富山県中央植物園温室の訪問記",
-              "url": "https://monstera.jp/monstera/archives/3062"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.bgtym.org/"
-          }
-        },
-        {
           "prefecture": "愛知県",
           "city": "名古屋市千種区",
           "name": "東山動植物園 温室前館",
@@ -313,69 +221,6 @@
           }
         },
         {
-          "prefecture": "兵庫県",
-          "city": "神戸市中央区",
-          "name": "神戸どうぶつ王国 温室エリア",
-          "type": "動植物複合施設",
-          "note": "旧花鳥園系の巨大屋内温室。",
-          "official": "https://www.kobe-oukoku.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E3%81%A9%E3%81%86%E3%81%B6%E3%81%A4%E7%8E%8B%E5%9B%BD%20%E6%B8%A9%E5%AE%A4%E3%82%A8%E3%83%AA%E3%82%A2%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "オールドコンデジで神戸どうぶつ王国を撮った！植物いい感じ。｜アスカ",
-              "url": "https://note.com/asu310/n/n6c5d65c35888"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.kobe-oukoku.com/"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "加西市",
-          "name": "兵庫県立フラワーセンター 大温室",
-          "type": "温室",
-          "note": "地方型温室群。",
-          "official": "https://flowercenter.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%8A%A0%E8%A5%BF%E5%B8%82",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "兵庫県立フラワーセンター｜めーみ",
-              "url": "https://note.com/mocha_kan/n/nc33143fc0ab1"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://flowercenter.jp/"
-          }
-        },
-        {
-          "prefecture": "広島県",
-          "city": "広島市佐伯区",
-          "name": "広島市植物公園 大温室",
-          "type": "温室",
-          "note": "巨大温室と長い園路。",
-          "official": "http://www.hiroshima-bot.jp/ennai/daionsitu/index.htm",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%BD%90%E4%BC%AF%E5%8C%BA",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "広島市植物公園に行きました（大温室編）。",
-              "url": "https://ameblo.jp/horidarnagasawa/entry-12672488213.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.hiroshima-bot.jp/ennai/daionsitu/index.htm"
-          }
-        },
-        {
           "prefecture": "高知県",
           "city": "高知市",
           "name": "高知県立牧野植物園 温室",
@@ -440,27 +285,6 @@
           ],
           "extra": {
             "参照": "公式サイト：http://www.city.nagasaki.lg.jp/shimin/190001/192001/p000713.html\nWikipedia:https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E7%9C%8C%E4%BA%9C%E7%86%B1%E5%B8%AF%E6%A4%8D%E7%89%A9%E5%9C%92"
-          }
-        },
-        {
-          "prefecture": "鹿児島県",
-          "city": "指宿市",
-          "name": "フラワーパークかごしま 温室",
-          "type": "温室",
-          "note": "09:00～17:00",
-          "official": "http://www.fp-k.org/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E3%81%8B%E3%81%94%E3%81%97%E3%81%BE%20%E6%B8%A9%E5%AE%A4%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%20%E6%8C%87%E5%AE%BF%E5%B8%82",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "フラワーパークかごしま①カートに乗って | のきどんのブログ♪私の九州暮らし",
-              "url": "https://ameblo.jp/nokidon/entry-12902637573.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.fp-k.org/"
           }
         },
         {
@@ -640,7 +464,7 @@
           "city": "つくば市",
           "name": "筑波実験植物園",
           "type": "大学・研究植物園",
-          "note": "研究都市＋温室群。9:00-16:30。1976年設立。",
+          "note": "研究都市＋温室群。9:00-16:30。1976年設立。 研究施設的な巨大温室。9:00-16:30",
           "official": "https://tbg.kahaku.go.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AD%91%E6%B3%A2%E5%AE%9F%E9%A8%93%E6%A4%8D%E7%89%A9%E5%9C%92%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -650,6 +474,14 @@
             {
               "title": "筑波実験植物園に行ってみた！！！ー後編ー | もすレコ。",
               "url": "https://mostgreenrecords.com/go_place/10623/"
+            },
+            {
+              "title": "ゆるり散策　Ⅱ-6 ② 筑波実験植物園(温室/アジサイ) ６月 2026.6.16",
+              "url": "https://greensnap.jp/greenBlog/31155287"
+            },
+            {
+              "title": "サバンナ温室がめっちゃ楽し〜い‼️筑波実験植物園の巻",
+              "url": "https://ameblo.jp/neponepochan/entry-12962106566.html"
             }
           ],
           "extra": {
@@ -682,7 +514,7 @@
           "city": "栃木市",
           "name": "とちぎ花センター",
           "type": "植物公園",
-          "note": "大型鑑賞温室と地方レジャー施設感。9:30～16:30",
+          "note": "大型鑑賞温室と地方レジャー施設感。9:30～16:30 地方型巨大温室。9:30～16:30",
           "official": "http://www.florence.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%81%A1%E3%81%8E%E8%8A%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%A0%83%E6%9C%A8%E5%B8%82%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -692,6 +524,14 @@
             {
               "title": "とちぎ花センター(栃木県栃木市) | 雨音のつぶやき",
               "url": "https://ameblo.jp/ameoto613/entry-12848016923.html"
+            },
+            {
+              "title": "とちぎ花センター（岩舟町）",
+              "url": "https://ameblo.jp/pool/entry-10028396005.html"
+            },
+            {
+              "title": "とちぎ花センター・三毳山の大温室訪問記（Garden vision）",
+              "url": "https://garden-vision.net/garden_visit/totigi_hc.html"
             }
           ],
           "extra": {
@@ -703,7 +543,7 @@
           "city": "前橋市",
           "name": "ぐんまフラワーパーク",
           "type": "植物公園",
-          "note": "再整備状況は訪問前確認推奨。9:00-17:00",
+          "note": "再整備状況は訪問前確認推奨。9:00-17:00 大型公園＋温室。9:00-17:00",
           "official": "http://www.flower-park.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%90%E3%82%93%E3%81%BE%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E5%89%8D%E6%A9%8B%E5%B8%82%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -871,7 +711,7 @@
           "city": "富山市",
           "name": "富山県中央植物園",
           "type": "植物園",
-          "note": "複数温室を公共施設的なホールで接続。9:00〜17:00。",
+          "note": "複数温室を公共施設的なホールで接続。9:00〜17:00。 大型温室群。9:00〜17:00。",
           "official": "http://www.bgtym.org/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E4%B8%AD%E5%A4%AE%E6%A4%8D%E7%89%A9%E5%9C%92%20%E5%AF%8C%E5%B1%B1%E5%B8%82%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -881,6 +721,10 @@
             {
               "title": "富山県中央植物園に行くの巻 | あたしンち",
               "url": "https://ameblo.jp/kimamamiyako0825/entry-12685588799.html"
+            },
+            {
+              "title": "富山県中央植物園温室の訪問記",
+              "url": "https://monstera.jp/monstera/archives/3062"
             }
           ],
           "extra": {
@@ -1039,7 +883,7 @@
           "city": "加西市",
           "name": "兵庫県立フラワーセンター",
           "type": "植物公園",
-          "note": "複数の温室、池、県立施設。地方公共植物園としてかなり強い。",
+          "note": "複数の温室、池、県立施設。地方公共植物園としてかなり強い。 地方型温室群。",
           "official": "https://flowercenter.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8A%A0%E8%A5%BF%E5%B8%82%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -1049,6 +893,10 @@
             {
               "title": "冬でも楽しめる！「兵庫県立フラワーセンター」に行ってきた〖加西市〗 | しゅんさんぽ",
               "url": "https://shunsanpo.com/hyogo-park-flower-center"
+            },
+            {
+              "title": "兵庫県立フラワーセンター｜めーみ",
+              "url": "https://note.com/mocha_kan/n/nc33143fc0ab1"
             }
           ],
           "extra": {
@@ -1078,10 +926,10 @@
         },
         {
           "prefecture": "兵庫県",
-          "city": "神戸市",
+          "city": "神戸市中央区",
           "name": "神戸どうぶつ王国",
           "type": "動植物複合施設",
-          "note": "旧花鳥園系。巨大な屋内植物空間として見ると面白い。",
+          "note": "旧花鳥園系。巨大な屋内植物空間として見ると面白い。 旧花鳥園系の巨大屋内温室。",
           "official": "https://www.kobe-oukoku.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E3%81%A9%E3%81%86%E3%81%B6%E3%81%A4%E7%8E%8B%E5%9B%BD%20%E7%A5%9E%E6%88%B8%E5%B8%82%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -1162,11 +1010,11 @@
         },
         {
           "prefecture": "広島県",
-          "city": "広島市",
+          "city": "広島市佐伯区",
           "name": "広島市植物公園",
           "type": "植物公園",
-          "note": "巨大ガラス温室と70年代公共施設感。かなり有力。",
-          "official": "",
+          "note": "巨大ガラス温室と70年代公共施設感。かなり有力。 巨大温室と長い園路。",
+          "official": "http://www.hiroshima-bot.jp/ennai/daionsitu/index.htm",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92%20%E5%BA%83%E5%B3%B6%E5%B8%82%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
           "officialSearch": "",
@@ -1175,6 +1023,10 @@
             {
               "title": "広島市植物公園・ベゴニア温室訪問記",
               "url": "https://ameblo.jp/geishu-itsukushima/entry-12732390397.html"
+            },
+            {
+              "title": "広島市植物公園に行きました（大温室編）。",
+              "url": "https://ameblo.jp/horidarnagasawa/entry-12672488213.html"
             }
           ],
           "extra": {
