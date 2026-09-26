@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 31,
-  "total": 1294,
+  "total": 1320,
   "materials": [
     {
       "id": "botanical",
@@ -22518,7 +22518,7 @@ window.FACILITY_DATASET={
       "name": "用途転換された歴史的建築",
       "shortName": "用途転換された歴史的建築",
       "file": "用途転換された歴史的建築.csv",
-      "count": 35,
+      "count": 61,
       "items": [
         {
           "prefecture": "神奈川県",
@@ -22970,6 +22970,404 @@ window.FACILITY_DATASET={
           "note": "1863年建築のグラバー邸。居住用洋館として使われた建物が、現在はグラバー園の公開文化財として利用されている。",
           "official": "https://www.city.nagasaki.lg.jp/page/1145.html",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E3%82%B0%E3%83%A9%E3%83%90%E3%83%BC%E4%BD%8F%E5%AE%85%20%E9%95%B7%E5%B4%8E%E7%9C%8C%20%E9%95%B7%E5%B4%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "K5",
+          "type": "旧銀行別館→ホテル・飲食施設",
+          "note": "1923年竣工の第一銀行別館を改修し、2020年にホテル・レストラン・バーの複合施設として開業。銀行建築の躯体とタイルを残す。",
+          "official": "https://k5-tokyo.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=K5%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "兜町再活性化プロジェクト",
+              "url": "https://www.heiwa-net.co.jp/business/redevelopment/kabuto_cho/case.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "日証館",
+          "type": "旧証券・金融施設→オフィス・店舗",
+          "note": "1928年竣工。東京株式取引所の付属施設・証券業界の建物として使われ、現在はオフィスと1階のチョコレート店・ラボ等に利用。アーチ開口を残す。",
+          "official": "https://www.heiwa-net.co.jp/recruit/career/office-tour.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E8%A8%BC%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建 日証館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/rekiken/1277/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "BANK（日本橋兜町）",
+          "type": "旧銀行店舗→飲食・物販施設",
+          "note": "旧銀行店舗を改修した兜町の複合商業施設。現在は飲食・物販店が入り、剥き出しのコンクリートと重厚な金庫を残す。",
+          "official": "https://www.heiwa-net.co.jp/business/redevelopment/kabuto_cho/case.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=BANK%EF%BC%88%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%85%9C%E7%94%BA%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "BANK開業資料",
+              "url": "https://prtimes.jp/main/html/rd/p/000000049.000024148.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市北区",
+          "name": "KITTE大阪",
+          "type": "旧郵便局→商業施設",
+          "note": "旧大阪中央郵便局舎の一部を保存・継承したJPタワー大阪低層部の商業施設。郵便局舎の記憶を商業空間に組み込む。",
+          "official": "https://osaka.jp-kitte.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=KITTE%E5%A4%A7%E9%98%AA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "倉敷市",
+          "name": "倉敷アイビースクエア",
+          "type": "旧紡績工場→ホテル・商業・文化施設",
+          "note": "1889年建設の倉敷紡績所本社工場を再開発し、1974年にホテル・レストラン・工房・文化施設へ転用。赤煉瓦工場の外観と基本構造を残す。",
+          "official": "https://www.ivysquare.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%80%89%E6%95%B7%E3%82%A2%E3%82%A4%E3%83%93%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "倉敷アイビースクエアの歴史",
+              "url": "https://www.ivysquare.co.jp/history/"
+            }
+          ]
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市中京区",
+          "name": "新風館",
+          "type": "旧電話局→ホテル・商業施設",
+          "note": "1926年竣工の旧京都中央電話局を保存活用した複合施設。現在はホテル、店舗、映画館などが入る。旧電話局の煉瓦外壁を残す。",
+          "official": "https://shinpuhkan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E9%A2%A8%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "芝川ビル",
+          "type": "旧事務所ビル→店舗・飲食施設",
+          "note": "1927年竣工の近代オフィスビル。現在は菓子店・飲食店・物販店などが入居し、マヤ・インカ風装飾と地下金庫を残す。",
+          "official": "https://shibakawa-bld.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%9D%E5%B7%9D%E3%83%93%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "北浜レトロビルヂング",
+          "type": "旧株仲買商・商社事務所→紅茶店・菓子店",
+          "note": "1912年建築の株式関係者の集会所・商館。戦後は商社本社として使われ、1997年から英国菓子舗・紅茶室として営業。地下金庫も残る。",
+          "official": "https://www.kitahama-retro.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%9C%E3%83%AC%E3%83%88%E3%83%AD%E3%83%93%E3%83%AB%E3%83%82%E3%83%B3%E3%82%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "大阪市 生きた建築ミュージアム",
+              "url": "https://www.city.osaka.lg.jp/toshiseibi/page/0000647403.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "神戸市中央区",
+          "name": "旧居留地38番館",
+          "type": "旧商社・銀行系オフィス→商業施設",
+          "note": "1929年竣工の旧ナショナルシティバンク神戸支店。現在は百貨店系の店舗として使われ、旧居留地の銀行建築外観を残す。",
+          "official": "https://www.daimaru.co.jp/kobe/foreign/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E5%B1%85%E7%95%99%E5%9C%B038%E7%95%AA%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "北海道",
+          "city": "函館市",
+          "name": "はこだて明治館",
+          "type": "旧郵便局→商業施設",
+          "note": "1911年築の旧函館郵便局。郵便局としての使用を終え、現在は店舗・展示が入る商業施設。赤煉瓦外壁と吹き抜けを残す。",
+          "official": "https://hakodate-meijikan.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AF%E3%81%93%E3%81%A0%E3%81%A6%E6%98%8E%E6%B2%BB%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%87%BD%E9%A4%A8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "北海道観光公式案内",
+              "url": "https://www.visit-hokkaido.jp/spot/detail_10098.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "函館市",
+          "name": "金森赤レンガ倉庫",
+          "type": "旧倉庫→商業施設",
+          "note": "港湾倉庫群を改修し、現在は店舗・飲食店・イベント施設として利用。煉瓦倉庫の構造と港湾物流の痕跡を残す。",
+          "official": "https://hakodate-kanemori.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E6%A3%AE%E8%B5%A4%E3%83%AC%E3%83%B3%E3%82%AC%E5%80%89%E5%BA%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%87%BD%E9%A4%A8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "北海道",
+          "city": "函館市",
+          "name": "函館市地域交流まちづくりセンター",
+          "type": "旧百貨店・庁舎→市民交流施設",
+          "note": "1923年竣工の丸井今井百貨店函館支店。百貨店移転後は市の分庁舎となり、2007年から市民活動・交流施設として利用。旧エレベーター塔を保存。",
+          "official": "https://hakomachi.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BD%E9%A4%A8%E5%B8%82%E5%9C%B0%E5%9F%9F%E4%BA%A4%E6%B5%81%E3%81%BE%E3%81%A1%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%87%BD%E9%A4%A8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "建物の歴史",
+              "url": "https://hakomachi.com/facility/history/"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市中央区",
+          "name": "北菓楼札幌本館",
+          "type": "旧図書館・文書館→菓子店舗",
+          "note": "1926年竣工の北海道庁立図書館。後に美術館・文書館別館として使われ、現在は菓子店舗へ転用。外壁・階段室・旧玄関ホールを保存。",
+          "official": "https://www.kitakaro.com/ext/tenpo/sapporohonkan.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E8%8F%93%E6%A5%BC%E6%9C%AD%E5%B9%8C%E6%9C%AC%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "BELCA賞 建物用途転換の紹介",
+              "url": "https://www.belca.or.jp/b142.htm"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "小樽市",
+          "name": "北一ホール",
+          "type": "旧倉庫→カフェ・喫茶店",
+          "note": "小樽の石造倉庫を改修し、現在はランプの灯る喫茶店として営業。倉庫の石造構造と内部空間を店舗に活用。",
+          "official": "https://www.kitaichiglass.co.jp/shop/kitaichi-hall/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B8%80%E3%83%9B%E3%83%BC%E3%83%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%B0%8F%E6%A8%BD%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "広島県",
+          "city": "尾道市",
+          "name": "ONOMICHI U2",
+          "type": "旧県営海運倉庫→ホテル・商業施設",
+          "note": "旧県営海運倉庫を改修した複合施設。現在はホテル、レストラン、ショップ、サイクリスト向け施設として利用。倉庫の大空間を残す。",
+          "official": "https://onomichi-u2.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=ONOMICHI%20U2%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%B0%BE%E9%81%93%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "島根県",
+          "city": "松江市",
+          "name": "カラコロ工房",
+          "type": "旧日本銀行支店→工房・飲食・物販施設",
+          "note": "1938年築の旧日本銀行松江支店を改修し、2000年から工房・店舗・飲食施設として利用。銀行建築の外観と内部空間を残す。",
+          "official": "https://karakoro-kobo.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%AD%E5%B7%A5%E6%88%BF%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%9D%BE%E6%B1%9F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "松江市 リニューアル案内",
+              "url": "https://www.city.matsue.lg.jp/sangyo_business/sangyoshinko/7/karakoro/20780.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "岡山市北区",
+          "name": "岡山禁酒会館",
+          "type": "旧禁酒運動施設→店舗・事務所・文化施設",
+          "note": "1923年竣工の禁酒運動の拠点。現在は事務所・店舗・イベント会場として使われ、空襲を免れた外観とタイルを残す。",
+          "official": "https://okayama-kanko.net/sightseeing/spot/494/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%A6%81%E9%85%92%E4%BC%9A%E9%A4%A8%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大分県",
+          "city": "大分市",
+          "name": "大分銀行赤レンガ館",
+          "type": "旧銀行本店→イベント・交流施設",
+          "note": "1913年築の旧二十三銀行本店。銀行店舗としての使用を終え、改修後は展示・イベント・交流の場として利用。銀行時代の時計や赤煉瓦を残す。",
+          "official": "https://www.oitabank.co.jp/atm/akarengakan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E9%8A%80%E8%A1%8C%E8%B5%A4%E3%83%AC%E3%83%B3%E3%82%AC%E9%A4%A8%20%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%A4%A7%E5%88%86%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大分県",
+          "city": "竹田市",
+          "name": "アートスペースカフェ大蔵清水湯",
+          "type": "旧銭湯→カフェ・アートスペース",
+          "note": "銭湯として地域に使われた建物を改修。現在はカフェとアートスペースとして利用され、浴場の設備・タイルを残す。",
+          "official": "https://ogura-shimizuyu.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%95%E3%82%A7%E5%A4%A7%E8%94%B5%E6%B8%85%E6%B0%B4%E6%B9%AF%20%E5%A4%A7%E5%88%86%E7%9C%8C%20%E7%AB%B9%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "加西市",
+          "name": "Colissimo",
+          "type": "旧郵便局→ギャラリー・カフェ",
+          "note": "築約70年の木造旧郵便局舎を改修し、現在はギャラリー・カフェとして利用。局舎の構造と記憶を残す。",
+          "official": "https://www.arbol-design.com/works/2015/6/8/2012colissimo-renovation-shop",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Colissimo%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%8A%A0%E8%A5%BF%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市中京区",
+          "name": "京都芸術センター",
+          "type": "旧小学校→芸術文化施設",
+          "note": "1931年竣工の明倫小学校校舎。1993年の閉校後、2000年に芸術文化施設へ転用。教室・講堂・正門を制作室や展示・公演空間として利用。",
+          "official": "https://www.kac.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E8%8A%B8%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "京都芸術センターの歩み",
+              "url": "https://www.kac.or.jp/history/"
+            }
+          ]
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市東山区",
+          "name": "ザ・ホテル青龍 京都清水",
+          "type": "旧小学校→ホテル",
+          "note": "1933年築の京都市立清水小学校校舎を保存活用し、ホテルへ転用。教室や校舎の外観を宿泊・飲食空間に生かす。",
+          "official": "https://www.princehotels.co.jp/seiryu-kiyomizu/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%83%9B%E3%83%86%E3%83%AB%E9%9D%92%E9%BE%8D%20%E4%BA%AC%E9%83%BD%E6%B8%85%E6%B0%B4%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "元清水小学校の保存活用",
+              "url": "https://www.princehotels.co.jp/seiryu-kiyomizu/experience/"
+            }
+          ]
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市中京区",
+          "name": "立誠ガーデン ヒューリック京都",
+          "type": "旧小学校→ホテル・商業・文化施設",
+          "note": "元立誠小学校の校舎・講堂を活用した複合施設。現在はホテル、飲食・物販、図書館、ホールとして利用。",
+          "official": "https://www.theresientgarden.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E8%AA%A0%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%20%E3%83%92%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E4%BA%AC%E9%83%BD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市下京区",
+          "name": "鮒鶴京都鴨川リゾート",
+          "type": "旧料亭・旅館→レストラン・婚礼施設",
+          "note": "旧料理旅館の木造建築を改修し、現在はレストラン・婚礼施設として利用。鴨川沿いの客室・階段・意匠を残す。",
+          "official": "https://funatsuru.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AE%92%E9%B6%B4%E4%BA%AC%E9%83%BD%E9%B4%A8%E5%B7%9D%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "香取市",
+          "name": "佐原商家町ホテル NIPPONIA",
+          "type": "旧商家・蔵→ホテル・飲食施設",
+          "note": "旧商家、土蔵、倉庫などを分散型ホテルへ転用。現在は客室・レストランとして利用し、商家の構造と町並みを残す。",
+          "official": "https://www.nipponia-sawara.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E5%8E%9F%E5%95%86%E5%AE%B6%E7%94%BA%E3%83%9B%E3%83%86%E3%83%AB%20NIPPONIA%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E9%A6%99%E5%8F%96%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "VMG施設紹介",
+              "url": "https://www.vmg.co.jp/venues/sawara/"
+            }
+          ]
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "姫路市",
+          "name": "旧網干銀行 湊倶楽部",
+          "type": "旧銀行→レストラン",
+          "note": "1921年頃の旧網干銀行建物を、銀行閉鎖・洋服店閉店後にレストランへ転用。銀行時代の窓枠・煉瓦外壁を残す。",
+          "official": "https://minato-club.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E7%B6%B2%E5%B9%B2%E9%8A%80%E8%A1%8C%20%E6%B9%8A%E5%80%B6%E6%A5%BD%E9%83%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%A7%AB%E8%B7%AF%E5%B8%82",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
