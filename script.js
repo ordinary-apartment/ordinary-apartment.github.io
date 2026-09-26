@@ -129,8 +129,7 @@ function facilitiesPage(selectedKey=null,selectedIndex=null){
   active('facilities');
   if(!document.querySelector('.facilities-ledger')){
     unfilteredList=null;
-    const jumps=materialDefinitions.map(([key,number,,short])=>`<button data-material-jump="${h(key)}"><span>${number}</span> ${h(short)}</button>`).join('');
-    main.innerHTML=`<div class="facilities-ledger"><div class="facilities-ledger-fixed"><div class="facility-index-bar"><div class="facility-title-line"><h1>施設資料総合台帳</h1><nav class="material-jumps" aria-label="資料内リンク">${jumps}</nav></div><span>資料 ${String(materialDefinitions.length).padStart(2,'0')}</span><span>収録 ${facilityEntries.length}</span><a href="https://www.google.com/maps" target="_blank" rel="noopener">Googleマップ ↗</a></div><div class="facility-search" role="search"><label for="facility-query">全資料検索</label><input id="facility-query" type="search" placeholder="都道府県・市区町村・施設名" autocomplete="off" aria-describedby="facility-search-status" value="${h(facilityQuery)}"><button id="clear-facility-search" type="button">解除</button><output id="facility-search-status" aria-live="polite"></output></div></div><div class="ledger-viewport"><div class="facilities-ledger-scroll" tabindex="0" role="region" aria-label="施設一覧"></div><aside id="facility-detail-panel" aria-label="選択した施設の詳細" hidden></aside></div></div>`;
+    main.innerHTML=`<div class="facilities-ledger"><div class="facilities-ledger-fixed"><div class="facility-search" role="search"><label for="facility-query">全資料検索</label><input id="facility-query" type="search" placeholder="都道府県・市区町村・施設名" autocomplete="off" aria-describedby="facility-search-status" value="${h(facilityQuery)}"><button id="clear-facility-search" type="button">解除</button><output id="facility-search-status" aria-live="polite"></output></div></div><div class="ledger-viewport"><div class="facilities-ledger-scroll" tabindex="0" role="region" aria-label="施設一覧"></div><aside id="facility-detail-panel" aria-label="選択した施設の詳細" hidden></aside></div></div>`;
     renderLedgerResults();wire();
     const input=document.querySelector('#facility-query'),scroller=document.querySelector('.facilities-ledger-scroll');
     input.addEventListener('input',event=>{if(!event.isComposing){facilityQuery=input.value;renderLedgerResults();}});
@@ -138,12 +137,6 @@ function facilitiesPage(selectedKey=null,selectedIndex=null){
     const clear=()=>{input.value='';facilityQuery='';renderLedgerResults();};
     document.querySelector('#clear-facility-search').onclick=()=>{clear();input.focus();};
     input.addEventListener('keydown',event=>{if(event.key==='Escape'){clear();event.preventDefault();}});
-    document.querySelectorAll('[data-material-jump]').forEach(button=>button.onclick=()=>{
-      if(facilityQuery)clear();
-      hideFacilityDetail();
-      const target=document.getElementById('material-'+button.dataset.materialJump);
-      if(target){target.open=true;scroller.scrollTop+=target.getBoundingClientRect().top-scroller.getBoundingClientRect().top;}
-    });
     // The panel overlays the list: closing it never changes the list geometry.
     scroller.addEventListener('wheel',event=>{if(event.deltaY)hideFacilityDetail();},{passive:true});
     let touchY=null;
@@ -157,8 +150,9 @@ function facilitiesPage(selectedKey=null,selectedIndex=null){
 }
 function materialPage(key){
   facilitiesPage();
-  const button=[...document.querySelectorAll('[data-material-jump]')].find(b=>b.dataset.materialJump===key);
-  button?.click();
+  const target=document.getElementById('material-'+key);
+  const scroller=document.querySelector('.facilities-ledger-scroll');
+  if(target&&scroller){target.open=true;scroller.scrollTop+=target.getBoundingClientRect().top-scroller.getBoundingClientRect().top;}
 }
 function facilityDetail(key,index){facilitiesPage(key,index)}
 function detail(id){

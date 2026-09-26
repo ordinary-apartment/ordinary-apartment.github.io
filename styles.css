@@ -92,7 +92,7 @@ header{height:42px;padding:0 12px}.brand{gap:7px}.brand i{width:19px;height:19px
 .facilities-index{padding-top:4px}.facility-index-bar{display:grid;grid-template-columns:minmax(0,1fr) auto auto auto;align-items:center;border-block:1px solid var(--line);font-size:10px}.facility-index-bar>*{margin:0;padding:2px 6px;border-right:1px solid var(--line);font-size:10px!important;font-weight:400}.facility-index-bar>*:last-child{border-right:0}.facility-index-bar a{color:var(--ink);text-decoration:none}.top-map-layout{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(280px,.55fr);gap:5px;margin-top:4px}.top-map{border:1px solid var(--line);background:rgba(244,244,231,.42)}.top-map iframe{display:block;width:100%;height:100%;min-height:150px;border:0}.facilities-index .material-file{padding-block:5px}@media(max-width:699px){.facility-index-bar{grid-template-columns:1fr auto auto}.facility-index-bar a{grid-column:1/-1;border-top:1px solid var(--line)}.top-map-layout{grid-template-columns:1fr}.top-map iframe{height:160px}.facilities-index .material-files{grid-template-columns:repeat(2,minmax(0,1fr))}.facilities-index .material-file{grid-template-columns:44px 1fr;padding:4px}.facilities-index .material-file span:last-child{grid-column:2}}
 
 /* 総合台帳：幅を親要素に合わせ、一覧を唯一のスクロール領域にする */
-.facilities-ledger{display:grid;grid-template-rows:auto minmax(0,1fr);height:calc(100vh - 44px);height:calc(100dvh - 44px);min-width:0;padding:3px 3vw 0;overflow:hidden}
+.facilities-ledger{display:grid;grid-template-rows:auto minmax(0,1fr);height:calc(100vh - 44px);height:calc(100dvh - 44px);min-width:0;padding:0 3vw;overflow:hidden}
 .facilities-ledger-fixed{min-width:0;background:var(--paper)}
 .facility-title-line{display:flex;min-width:0;align-items:center;gap:5px}
 .facility-title-line h1{flex:none;margin:0;white-space:nowrap;font-size:10px!important;font-weight:400}
@@ -147,11 +147,7 @@ details.all-material-section>summary:focus-visible{outline:2px solid var(--ink);
 .facility-record-head{gap:8px;flex-wrap:wrap}
 .facilities-ledger button:focus-visible,.facilities-ledger input:focus-visible,.facilities-ledger-scroll:focus-visible{outline:2px solid var(--deep);outline-offset:-2px}
 @media(max-width:699px){
-  .facilities-ledger{height:calc(100vh - 42px);height:calc(100dvh - 42px);padding:3px 6px 0}
-  .facility-index-bar{grid-template-columns:minmax(0,1fr) auto auto}
-  .facility-title-line{grid-column:1/-1;border-right:0!important;border-bottom:1px solid var(--line)}
-  .facility-index-bar>a{grid-column:auto;border-top:0}
-  .material-jumps{flex:1}
+  .facilities-ledger{height:calc(100vh - 42px);height:calc(100dvh - 42px);padding:0 6px}
   .facility-search{flex-wrap:wrap;gap:4px}
   .facility-search label{font-size:10px}
   .facility-search output{width:100%;text-align:right;line-height:1.2}
