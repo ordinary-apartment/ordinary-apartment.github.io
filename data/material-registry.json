@@ -169,5 +169,10 @@
     "file": "用途転換された歴史的建築.csv",
     "id": "csv-756297d636a50c48ca9f",
     "number": 31
+  },
+  {
+    "file": "時間が残る鉄道駅.csv",
+    "id": "csv-9f8b7c6d5e4a3210fedc",
+    "number": 32
   }
 ]

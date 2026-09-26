@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "materialCount": 31,
-  "total": 1331,
+  "materialCount": 32,
+  "total": 1338,
   "materials": [
     {
       "id": "botanical",
@@ -23567,6 +23567,153 @@
             {
               "title": "JPタワー（大成建設設計本部）",
               "url": "https://www.taisei-design.jp/de/feature/conservation/works/works_detail_12.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "csv-9f8b7c6d5e4a3210fedc",
+      "number": 32,
+      "name": "時間が残る鉄道駅",
+      "shortName": "時間が残る鉄道駅",
+      "file": "時間が残る鉄道駅.csv",
+      "count": 7,
+      "items": [
+        {
+          "prefecture": "千葉県",
+          "city": "成田市",
+          "name": "東成田駅（旧成田空港駅）",
+          "type": "現役駅内の旧ホーム・旧ターミナル",
+          "note": "1978年に成田空港駅として開業し、1991年に空港直結の新駅開業に伴って東成田駅へ改称。現役の東成田線・芝山鉄道の駅として使われる一方、旧スカイライナー用ホーム、旧「成田空港」駅名標、当時の広告・ベンチ、閉鎖エスカレーターや旧コンコースが残る。通常は現用ホーム・通路から観察でき、旧ホームは見学ツアー等で公開されることがある。",
+          "official": "https://new-www.keisei.co.jp/keisei/tetudou/accessj/higashi-narita.php",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%88%90%E7%94%B0%E9%A7%85%EF%BC%88%E6%97%A7%E6%88%90%E7%94%B0%E7%A9%BA%E6%B8%AF%E9%A7%85%EF%BC%89%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%88%90%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧成田空港駅（東成田駅）・乗りものニュース",
+              "url": "https://trafficnews.jp/post/126786"
+            },
+            {
+              "title": "東成田駅訪問記",
+              "url": "https://hirokun5150blog.com/shibayamanarita/"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市鶴見区",
+          "name": "国道駅",
+          "type": "現役駅の高架下・旧商業空間",
+          "note": "1930年開業のJR鶴見線の現役駅。国道15号と交差する高架下に、開業時から続くコンクリートアーチの通路と、かつて臨港デパートとして店舗が並んだ区画の空き店舗・旧店舗跡が残る。改札と高架下は通常利用者が歩いて確認できる。",
+          "official": "https://timetables.jreast.co.jp/timetable/list0681.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E9%81%93%E9%A7%85%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "国道駅の訪問記（トーキョー建築トリップ）",
+              "url": "https://yamakenlab.com/archives/kanagawa-kokudo_s.html"
+            },
+            {
+              "title": "国道駅（朝日マリオン）",
+              "url": "https://www.asahi-mullion.com/column/article/station/1329"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "両国駅3番線",
+          "type": "旧ターミナルの未使用ホーム",
+          "note": "房総方面列車のターミナルとして機能した両国駅に残る、定期旅客列車が発着しない3番線ホーム。総武快速線開業後に房総方面の始発機能が東京駅へ移り、現在は通常営業に使われないホームがイベント・撮影会などで活用される。現用の1・2番線ホームから位置を確認できる。",
+          "official": "https://media.jreast.co.jp/articles/2591",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%A1%E5%9B%BD%E9%A7%853%E7%95%AA%E7%B7%9A%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "両国駅3番線の訪問記",
+              "url": "https://note.com/record_danshi/n/n649b20be0d9c"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市神奈川区",
+          "name": "東神奈川駅旧1番線ホーム跡",
+          "type": "現役駅内の廃止ホーム跡",
+          "note": "横浜線の複線化に伴い1968年に廃止された旧1番線ホームの切込式ホーム跡。現在は保修車両の留置場所として使われ、現役の東神奈川駅構内から旧ホームの位置と痕跡を確認できる。",
+          "official": "https://www.jreast-timetable.jp/timetable/list1276.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D%E9%A7%85%E6%97%A71%E7%95%AA%E7%B7%9A%E3%83%9B%E3%83%BC%E3%83%A0%E8%B7%A1%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "旧博物館動物園駅",
+          "type": "廃止駅と現役京成本線が一体化した遺構",
+          "note": "1933年開業、1997年営業休止、2004年廃止。短い地下ホームと駅舎が残り、現在も京成本線の列車が駅跡を通過する。駅舎は改修され文化・芸術の場として利用され、地下ホームは列車通過時や公開機会に確認できる。",
+          "official": "https://www.keisei.co.jp/keisei/hakudou/about/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%8B%95%E7%89%A9%E5%9C%92%E9%A7%85%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧博物館動物園駅（台東区観光情報）",
+              "url": "https://t-navi.city.taito.lg.jp/spot/1099"
+            },
+            {
+              "title": "旧博物館動物園駅の再生（東京歴建）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/stories/1228/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "旧万世橋駅",
+          "type": "旧駅ホーム・階段を現役中央線高架下に残す施設",
+          "note": "1912年に完成した旧万世橋駅の高架部。旧駅の1912階段・1935階段・赤レンガ壁面・プラットホームが残り、現在は商業施設のデッキや店舗空間として公開され、両脇を現役中央線が走る。旧駅の鉄道遺構と現役鉄道の運行を同じ空間で観察できる。",
+          "official": "https://www.ejrcf.or.jp/mansei/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E4%B8%87%E4%B8%96%E6%A9%8B%E9%A7%85%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "マーチエキュート神田万世橋（公式施設案内）",
+              "url": "https://www.ecute.jp/maach/about.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市鶴見区",
+          "name": "本山駅跡",
+          "type": "現役鶴見線沿線に残る廃駅ホーム",
+          "note": "1930年に鶴見臨港鉄道の駅として開業し、1942年に廃止。現在も旧ホームの一部と駅舎側の階段跡が残り、JR鶴見線の列車内からプラットホーム跡を確認できる。駅舎部分は臨港バスの車庫として使われている。",
+          "official": "https://traininfo.jreast.co.jp/train_info/line.aspx?gid=1&lineid=tsurumiline",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AC%E5%B1%B1%E9%A7%85%E8%B7%A1%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "本山駅跡（鉄道駅跡訪問記）",
+              "url": "https://www.railwaystation.jp/haieki/honzan-tsurumi.html"
+            },
+            {
+              "title": "本山駅跡の現地写真記録",
+              "url": "https://wotakuwatubuyaku.hateblo.jp/entry/2021/07/23/220427"
             }
           ]
         }
