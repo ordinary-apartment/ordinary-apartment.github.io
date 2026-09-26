@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "materialCount": 30,
-  "total": 1261,
+  "total": 1259,
   "materials": [
     {
       "id": "botanical",
@@ -2759,7 +2759,7 @@
       "name": "社会科見学施設",
       "shortName": "社会科見学施設",
       "file": "社会科見学施設.csv",
-      "count": 66,
+      "count": 65,
       "items": [
         {
           "prefecture": "東京都",
@@ -2810,11 +2810,11 @@
         {
           "prefecture": "東京都",
           "city": "小平市",
-          "name": "ふれあい下水道館",
+          "name": "小平市ふれあい下水道館",
           "type": "上下水道",
-          "note": "実際の下水道管近くまで降りる展示。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
+          "note": "実際の下水道管近くまで降りる展示。月曜休館。10:00〜16:00。",
+          "official": "https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B9%B3%E5%B8%82%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
           "kind": "バックルーム",
           "officialSearch": "",
           "mapQueryName": "",
@@ -2833,7 +2833,7 @@
             }
           ],
           "extra": {
-            "参照": ""
+            "参照": "公式サイト：https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html"
           }
         },
         {
@@ -3325,27 +3325,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://6prc.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "小平市",
-          "name": "小平市ふれあい下水道館",
-          "type": "上下水道",
-          "note": "月曜休館。10:00〜16:00。",
-          "official": "https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B9%B3%E5%B8%82%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "日本で唯一下水道に入れる！？小平市ふれあい下水道館に行ってきた - えむえぬえる - 暇を楽しむ日記帳 -",
-              "url": "https://semi20251.hatenablog.com/entry/2025/09/17/193000_1"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html"
           }
         },
         {
@@ -4758,7 +4737,7 @@
       "name": "博物館",
       "shortName": "博物館",
       "file": "博物館.csv",
-      "count": 103,
+      "count": 102,
       "items": [
         {
           "prefecture": "愛媛県",
@@ -6251,11 +6230,11 @@
         {
           "prefecture": "三重県",
           "city": "鳥羽市",
-          "name": "海の博物館",
+          "name": "鳥羽市立海の博物館",
           "type": "海洋民俗",
-          "note": "9:00～17:00",
+          "note": "9:00～17:00。1989年竣工。",
           "official": "http://www.umihaku.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E9%B3%A5%E7%BE%BD%E5%B8%82",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E7%BE%BD%E5%B8%82%E7%AB%8B%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E9%B3%A5%E7%BE%BD%E5%B8%82",
           "kind": "海洋民俗",
           "officialSearch": "",
           "mapQueryName": "",
@@ -6263,10 +6242,14 @@
             {
               "title": "鳥羽市立海の博物館に行ってみた ＜木造船100艘＞と＜リアルな魚の模型＞がすごい〖三重県鳥羽市〗 - サカナト",
               "url": "https://sakanato.jp/17949/"
+            },
+            {
+              "title": "建築のテキスト｜海の博物館",
+              "url": "https://note.com/leq_q/n/nb0e43fd6790a"
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.umihaku.com/"
+            "参照": "公式サイト：http://www.umihaku.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%B3%AE%E7%BE%BD%E5%B8%82%E7%AB%8B%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -6561,27 +6544,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://kannonzaki-nature-museum.jimdofree.com/"
-          }
-        },
-        {
-          "prefecture": "三重県",
-          "city": "鳥羽市",
-          "name": "鳥羽市立海の博物館",
-          "type": "海洋・漁業",
-          "note": "9:00～17:00。1989年竣工。",
-          "official": "http://www.umihaku.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E7%BE%BD%E5%B8%82%E7%AB%8B%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E9%B3%A5%E7%BE%BD%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "建築のテキスト｜海の博物館",
-              "url": "https://note.com/leq_q/n/nb0e43fd6790a"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.umihaku.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%B3%A5%E7%BE%BD%E5%B8%82%E7%AB%8B%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8"
           }
         },
         {
