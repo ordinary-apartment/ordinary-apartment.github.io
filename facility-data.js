@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 30,
-  "total": 1313,
+  "total": 1275,
   "materials": [
     {
       "id": "botanical",
@@ -17220,217 +17220,25 @@ window.FACILITY_DATASET={
     {
       "id": "csv-882cdb3d8104ba14582e",
       "number": 19,
-      "name": "病院内タリーズ",
-      "shortName": "病院内タリーズ",
-      "file": "病院内タリーズ.csv",
-      "count": 53,
+      "name": "東京都内の病院内タリーズ",
+      "shortName": "東京都内の病院内タリーズ",
+      "file": "東京都内の病院内タリーズ.csv",
+      "count": 15,
       "items": [
-        {
-          "prefecture": "北海道",
-          "city": "札幌市中央区",
-          "name": "市立札幌病院店",
-          "type": "",
-          "note": "月〜金07:30～19:00、土〜日10:00～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%B8%82%E7%AB%8B%E6%9C%AD%E5%B9%8C%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B8%82%E7%AB%8B%E6%9C%AD%E5%B9%8C%E7%97%85%E9%99%A2%E5%BA%97%20%E5%B8%82%E7%AB%8B%E6%9C%AD%E5%B9%8C%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B8%82%E7%AB%8B%E6%9C%AD%E5%B9%8C%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "旭川市",
-          "name": "旭川赤十字病院店",
-          "type": "",
-          "note": "月〜金07:30～18:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%97%AD%E5%B7%9D%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%AD%E5%B7%9D%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E6%97%AD%E5%B7%9D%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%97%AD%E5%B7%9D%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "宮城県",
-          "city": "仙台市青葉区",
-          "name": "東北大学病院店",
-          "type": "",
-          "note": "月〜金08:30～19:00、土09:00～16:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "茨城県",
-          "city": "水戸市",
-          "name": "水戸赤十字病院店",
-          "type": "",
-          "note": "月〜金08:00～18:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%B0%B4%E6%88%B8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E6%88%B8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E6%B0%B4%E6%88%B8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%B0%B4%E6%88%B8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "茨城県",
-          "city": "土浦市",
-          "name": "土浦協同病院店",
-          "type": "",
-          "note": "",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%9C%9F%E6%B5%A6%E5%8D%94%E5%90%8C%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%9F%E6%B5%A6%E5%8D%94%E5%90%8C%E7%97%85%E9%99%A2%E5%BA%97%20%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%9C%9F%E6%B5%A6%E5%8D%94%E5%90%8C%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%9C%9F%E6%B5%A6%E5%8D%94%E5%90%8C%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "茨城県",
-          "city": "つくば市",
-          "name": "筑波大学附属病院店",
-          "type": "",
-          "note": "月〜金07:30～20:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97%20%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "埼玉県",
-          "city": "所沢市",
-          "name": "防衛医大病院店",
-          "type": "",
-          "note": "月〜金07:30～18:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E9%98%B2%E8%A1%9B%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%98%B2%E8%A1%9B%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97%20%E9%98%B2%E8%A1%9B%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E6%A0%A1%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%98%B2%E8%A1%9B%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "埼玉県",
-          "city": "川口市",
-          "name": "川口市立医療センター店",
-          "type": "",
-          "note": "月〜金07:30～18:00、土07:30～15:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "埼玉県",
-          "city": "上尾市",
-          "name": "上尾中央総合病院店",
-          "type": "",
-          "note": "",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E4%B8%8A%E5%B0%BE%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E5%B0%BE%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97%20%E4%B8%8A%E5%B0%BE%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E4%B8%8A%E5%B0%BE%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "千葉県",
-          "city": "松戸市",
-          "name": "千葉西総合病院店",
-          "type": "",
-          "note": "月〜土07:30～19:00、日09:30～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%8D%83%E8%91%89%E8%A5%BF%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E8%A5%BF%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97%20%E5%8D%83%E8%91%89%E8%A5%BF%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%8D%83%E8%91%89%E8%A5%BF%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "栃木県",
-          "city": "下都賀郡壬生町",
-          "name": "獨協医科大学病院店",
-          "type": "",
-          "note": "月〜金07:50～19:00、土07:50～18:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E7%8D%A8%E5%8D%94%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%8D%A8%E5%8D%94%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E7%8D%A8%E5%8D%94%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%8D%A8%E5%8D%94%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "埼玉県",
-          "city": "戸田市",
-          "name": "戸田中央総合病院店",
-          "type": "",
-          "note": "月〜金07:30～19:00、土07:30～16:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%88%B8%E7%94%B0%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%88%B8%E7%94%B0%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97%20%E6%88%B8%E7%94%B0%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%88%B8%E7%94%B0%E4%B8%AD%E5%A4%AE%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
         {
           "prefecture": "東京都",
           "city": "文京区",
           "name": "好仁会東大病院店",
           "type": "",
           "note": "月〜金08:00～20:00、土〜日09:00～19:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%A5%BD%E4%BB%81%E4%BC%9A%E6%9D%B1%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97",
+          "official": "https://shop.tullys.co.jp/detail/1700197",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%BD%E4%BB%81%E4%BC%9A%E6%9D%B1%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%A5%BD%E4%BB%81%E4%BC%9A%E6%9D%B1%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1700197"
           }
         },
         {
@@ -17439,14 +17247,14 @@ window.FACILITY_DATASET={
           "name": "順天堂大学練馬病院店",
           "type": "",
           "note": "月〜金07:00～18:00、土07:30～17:00、日09:00～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E9%A0%86%E5%A4%A9%E5%A0%82%E5%A4%A7%E5%AD%A6%E7%B7%B4%E9%A6%AC%E7%97%85%E9%99%A2%E5%BA%97",
+          "official": "https://shop.tullys.co.jp/detail/1000848",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A0%86%E5%A4%A9%E5%A0%82%E5%A4%A7%E5%AD%A6%E7%B7%B4%E9%A6%AC%E7%97%85%E9%99%A2%E5%BA%97%20%E9%A0%86%E5%A4%A9%E5%A0%82%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%B7%B4%E9%A6%AC%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%A0%86%E5%A4%A9%E5%A0%82%E5%A4%A7%E5%AD%A6%E7%B7%B4%E9%A6%AC%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1000848"
           }
         },
         {
@@ -17455,14 +17263,14 @@ window.FACILITY_DATASET={
           "name": "がん研有明病院店",
           "type": "",
           "note": "月〜金07:30～18:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E3%81%8C%E3%82%93%E7%A0%94%E6%9C%89%E6%98%8E%E7%97%85%E9%99%A2%E5%BA%97",
+          "official": "https://shop.tullys.co.jp/detail/1000451",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8C%E3%82%93%E7%A0%94%E6%9C%89%E6%98%8E%E7%97%85%E9%99%A2%E5%BA%97%20%E3%81%8C%E3%82%93%E7%A0%94%E6%9C%89%E6%98%8E%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E3%81%8C%E3%82%93%E7%A0%94%E6%9C%89%E6%98%8E%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1000451"
           }
         },
         {
@@ -17471,14 +17279,14 @@ window.FACILITY_DATASET={
           "name": "国立国際医療センター店",
           "type": "",
           "note": "月〜金07:30～18:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
+          "official": "https://shop.tullys.co.jp/detail/1000845",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%9B%BD%E7%AB%8B%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E9%9A%9B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1000845"
           }
         },
         {
@@ -17487,14 +17295,14 @@ window.FACILITY_DATASET={
           "name": "武蔵野赤十字病院店",
           "type": "",
           "note": "月〜金07:30～19:00、土09:00～15:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%AD%A6%E8%94%B5%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
+          "official": "https://shop.tullys.co.jp/detail/1003322",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E6%AD%A6%E8%94%B5%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%AD%A6%E8%94%B5%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1003322"
           }
         },
         {
@@ -17502,15 +17310,15 @@ window.FACILITY_DATASET={
           "city": "品川区",
           "name": "昭和医科大学病院店",
           "type": "",
-          "note": "平日 7:30〜18:00、土曜 7:30〜17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
+          "note": "月〜金07:30～18:00、土07:30～17:00",
+          "official": "https://shop.tullys.co.jp/detail/4910643",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/4910643"
           }
         },
         {
@@ -17519,14 +17327,14 @@ window.FACILITY_DATASET={
           "name": "国立精神・神経医療研究センター店",
           "type": "",
           "note": "月〜金09:00～18:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%9B%BD%E7%AB%8B%E7%B2%BE%E7%A5%9E%E3%83%BB%E7%A5%9E%E7%B5%8C%E5%8C%BB%E7%99%82%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
+          "official": "https://shop.tullys.co.jp/detail/1000594",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E7%B2%BE%E7%A5%9E%E3%83%BB%E7%A5%9E%E7%B5%8C%E5%8C%BB%E7%99%82%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%9B%BD%E7%AB%8B%E7%B2%BE%E7%A5%9E%E3%83%BB%E7%A5%9E%E7%B5%8C%E5%8C%BB%E7%99%82%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%9B%BD%E7%AB%8B%E7%B2%BE%E7%A5%9E%E3%83%BB%E7%A5%9E%E7%B5%8C%E5%8C%BB%E7%99%82%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1000594"
           }
         },
         {
@@ -17535,14 +17343,14 @@ window.FACILITY_DATASET={
           "name": "東京医科大学病院店",
           "type": "",
           "note": "月〜金07:00～18:00、土07:00～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
+          "official": "https://shop.tullys.co.jp/detail/1003076",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E4%BA%AC%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1003076"
           }
         },
         {
@@ -17551,14 +17359,14 @@ window.FACILITY_DATASET={
           "name": "東邦大森病院店",
           "type": "",
           "note": "月〜金08:00～18:00、土09:00～15:00、日10:00～15:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E9%82%A6%E5%A4%A7%E6%A3%AE%E7%97%85%E9%99%A2%E5%BA%97",
+          "official": "https://shop.tullys.co.jp/detail/1690470",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E9%82%A6%E5%A4%A7%E6%A3%AE%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E9%82%A6%E5%A4%A7%E5%AD%A6%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%A4%A7%E6%A3%AE%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E9%82%A6%E5%A4%A7%E6%A3%AE%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1690470"
           }
         },
         {
@@ -17567,510 +17375,94 @@ window.FACILITY_DATASET={
           "name": "東京女子医科大学病院店",
           "type": "",
           "note": "月〜金07:30～18:00、土08:00～16:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
+          "official": "https://shop.tullys.co.jp/detail/1000504",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1000504"
           }
         },
         {
-          "prefecture": "神奈川県",
-          "city": "横浜市中区",
-          "name": "横浜市立みなと赤十字病院店",
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "昭和医科大学江東豊洲病院店",
           "type": "",
-          "note": "",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%AB%8B%E3%81%BF%E3%81%AA%E3%81%A8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%AB%8B%E3%81%BF%E3%81%AA%E3%81%A8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%AB%8B%E3%81%BF%E3%81%AA%E3%81%A8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
+          "note": "月〜金09:00～16:00、土09:00～15:00",
+          "official": "https://shop.tullys.co.jp/detail/4190790",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E6%B1%9F%E6%9D%B1%E8%B1%8A%E6%B4%B2%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%AB%8B%E3%81%BF%E3%81%AA%E3%81%A8%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/4190790"
           }
         },
         {
-          "prefecture": "神奈川県",
-          "city": "横浜市青葉区",
-          "name": "昭和医科大学藤が丘病院店",
+          "prefecture": "東京都",
+          "city": "中野区",
+          "name": "東京警察病院店",
           "type": "",
-          "note": "月〜金07:30～19:00、土07:30～18:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E8%97%A4%E3%81%8C%E4%B8%98%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E8%97%A4%E3%81%8C%E4%B8%98%E7%97%85%E9%99%A2%E5%BA%97%20%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E8%97%A4%E3%81%8C%E4%B8%98%E7%97%85%E9%99%A2%E5%86%85",
+          "note": "月〜土07:30～18:00",
+          "official": "https://shop.tullys.co.jp/detail/1003077",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E8%AD%A6%E5%AF%9F%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%98%AD%E5%92%8C%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E8%97%A4%E3%81%8C%E4%B8%98%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1003077"
           }
         },
         {
-          "prefecture": "神奈川県",
-          "city": "藤沢市",
-          "name": "湘南藤沢徳洲会病院店",
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "日本赤十字社医療センター店",
           "type": "",
-          "note": "月〜土07:30～19:00、日09:00～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%B9%98%E5%8D%97%E8%97%A4%E6%B2%A2%E5%BE%B3%E6%B4%B2%E4%BC%9A%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B9%98%E5%8D%97%E8%97%A4%E6%B2%A2%E5%BE%B3%E6%B4%B2%E4%BC%9A%E7%97%85%E9%99%A2%E5%BA%97%20%E6%B9%98%E5%8D%97%E8%97%A4%E6%B2%A2%E5%BE%B3%E6%B4%B2%E4%BC%9A%E7%97%85%E9%99%A2%E5%86%85",
+          "note": "月〜金08:00～20:00、土〜日09:00～19:00",
+          "official": "https://shop.tullys.co.jp/detail/1000536",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E8%B5%A4%E5%8D%81%E5%AD%97%E7%A4%BE%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%B9%98%E5%8D%97%E8%97%A4%E6%B2%A2%E5%BE%B3%E6%B4%B2%E4%BC%9A%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1000536"
           }
         },
         {
-          "prefecture": "神奈川県",
-          "city": "川崎市宮前区",
-          "name": "聖マリアンナ医科大学病院店",
+          "prefecture": "東京都",
+          "city": "狛江市",
+          "name": "慈恵医大西部医療センター店",
           "type": "",
-          "note": "月〜金07:30～20:30、土07:30～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E8%81%96%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8A%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%81%96%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8A%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E8%81%96%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8A%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
+          "note": "月〜金07:00～18:00、土07:00～18:00、日10:00～17:00",
+          "official": "https://shop.tullys.co.jp/detail/1003325",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%85%88%E6%81%B5%E5%8C%BB%E5%A4%A7%E8%A5%BF%E9%83%A8%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%8B%9B%E6%B1%9F%E5%B8%82",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E8%81%96%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8A%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/1003325"
           }
         },
         {
-          "prefecture": "富山県",
-          "city": "富山市",
-          "name": "富山県立中央病院店",
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "JR東京総合病院店",
           "type": "",
-          "note": "月〜金07:30～19:30",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%E5%BA%97%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%E5%86%85",
+          "note": "月〜金08:00～18:00",
+          "official": "https://shop.tullys.co.jp/detail/5663339",
+          "maps": "https://www.google.com/maps/search/?api=1&query=JR%E6%9D%B1%E4%BA%AC%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
           "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "石川県",
-          "city": "金沢市",
-          "name": "金沢大学病院店",
-          "type": "",
-          "note": "月〜金07:30～19:00、土〜日10:00～16:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E9%87%91%E6%B2%A2%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E6%B2%A2%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E9%87%91%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%87%91%E6%B2%A2%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "福井県",
-          "city": "吉田郡永平寺町",
-          "name": "福井大学病院店",
-          "type": "",
-          "note": "月〜金07:30～20:00、土〜日09:00～18:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E7%A6%8F%E4%BA%95%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E7%A6%8F%E4%BA%95%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%A6%8F%E4%BA%95%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "福井県",
-          "city": "福井市",
-          "name": "福井赤十字病院店",
-          "type": "",
-          "note": "月〜金07:30～18:00、土09:00～15:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E7%A6%8F%E4%BA%95%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E7%A6%8F%E4%BA%95%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%A6%8F%E4%BA%95%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "長野県",
-          "city": "長野市",
-          "name": "長野赤十字病院店",
-          "type": "",
-          "note": "月〜金07:00～18:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E9%95%B7%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E9%95%B7%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%95%B7%E9%87%8E%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "京都府",
-          "city": "京都市左京区",
-          "name": "京都大学病院店",
-          "type": "",
-          "note": "月〜金07:30～19:00、土〜日09:00～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "滋賀県",
-          "city": "大津市",
-          "name": "滋賀医大病院店",
-          "type": "",
-          "note": "月〜金08:00～19:00、土〜日10:00～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%BB%8B%E8%B3%80%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97%20%E6%BB%8B%E8%B3%80%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%BB%8B%E8%B3%80%E5%8C%BB%E5%A4%A7%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市福島区",
-          "name": "JCHO大阪病院店",
-          "type": "",
-          "note": "月〜金08:00～19:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=JCHO%E5%A4%A7%E9%98%AA%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=JCHO%E5%A4%A7%E9%98%AA%E7%97%85%E9%99%A2%E5%BA%97%20JCHO%E5%A4%A7%E9%98%AA%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=JCHO%E5%A4%A7%E9%98%AA%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市天王寺区",
-          "name": "大阪赤十字病院店",
-          "type": "",
-          "note": "月〜金07:00～20:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%A4%A7%E9%98%AA%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E5%A4%A7%E9%98%AA%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%A4%A7%E9%98%AA%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市住吉区",
-          "name": "府立総合医療センター店",
-          "type": "",
-          "note": "月〜金07:00～20:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%BA%9C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%9C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AB%8B%E7%97%85%E9%99%A2%E6%A9%9F%E6%A7%8B%E5%A4%A7%E9%98%AA%E6%80%A5%E6%80%A7%E6%9C%9F%E3%83%BB%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%BA%9C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "神戸市中央区",
-          "name": "神戸中央市民病院店",
-          "type": "",
-          "note": "月〜金07:00～19:00、土〜日11:00～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E7%A5%9E%E6%88%B8%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97%20%E7%A5%9E%E6%88%B8%E5%B8%82%E7%AB%8B%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%A5%9E%E6%88%B8%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "西宮市",
-          "name": "兵庫医科大学病院店",
-          "type": "",
-          "note": "月〜日07:00～20:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%85%B5%E5%BA%AB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E5%85%B5%E5%BA%AB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%85%B5%E5%BA%AB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "加古川市",
-          "name": "加古川中央市民病院店",
-          "type": "",
-          "note": "月〜金07:00～19:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%8A%A0%E5%8F%A4%E5%B7%9D%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8A%A0%E5%8F%A4%E5%B7%9D%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97%20%E5%8A%A0%E5%8F%A4%E5%B7%9D%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%8A%A0%E5%8F%A4%E5%B7%9D%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "和歌山県",
-          "city": "和歌山市",
-          "name": "日本赤十字社和歌山医療センター店",
-          "type": "",
-          "note": "月〜金07:00～19:00、土〜日12:00～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%97%A5%E6%9C%AC%E8%B5%A4%E5%8D%81%E5%AD%97%E7%A4%BE%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E8%B5%A4%E5%8D%81%E5%AD%97%E7%A4%BE%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E6%97%A5%E6%9C%AC%E8%B5%A4%E5%8D%81%E5%AD%97%E7%A4%BE%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%97%A5%E6%9C%AC%E8%B5%A4%E5%8D%81%E5%AD%97%E7%A4%BE%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "鳥取県",
-          "city": "米子市",
-          "name": "鳥取大学医学部附属病院店",
-          "type": "",
-          "note": "月〜金08:00～19:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E9%B3%A5%E5%8F%96%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97%20%E9%B3%A5%E5%8F%96%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%B3%A5%E5%8F%96%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "岡山県",
-          "city": "岡山市北区",
-          "name": "岡山市民病院店",
-          "type": "",
-          "note": "月〜金09:00～18:00、土〜日11:00～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%B2%A1%E5%B1%B1%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97%20%E5%B2%A1%E5%B1%B1%E5%B8%82%E7%AB%8B%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B2%A1%E5%B1%B1%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "山口県",
-          "city": "宇部市",
-          "name": "山口大学医学部附属病院店",
-          "type": "",
-          "note": "月〜金08:00～18:00、土12:00～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%B1%B1%E5%8F%A3%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97%20%E5%B1%B1%E5%8F%A3%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B1%B1%E5%8F%A3%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "山口県",
-          "city": "防府市",
-          "name": "山口県立総合医療センター店",
-          "type": "",
-          "note": "月〜金07:30～18:00、土12:00～17:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "山口県",
-          "city": "岩国市",
-          "name": "岩国医療センター店",
-          "type": "",
-          "note": "月〜金08:00～17:30",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%B2%A9%E5%9B%BD%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E5%9B%BD%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97%20%E5%9B%BD%E7%AB%8B%E7%97%85%E9%99%A2%E6%A9%9F%E6%A7%8B%E5%B2%A9%E5%9B%BD%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%B2%A9%E5%9B%BD%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "徳島県",
-          "city": "徳島市",
-          "name": "徳島大学病院店",
-          "type": "",
-          "note": "月〜金07:30～17:30",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E5%BE%B3%E5%B3%B6%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E5%BE%B3%E5%B3%B6%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E5%BE%B3%E5%B3%B6%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "愛媛県",
-          "city": "松山市",
-          "name": "松山赤十字病院店",
-          "type": "",
-          "note": "月〜金07:30～19:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%9D%BE%E5%B1%B1%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B1%B1%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97%20%E6%9D%BE%E5%B1%B1%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%9D%BE%E5%B1%B1%E8%B5%A4%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "愛媛県",
-          "city": "東温市",
-          "name": "愛媛大学病院店",
-          "type": "",
-          "note": "月〜金08:00～18:30",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E6%84%9B%E5%AA%9B%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E6%84%9B%E5%AA%9B%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E6%84%9B%E5%AA%9B%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "高知県",
-          "city": "南国市",
-          "name": "高知大学病院店",
-          "type": "",
-          "note": "月〜金08:00～19:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E9%AB%98%E7%9F%A5%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E9%AB%98%E7%9F%A5%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E9%AB%98%E7%9F%A5%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "福岡市東区",
-          "name": "九州大学病院店",
-          "type": "",
-          "note": "月〜日07:00～20:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "北九州市八幡西区",
-          "name": "産業医科大学病院店",
-          "type": "",
-          "note": "月〜金08:15～18:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E7%94%A3%E6%A5%AD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%A3%E6%A5%AD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E7%94%A3%E6%A5%AD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%94%A3%E6%A5%AD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "熊本県",
-          "city": "熊本市中央区",
-          "name": "熊本大学病院店",
-          "type": "",
-          "note": "月〜金08:00～18:00、土〜日11:00～16:00",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E7%86%8A%E6%9C%AC%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E7%86%8A%E6%9C%AC%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%86%8A%E6%9C%AC%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
-          }
-        },
-        {
-          "prefecture": "沖縄県",
-          "city": "宜野湾市",
-          "name": "琉球大学病院店",
-          "type": "",
-          "note": "月〜金07:45～17:30",
-          "official": "https://shop.tullys.co.jp/all?keyword=%E7%90%89%E7%90%83%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%90%89%E7%90%83%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97%20%E7%90%89%E7%90%83%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%86%85",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://shop.tullys.co.jp/all?keyword=%E7%90%89%E7%90%83%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E5%BA%97"
+            "参照": "公式サイト:https://shop.tullys.co.jp/detail/5663339"
           }
         }
       ]
