@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 31,
-  "total": 1330,
+  "total": 1331,
   "materials": [
     {
       "id": "botanical",
@@ -22518,7 +22518,7 @@ window.FACILITY_DATASET={
       "name": "用途転換された歴史的建築",
       "shortName": "用途転換された歴史的建築",
       "file": "用途転換された歴史的建築.csv",
-      "count": 71,
+      "count": 72,
       "items": [
         {
           "prefecture": "神奈川県",
@@ -23545,6 +23545,28 @@ window.FACILITY_DATASET={
             {
               "title": "昭和の印刷工場を文化複合施設へ（MEBIC）",
               "url": "https://www.mebic.com/collabo/case-101.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "KITTE丸の内（旧東京中央郵便局舎）",
+          "type": "旧郵便局→商業・文化・複合施設",
+          "note": "1931年竣工の東京中央郵便局舎。東京駅前で郵便局として使われた旧局舎の一部をJPタワー建設時に保存・再生し、現在はKITTE丸の内の商業・文化・複合施設として利用。旧局舎の保存部分には郵便局の窓口ロビーや八角形の柱、黒大理石、モザイクタイル、カウンターなどの内装材が残り、4階には当時の素材を使って再現した旧東京中央郵便局長室がある。旧局舎の一部を新築JPタワー低層部へ組み込んだ保存再生（C）。",
+          "official": "https://www.jp-re.japanpost.jp/properties/jptower.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=KITTE%E4%B8%B8%E3%81%AE%E5%86%85%EF%BC%88%E6%97%A7%E6%9D%B1%E4%BA%AC%E4%B8%AD%E5%A4%AE%E9%83%B5%E4%BE%BF%E5%B1%80%E8%88%8E%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "ＫＩＴＴＥ（千代田区観光協会）",
+              "url": "https://visit-chiyoda.tokyo/app/spot/detail/345"
+            },
+            {
+              "title": "JPタワー（大成建設設計本部）",
+              "url": "https://www.taisei-design.jp/de/feature/conservation/works/works_detail_12.html"
             }
           ]
         }
