@@ -4737,7 +4737,7 @@
       "name": "博物館",
       "shortName": "博物館",
       "file": "博物館.csv",
-      "count": 102,
+      "count": 90,
       "items": [
         {
           "prefecture": "愛媛県",
@@ -5131,27 +5131,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://shirase-kinenkan.jp/"
-          }
-        },
-        {
-          "prefecture": "秋田県",
-          "city": "大潟村",
-          "name": "大潟村干拓博物館",
-          "type": "干拓・農業",
-          "note": "9:00～16:30。 火曜日休館。",
-          "official": "https://museum.vill.ogata.akita.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%BD%9F%E6%9D%91%E5%B9%B2%E6%8B%93%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E5%A4%A7%E6%BD%9F%E6%9D%91",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "#789 秋田県完全制覇の旅（1）〜大潟村と八郎潟〜｜かずとらべる（市町村紀行）",
-              "url": "https://note.com/biwanosho_mio/n/n6ae21d5bc817"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://museum.vill.ogata.akita.jp/"
           }
         },
         {
@@ -5886,27 +5865,6 @@
           }
         },
         {
-          "prefecture": "北海道",
-          "city": "札幌市中央区",
-          "name": "札幌市資料館",
-          "type": "歴史・建築",
-          "note": "旧控訴院庁舎を利用した資料館。建物内部と法廷展示。 月曜日休館。",
-          "official": "http://www.s-shiryokan.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "歴史・建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "札幌市資料館に行ってきました(2026.8.22）｜北海道さっぽろ観光案内所",
-              "url": "https://note.com/tourist_info/n/n6de8a460a477"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.s-shiryokan.jp/"
-          }
-        },
-        {
           "prefecture": "山形県",
           "city": "山形市",
           "name": "山形大学附属博物館",
@@ -6207,52 +6165,6 @@
           }
         },
         {
-          "prefecture": "愛知県",
-          "city": "名古屋市東区",
-          "name": "名古屋市市政資料館",
-          "type": "市政・建築",
-          "note": "旧裁判所建築と市政・司法資料を公開。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%B8%82%E6%94%BF%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%9D%B1%E5%8C%BA",
-          "kind": "市政・建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "名古屋市市政資料館へ行ってきた – ＠半径とことこ60分",
-              "url": "https://tocotoco60.com/nagoya-city-archives/"
-            }
-          ],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "三重県",
-          "city": "鳥羽市",
-          "name": "鳥羽市立海の博物館",
-          "type": "海洋民俗",
-          "note": "9:00～17:00。1989年竣工。",
-          "official": "http://www.umihaku.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E7%BE%BD%E5%B8%82%E7%AB%8B%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E9%B3%A5%E7%BE%BD%E5%B8%82",
-          "kind": "海洋民俗",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "鳥羽市立海の博物館に行ってみた ＜木造船100艘＞と＜リアルな魚の模型＞がすごい〖三重県鳥羽市〗 - サカナト",
-              "url": "https://sakanato.jp/17949/"
-            },
-            {
-              "title": "建築のテキスト｜海の博物館",
-              "url": "https://note.com/leq_q/n/nb0e43fd6790a"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.umihaku.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%B3%AE%E7%BE%BD%E5%B8%82%E7%AB%8B%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8"
-          }
-        },
-        {
           "prefecture": "滋賀県",
           "city": "長浜市",
           "name": "長浜鉄道スクエア",
@@ -6313,27 +6225,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://japan-toy-museum.org/"
-          }
-        },
-        {
-          "prefecture": "奈良県",
-          "city": "奈良市",
-          "name": "奈良町資料館",
-          "type": "地域史・民俗",
-          "note": "町家空間に奈良町の民俗資料を集めた小規模館。",
-          "official": "http://naramachi.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E7%94%BA%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%A5%88%E8%89%AF%E7%9C%8C%20%E5%A5%88%E8%89%AF%E5%B8%82",
-          "kind": "地域史・民俗",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "奈良町資料館の訪問記（写真・展示）",
-              "url": "https://ameblo.jp/lastomablog/entry-12963811918.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://naramachi.co.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E7%94%BA%E8%B3%87%E6%96%99%E9%A4%A8"
           }
         },
         {
@@ -6484,27 +6375,6 @@
           }
         },
         {
-          "prefecture": "沖縄県",
-          "city": "那覇市",
-          "name": "那覇市立壺屋焼物博物館",
-          "type": "陶芸・地域史",
-          "note": "",
-          "official": "http://www.edu.city.naha.okinawa.jp/tsuboya/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%82%A3%E8%A6%87%E5%B8%82%E7%AB%8B%E5%A3%BA%E5%B1%8B%E7%84%BC%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E9%82%A3%E8%A6%87%E5%B8%82",
-          "kind": "陶芸・地域史",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "【博物館訪問】那覇市立壺屋焼物博物館（沖縄）",
-              "url": "https://note.com/lucky_meron/n/necc2f62a0dd1"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.edu.city.naha.okinawa.jp/tsuboya/"
-          }
-        },
-        {
           "prefecture": "千葉県",
           "city": "勝浦市",
           "name": "千葉県立中央博物館分館 海の博物館",
@@ -6611,90 +6481,6 @@
         },
         {
           "prefecture": "東京都",
-          "city": "大田区",
-          "name": "大田区立郷土博物館",
-          "type": "郷土資料館",
-          "note": "自治体展示・受付・展示ケース・公共施設内装。小規模自治体資料館系。",
-          "official": "http://www.city.ota.tokyo.jp/seikatsu/manabu/hakubutsukan/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "大田区立郷土博物館（東京都大田区）",
-              "url": "https://ameblo.jp/kofun-0524/entry-12818389684.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.ota.tokyo.jp/seikatsu/manabu/hakubutsukan/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "杉並区",
-          "name": "杉並区立郷土博物館 本館",
-          "type": "郷土資料館",
-          "note": "周辺環境込みでおすすめ。",
-          "official": "http://www.city.suginami.tokyo.jp/histmus/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%89%E4%B8%A6%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9C%AC%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%89%E4%B8%A6%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "杉並区立郷土博物館に行ってきたぞ",
-              "url": "https://note.com/quick_snake1866/n/ndb863f67a782"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.suginami.tokyo.jp/histmus/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "板橋区",
-          "name": "板橋区立郷土資料館",
-          "type": "郷土資料館",
-          "note": "自治体展示・展示ケース・休憩空間。古い公共展示施設感を狙える。1969年開館。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "板橋区赤塚・板橋区立郷土資料館。!(^^)!",
-              "url": "https://ameblo.jp/chiba-rekishi/entry-12877155920.html"
-            }
-          ],
-          "extra": {
-            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "世田谷区",
-          "name": "世田谷区立郷土資料館",
-          "type": "郷土資料館",
-          "note": "建築・展示室双方が対象。 月曜日休館。9:00〜16:30。",
-          "official": "https://www.city.setagaya.lg.jp/mokuji/kusei/012/011/002/d00138265.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "世田谷区立郷土資料館",
-              "url": "https://note.com/kagiya_012/n/n3ee4eefc6690"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.setagaya.lg.jp/mokuji/kusei/012/011/002/d00138265.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
           "city": "葛飾区",
           "name": "葛飾区郷土と天文の博物館",
           "type": "博物館・プラネタリウム",
@@ -6712,48 +6498,6 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.museum.city.katsushika.lg.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "豊島区",
-          "name": "豊島区立郷土資料館",
-          "type": "郷土資料館",
-          "note": "産業振興施設内の自治体展示。ビル内公共施設感。",
-          "official": "http://www.city.toshima.lg.jp/bunka/bunka/shiryokan/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E5%B3%B6%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "たのしいぞ郷土資料館　「豊島区立郷土資料館」",
-              "url": "https://note.com/nuimogu/n/ne34964cf08f9"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.toshima.lg.jp/bunka/bunka/shiryokan/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "港区",
-          "name": "港区立郷土歴史館",
-          "type": "郷土資料館",
-          "note": "旧公衆衛生院を活用。",
-          "official": "https://www.minato-rekishi.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%AF%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E6%AD%B4%E5%8F%B2%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "港区立郷土歴史館を訪ねる",
-              "url": "https://gochan-blg.hatenablog.com/entry/2024/12/06/000000"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.minato-rekishi.com/"
           }
         },
         {
@@ -19104,7 +18848,7 @@
       "name": "地域文化施設",
       "shortName": "地域文化施設",
       "file": "地域文化施設.csv",
-      "count": 24,
+      "count": 36,
       "items": [
         {
           "prefecture": "北海道",
@@ -19500,6 +19244,226 @@
             {
               "title": "東京都公文書館に行ってきた",
               "url": "https://ameblo.jp/mizumizzo/entry-12856229059.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "秋田県",
+          "city": "大潟村",
+          "name": "大潟村干拓博物館",
+          "type": "干拓・農業",
+          "note": "9:00～16:30。 火曜日休館。",
+          "official": "https://museum.vill.ogata.akita.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%BD%9F%E6%9D%91%E5%B9%B2%E6%8B%93%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E5%A4%A7%E6%BD%9F%E6%9D%91",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "#789 秋田県完全制覇の旅（1）〜大潟村と八郎潟〜｜かずとらべる（市町村紀行）",
+              "url": "https://note.com/biwanosho_mio/n/n6ae21d5bc817"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市中央区",
+          "name": "札幌市資料館",
+          "type": "歴史・建築",
+          "note": "旧控訴院庁舎を利用した資料館。建物内部と法廷展示。 月曜日休館。",
+          "official": "http://www.s-shiryokan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "札幌市資料館に行ってきました(2026.8.22）｜北海道さっぽろ観光案内所",
+              "url": "https://note.com/tourist_info/n/n6de8a460a477"
+            }
+          ]
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "名古屋市東区",
+          "name": "名古屋市市政資料館",
+          "type": "市政・建築",
+          "note": "旧裁判所建築と市政・司法資料を公開。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%B8%82%E6%94%BF%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "名古屋市市政資料館へ行ってきた – ＠半径とことこ60分",
+              "url": "https://tocotoco60.com/nagoya-city-archives/"
+            }
+          ]
+        },
+        {
+          "prefecture": "三重県",
+          "city": "鳥羽市",
+          "name": "鳥羽市立海の博物館",
+          "type": "海洋民俗",
+          "note": "9:00～17:00。1989年竣工。",
+          "official": "http://www.umihaku.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E7%BE%BD%E5%B8%82%E7%AB%8B%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%B8%89%E9%87%8D%E7%9C%8C%20%E9%B3%A5%E7%BE%BD%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "鳥羽市立海の博物館に行ってみた ＜木造船100艘＞と＜リアルな魚の模型＞がすごい〖三重県鳥羽市〗 - サカナト",
+              "url": "https://sakanato.jp/17949/"
+            },
+            {
+              "title": "建築のテキスト｜海の博物館",
+              "url": "https://note.com/leq_q/n/nb0e43fd6790a"
+            }
+          ]
+        },
+        {
+          "prefecture": "奈良県",
+          "city": "奈良市",
+          "name": "奈良町資料館",
+          "type": "地域史・民俗",
+          "note": "町家空間に奈良町の民俗資料を集めた小規模館。",
+          "official": "http://naramachi.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E7%94%BA%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%A5%88%E8%89%AF%E7%9C%8C%20%E5%A5%88%E8%89%AF%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "奈良町資料館の訪問記（写真・展示）",
+              "url": "https://ameblo.jp/lastomablog/entry-12963811918.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "沖縄県",
+          "city": "那覇市",
+          "name": "那覇市立壺屋焼物博物館",
+          "type": "陶芸・地域史",
+          "note": "那覇・壺屋の焼物文化を、陶工の仕事、窯業の道具、地域の窯場と製品を通して紹介する市立資料館。壺屋の町と沖縄の近代陶業を地域史として見ることができる。",
+          "official": "http://www.edu.city.naha.okinawa.jp/tsuboya/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%82%A3%E8%A6%87%E5%B8%82%E7%AB%8B%E5%A3%BA%E5%B1%8B%E7%84%BC%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E9%82%A3%E8%A6%87%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "【博物館訪問】那覇市立壺屋焼物博物館（沖縄）",
+              "url": "https://note.com/lucky_meron/n/necc2f62a0dd1"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "大田区",
+          "name": "大田区立郷土博物館",
+          "type": "郷土資料館",
+          "note": "自治体展示・受付・展示ケース・公共施設内装。小規模自治体資料館系。",
+          "official": "http://www.city.ota.tokyo.jp/seikatsu/manabu/hakubutsukan/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "大田区立郷土博物館（東京都大田区）",
+              "url": "https://ameblo.jp/kofun-0524/entry-12818389684.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "杉並区",
+          "name": "杉並区立郷土博物館 本館",
+          "type": "郷土資料館",
+          "note": "周辺環境込みでおすすめ。",
+          "official": "http://www.city.suginami.tokyo.jp/histmus/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%89%E4%B8%A6%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9C%AC%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%89%E4%B8%A6%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "杉並区立郷土博物館に行ってきたぞ",
+              "url": "https://note.com/quick_snake1866/n/ndb863f67a782"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "板橋区",
+          "name": "板橋区立郷土資料館",
+          "type": "郷土資料館",
+          "note": "自治体展示・展示ケース・休憩空間。古い公共展示施設感を狙える。1969年開館。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "板橋区赤塚・板橋区立郷土資料館。!(^^)!",
+              "url": "https://ameblo.jp/chiba-rekishi/entry-12877155920.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "世田谷区立郷土資料館",
+          "type": "郷土資料館",
+          "note": "建築・展示室双方が対象。 月曜日休館。9:00〜16:30。",
+          "official": "https://www.city.setagaya.lg.jp/mokuji/kusei/012/011/002/d00138265.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "世田谷区立郷土資料館",
+              "url": "https://note.com/kagiya_012/n/n3ee4eefc6690"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "豊島区立郷土資料館",
+          "type": "郷土資料館",
+          "note": "産業振興施設内の自治体展示。ビル内公共施設感。",
+          "official": "http://www.city.toshima.lg.jp/bunka/bunka/shiryokan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E5%B3%B6%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "たのしいぞ郷土資料館　「豊島区立郷土資料館」",
+              "url": "https://note.com/nuimogu/n/ne34964cf08f9"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "港区立郷土歴史館",
+          "type": "郷土資料館",
+          "note": "旧公衆衛生院を活用。",
+          "official": "https://www.minato-rekishi.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%AF%E5%8C%BA%E7%AB%8B%E9%83%B7%E5%9C%9F%E6%AD%B4%E5%8F%B2%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "港区立郷土歴史館を訪ねる",
+              "url": "https://gochan-blg.hatenablog.com/entry/2024/12/06/000000"
             }
           ]
         }
