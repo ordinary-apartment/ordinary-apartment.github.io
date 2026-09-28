@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 35,
-  "total": 1394,
+  "materialCount": 36,
+  "total": 1406,
   "materials": [
     {
       "id": "botanical",
@@ -4737,7 +4737,7 @@ window.FACILITY_DATASET={
       "name": "博物館",
       "shortName": "博物館",
       "file": "博物館.csv",
-      "count": 90,
+      "count": 82,
       "items": [
         {
           "prefecture": "愛媛県",
@@ -5844,27 +5844,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "東京都",
-          "city": "文京区",
-          "name": "東京都水道歴史館",
-          "type": "水道・産業史",
-          "note": "9:30～17:00。 月曜日休館。",
-          "official": "https://www.suidorekishi.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B0%B4%E9%81%93%E6%AD%B4%E5%8F%B2%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖前編〗東京都水道歴史館に行ってきた！ - 近所の水道屋さん・福田設備",
-              "url": "https://suidouya.tokyo/tokyoto_suido_rekishikan_1/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.suidorekishi.jp/"
-          }
-        },
-        {
           "prefecture": "山形県",
           "city": "山形市",
           "name": "山形大学附属博物館",
@@ -5983,85 +5962,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.kiseichu.org/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%9B%AE%E9%BB%92%E5%AF%84%E7%94%9F%E8%99%AB%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "北区",
-          "name": "紙の博物館",
-          "type": "紙・産業",
-          "note": "紙の歴史、製造技術、紙文化を扱う専門館。10:00 〜 17:00。 月曜日休館。",
-          "official": "http://www.papermuseum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
-          "kind": "紙・産業",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "はじめての　#紙の博物館　（　#王子　#北区　#東京　#東大寺　#修二会　#和紙　#白石和紙　） - shiraike's blog",
-              "url": "https://shiraike.hatenablog.com/entry/2024/02/05/012808"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.papermuseum.jp/\nWikipedia:https://ja.wikipedia.org/wiki/%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "港区",
-          "name": "物流博物館",
-          "type": "物流・交通",
-          "note": "輸送、荷役、物流の歴史を模型と資料で紹介。",
-          "official": "https://www.lmuse.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%89%A9%E6%B5%81%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
-          "kind": "物流・交通",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖高輪〗物流博物館 鉄道貨物の企画展と巨大なジオラマ | たまねこトラベル",
-              "url": "https://tamanekotravel.com/tokyo/museum-of-logistics-minato/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.lmuse.or.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "豊島区",
-          "name": "切手の博物館",
-          "type": "郵便・デザイン",
-          "note": "世界の切手と郵便文化を扱う小規模専門館。10:30-17:00",
-          "official": "https://kitte-museum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%87%E6%89%8B%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
-          "kind": "郵便・デザイン",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://kitte-museum.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "新宿区",
-          "name": "消防博物館",
-          "type": "消防・防災",
-          "note": "消防車両、装備、都市防災の歴史を展示。 月曜日休館。9:30〜17:00。",
-          "official": "https://www.tfd.metro.tokyo.lg.jp/hp-hkkan/museum.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B6%88%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
-          "kind": "消防・防災",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖消防博物館(東京消防庁)〗無料で消防士の体験などが子どもと楽しめる施設 | あぼーの子育て日記＊",
-              "url": "https://abou-mom.com/blog-entry-%E6%B6%88%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%9D%B1%E4%BA%AC%E6%B6%88%E9%98%B2%E5%BA%81%E7%84%A1%E6%96%99%E3%81%A7%E6%B6%88%E9%98%B2%E5%A3%AB%E3%81%AE%E4%BD%93%E9%A8%93%E3%81%AA%E3%81%A9%E3%81%8C.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.tfd.metro.tokyo.lg.jp/hp-hkkan/museum.html"
           }
         },
         {
@@ -6498,69 +6398,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.museum.city.katsushika.lg.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "港区",
-          "name": "NHK放送博物館",
-          "type": "企業・放送資料館",
-          "note": "放送機器・展示室・旧式展示施設感。メディア資料館系。",
-          "official": "http://www.nhk.or.jp/museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=NHK%E6%94%BE%E9%80%81%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "NHK放送博物館に行ってきた／愛宕山8Kシアターも堪能",
-              "url": "https://alltag.hatenablog.jp/entry/2018/12/nhk-museum-of-broadcasting"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.nhk.or.jp/museum/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "北区",
-          "name": "お札と切手の博物館",
-          "type": "企業・行政資料館",
-          "note": "印刷・紙幣・切手展示。官庁系資料館の雰囲気。 月曜日休館。",
-          "official": "https://www.npb.go.jp/ja/museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E6%9C%AD%E3%81%A8%E5%88%87%E6%89%8B%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "お札と切手の博物館で大人の社会科見学",
-              "url": "https://ameblo.jp/kakko-blog/entry-12879656636.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.npb.go.jp/ja/museum/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "小平市",
-          "name": "ガスミュージアム",
-          "type": "企業資料館",
-          "note": "ガス事業史・歴史展示。企業資料館系。10:00〜17:00。 月曜日休館。",
-          "official": "http://www.gasmuseum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AC%E3%82%B9%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
-          "kind": "公共空間",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "小平 ガスミュージアムに初めて行ったら楽しかったです♪",
-              "url": "https://ameblo.jp/hana-neko46/entry-12874421589.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.gasmuseum.jp/"
           }
         },
         {
@@ -24640,6 +24477,311 @@ window.FACILITY_DATASET={
               "url": "https://vr-lifemagazine.com/vrchat_schatz-kiste/"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "csv-fec6d836d19be37419a5",
+      "number": 36,
+      "name": "単一テーマ博物館",
+      "shortName": "単一テーマ博物館",
+      "file": "単一テーマ博物館.csv",
+      "count": 20,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "東京都水道歴史館",
+          "type": "水道・産業史",
+          "note": "9:30～17:00。 月曜日休館。",
+          "official": "https://www.suidorekishi.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B0%B4%E9%81%93%E6%AD%B4%E5%8F%B2%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖前編〗東京都水道歴史館に行ってきた！ - 近所の水道屋さん・福田設備",
+              "url": "https://suidouya.tokyo/tokyoto_suido_rekishikan_1/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "紙の博物館",
+          "type": "紙・産業",
+          "note": "紙の歴史、製造技術、紙文化を扱う専門館。10:00 〜 17:00。 月曜日休館。",
+          "official": "http://www.papermuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "はじめての　#紙の博物館　（　#王子　#北区　#東京　#東大寺　#修二会　#和紙　#白石和紙　） - shiraike's blog",
+              "url": "https://shiraike.hatenablog.com/entry/2024/02/05/012808"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "物流博物館",
+          "type": "物流・交通",
+          "note": "輸送、荷役、物流の歴史を模型と資料で紹介。",
+          "official": "https://www.lmuse.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%89%A9%E6%B5%81%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖高輪〗物流博物館 鉄道貨物の企画展と巨大なジオラマ | たまねこトラベル",
+              "url": "https://tamanekotravel.com/tokyo/museum-of-logistics-minato/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "切手の博物館",
+          "type": "郵便・デザイン",
+          "note": "世界の切手と郵便文化を扱う小規模専門館。10:30-17:00",
+          "official": "https://kitte-museum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%87%E6%89%8B%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "消防博物館",
+          "type": "消防・防災",
+          "note": "消防車両、装備、都市防災の歴史を展示。 月曜日休館。9:30〜17:00。",
+          "official": "https://www.tfd.metro.tokyo.lg.jp/hp-hkkan/museum.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B6%88%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖消防博物館(東京消防庁)〗無料で消防士の体験などが子どもと楽しめる施設 | あぼーの子育て日記＊",
+              "url": "https://abou-mom.com/blog-entry-%E6%B6%88%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%9D%B1%E4%BA%AC%E6%B6%88%E9%98%B2%E5%BA%81%E7%84%A1%E6%96%99%E3%81%A7%E6%B6%88%E9%98%B2%E5%A3%AB%E3%81%AE%E4%BD%93%E9%A8%93%E3%81%AA%E3%81%A9%E3%81%8C.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "NHK放送博物館",
+          "type": "企業・放送資料館",
+          "note": "放送機器・展示室・旧式展示施設感。メディア資料館系。",
+          "official": "http://www.nhk.or.jp/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=NHK%E6%94%BE%E9%80%81%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "NHK放送博物館に行ってきた／愛宕山8Kシアターも堪能",
+              "url": "https://alltag.hatenablog.jp/entry/2018/12/nhk-museum-of-broadcasting"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "お札と切手の博物館",
+          "type": "企業・行政資料館",
+          "note": "印刷・紙幣・切手展示。官庁系資料館の雰囲気。 月曜日休館。",
+          "official": "https://www.npb.go.jp/ja/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E6%9C%AD%E3%81%A8%E5%88%87%E6%89%8B%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "お札と切手の博物館で大人の社会科見学",
+              "url": "https://ameblo.jp/kakko-blog/entry-12879656636.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "小平市",
+          "name": "ガスミュージアム",
+          "type": "企業資料館",
+          "note": "ガス事業史・歴史展示。企業資料館系。10:00〜17:00。 月曜日休館。",
+          "official": "http://www.gasmuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AC%E3%82%B9%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "小平 ガスミュージアムに初めて行ったら楽しかったです♪",
+              "url": "https://ameblo.jp/hana-neko46/entry-12874421589.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "日本銀行金融研究所 貨幣博物館",
+          "type": "貨幣・金融史",
+          "note": "日本銀行金融研究所が運営する貨幣史専門館。古代から現代までの日本の貨幣、紙幣、関連資料を体系的に収集・保存・展示する。",
+          "official": "https://www.imes.boj.or.jp/cm/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%9C%AC%E7%9F%B3%E7%94%BA1-3-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "印刷博物館",
+          "type": "印刷・出版技術",
+          "note": "印刷文化と出版技術を専門に、古代から現代までの印刷物、活字、印刷機械、製造技術を体系的に紹介する企業系専門博物館。",
+          "official": "https://www.printing-museum.org/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%B0%E5%88%B7%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "日本カメラ博物館",
+          "type": "カメラ・写真技術",
+          "note": "日本カメラ財団が運営するカメラ専門館。国内外の歴史的カメラ、写真機材、映像技術を収集し、企画展と常設展示で公開する。",
+          "official": "https://www.jcii-cameramuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E3%82%AB%E3%83%A1%E3%83%A9%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E4%B8%80%E7%95%AA%E7%94%BA25",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "セイコーミュージアム 銀座",
+          "type": "時計・計時技術",
+          "note": "セイコーの時計製造史と計時技術を中心に、日時計から機械式時計、クオーツ、スポーツ計時までを実物資料で展示する。",
+          "official": "https://museum.seiko.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E9%8A%80%E5%BA%A7%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A74-3-13",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "ボタンの博物館",
+          "type": "ボタン・服飾文化",
+          "note": "株式会社アイリスが収蔵する国内外のボタンを、時代・素材・技法別に体系展示する完全予約制の専門館。",
+          "official": "https://button-museum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%B5%9C%E7%94%BA1-11-8",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "日本文具資料館",
+          "type": "文具・筆記具",
+          "note": "筆記具、計算機、古今の文房具を収集し、文具の発達と人の記録文化を紹介する小規模な専門資料館。",
+          "official": "https://www.nihonbungu.or.jp/shiryokan/about.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%96%87%E5%85%B7%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%9F%B3%E6%A9%8B1-1-15",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "たばこと塩の博物館",
+          "type": "たばこ・塩文化",
+          "note": "たばこと塩を軸に、喫煙文化、専売制度、塩の製造と流通、世界各地の生活文化を資料と実物で展示する。",
+          "official": "https://www.tabashio.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%9F%E3%81%B0%E3%81%93%E3%81%A8%E5%A1%A9%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E6%A8%AA%E5%B7%9D1-16-3",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "郵政博物館",
+          "type": "郵便・通信制度",
+          "note": "郵便制度の歴史と通信文化を専門に、切手、郵便資料、通信機器、制度史資料を収集・保存・展示する。",
+          "official": "https://www.postalmuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%83%B5%E6%94%BF%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E6%8A%BC%E4%B8%8A1-1-2",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "相撲博物館",
+          "type": "相撲文化・競技史",
+          "note": "日本相撲協会が運営し、相撲の歴史と文化を専門に、化粧廻し、番付、錦絵、歴代力士資料を収集・展示する。",
+          "official": "https://www.sumo.or.jp/KokugikanSumoMuseum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%B8%E6%92%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E6%A8%AA%E7%B6%B21-3-28",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "野球殿堂博物館",
+          "type": "野球史・スポーツ文化",
+          "note": "日本野球の歴史と競技文化を専門に、殿堂入り選手の資料、用具、記録、映像、野球史料を収集・展示する。",
+          "official": "https://baseball-museum.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%8E%E7%90%83%E6%AE%BF%E5%A0%82%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA%E5%BE%8C%E6%A5%BD1-3-61",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "東京おもちゃ美術館",
+          "type": "玩具・遊び文化",
+          "note": "旧小学校校舎を活用し、日本の郷土玩具から世界の玩具までを収集・展示する体験型の玩具専門ミュージアム。",
+          "official": "https://art-play.or.jp/ttm/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E7%BE%8E%E8%A1%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%9B%9B%E8%B0%B74-20",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "ポリスミュージアム（警察博物館）",
+          "type": "警察制度・装備史",
+          "note": "警視庁の歴史と日本警察の制度、制服・装備、事件資料、現代の活動を専門的に紹介する常設施設。",
+          "official": "https://www.keishicho.metro.tokyo.lg.jp/about_mpd/welcome/welcome/museum_tour.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BA%AC%E6%A9%8B3-5-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
         }
       ]
     }
