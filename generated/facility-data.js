@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 33,
-  "total": 1357,
+  "materialCount": 34,
+  "total": 1363,
   "materials": [
     {
       "id": "botanical",
@@ -7977,7 +7977,7 @@ window.FACILITY_DATASET={
       "name": "東京都内の入れる屋上・屋上庭園・公開テラス",
       "shortName": "屋上・屋上庭園",
       "file": "東京都内の入れる屋上・屋上庭園・公開テラス.csv",
-      "count": 97,
+      "count": 91,
       "items": [
         {
           "prefecture": "東京都",
@@ -8766,54 +8766,6 @@ window.FACILITY_DATASET={
         },
         {
           "prefecture": "東京都",
-          "city": "品川区",
-          "name": "品川区役所「本庁舎屋上庭園」",
-          "type": "区役所屋上庭園",
-          "note": "無料・平日のみ。役所の屋上。畑・植栽・富士山眺望。",
-          "official": "https://www.city.shinagawa.tokyo.jp/?utm_source",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%93%81%E5%B7%9D%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "品川区役所",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.shinagawa.tokyo.jp/?utm_source"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "中野区",
-          "name": "中野区役所「11階屋上庭園」",
-          "type": "区役所屋上庭園",
-          "note": "無料・平日8:30～17:00。新庁舎の一般開放屋上。",
-          "official": "https://www.city.tokyo-nakano.lg.jp/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E9%87%8E%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "中野区役所",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.tokyo-nakano.lg.jp/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "世田谷区",
-          "name": "世田谷区役所「東棟屋上庭園」",
-          "type": "区役所屋上庭園",
-          "note": "一般開放。新庁舎の屋上庭園。",
-          "official": "https://www.city.setagaya.lg.jp/mokuji/kusei/012/001/001/d00006140.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "世田谷区役所",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.setagaya.lg.jp/mokuji/kusei/012/001/001/d00006140.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
           "city": "渋谷区",
           "name": "渋谷区役所「上層階・屋外スペース」",
           "type": "区役所テラス",
@@ -8826,22 +8778,6 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：http://www.city.shibuya.tokyo.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "豊島区",
-          "name": "豊島区役所「豊島の森」",
-          "type": "庁舎屋上庭園",
-          "note": "無料・公開時間あり。区役所10階屋上の生態系庭園。",
-          "official": "http://www.city.toshima.lg.jp/?utm_source",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E5%B3%B6%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "豊島区役所",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.city.toshima.lg.jp/?utm_source"
           }
         },
         {
@@ -9370,38 +9306,6 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：http://www.parthenon.or.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "町田市",
-          "name": "町田市庁舎「屋上・テラス系公開空間」",
-          "type": "市役所屋外空間",
-          "note": "開庁時。自治体庁舎系候補。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%BA%E7%94%B0%E5%B8%82%E5%BA%81%E8%88%8E%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%94%BA%E7%94%B0%E5%B8%82",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "町田市庁舎",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "立川市",
-          "name": "立川市役所「屋上・テラス系公開空間」",
-          "type": "市役所屋外空間",
-          "note": "開庁時。新庁舎型公共建築。",
-          "official": "https://www.city.tachikawa.lg.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%B7%9D%E5%B8%82%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "立川市役所",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.tachikawa.lg.jp/"
           }
         },
         {
@@ -10078,7 +9982,7 @@ window.FACILITY_DATASET={
       "name": "展望塔・展望施設",
       "shortName": "展望塔・展望施設",
       "file": "展望塔・展望施設.csv",
-      "count": 30,
+      "count": 28,
       "items": [
         {
           "prefecture": "千葉県",
@@ -10461,38 +10365,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.roppongihills.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "練馬区",
-          "name": "練馬区役所「屋上・展望ロビー周辺」",
-          "type": "庁舎展望・屋外系",
-          "note": "無料。",
-          "official": "http://www.city.nerima.tokyo.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%B4%E9%A6%AC%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "練馬区役所",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.city.nerima.tokyo.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "文京区",
-          "name": "文京シビックセンター「展望ラウンジ周辺」",
-          "type": "庁舎展望施設",
-          "note": "無料。屋内中心だが公共高所施設として近い。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E4%BA%AC%E3%82%B7%E3%83%93%E3%83%83%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "文京シビックセンター",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
           }
         },
         {
@@ -24084,6 +23956,240 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "csv-4f8d0c2b9a6e7315d4c0",
+      "number": 34,
+      "name": "役所・庁舎の市民開放空間",
+      "shortName": "役所・庁舎の市民開放空間",
+      "file": "役所・庁舎の市民開放空間.csv",
+      "count": 14,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "品川区",
+          "name": "品川区役所「本庁舎屋上庭園」",
+          "type": "区役所屋上庭園",
+          "note": "本庁舎屋上を4つのゾーン（健康増進、親と子の交流など）に分けた一般開放庭園。平日9:00〜17:00（4〜9月）／9:00〜16:00（10〜3月）。荒天時閉鎖。",
+          "official": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kuyakusyo/shisetsu-kuyakusyo-shinagawakuyakusyo/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%93%81%E5%B7%9D%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "品川区役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kuyakusyo/shisetsu-kuyakusyo-shinagawakuyakusyo/index.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中野区",
+          "name": "中野区役所「11階屋上庭園」",
+          "type": "区役所屋上庭園",
+          "note": "新庁舎11階の屋上庭園。行政手続きのない人も利用でき、平日8:30〜17:00に一般開放。土日祝・年末年始、荒天時は閉鎖。",
+          "official": "https://www.city.tokyo-nakano.lg.jp/shisetsu/kuyakusho/kuyakusho/0686478320240613151406939.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E9%87%8E%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "中野区役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.tokyo-nakano.lg.jp/shisetsu/kuyakusho/kuyakusho/0686478320240613151406939.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "世田谷区役所「東棟屋上庭園」",
+          "type": "区役所屋上庭園",
+          "note": "新庁舎東棟6階の屋上庭園。花壇、芝生広場、ベンチを備え、区民の休憩・飲食・交流に開放。運営時間は9:00〜17:00の案内。東棟1階の区民交流スペースや中庭広場と一体的に整備されている。",
+          "official": "https://www.city.setagaya.lg.jp/mokuji/kusei/012/001/001/d00006140.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "世田谷区役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.setagaya.lg.jp/mokuji/kusei/012/001/001/d00006140.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "豊島区役所「豊島の森」",
+          "type": "庁舎屋上庭園",
+          "note": "区役所10階の屋上庭園。豊島区の地形・植生を再現し、ビオトープや水槽を備える。4・6・8階のグリーンテラスとも外階段でつながる。季節により9:00〜16:00／17:00、荒天時閉園。",
+          "official": "https://www.city.toshima.lg.jp/chosha/10f.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E5%B3%B6%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "豊島区役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.toshima.lg.jp/chosha/10f.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "町田市",
+          "name": "町田市庁舎「屋上・テラス系公開空間」",
+          "type": "市役所屋上公開空間",
+          "note": "PH階屋上展望テラスを中心に、4階屋上花畑や庁舎内イベントスタジオを含む市民公開空間。展望テラスは開庁日と毎月第2・4日曜の8:30〜16:30に一般開放。荒天時閉鎖。",
+          "official": "https://www.city.machida.tokyo.jp/mobile/yakudachi/shisetsu/mainoffice/phtenboterasu.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%BA%E7%94%B0%E5%B8%82%E5%BA%81%E8%88%8E%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%94%BA%E7%94%B0%E5%B8%82",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "町田市庁舎",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.machida.tokyo.jp/mobile/yakudachi/shisetsu/mainoffice/phtenboterasu.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "立川市",
+          "name": "立川市役所「屋上・テラス系公開空間」",
+          "type": "市役所屋上・デッキ",
+          "note": "市役所の屋上と西側デッキを、公園のような市民の休憩・滞在空間として整備。市公式案内で、手続きのない人も自由に入れるスペースとされている。",
+          "official": "https://www.city.tachikawa.lg.jp/shisei/koho/1019944/1005485/1005505.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%B7%9D%E5%B8%82%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "立川市役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.tachikawa.lg.jp/shisei/koho/1019944/1005485/1005505.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "練馬区役所「屋上・展望ロビー周辺」",
+          "type": "庁舎展望・屋外系",
+          "note": "本庁舎20階の無料展望ロビーと西庁舎10階のハーブテラスを一体的に収録。展望ロビーは9:00〜21:30、ハーブテラスは平日9:00〜17:00。展望ロビーは毎月第4日曜・年末年始休室。",
+          "official": "https://d2g247nqf7ca21.cloudfront.net/shisetsu/ku/ku/tenbo.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%B4%E9%A6%AC%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "練馬区役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://d2g247nqf7ca21.cloudfront.net/shisetsu/ku/ku/tenbo.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "文京シビックセンター「展望ラウンジ周辺」",
+          "type": "庁舎展望施設",
+          "note": "25階の無料展望ラウンジ。地上約105mから東京を眺められる。2025年3月1日から改修工事のため閉鎖中で、文京区は2026年12月上旬の再開予定を案内している。",
+          "official": "https://www.city.bunkyo.lg.jp/b040/p006605.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E4%BA%AC%E3%82%B7%E3%83%93%E3%83%83%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "文京シビックセンター",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.bunkyo.lg.jp/b040/p006605.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "東京都庁「展望室・都民広場」",
+          "type": "都庁展望・公開広場",
+          "note": "第一本庁舎45階の南北展望室（無料、南9:30〜21:30・北9:30〜17:00）と、地上の都民広場を同一施設として収録。都民広場は原則9:00〜21:00に自由通行・散策でき、イベントやスポーツにも使われる。",
+          "official": "https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%BA%81%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "東京都庁",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "目黒区",
+          "name": "目黒区総合庁舎「めぐろ十五庭」",
+          "type": "区役所屋上庭園",
+          "note": "目黒区総合庁舎本館屋上の庭園。区民の憩い・交流の場として、区役所開庁日の9:00〜16:30に一般開放される。天候や管理作業で閉園する場合がある。",
+          "official": "https://www.city.meguro.tokyo.jp/soumu/shisetsu/koukyoushisetsu/7.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%B7%8F%E5%90%88%E5%BA%81%E8%88%8E%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "目黒区総合庁舎",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.meguro.tokyo.jp/soumu/shisetsu/koukyoushisetsu/7.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "板橋区",
+          "name": "板橋区役所「屋上庭園・中庭」",
+          "type": "区役所公開庭園・中庭",
+          "note": "南館7階の屋上庭園、南館2階の中庭、北館1階のギャラリーモールを庁舎の市民開放空間として収録。屋上庭園は緑に親しみながら散策・休憩でき、レストランのウッドデッキやギャラリーモールとともに庁舎を公共的な滞在空間にしている。",
+          "official": "https://www.city.itabashi.tokyo.jp/kusei/chosha/minamikan/1007727.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "板橋区役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.itabashi.tokyo.jp/kusei/chosha/minamikan/1007727.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "台東区役所「屋上ガーデン」",
+          "type": "区役所屋上モデルガーデン",
+          "note": "区役所10階の屋上ガーデン。企業等との共同による緑化見本園16区画、ウッドデッキ、芝生の憩いの広場、太陽光発電・雨水貯留設備を公開。見学時間は平日10:00〜16:00で、庁舎上野側のエレベーターと階段から入る。",
+          "official": "https://www.city.taito.lg.jp/kenchiku/hanamidori/ryokukasuishin/ikoino-garden.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "台東区役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.taito.lg.jp/kenchiku/hanamidori/ryokukasuishin/ikoino-garden.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "国分寺市",
+          "name": "国分寺市役所「木漏れ日テラス」",
+          "type": "市役所展望テラス",
+          "note": "新庁舎5階の市民向け展望テラス。都立武蔵国分寺公園から都心部までを見渡せ、晴天時には東京スカイツリーも望める。市役所の開庁時間中は誰でも自由に利用できる。",
+          "official": "https://www.city.kokubunji.tokyo.jp/shisetsu/shikanren/shiyakusyo/1033231.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E5%88%86%E5%AF%BA%E5%B8%82%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%9B%BD%E5%88%86%E5%AF%BA%E5%B8%82",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "国分寺市役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.kokubunji.tokyo.jp/shisetsu/shikanren/shiyakusyo/1033231.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "府中市",
+          "name": "府中市役所「通り庭」",
+          "type": "市役所公開通路・広場",
+          "note": "新庁舎を横断する「通り庭」。庁舎利用者に限らず、駅周辺への通行や散策のために利用できる公開空間で、通行時間は6:00〜23:00。マルシェ等の市民活動にも使われる。",
+          "official": "https://www.city.fuchu.tokyo.jp/gyosei/shincyosha/shincyoshakoji/tooriniwa.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%9C%E4%B8%AD%E5%B8%82%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%BA%9C%E4%B8%AD%E5%B8%82",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "府中市役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.fuchu.tokyo.jp/gyosei/shincyosha/shincyoshakoji/tooriniwa.html"
           }
         }
       ]
