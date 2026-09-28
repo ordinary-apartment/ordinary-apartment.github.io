@@ -4737,7 +4737,7 @@ window.FACILITY_DATASET={
       "name": "博物館",
       "shortName": "博物館",
       "file": "博物館.csv",
-      "count": 82,
+      "count": 33,
       "items": [
         {
           "prefecture": "愛媛県",
@@ -4867,69 +4867,6 @@ window.FACILITY_DATASET={
         },
         {
           "prefecture": "北海道",
-          "city": "日高町",
-          "name": "日高山脈博物館",
-          "type": "地質・自然",
-          "note": "",
-          "official": "https://www.town.hidaka.hokkaido.jp/site/hmc/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E9%AB%98%E5%B1%B1%E8%84%88%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%A5%E9%AB%98%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "日高地方へ地層の観察に行きました(２・終) - しのうしのブログ",
-              "url": "https://sinousi-2.hatenablog.com/entry/2026/06/04/111028"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.town.hidaka.hokkaido.jp/site/hmc/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "むかわ町",
-          "name": "穂別博物館",
-          "type": "化石・恐竜",
-          "note": "",
-          "official": "http://www.town.mukawa.lg.jp/1908.htm",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A9%82%E5%88%A5%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E3%82%80%E3%81%8B%E3%82%8F%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖2026年リニューアル〗むかわ町立 穂別博物館レビュー｜カムイサウルス全身骨格が圧巻！雨の日も楽しめる北海道の恐竜スポット | あしたも晴れるかな",
-              "url": "https://ashihareblog.com/mukawa-hobetsu-museum/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.town.mukawa.lg.jp/1908.htm"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "三笠市",
-          "name": "三笠市立博物館",
-          "type": "化石・地質",
-          "note": "月曜日休館。9:00〜17:00。",
-          "official": "https://www.city.mikasa.hokkaido.jp/museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E7%AC%A0%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E4%B8%89%E7%AC%A0%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "三笠市立博物館　―　野外編　― - kamonji224の日記　―　北海道見聞録　―",
-              "url": "https://kamonji224.hatenablog.com/entry/2019/07/25/235617"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.mikasa.hokkaido.jp/museum/\nWikipedia:https://ja.wikipedia.org/wiki/%E4%B8%89%E7%AC%A0%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "北海道",
           "city": "枝幸町",
           "name": "オホーツクミュージアムえさし",
           "type": "自然・考古",
@@ -4992,69 +4929,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "北海道",
-          "city": "夕張市",
-          "name": "夕張市石炭博物館",
-          "type": "産業・鉱業",
-          "note": "1980年に開館",
-          "official": "https://coal-yubari.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%95%E5%BC%B5%E5%B8%82%E7%9F%B3%E7%82%AD%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%A4%95%E5%BC%B5%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "全面リニューアルした「夕張市石炭博物館」に行ってきました | ぷかぷか雑記帳",
-              "url": "https://pukapuka-note.blogspot.com/2018/10/coal-mining-museum-of-yubari.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://coal-yubari.jp/"
-          }
-        },
-        {
-          "prefecture": "岩手県",
-          "city": "奥州市",
-          "name": "牛の博物館",
-          "type": "畜産・自然",
-          "note": "ウシの世界を生物学と人文科学の両面から紹介する専門博物館。動物としてのウシと、人との関係を合わせて扱う。",
-          "official": "https://www.city.oshu.iwate.jp/section/ushi/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%89%9B%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A5%A5%E5%B7%9E%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "「牛の博物館」に行ってきたよ（岩手県奥州市・前沢） - にわか、オホーツク街道をゆく",
-              "url": "https://gogo-gorila.hatenablog.com/entry/2026/08/08/144047"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.oshu.iwate.jp/section/ushi/"
-          }
-        },
-        {
-          "prefecture": "岩手県",
-          "city": "久慈市",
-          "name": "久慈琥珀博物館",
-          "type": "地質・琥珀",
-          "note": "",
-          "official": "http://www.kuji.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B9%85%E6%85%88%E7%90%A5%E7%8F%80%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E4%B9%85%E6%85%88%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "久慈琥珀博物館で琥珀恐竜化石発掘体験をしてきました！所要時間や料金紹介 | 岩手盛岡旅行ブログ",
-              "url": "https://iwatemorioka.com/kuji-amber/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.kuji.co.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E4%B9%85%E6%85%88%E7%90%A5%E7%8F%80%E5%8D%9A%E7%89%A9%E9%A4%A8"
-          }
-        },
-        {
           "prefecture": "岩手県",
           "city": "大船渡市",
           "name": "大船渡市立博物館",
@@ -5089,27 +4963,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.city.rikuzentakata.iwate.jp/soshiki/kyouikusoumuka/hakubutsukan/index.html"
-          }
-        },
-        {
-          "prefecture": "秋田県",
-          "city": "秋田市",
-          "name": "秋田大学大学院国際資源学研究科附属鉱業博物館",
-          "type": "鉱物・鉱業",
-          "note": "9時～16時。 土曜日休館。",
-          "official": "https://www.mus.akita-u.ac.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%9B%BD%E9%9A%9B%E8%B3%87%E6%BA%90%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91%E9%99%84%E5%B1%9E%E9%89%B1%E6%A5%AD%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%A7%8B%E7%94%B0%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "鉱業博物館に行ってきました。｜オバラウジ",
-              "url": "https://note.com/juicy_llama1427/n/n247d7dc98b46"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.mus.akita-u.ac.jp/"
           }
         },
         {
@@ -5152,43 +5005,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：http://www.yamagata-museum.jp/"
-          }
-        },
-        {
-          "prefecture": "宮城県",
-          "city": "石巻市",
-          "name": "宮城県慶長使節船ミュージアム サン・ファン館",
-          "type": "海事・造船",
-          "note": "9:30～16:30。 火曜日休館。",
-          "official": "https://www.santjuan.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%E6%85%B6%E9%95%B7%E4%BD%BF%E7%AF%80%E8%88%B9%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E9%A4%A8%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E7%9F%B3%E5%B7%BB%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "宮城県慶長使節船ミュージアム：サン・ファン館見学（2025年10月）〜by空倶楽部 - Always Autumn",
-              "url": "https://autumn105.hatenablog.com/entry/2026/01/30/224354"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.santjuan.or.jp/"
-          }
-        },
-        {
-          "prefecture": "福島県",
-          "city": "北塩原村",
-          "name": "磐梯山噴火記念館",
-          "type": "火山・地学",
-          "note": "",
-          "official": "http://www.bandaimuse.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A3%90%E6%A2%AF%E5%B1%B1%E5%99%B4%E7%81%AB%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E5%8C%97%E5%A1%A9%E5%8E%9F%E6%9D%91",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.bandaimuse.jp/"
           }
         },
         {
@@ -5255,48 +5071,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "埼玉県",
-          "city": "宮代町",
-          "name": "日本工業大学工業技術博物館",
-          "type": "産業技術",
-          "note": "日曜休館。9:30〜16:30。",
-          "official": "https://museum.nit.ac.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%AE%AE%E4%BB%A3%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "日本工業大学「工業技術博物館」",
-              "url": "https://kazuya77x.seesaa.net/article/2024-12-12.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://museum.nit.ac.jp/"
-          }
-        },
-        {
-          "prefecture": "新潟県",
-          "city": "糸魚川市",
-          "name": "フォッサマグナミュージアム",
-          "type": "地質",
-          "note": "9時00分～16時30分。 月曜日休館。",
-          "official": "https://fmm.geo-itoigawa.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A9%E3%83%83%E3%82%B5%E3%83%9E%E3%82%B0%E3%83%8A%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%B3%B8%E9%AD%9A%E5%B7%9D%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "糸魚川のフォッサマグナミュージアム見学記（後編） 魅惑の洞窟や化石・鉱物の数々 - れきたびcafe",
-              "url": "https://reki-tabi.com/2024/05/08/%E7%B3%B8%E9%AD%9A%E5%B7%9D%E3%81%AE%E3%83%95%E3%82%A9%E3%83%83%E3%82%B5%E3%83%9E%E3%82%B0%E3%83%8A%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%E8%A6%8B%E5%AD%A6%E8%A8%98%EF%BC%88%E5%BE%8C/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://fmm.geo-itoigawa.com/"
-          }
-        },
-        {
           "prefecture": "福井県",
           "city": "勝山市",
           "name": "福井県立恐竜博物館",
@@ -5315,43 +5089,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.dinosaur.pref.fukui.jp/\nWikipedia:https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%AB%8B%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "山梨県",
-          "city": "身延町",
-          "name": "甲斐黄金村・湯之奥金山博物館",
-          "type": "鉱山・産業",
-          "note": "9:00〜17:00。",
-          "official": "https://www.town.minobu.lg.jp/site/kinzan/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E6%96%90%E9%BB%84%E9%87%91%E6%9D%91%E3%83%BB%E6%B9%AF%E4%B9%8B%E5%A5%A5%E9%87%91%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E8%BA%AB%E5%BB%B6%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "黄金の指輪を作りたい④（甲斐黄金村・湯之奥金山博物館編）｜よこしま",
-              "url": "https://note.com/_yoko_shima/n/n40772bc717d1"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.town.minobu.lg.jp/site/kinzan/"
-          }
-        },
-        {
-          "prefecture": "山梨県",
-          "city": "北杜市",
-          "name": "清泉寮やまねミュージアム",
-          "type": "生態",
-          "note": "10:00～16:00",
-          "official": "https://www.seisenryo.jp/yamane_museum.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%85%E6%B3%89%E5%AF%AE%E3%82%84%E3%81%BE%E3%81%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E5%8C%97%E6%9D%9C%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.seisenryo.jp/yamane_museum.html"
           }
         },
         {
@@ -5397,106 +5134,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "岐阜県",
-          "city": "中津川市",
-          "name": "中津川市鉱物博物館",
-          "type": "鉱物",
-          "note": "",
-          "official": "https://www.city.nakatsugawa.lg.jp/museum/m/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%B4%A5%E5%B7%9D%E5%B8%82%E9%89%B1%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E4%B8%AD%E6%B4%A5%E5%B7%9D%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "中津川市鉱物博物館訪問記: craftな毎日",
-              "url": "https://iruchan.seesaa.net/article/2010-07-25.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.nakatsugawa.lg.jp/museum/m/index.html"
-          }
-        },
-        {
-          "prefecture": "岐阜県",
-          "city": "瑞浪市",
-          "name": "瑞浪市化石博物館",
-          "type": "化石",
-          "note": "",
-          "official": "https://www.city.mizunami.lg.jp/kankou_bunka/1004960/kaseki_museum/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%91%9E%E6%B5%AA%E5%B8%82%E5%8C%96%E7%9F%B3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E7%91%9E%E6%B5%AA%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "たのしいぞ郷土資料館　岐阜県瑞浪市「瑞浪市化石博物館」｜nuimogu",
-              "url": "https://note.com/nuimogu/n/ne2ed40a7a984"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.mizunami.lg.jp/kankou_bunka/1004960/kaseki_museum/index.html"
-          }
-        },
-        {
-          "prefecture": "岐阜県",
-          "city": "各務原市",
-          "name": "岐阜かかみがはら航空宇宙博物館",
-          "type": "航空宇宙",
-          "note": "2階の宇宙エリアでは、国際宇宙ステーション、小惑星探査機「はやぶさ2」、H-Ⅱロケットなどを通じて宇宙開発の歴史を紹介する。10:00 - 17:00",
-          "official": "https://www.sorahaku.net/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E3%81%8B%E3%81%8B%E3%81%BF%E3%81%8C%E3%81%AF%E3%82%89%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%90%84%E5%8B%99%E5%8E%9F%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "岐阜かかみがはら航空宇宙博物館｜4歳2歳の子連れで行ってみた｜館内の雰囲気や混雑状況は？│おとうふブログ",
-              "url": "https://otofubrog.com/sorahaku/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.sorahaku.net/\n公式資料：https://www.sorahaku.net/exhibition/permanent/space/"
-          }
-        },
-        {
-          "prefecture": "静岡県",
-          "city": "富士宮市",
-          "name": "奇石博物館",
-          "type": "地質・鉱物",
-          "note": "",
-          "official": "http://www.kiseki-jp.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%87%E7%9F%B3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E5%AF%8C%E5%A3%AB%E5%AE%AE%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "静岡県富士宮市「奇石博物館」に行って来ました（前編） - やた日記",
-              "url": "https://yatablog.hatenablog.com/entry/2025/10/12/120000"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.kiseki-jp.com/"
-          }
-        },
-        {
-          "prefecture": "滋賀県",
-          "city": "大津市",
-          "name": "田上鉱物博物館",
-          "type": "鉱物",
-          "note": "",
-          "official": "https://sam.shiga.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%B0%E4%B8%8A%E9%89%B1%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://sam.shiga.jp/"
-          }
-        },
-        {
           "prefecture": "滋賀県",
           "city": "草津市",
           "name": "滋賀県立琵琶湖博物館",
@@ -5536,48 +5173,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：http://www.museum.kyoto-u.ac.jp/"
-          }
-        },
-        {
-          "prefecture": "島根県",
-          "city": "奥出雲町",
-          "name": "奥出雲多根自然博物館",
-          "type": "自然史",
-          "note": "火曜日休館。10:00〜16:00。",
-          "official": "http://tanemuseum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E5%87%BA%E9%9B%B2%E5%A4%9A%E6%A0%B9%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%A5%A5%E5%87%BA%E9%9B%B2%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "島根県仁多郡奥出雲町　奥出雲多根自然博物館のナイトミュージアムが楽しい！～クイズと懐中電灯で探検気分♪～ - 5人家族の子連れぶらり旅",
-              "url": "https://familytraveler.hatenablog.com/entry/2018/02/11/170411"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://tanemuseum.jp/"
-          }
-        },
-        {
-          "prefecture": "山口県",
-          "city": "美祢市",
-          "name": "美祢市立秋吉台科学博物館",
-          "type": "地質・自然史",
-          "note": "9:00～17:00。 月曜日休館。",
-          "official": "http://akihaku.jimdofree.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E7%A5%A2%E5%B8%82%E7%AB%8B%E7%A7%8B%E5%90%89%E5%8F%B0%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E7%BE%8E%E7%A5%A2%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "全国自然博物館の旅〖43〗美祢市立秋吉台科学博物館｜美原さつき",
-              "url": "https://note.com/satsukimihara/n/na378fe726dee"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://akihaku.jimdofree.com/"
           }
         },
         {
@@ -5623,111 +5218,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "高知県",
-          "city": "越知町",
-          "name": "横倉山自然の森博物館",
-          "type": "自然史・地質",
-          "note": "火曜日休館。9:00〜16:30。",
-          "official": "https://www.yokogurayama-museum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E5%80%89%E5%B1%B1%E8%87%AA%E7%84%B6%E3%81%AE%E6%A3%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E8%B6%8A%E7%9F%A5%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "《越知町立 横倉山自然の森博物館》いずれ森に覆われる安藤忠雄建築植物分類学者・牧野富太郎が愛した高知・横倉山を遊ぶ③ | Discover Japan | ディスカバー・ジャパン",
-              "url": "https://discoverjapan-web.com/article/113601"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.yokogurayama-museum.jp/"
-          }
-        },
-        {
-          "prefecture": "佐賀県",
-          "city": "鳥栖市",
-          "name": "中冨記念くすり博物館",
-          "type": "薬学・産業",
-          "note": "",
-          "official": "https://nakatomi-museum.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%86%A8%E8%A8%98%E5%BF%B5%E3%81%8F%E3%81%99%E3%82%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E9%B3%A5%E6%A0%96%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "日本-中冨記念くすり博物館　レポ｜煮田ギルティ",
-              "url": "https://note.com/2etgl/n/n76e4df84381e"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://nakatomi-museum.or.jp/"
-          }
-        },
-        {
-          "prefecture": "熊本県",
-          "city": "阿蘇市",
-          "name": "阿蘇火山博物館",
-          "type": "火山・地学",
-          "note": "9:00～17:00",
-          "official": "http://www.asomuse.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E8%98%87%E7%81%AB%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E9%98%BF%E8%98%87%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "熊本見聞録5-2（阿蘇山上ターミナル）｜kazu_7138",
-              "url": "https://note.com/kazu_7138/n/n820db2a01413"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.asomuse.jp/"
-          }
-        },
-        {
-          "prefecture": "熊本県",
-          "city": "天草市",
-          "name": "天草市立御所浦恐竜の島博物館",
-          "type": "恐竜・地質",
-          "note": "",
-          "official": "https://goshouramuseum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E8%8D%89%E5%B8%82%E7%AB%8B%E5%BE%A1%E6%89%80%E6%B5%A6%E6%81%90%E7%AB%9C%E3%81%AE%E5%B3%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E5%A4%A9%E8%8D%89%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "天草市立御所浦 恐竜の島博物館｜恐竜の島にトリップ！見どころ・おみやげ・行き方ガイド | holoholo恐竜trip！",
-              "url": "https://holoholo-dinosaurtrip.com/goshouramuseum/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://goshouramuseum.jp/"
-          }
-        },
-        {
-          "prefecture": "熊本県",
-          "city": "御船町",
-          "name": "御船町恐竜博物館",
-          "type": "恐竜・地質",
-          "note": "",
-          "official": "https://mifunemuseum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%A1%E8%88%B9%E7%94%BA%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E5%BE%A1%E8%88%B9%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "ワンオペ熊本観光：2歳の子鉄と楽しむ恐竜博物館と路面電車　熊本編③｜堀川あかね│70ヶ国渡航",
-              "url": "https://note.com/akanedo/n/n9048af26c91d"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://mifunemuseum.jp/"
-          }
-        },
-        {
           "prefecture": "大分県",
           "city": "日田市",
           "name": "日田市立博物館",
@@ -5746,22 +5236,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.city.hita.oita.jp/soshiki/kyoikucho/shakaikyoikuka/hakubutsukan/hakubutukan/top.html"
-          }
-        },
-        {
-          "prefecture": "宮崎県",
-          "city": "宮崎市",
-          "name": "宮崎大学農学部附属農業博物館",
-          "type": "農業科学",
-          "note": "",
-          "official": "https://www.miyazaki-u.ac.jp/museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E5%A4%A7%E5%AD%A6%E8%BE%B2%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E8%BE%B2%E6%A5%AD%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E5%AE%AE%E5%B4%8E%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.miyazaki-u.ac.jp/museum/"
           }
         },
         {
@@ -5886,43 +5360,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "群馬県",
-          "city": "高崎市",
-          "name": "日本絹の里",
-          "type": "絹・産業",
-          "note": "",
-          "official": "https://www.nippon-kinunosato.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E7%B5%B9%E3%81%AE%E9%87%8C%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E9%AB%98%E5%B4%8E%E5%B8%82",
-          "kind": "絹・産業",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.nippon-kinunosato.or.jp/"
-          }
-        },
-        {
-          "prefecture": "埼玉県",
-          "city": "さいたま市岩槻区",
-          "name": "さいたま市岩槻人形博物館",
-          "type": "人形・工芸",
-          "note": "",
-          "official": "https://ningyo-muse.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%B2%A9%E6%A7%BB%E4%BA%BA%E5%BD%A2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%B2%A9%E6%A7%BB%E5%8C%BA",
-          "kind": "人形・工芸",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "さいたま市岩槻人形博物館（さいたま市） | クロスカルチャー研究会",
-              "url": "https://ameblo.jp/cross-culture-kenkyukai/entry-12864912499.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://ningyo-muse.jp/"
-          }
-        },
-        {
           "prefecture": "千葉県",
           "city": "香取市",
           "name": "伊能忠敬記念館",
@@ -5941,190 +5378,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.city.katori.lg.jp/smph/sightseeing/museum/index.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "目黒区",
-          "name": "目黒寄生虫館",
-          "type": "医学・自然史",
-          "note": "寄生虫標本に特化した小規模専門館。",
-          "official": "https://www.kiseichu.org/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%AF%84%E7%94%9F%E8%99%AB%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
-          "kind": "医学・自然史",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖東京〗目黒寄生虫館へ行ってきた〖名所〗｜Kana",
-              "url": "https://note.com/kanago/n/nb5641082769d"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.kiseichu.org/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%9B%AE%E9%BB%92%E5%AF%84%E7%94%9F%E8%99%AB%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横浜市中区",
-          "name": "シルク博物館",
-          "type": "絹・貿易",
-          "note": "横浜港と生糸貿易、養蚕、絹製品を扱う専門館。9:30 ～ 17:00。 月曜日休館。",
-          "official": "http://www.silkcenter-kbkk.jp/museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%AB%E3%82%AF%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
-          "kind": "絹・貿易",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.silkcenter-kbkk.jp/museum/"
-          }
-        },
-        {
-          "prefecture": "新潟県",
-          "city": "新潟市秋葉区",
-          "name": "新潟市新津鉄道資料館",
-          "type": "鉄道・産業",
-          "note": "鉄道の町の機関車、車両、運行資料を収蔵。 水曜日休館。",
-          "official": "http://www.ncnrm.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%96%B0%E6%B4%A5%E9%89%84%E9%81%93%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E7%A7%8B%E8%91%89%E5%8C%BA",
-          "kind": "鉄道・産業",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖デ〗ニイガタデオープン: 新津鉄道資料館が、7/19(土)グランドオープン！",
-              "url": "https://niigatadeopen.blogspot.com/2014/07/719.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.ncnrm.com/"
-          }
-        },
-        {
-          "prefecture": "福井県",
-          "city": "鯖江市",
-          "name": "めがねミュージアム",
-          "type": "眼鏡・産業",
-          "note": "鯖江の眼鏡製造工程と産業史を紹介。10:00～19:00。 水曜日休館。",
-          "official": "http://www.megane.gr.jp/museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%81%E3%81%8C%E3%81%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E9%AF%96%E6%B1%9F%E5%B8%82",
-          "kind": "眼鏡・産業",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "自分だけの眼鏡を探すなら鯖江！｜めがねミュージアム - にせもんのホンモノ",
-              "url": "https://nisemon-honmono.hatenablog.com/entry/megane_museum_sabae"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.megane.gr.jp/museum/"
-          }
-        },
-        {
-          "prefecture": "岐阜県",
-          "city": "中津川市",
-          "name": "博石館",
-          "type": "石・鉱物",
-          "note": "石材と鉱物を扱う屋外展示中心の専門館。9:00〜17:00",
-          "official": "http://www.hakusekikan.co.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E7%9F%B3%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E4%B8%AD%E6%B4%A5%E5%B7%9D%E5%B8%82",
-          "kind": "石・鉱物",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "ストーンミュージアム博石館　施設概要・展示・遊び編 | こどもとおでかけ回顧録",
-              "url": "https://sana1126.blog.fc2.com/blog-entry-1107.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.hakusekikan.co.jp/"
-          }
-        },
-        {
-          "prefecture": "静岡県",
-          "city": "伊東市",
-          "name": "伊豆アンモナイト博物館",
-          "type": "化石・自然史",
-          "note": "アンモナイト化石に特化した私設の小規模館。",
-          "official": "http://www.ammonite-museum.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E8%B1%86%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8A%E3%82%A4%E3%83%88%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E6%9D%B1%E5%B8%82",
-          "kind": "化石・自然史",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "026 ｜ 心のマイナーミュージアム ベスト6｜reza",
-              "url": "https://note.com/randmaster/n/nab1a51785d07"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.ammonite-museum.com/"
-          }
-        },
-        {
-          "prefecture": "滋賀県",
-          "city": "長浜市",
-          "name": "長浜鉄道スクエア",
-          "type": "鉄道・駅舎",
-          "note": "旧長浜駅舎と鉄道車両・資料を展示。",
-          "official": "https://kitabiwako.jp/tetsudou/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E6%B5%9C%E9%89%84%E9%81%93%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E9%95%B7%E6%B5%9C%E5%B8%82",
-          "kind": "鉄道・駅舎",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖鉄道旅記録〗日本最古の鉄道駅舎がある長浜鉄道スクエアへ行ってきた｜鉄道２万キロ",
-              "url": "https://note.com/tetsudo_20000k/n/n10d6b6502141"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://kitabiwako.jp/tetsudou/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市北区",
-          "name": "造幣博物館",
-          "type": "貨幣・産業",
-          "note": "貨幣製造、造幣機械、勲章の資料を公開。 水曜日休館。9:00〜16:45。",
-          "official": "https://www.mint.go.jp/enjoy/plant-osaka/plant_visit_museum_h.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%80%A0%E5%B9%A3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
-          "kind": "貨幣・産業",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "旅の思い出「造幣博物館」（大阪府）",
-              "url": "https://ameblo.jp/hituzou/entry-12951256169.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.mint.go.jp/enjoy/plant-osaka/plant_visit_museum_h.html"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "姫路市",
-          "name": "日本玩具博物館",
-          "type": "玩具・民俗",
-          "note": "日本と世界の玩具を古い土蔵群に展示。10:00～17:00。 水曜日休館。",
-          "official": "https://japan-toy-museum.org/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E7%8E%A9%E5%85%B7%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%A7%AB%E8%B7%AF%E5%B8%82",
-          "kind": "玩具・民俗",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "日本玩具博物館へ行ってきた",
-              "url": "https://note.com/hara_yasuhiro/n/nb5b94310b7ac"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://japan-toy-museum.org/"
           }
         },
         {
@@ -6149,237 +5402,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "鳥取県",
-          "city": "鳥取市",
-          "name": "わらべ館",
-          "type": "童謡・玩具",
-          "note": "童謡と玩具を扱う専門館。施設管理棟は、昭和5年建設の旧県立図書館の外観を復元している。 水曜日休館。9:00〜17:00。",
-          "official": "https://www.warabe.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%8F%E3%82%89%E3%81%B9%E9%A4%A8%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E9%B3%A5%E5%8F%96%E5%B8%82",
-          "kind": "童謡・玩具",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "鳥取は子連れ旅行に適しているスポットかもしれない~3歳娘とふたり旅レポ~",
-              "url": "https://note.com/mommy_dinosaurs/n/n2cb0f9b58fe1"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.warabe.or.jp/\n公式資料：https://warabe.or.jp/wordpress/wp-content/uploads/pdf/otomu/otomu_1.pdf"
-          }
-        },
-        {
-          "prefecture": "島根県",
-          "city": "奥出雲町",
-          "name": "奥出雲たたらと刀剣館",
-          "type": "たたら・刀剣",
-          "note": "たたら製鉄と日本刀の地域産業史を展示。 火曜日休館。",
-          "official": "https://okuizumo.org/jp/guide/detail/208/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E5%87%BA%E9%9B%B2%E3%81%9F%E3%81%9F%E3%82%89%E3%81%A8%E5%88%80%E5%89%A3%E9%A4%A8%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%A5%A5%E5%87%BA%E9%9B%B2%E7%94%BA",
-          "kind": "たたら・刀剣",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "奥出雲 たたらと刀剣館@奥出雲",
-              "url": "https://makarock.jp/blog-entry-4362.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://okuizumo.org/jp/guide/detail/208/"
-          }
-        },
-        {
-          "prefecture": "高知県",
-          "city": "いの町",
-          "name": "いの町紙の博物館",
-          "type": "和紙・産業",
-          "note": "土佐和紙の製造工程、道具、製品を紹介。1985年に開館 9:00〜17:00。 月曜休館。",
-          "official": "https://kamihaku.com/?utm_source",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%AE%E7%94%BA%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E3%81%84%E3%81%AE%E7%94%BA",
-          "kind": "和紙・産業",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "いの町紙の博物館の訪問記（館内写真）",
-              "url": "https://hiroshimasohsho.hatenablog.com/entry/2023/01/26/%E3%81%84%E3%81%AE%E7%94%BA_%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://kamihaku.com/?utm_source"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "北九州市門司区",
-          "name": "門司電気通信レトロ館",
-          "type": "通信・産業",
-          "note": "9:00～17:00。 月曜日休館。",
-          "official": "https://www.ntt-west.co.jp/kitaQ/moji/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%80%E5%8F%B8%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E3%83%AC%E3%83%88%E3%83%AD%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
-          "kind": "通信・産業",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "門司電気通信レトロ館（北九州市門司区）",
-              "url": "https://ameblo.jp/nobuyuki1010/entry-12855040591.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.ntt-west.co.jp/kitaQ/moji/"
-          }
-        },
-        {
-          "prefecture": "佐賀県",
-          "city": "佐賀市",
-          "name": "佐賀バルーンミュージアム",
-          "type": "気球・航空",
-          "note": "熱気球の構造、競技、佐賀との関係を紹介。10:00〜17:00。 月曜日休館。2016年開館。",
-          "official": "https://www.sagabai.com/balloon-museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BD%90%E8%B3%80%E5%B8%82",
-          "kind": "気球・航空",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "佐賀バルーンミュージアム/熱気球の街「佐賀」の歴史を知ることができる体験型博物館",
-              "url": "https://etchanblog.com/saga-balloonmuseum/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.sagabai.com/balloon-museum/\nWikipedia：https://ja.wikipedia.org/wiki/%E4%BD%90%E8%B3%80%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0"
-          }
-        },
-        {
-          "prefecture": "大分県",
-          "city": "別府市",
-          "name": "大分香りの博物館",
-          "type": "香料・生活文化",
-          "note": "香水瓶、香料原料、香りの文化史に特化。",
-          "official": "http://oita-kaori.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E9%A6%99%E3%82%8A%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%88%A5%E5%BA%9C%E5%B8%82",
-          "kind": "香料・生活文化",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "【別府観光】『大分香りの博物館』でオリジナルの香水作り【調香体験】",
-              "url": "https://tabi-shokudou.com/oita-kaori-fragrance-museum-beppu-sightseeing/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://oita-kaori.jp/"
-          }
-        },
-        {
-          "prefecture": "千葉県",
-          "city": "勝浦市",
-          "name": "千葉県立中央博物館分館 海の博物館",
-          "type": "海洋自然史",
-          "note": "9:00〜16:30。 月曜日休館。",
-          "official": "http://www2.chiba-muse.or.jp/UMIHAKU/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%88%86%E9%A4%A8%20%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8B%9D%E6%B5%A6%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "房総半島紀行 海の博物館@千葉勝浦編",
-              "url": "https://ameblo.jp/josh0916/entry-12572303200.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www2.chiba-muse.or.jp/UMIHAKU/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横須賀市",
-          "name": "観音崎自然博物館",
-          "type": "海洋・自然",
-          "note": "9:00～17:00。 月曜日休館。",
-          "official": "https://kannonzaki-nature-museum.jimdofree.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%A6%B3%E9%9F%B3%E5%B4%8E%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "【神奈川県横須賀市】観音崎自然博物館に行ってみた｜海の目の前にある博物館で三浦半島のリアルな自然と生態を知ろう！",
-              "url": "https://oh-ocean.hatenablog.com/entry/2019/02/11/153200"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://kannonzaki-nature-museum.jimdofree.com/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "高槻市",
-          "name": "高槻市立自然博物館 あくあぴあ芥川",
-          "type": "自然史・淡水",
-          "note": "月曜日休館。",
-          "official": "https://aquapia-akutagawa.blog.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E6%A7%BB%E5%B8%82%E7%AB%8B%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E3%81%82%E3%81%8F%E3%81%82%E3%81%B4%E3%81%82%E8%8A%A5%E5%B7%9D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E9%AB%98%E6%A7%BB%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "【活動報告】あくあぴあ芥川に行ってきた",
-              "url": "https://ameblo.jp/bluefish-aquarium/entry-12955251263.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://aquapia-akutagawa.blog.jp/"
-          }
-        },
-        {
-          "prefecture": "岡山県",
-          "city": "笠岡市",
-          "name": "笠岡市立カブトガニ博物館",
-          "type": "生物",
-          "note": "",
-          "official": "https://www.city.kasaoka.okayama.jp/site/kabutogani/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AC%A0%E5%B2%A1%E5%B8%82%E7%AB%8B%E3%82%AB%E3%83%96%E3%83%88%E3%82%AC%E3%83%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E7%AC%A0%E5%B2%A1%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "笠岡市立カブトガニ博物館に行ってきました",
-              "url": "https://ameblo.jp/sonnar28mm/entry-12519950424.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.kasaoka.okayama.jp/site/kabutogani/"
-          }
-        },
-        {
-          "prefecture": "徳島県",
-          "city": "美波町",
-          "name": "日和佐うみがめ博物館カレッタ",
-          "type": "生物・海洋",
-          "note": "月曜日休館。9:00〜17:00。",
-          "official": "https://caretta.town.minami.lg.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%92%8C%E4%BD%90%E3%81%86%E3%81%BF%E3%81%8C%E3%82%81%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%82%AB%E3%83%AC%E3%83%83%E3%82%BF%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E7%BE%8E%E6%B3%A2%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "日和佐うみがめ博物館カレッタ(2011.05.04)",
-              "url": "https://kame-aquarium.blogspot.com/2011/05/blog-post_9446.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://caretta.town.minami.lg.jp/"
-          }
-        },
-        {
           "prefecture": "東京都",
           "city": "葛飾区",
           "name": "葛飾区郷土と天文の博物館",
@@ -6398,27 +5420,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.museum.city.katsushika.lg.jp/"
-          }
-        },
-        {
-          "prefecture": "沖縄県",
-          "city": "宮古島市",
-          "name": "宮古島市「地下ダム資料館」",
-          "type": "地下施設",
-          "note": "地下ダムの地層断面模型やボーリングコアなどを展示する施設。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%8F%A4%E5%B3%B6%E5%B8%82%20%E6%B2%96%E7%B8%84%E7%9C%8C",
-          "kind": "自治体ウェブ資料",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "宮古島３日目①貝と地下ダムの博物館",
-              "url": "https://ameblo.jp/stitch-chacha/entry-12883426409.html"
-            }
-          ],
-          "extra": {
-            "参照": ""
           }
         }
       ]
@@ -24486,7 +23487,7 @@ window.FACILITY_DATASET={
       "name": "単一テーマ博物館",
       "shortName": "単一テーマ博物館",
       "file": "単一テーマ博物館.csv",
-      "count": 20,
+      "count": 69,
       "items": [
         {
           "prefecture": "東京都",
@@ -24782,6 +23783,858 @@ window.FACILITY_DATASET={
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": []
+        },
+        {
+          "prefecture": "北海道",
+          "city": "日高町",
+          "name": "日高山脈博物館",
+          "type": "地質・自然",
+          "note": "",
+          "official": "https://www.town.hidaka.hokkaido.jp/site/hmc/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E9%AB%98%E5%B1%B1%E8%84%88%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%A5%E9%AB%98%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "日高地方へ地層の観察に行きました(２・終) - しのうしのブログ",
+              "url": "https://sinousi-2.hatenablog.com/entry/2026/06/04/111028"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "むかわ町",
+          "name": "穂別博物館",
+          "type": "化石・恐竜",
+          "note": "",
+          "official": "http://www.town.mukawa.lg.jp/1908.htm",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A9%82%E5%88%A5%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E3%82%80%E3%81%8B%E3%82%8F%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖2026年リニューアル〗むかわ町立 穂別博物館レビュー｜カムイサウルス全身骨格が圧巻！雨の日も楽しめる北海道の恐竜スポット | あしたも晴れるかな",
+              "url": "https://ashihareblog.com/mukawa-hobetsu-museum/"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "三笠市",
+          "name": "三笠市立博物館",
+          "type": "化石・地質",
+          "note": "月曜日休館。9:00〜17:00。",
+          "official": "https://www.city.mikasa.hokkaido.jp/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E7%AC%A0%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E4%B8%89%E7%AC%A0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "三笠市立博物館　―　野外編　― - kamonji224の日記　―　北海道見聞録　―",
+              "url": "https://kamonji224.hatenablog.com/entry/2019/07/25/235617"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "夕張市",
+          "name": "夕張市石炭博物館",
+          "type": "産業・鉱業",
+          "note": "1980年に開館",
+          "official": "https://coal-yubari.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%95%E5%BC%B5%E5%B8%82%E7%9F%B3%E7%82%AD%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%A4%95%E5%BC%B5%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "全面リニューアルした「夕張市石炭博物館」に行ってきました | ぷかぷか雑記帳",
+              "url": "https://pukapuka-note.blogspot.com/2018/10/coal-mining-museum-of-yubari.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "岩手県",
+          "city": "奥州市",
+          "name": "牛の博物館",
+          "type": "畜産・自然",
+          "note": "ウシの世界を生物学と人文科学の両面から紹介する専門博物館。動物としてのウシと、人との関係を合わせて扱う。",
+          "official": "https://www.city.oshu.iwate.jp/section/ushi/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%89%9B%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A5%A5%E5%B7%9E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「牛の博物館」に行ってきたよ（岩手県奥州市・前沢） - にわか、オホーツク街道をゆく",
+              "url": "https://gogo-gorila.hatenablog.com/entry/2026/08/08/144047"
+            }
+          ]
+        },
+        {
+          "prefecture": "岩手県",
+          "city": "久慈市",
+          "name": "久慈琥珀博物館",
+          "type": "地質・琥珀",
+          "note": "",
+          "official": "http://www.kuji.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B9%85%E6%85%88%E7%90%A5%E7%8F%80%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E4%B9%85%E6%85%88%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "久慈琥珀博物館で琥珀恐竜化石発掘体験をしてきました！所要時間や料金紹介 | 岩手盛岡旅行ブログ",
+              "url": "https://iwatemorioka.com/kuji-amber/"
+            }
+          ]
+        },
+        {
+          "prefecture": "秋田県",
+          "city": "秋田市",
+          "name": "秋田大学大学院国際資源学研究科附属鉱業博物館",
+          "type": "鉱物・鉱業",
+          "note": "9時～16時。 土曜日休館。",
+          "official": "https://www.mus.akita-u.ac.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%9B%BD%E9%9A%9B%E8%B3%87%E6%BA%90%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91%E9%99%84%E5%B1%9E%E9%89%B1%E6%A5%AD%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E7%A7%8B%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "鉱業博物館に行ってきました。｜オバラウジ",
+              "url": "https://note.com/juicy_llama1427/n/n247d7dc98b46"
+            }
+          ]
+        },
+        {
+          "prefecture": "宮城県",
+          "city": "石巻市",
+          "name": "宮城県慶長使節船ミュージアム サン・ファン館",
+          "type": "海事・造船",
+          "note": "9:30～16:30。 火曜日休館。",
+          "official": "https://www.santjuan.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%E6%85%B6%E9%95%B7%E4%BD%BF%E7%AF%80%E8%88%B9%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E9%A4%A8%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E7%9F%B3%E5%B7%BB%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "宮城県慶長使節船ミュージアム：サン・ファン館見学（2025年10月）〜by空倶楽部 - Always Autumn",
+              "url": "https://autumn105.hatenablog.com/entry/2026/01/30/224354"
+            }
+          ]
+        },
+        {
+          "prefecture": "福島県",
+          "city": "北塩原村",
+          "name": "磐梯山噴火記念館",
+          "type": "火山・地学",
+          "note": "",
+          "official": "http://www.bandaimuse.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A3%90%E6%A2%AF%E5%B1%B1%E5%99%B4%E7%81%AB%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E5%8C%97%E5%A1%A9%E5%8E%9F%E6%9D%91",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "宮代町",
+          "name": "日本工業大学工業技術博物館",
+          "type": "産業技術",
+          "note": "日曜休館。9:30〜16:30。",
+          "official": "https://museum.nit.ac.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%AE%AE%E4%BB%A3%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "日本工業大学「工業技術博物館」",
+              "url": "https://kazuya77x.seesaa.net/article/2024-12-12.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "糸魚川市",
+          "name": "フォッサマグナミュージアム",
+          "type": "地質",
+          "note": "9時00分～16時30分。 月曜日休館。",
+          "official": "https://fmm.geo-itoigawa.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A9%E3%83%83%E3%82%B5%E3%83%9E%E3%82%B0%E3%83%8A%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%B3%B8%E9%AD%9A%E5%B7%9D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "糸魚川のフォッサマグナミュージアム見学記（後編） 魅惑の洞窟や化石・鉱物の数々 - れきたびcafe",
+              "url": "https://reki-tabi.com/2024/05/08/%E7%B3%B8%E9%AD%9A%E5%B7%9D%E3%81%AE%E3%83%95%E3%82%A9%E3%83%83%E3%82%B5%E3%83%9E%E3%82%B0%E3%83%8A%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%E8%A6%8B%E5%AD%A6%E8%A8%98%EF%BC%88%E5%BE%8C/"
+            }
+          ]
+        },
+        {
+          "prefecture": "山梨県",
+          "city": "身延町",
+          "name": "甲斐黄金村・湯之奥金山博物館",
+          "type": "鉱山・産業",
+          "note": "9:00〜17:00。",
+          "official": "https://www.town.minobu.lg.jp/site/kinzan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E6%96%90%E9%BB%84%E9%87%91%E6%9D%91%E3%83%BB%E6%B9%AF%E4%B9%8B%E5%A5%A5%E9%87%91%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E8%BA%AB%E5%BB%B6%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "黄金の指輪を作りたい④（甲斐黄金村・湯之奥金山博物館編）｜よこしま",
+              "url": "https://note.com/_yoko_shima/n/n40772bc717d1"
+            }
+          ]
+        },
+        {
+          "prefecture": "山梨県",
+          "city": "北杜市",
+          "name": "清泉寮やまねミュージアム",
+          "type": "生態",
+          "note": "10:00～16:00",
+          "official": "https://www.seisenryo.jp/yamane_museum.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%85%E6%B3%89%E5%AF%AE%E3%82%84%E3%81%BE%E3%81%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E5%8C%97%E6%9D%9C%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "岐阜県",
+          "city": "中津川市",
+          "name": "中津川市鉱物博物館",
+          "type": "鉱物",
+          "note": "",
+          "official": "https://www.city.nakatsugawa.lg.jp/museum/m/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%B4%A5%E5%B7%9D%E5%B8%82%E9%89%B1%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E4%B8%AD%E6%B4%A5%E5%B7%9D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "中津川市鉱物博物館訪問記: craftな毎日",
+              "url": "https://iruchan.seesaa.net/article/2010-07-25.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "岐阜県",
+          "city": "瑞浪市",
+          "name": "瑞浪市化石博物館",
+          "type": "化石",
+          "note": "",
+          "official": "https://www.city.mizunami.lg.jp/kankou_bunka/1004960/kaseki_museum/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%91%9E%E6%B5%AA%E5%B8%82%E5%8C%96%E7%9F%B3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E7%91%9E%E6%B5%AA%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "たのしいぞ郷土資料館　岐阜県瑞浪市「瑞浪市化石博物館」｜nuimogu",
+              "url": "https://note.com/nuimogu/n/ne2ed40a7a984"
+            }
+          ]
+        },
+        {
+          "prefecture": "岐阜県",
+          "city": "各務原市",
+          "name": "岐阜かかみがはら航空宇宙博物館",
+          "type": "航空宇宙",
+          "note": "2階の宇宙エリアでは、国際宇宙ステーション、小惑星探査機「はやぶさ2」、H-Ⅱロケットなどを通じて宇宙開発の歴史を紹介する。10:00 - 17:00",
+          "official": "https://www.sorahaku.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E3%81%8B%E3%81%8B%E3%81%BF%E3%81%8C%E3%81%AF%E3%82%89%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%90%84%E5%8B%99%E5%8E%9F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "岐阜かかみがはら航空宇宙博物館｜4歳2歳の子連れで行ってみた｜館内の雰囲気や混雑状況は？│おとうふブログ",
+              "url": "https://otofubrog.com/sorahaku/"
+            }
+          ]
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "富士宮市",
+          "name": "奇石博物館",
+          "type": "地質・鉱物",
+          "note": "",
+          "official": "http://www.kiseki-jp.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%87%E7%9F%B3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E5%AF%8C%E5%A3%AB%E5%AE%AE%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "静岡県富士宮市「奇石博物館」に行って来ました（前編） - やた日記",
+              "url": "https://yatablog.hatenablog.com/entry/2025/10/12/120000"
+            }
+          ]
+        },
+        {
+          "prefecture": "滋賀県",
+          "city": "大津市",
+          "name": "田上鉱物博物館",
+          "type": "鉱物",
+          "note": "",
+          "official": "https://sam.shiga.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%B0%E4%B8%8A%E9%89%B1%E7%89%A9%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%A4%A7%E6%B4%A5%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "島根県",
+          "city": "奥出雲町",
+          "name": "奥出雲多根自然博物館",
+          "type": "自然史",
+          "note": "火曜日休館。10:00〜16:00。",
+          "official": "http://tanemuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E5%87%BA%E9%9B%B2%E5%A4%9A%E6%A0%B9%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%A5%A5%E5%87%BA%E9%9B%B2%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "島根県仁多郡奥出雲町　奥出雲多根自然博物館のナイトミュージアムが楽しい！～クイズと懐中電灯で探検気分♪～ - 5人家族の子連れぶらり旅",
+              "url": "https://familytraveler.hatenablog.com/entry/2018/02/11/170411"
+            }
+          ]
+        },
+        {
+          "prefecture": "山口県",
+          "city": "美祢市",
+          "name": "美祢市立秋吉台科学博物館",
+          "type": "地質・自然史",
+          "note": "9:00～17:00。 月曜日休館。",
+          "official": "http://akihaku.jimdofree.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E7%A5%A2%E5%B8%82%E7%AB%8B%E7%A7%8B%E5%90%89%E5%8F%B0%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%20%E7%BE%8E%E7%A5%A2%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "全国自然博物館の旅〖43〗美祢市立秋吉台科学博物館｜美原さつき",
+              "url": "https://note.com/satsukimihara/n/na378fe726dee"
+            }
+          ]
+        },
+        {
+          "prefecture": "高知県",
+          "city": "越知町",
+          "name": "横倉山自然の森博物館",
+          "type": "自然史・地質",
+          "note": "火曜日休館。9:00〜16:30。",
+          "official": "https://www.yokogurayama-museum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E5%80%89%E5%B1%B1%E8%87%AA%E7%84%B6%E3%81%AE%E6%A3%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E8%B6%8A%E7%9F%A5%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "《越知町立 横倉山自然の森博物館》いずれ森に覆われる安藤忠雄建築植物分類学者・牧野富太郎が愛した高知・横倉山を遊ぶ③ | Discover Japan | ディスカバー・ジャパン",
+              "url": "https://discoverjapan-web.com/article/113601"
+            }
+          ]
+        },
+        {
+          "prefecture": "佐賀県",
+          "city": "鳥栖市",
+          "name": "中冨記念くすり博物館",
+          "type": "薬学・産業",
+          "note": "",
+          "official": "https://nakatomi-museum.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%86%A8%E8%A8%98%E5%BF%B5%E3%81%8F%E3%81%99%E3%82%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E9%B3%A5%E6%A0%96%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "日本-中冨記念くすり博物館　レポ｜煮田ギルティ",
+              "url": "https://note.com/2etgl/n/n76e4df84381e"
+            }
+          ]
+        },
+        {
+          "prefecture": "熊本県",
+          "city": "阿蘇市",
+          "name": "阿蘇火山博物館",
+          "type": "火山・地学",
+          "note": "9:00～17:00",
+          "official": "http://www.asomuse.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E8%98%87%E7%81%AB%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E9%98%BF%E8%98%87%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "熊本見聞録5-2（阿蘇山上ターミナル）｜kazu_7138",
+              "url": "https://note.com/kazu_7138/n/n820db2a01413"
+            }
+          ]
+        },
+        {
+          "prefecture": "熊本県",
+          "city": "天草市",
+          "name": "天草市立御所浦恐竜の島博物館",
+          "type": "恐竜・地質",
+          "note": "",
+          "official": "https://goshouramuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E8%8D%89%E5%B8%82%E7%AB%8B%E5%BE%A1%E6%89%80%E6%B5%A6%E6%81%90%E7%AB%9C%E3%81%AE%E5%B3%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E5%A4%A9%E8%8D%89%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "天草市立御所浦 恐竜の島博物館｜恐竜の島にトリップ！見どころ・おみやげ・行き方ガイド | holoholo恐竜trip！",
+              "url": "https://holoholo-dinosaurtrip.com/goshouramuseum/"
+            }
+          ]
+        },
+        {
+          "prefecture": "熊本県",
+          "city": "御船町",
+          "name": "御船町恐竜博物館",
+          "type": "恐竜・地質",
+          "note": "",
+          "official": "https://mifunemuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%A1%E8%88%B9%E7%94%BA%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%86%8A%E6%9C%AC%E7%9C%8C%20%E5%BE%A1%E8%88%B9%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "ワンオペ熊本観光：2歳の子鉄と楽しむ恐竜博物館と路面電車　熊本編③｜堀川あかね│70ヶ国渡航",
+              "url": "https://note.com/akanedo/n/n9048af26c91d"
+            }
+          ]
+        },
+        {
+          "prefecture": "宮崎県",
+          "city": "宮崎市",
+          "name": "宮崎大学農学部附属農業博物館",
+          "type": "農業科学",
+          "note": "",
+          "official": "https://www.miyazaki-u.ac.jp/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E5%A4%A7%E5%AD%A6%E8%BE%B2%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E8%BE%B2%E6%A5%AD%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%20%E5%AE%AE%E5%B4%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "高崎市",
+          "name": "日本絹の里",
+          "type": "絹・産業",
+          "note": "",
+          "official": "https://www.nippon-kinunosato.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E7%B5%B9%E3%81%AE%E9%87%8C%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E9%AB%98%E5%B4%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "さいたま市岩槻区",
+          "name": "さいたま市岩槻人形博物館",
+          "type": "人形・工芸",
+          "note": "",
+          "official": "https://ningyo-muse.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%B2%A9%E6%A7%BB%E4%BA%BA%E5%BD%A2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%B2%A9%E6%A7%BB%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "さいたま市岩槻人形博物館（さいたま市） | クロスカルチャー研究会",
+              "url": "https://ameblo.jp/cross-culture-kenkyukai/entry-12864912499.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "目黒区",
+          "name": "目黒寄生虫館",
+          "type": "医学・自然史",
+          "note": "寄生虫標本に特化した小規模専門館。",
+          "official": "https://www.kiseichu.org/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%AF%84%E7%94%9F%E8%99%AB%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖東京〗目黒寄生虫館へ行ってきた〖名所〗｜Kana",
+              "url": "https://note.com/kanago/n/nb5641082769d"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市中区",
+          "name": "シルク博物館",
+          "type": "絹・貿易",
+          "note": "横浜港と生糸貿易、養蚕、絹製品を扱う専門館。9:30 ～ 17:00。 月曜日休館。",
+          "official": "http://www.silkcenter-kbkk.jp/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%AB%E3%82%AF%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "新潟市秋葉区",
+          "name": "新潟市新津鉄道資料館",
+          "type": "鉄道・産業",
+          "note": "鉄道の町の機関車、車両、運行資料を収蔵。 水曜日休館。",
+          "official": "http://www.ncnrm.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%96%B0%E6%B4%A5%E9%89%84%E9%81%93%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E7%A7%8B%E8%91%89%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖デ〗ニイガタデオープン: 新津鉄道資料館が、7/19(土)グランドオープン！",
+              "url": "https://niigatadeopen.blogspot.com/2014/07/719.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "福井県",
+          "city": "鯖江市",
+          "name": "めがねミュージアム",
+          "type": "眼鏡・産業",
+          "note": "鯖江の眼鏡製造工程と産業史を紹介。10:00～19:00。 水曜日休館。",
+          "official": "http://www.megane.gr.jp/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%81%E3%81%8C%E3%81%AD%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E9%AF%96%E6%B1%9F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "自分だけの眼鏡を探すなら鯖江！｜めがねミュージアム - にせもんのホンモノ",
+              "url": "https://nisemon-honmono.hatenablog.com/entry/megane_museum_sabae"
+            }
+          ]
+        },
+        {
+          "prefecture": "岐阜県",
+          "city": "中津川市",
+          "name": "博石館",
+          "type": "石・鉱物",
+          "note": "石材と鉱物を扱う屋外展示中心の専門館。9:00〜17:00",
+          "official": "http://www.hakusekikan.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E7%9F%B3%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E4%B8%AD%E6%B4%A5%E5%B7%9D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "ストーンミュージアム博石館　施設概要・展示・遊び編 | こどもとおでかけ回顧録",
+              "url": "https://sana1126.blog.fc2.com/blog-entry-1107.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "伊東市",
+          "name": "伊豆アンモナイト博物館",
+          "type": "化石・自然史",
+          "note": "アンモナイト化石に特化した私設の小規模館。",
+          "official": "http://www.ammonite-museum.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E8%B1%86%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8A%E3%82%A4%E3%83%88%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E4%BC%8A%E6%9D%B1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "026 ｜ 心のマイナーミュージアム ベスト6｜reza",
+              "url": "https://note.com/randmaster/n/nab1a51785d07"
+            }
+          ]
+        },
+        {
+          "prefecture": "滋賀県",
+          "city": "長浜市",
+          "name": "長浜鉄道スクエア",
+          "type": "鉄道・駅舎",
+          "note": "旧長浜駅舎と鉄道車両・資料を展示。",
+          "official": "https://kitabiwako.jp/tetsudou/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E6%B5%9C%E9%89%84%E9%81%93%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E9%95%B7%E6%B5%9C%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖鉄道旅記録〗日本最古の鉄道駅舎がある長浜鉄道スクエアへ行ってきた｜鉄道２万キロ",
+              "url": "https://note.com/tetsudo_20000k/n/n10d6b6502141"
+            }
+          ]
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市北区",
+          "name": "造幣博物館",
+          "type": "貨幣・産業",
+          "note": "貨幣製造、造幣機械、勲章の資料を公開。 水曜日休館。9:00〜16:45。",
+          "official": "https://www.mint.go.jp/enjoy/plant-osaka/plant_visit_museum_h.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%80%A0%E5%B9%A3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旅の思い出「造幣博物館」（大阪府）",
+              "url": "https://ameblo.jp/hituzou/entry-12951256169.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "姫路市",
+          "name": "日本玩具博物館",
+          "type": "玩具・民俗",
+          "note": "日本と世界の玩具を古い土蔵群に展示。10:00～17:00。 水曜日休館。",
+          "official": "https://japan-toy-museum.org/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E7%8E%A9%E5%85%B7%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%A7%AB%E8%B7%AF%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "日本玩具博物館へ行ってきた",
+              "url": "https://note.com/hara_yasuhiro/n/nb5b94310b7ac"
+            }
+          ]
+        },
+        {
+          "prefecture": "鳥取県",
+          "city": "鳥取市",
+          "name": "わらべ館",
+          "type": "童謡・玩具",
+          "note": "童謡と玩具を扱う専門館。施設管理棟は、昭和5年建設の旧県立図書館の外観を復元している。 水曜日休館。9:00〜17:00。",
+          "official": "https://www.warabe.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%8F%E3%82%89%E3%81%B9%E9%A4%A8%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E9%B3%A5%E5%8F%96%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "鳥取は子連れ旅行に適しているスポットかもしれない~3歳娘とふたり旅レポ~",
+              "url": "https://note.com/mommy_dinosaurs/n/n2cb0f9b58fe1"
+            }
+          ]
+        },
+        {
+          "prefecture": "島根県",
+          "city": "奥出雲町",
+          "name": "奥出雲たたらと刀剣館",
+          "type": "たたら・刀剣",
+          "note": "たたら製鉄と日本刀の地域産業史を展示。 火曜日休館。",
+          "official": "https://okuizumo.org/jp/guide/detail/208/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E5%87%BA%E9%9B%B2%E3%81%9F%E3%81%9F%E3%82%89%E3%81%A8%E5%88%80%E5%89%A3%E9%A4%A8%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%A5%A5%E5%87%BA%E9%9B%B2%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "奥出雲 たたらと刀剣館@奥出雲",
+              "url": "https://makarock.jp/blog-entry-4362.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "高知県",
+          "city": "いの町",
+          "name": "いの町紙の博物館",
+          "type": "和紙・産業",
+          "note": "土佐和紙の製造工程、道具、製品を紹介。1985年に開館 9:00〜17:00。 月曜休館。",
+          "official": "https://kamihaku.com/?utm_source",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%AE%E7%94%BA%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%AB%98%E7%9F%A5%E7%9C%8C%20%E3%81%84%E3%81%AE%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "いの町紙の博物館の訪問記（館内写真）",
+              "url": "https://hiroshimasohsho.hatenablog.com/entry/2023/01/26/%E3%81%84%E3%81%AE%E7%94%BA_%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8"
+            }
+          ]
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "北九州市門司区",
+          "name": "門司電気通信レトロ館",
+          "type": "通信・産業",
+          "note": "9:00～17:00。 月曜日休館。",
+          "official": "https://www.ntt-west.co.jp/kitaQ/moji/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%80%E5%8F%B8%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E3%83%AC%E3%83%88%E3%83%AD%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "門司電気通信レトロ館（北九州市門司区）",
+              "url": "https://ameblo.jp/nobuyuki1010/entry-12855040591.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "佐賀県",
+          "city": "佐賀市",
+          "name": "佐賀バルーンミュージアム",
+          "type": "気球・航空",
+          "note": "熱気球の構造、競技、佐賀との関係を紹介。10:00〜17:00。 月曜日休館。2016年開館。",
+          "official": "https://www.sagabai.com/balloon-museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E4%BD%90%E8%B3%80%E7%9C%8C%20%E4%BD%90%E8%B3%80%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "佐賀バルーンミュージアム/熱気球の街「佐賀」の歴史を知ることができる体験型博物館",
+              "url": "https://etchanblog.com/saga-balloonmuseum/"
+            }
+          ]
+        },
+        {
+          "prefecture": "大分県",
+          "city": "別府市",
+          "name": "大分香りの博物館",
+          "type": "香料・生活文化",
+          "note": "香水瓶、香料原料、香りの文化史に特化。",
+          "official": "http://oita-kaori.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E9%A6%99%E3%82%8A%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%A4%A7%E5%88%86%E7%9C%8C%20%E5%88%A5%E5%BA%9C%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "【別府観光】『大分香りの博物館』でオリジナルの香水作り【調香体験】",
+              "url": "https://tabi-shokudou.com/oita-kaori-fragrance-museum-beppu-sightseeing/"
+            }
+          ]
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "勝浦市",
+          "name": "千葉県立中央博物館分館 海の博物館",
+          "type": "海洋自然史",
+          "note": "9:00〜16:30。 月曜日休館。",
+          "official": "http://www2.chiba-muse.or.jp/UMIHAKU/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%88%86%E9%A4%A8%20%E6%B5%B7%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E5%8B%9D%E6%B5%A6%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "房総半島紀行 海の博物館@千葉勝浦編",
+              "url": "https://ameblo.jp/josh0916/entry-12572303200.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横須賀市",
+          "name": "観音崎自然博物館",
+          "type": "海洋・自然",
+          "note": "9:00～17:00。 月曜日休館。",
+          "official": "https://kannonzaki-nature-museum.jimdofree.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%A6%B3%E9%9F%B3%E5%B4%8E%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "【神奈川県横須賀市】観音崎自然博物館に行ってみた｜海の目の前にある博物館で三浦半島のリアルな自然と生態を知ろう！",
+              "url": "https://oh-ocean.hatenablog.com/entry/2019/02/11/153200"
+            }
+          ]
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "高槻市",
+          "name": "高槻市立自然博物館 あくあぴあ芥川",
+          "type": "自然史・淡水",
+          "note": "月曜日休館。",
+          "official": "https://aquapia-akutagawa.blog.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E6%A7%BB%E5%B8%82%E7%AB%8B%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E3%81%82%E3%81%8F%E3%81%82%E3%81%B4%E3%81%82%E8%8A%A5%E5%B7%9D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E9%AB%98%E6%A7%BB%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "【活動報告】あくあぴあ芥川に行ってきた",
+              "url": "https://ameblo.jp/bluefish-aquarium/entry-12955251263.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "笠岡市",
+          "name": "笠岡市立カブトガニ博物館",
+          "type": "生物",
+          "note": "",
+          "official": "https://www.city.kasaoka.okayama.jp/site/kabutogani/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AC%A0%E5%B2%A1%E5%B8%82%E7%AB%8B%E3%82%AB%E3%83%96%E3%83%88%E3%82%AC%E3%83%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E7%AC%A0%E5%B2%A1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "笠岡市立カブトガニ博物館に行ってきました",
+              "url": "https://ameblo.jp/sonnar28mm/entry-12519950424.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "徳島県",
+          "city": "美波町",
+          "name": "日和佐うみがめ博物館カレッタ",
+          "type": "生物・海洋",
+          "note": "月曜日休館。9:00〜17:00。",
+          "official": "https://caretta.town.minami.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%92%8C%E4%BD%90%E3%81%86%E3%81%BF%E3%81%8C%E3%82%81%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%82%AB%E3%83%AC%E3%83%83%E3%82%BF%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%20%E7%BE%8E%E6%B3%A2%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "日和佐うみがめ博物館カレッタ(2011.05.04)",
+              "url": "https://kame-aquarium.blogspot.com/2011/05/blog-post_9446.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "沖縄県",
+          "city": "宮古島市",
+          "name": "宮古島市「地下ダム資料館」",
+          "type": "地下施設",
+          "note": "地下ダムの地層断面模型やボーリングコアなどを展示する施設。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%8F%A4%E5%B3%B6%E5%B8%82%20%E6%B2%96%E7%B8%84%E7%9C%8C",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "宮古島３日目①貝と地下ダムの博物館",
+              "url": "https://ameblo.jp/stitch-chacha/entry-12883426409.html"
+            }
+          ]
         }
       ]
     }
