@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "materialCount": 34,
-  "total": 1364,
+  "total": 1376,
   "materials": [
     {
       "id": "botanical",
@@ -23471,7 +23471,7 @@
       "name": "時間が残る鉄道駅",
       "shortName": "時間が残る鉄道駅",
       "file": "時間が残る鉄道駅.csv",
-      "count": 7,
+      "count": 19,
       "items": [
         {
           "prefecture": "千葉県",
@@ -23609,6 +23609,201 @@
               "url": "https://wotakuwatubuyaku.hateblo.jp/entry/2021/07/23/220427"
             }
           ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "原宿駅 宮廷ホーム",
+          "type": "現役線沿いの皇室専用ホーム",
+          "note": "一般旅客用とは別に設けられた皇室用の専用ホーム。現在も山手線の原宿駅構内に施設として残るが、通常は非公開で、一般利用者は公道や列車から外観を確認する範囲に限られる。",
+          "official": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=1256",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8E%9F%E5%AE%BF%E9%A7%85%20%E5%AE%AE%E5%BB%B7%E3%83%9B%E3%83%BC%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "新橋駅「幻のホーム」",
+          "type": "現役地下鉄内の未使用ホーム",
+          "note": "東京高速鉄道時代の新橋駅に設けられた未使用ホーム。新線計画の変更で営業用に使われないまま、現在の東京メトロ銀座線新橋駅の地下構造内に残る。通常非公開で、見学会等を除き一般利用者は立ち入れない。",
+          "official": "https://ssl.tokyometro.jp/support/faq_answer?faqno=OpenFAQ-000556&lang=ja",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%A9%8B%E9%A7%85%E3%80%8C%E5%B9%BB%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%80%8D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "都内の地下に眠る駅5選",
+              "url": "https://trafficnews.jp/post/97027"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "池袋駅丸ノ内線「仮駅」",
+          "type": "現役駅内の旧仮設ホーム・改札",
+          "note": "丸ノ内線池袋駅は開業時、国鉄等との総合駅計画を待つため現在位置の東側に仮駅を設置した。後に本駅へ移転した後も、仮設ホーム・仮改札の痕跡が地下構造として残る。通常の駅利用空間から一部を確認できる。",
+          "official": "https://www.jametro.or.jp/upload/subway/kMtRRukknhwX.pdf",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%A0%E8%A2%8B%E9%A7%85%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A%E3%80%8C%E4%BB%AE%E9%A7%85%E3%80%8D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "海老名市",
+          "name": "かしわ台駅東口・旧大塚本町駅跡",
+          "type": "現役駅に転用された旧駅舎・ホーム",
+          "note": "相模鉄道の大塚本町駅は1975年に廃止され、駅舎位置とホーム跡の一部が現在のかしわ台駅東口と長い連絡通路に転用された。現役ホームから東口までの通路を通常の駅利用で歩け、旧駅の配置が現在の動線に残る。",
+          "official": "https://www.sotetsu.co.jp/train/stations/kashiwadai/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%81%97%E3%82%8F%E5%8F%B0%E9%A7%85%E6%9D%B1%E5%8F%A3%E3%83%BB%E6%97%A7%E5%A4%A7%E5%A1%9A%E6%9C%AC%E7%94%BA%E9%A7%85%E8%B7%A1%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%B5%B7%E8%80%81%E5%90%8D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "かしわ台駅東口の訪問記",
+              "url": "https://blog.uswapa.com/entry/2020/05/12/231006"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "王子駅・北王子貨物線跡",
+          "type": "現役駅脇の旧貨物線・ホーム跡",
+          "note": "2014年に廃止された北王子貨物線が王子駅北側に分岐していた。駅脇には錆びたレール、旧ホーム、線路を剥がした線形や埋設レールの痕跡が残る。駅周辺の公道から観察できるが、撤去・再開発により残存範囲は変化している。",
+          "official": "https://www.city.kita.tokyo.jp/oji-machitanto/pubcom/documents/170501-01honbun.pdf",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%8E%8B%E5%AD%90%E9%A7%85%E3%83%BB%E5%8C%97%E7%8E%8B%E5%AD%90%E8%B2%A8%E7%89%A9%E7%B7%9A%E8%B7%A1%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "今は亡き姿に想いを馳せる 東京都内の鉄道「廃」スポット",
+              "url": "https://rail.hobidas.com/feature/500613/"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市西区",
+          "name": "高島町駅跡",
+          "type": "旧東急駅の高架・ホーム跡",
+          "note": "東急東横線の高島町駅廃止後も、旧駅の高架・ホーム位置・高架下構造が横浜都心部に残った。現在は遊歩道整備と撤去工事が進み、旧駅の残存範囲は変化している。公道・遊歩道から確認できる区間を対象とする。",
+          "official": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/kotsu/tetsudo/atochi.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%B3%B6%E7%94%BA%E9%A7%85%E8%B7%A1%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "ハマ散歩・東急線高島町駅跡",
+              "url": "https://ameblo.jp/byulip2/entry-12683097746.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市西区",
+          "name": "東急東横線旧横浜〜桜木町線路跡",
+          "type": "廃線高架・線路敷の残存区間",
+          "note": "みなとみらい線直通化で廃止された東急東横線の横浜〜桜木町間。旧高架、線路敷、桜木町駅付近の廃線構造が遊歩道や再整備区間に取り込まれ、現役都市空間の中に旧線形が残る。撤去済み区間と残存区間を区別して観察する。",
+          "official": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/kotsu/tetsudo/atochi.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A%E6%97%A7%E6%A8%AA%E6%B5%9C%E3%80%9C%E6%A1%9C%E6%9C%A8%E7%94%BA%E7%B7%9A%E8%B7%AF%E8%B7%A1%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "上野駅旧17・18番線ホーム跡",
+          "type": "旧ターミナルホーム・線路跡",
+          "note": "上野駅の地平ホームにかつて存在した旧17・18番線のうち、旧18番線は線路が撤去された後もホームの一部が残り、旧17番線周辺にも旧ターミナルの構造と欠番の痕跡が残る。旧18番線は通常の駅構内から確認できるが、関係者区域を含む部分への立入はできない。",
+          "official": "https://www.city.taito.lg.jp/kusei/sanka/release/press0809/07.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E9%87%8E%E9%A7%85%E6%97%A717%E3%83%BB18%E7%95%AA%E7%B7%9A%E3%83%9B%E3%83%BC%E3%83%A0%E8%B7%A1%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "今昔風景5 上野駅 幻の17番線",
+              "url": "https://ameblo.jp/tomohi2000/entry-12234766742.html"
+            },
+            {
+              "title": "上野駅を探検する",
+              "url": "https://www.qpsanpo.com/uenoeki.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "旧表参道駅（旧神宮前駅）ホーム",
+          "type": "現役銀座線内の移設前旧ホーム",
+          "note": "現在の表参道駅に改称される前の神宮前駅時代のホームを含む、銀座線の移設前旧ホーム。1976年のホーム移設後も資材置場として残り、旧表参道駅・旧神宮前駅は同一の物理的遺構を指すため一件に統合する。通常非公開。",
+          "official": "https://www.tokyometro.jp/news/images_h/metroNews20160929_1.pdf",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E8%A1%A8%E5%8F%82%E9%81%93%E9%A7%85%EF%BC%88%E6%97%A7%E7%A5%9E%E5%AE%AE%E5%89%8D%E9%A7%85%EF%BC%89%E3%83%9B%E3%83%BC%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区・中央区",
+          "name": "東京都港湾局深川線・晴海線跡／晴海橋梁",
+          "type": "旧港湾貨物線・鉄道橋梁",
+          "note": "東京港の埠頭へ石炭・紙・セメント等を運んだ東京都港湾局専用線の廃線跡。晴海橋梁、橋台・橋脚、旧レール、旧踏切位置など具体的な構造物が豊洲・晴海の再開発空間に残る。公道・護岸から観察できるが、フェンス内への立入は不可。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E6%B9%BE%E5%B1%80%E6%B7%B1%E5%B7%9D%E7%B7%9A%E3%83%BB%E6%99%B4%E6%B5%B7%E7%B7%9A%E8%B7%A1%EF%BC%8F%E6%99%B4%E6%B5%B7%E6%A9%8B%E6%A2%81%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA%E3%83%BB%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "都心に眠る廃線跡 晴海橋梁",
+              "url": "https://news.mynavi.jp/article/20140506-haisen1/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "越中島貨物駅〜深川線跡",
+          "type": "現役貨物駅と旧港湾線の接続空間",
+          "note": "越中島貨物駅から豊洲方面へ延びていた東京都港湾局深川線の接続部。現役の越中島貨物駅、車止め、残存レール、旧ホーム状の構造、廃線用地が連続して残る。公道から観察できるが、貨物駅・都有地内への立入は禁止。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%8A%E4%B8%AD%E5%B3%B6%E8%B2%A8%E7%89%A9%E9%A7%85%E3%80%9C%E6%B7%B1%E5%B7%9D%E7%B7%9A%E8%B7%A1%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "都心に眠る廃線跡 晴海橋梁",
+              "url": "https://news.mynavi.jp/article/20140506-haisen1/"
+            }
+          ]
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "川越市",
+          "name": "西武安比奈線跡",
+          "type": "現役駅から分岐した旧貨物線の線路・踏切跡",
+          "note": "南大塚駅から安比奈へ向かった砂利輸送用貨物支線。2017年に鉄道事業は廃止されたが、南大塚駅付近の分岐用地、レール、踏切跡、築堤、小橋梁などが残る。公道から観察できる範囲に限り、線路敷への無断立入は不可。",
+          "official": "https://www.seiburailway.jp/file.jsp?id=3156",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E6%AD%A6%E5%AE%89%E6%AF%94%E5%A5%88%E7%B7%9A%E8%B7%A1%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%B7%9D%E8%B6%8A%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
         }
       ]
     },
