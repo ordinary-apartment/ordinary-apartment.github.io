@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "materialCount": 34,
-  "total": 1363,
+  "total": 1364,
   "materials": [
     {
       "id": "botanical",
@@ -7426,7 +7426,7 @@
       "name": "空間に特徴のある図書館",
       "shortName": "図書館",
       "file": "空間に特徴のある図書館.csv",
-      "count": 26,
+      "count": 27,
       "items": [
         {
           "prefecture": "北海道",
@@ -7967,6 +7967,27 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.yuinomori.city.arakawa.tokyo.jp/index.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "目黒区",
+          "name": "目黒区立大橋図書館",
+          "type": "高層複合施設内図書館",
+          "note": "クロスエアタワー9階にある目黒区立の公共図書館。大橋ジャンクション上部の目黒天空庭園に直結し、高層複合施設の図書館から人工地盤上の屋上庭園へ連続して歩ける。月〜土9:00〜19:00、日祝9:00〜17:00。第1月曜、年末年始、蔵書点検期間休館。",
+          "official": "https://www.city.meguro.tokyo.jp/library/shisetsu/bunkakouryuu/oohashi.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%AB%8B%E5%A4%A7%E6%A9%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "図書館・屋上庭園接続",
+          "officialSearch": "",
+          "mapQueryName": "目黒区立大橋図書館",
+          "relatedLinks": [
+            {
+              "title": "目黒区立大橋図書館の訪問記",
+              "url": "https://tokyo-toshokan.net/00000886.htm"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.city.meguro.tokyo.jp/library/shisetsu/bunkakouryuu/oohashi.html"
           }
         }
       ]
