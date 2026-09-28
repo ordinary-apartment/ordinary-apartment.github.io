@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 35,
-  "total": 1392,
+  "total": 1394,
   "materials": [
     {
       "id": "botanical",
@@ -24416,7 +24416,7 @@ window.FACILITY_DATASET={
       "name": "VR・3Dで歩ける場所",
       "shortName": "VR・3Dで歩ける場所",
       "file": "VR・3Dで歩ける場所.csv",
-      "count": 16,
+      "count": 18,
       "items": [
         {
           "prefecture": "兵庫県",
@@ -24640,6 +24640,42 @@ window.FACILITY_DATASET={
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "中銀カプセルタワービル",
+          "type": "解体済み集合住宅・3Dデジタルアーカイブ",
+          "note": "2022年に解体された銀座の集合住宅。解体前に屋外・屋内・地下・塔屋までフォトグラメトリとレーザースキャンで記録され、VRChat等でカプセル内部や通常は立入できなかった共用部を移動できる。",
+          "official": "https://www.nakagincapsuletower.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E9%8A%80%E3%82%AB%E3%83%97%E3%82%BB%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%93%E3%83%AB",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "3Dデジタルアーカイブ解説｜中銀カプセルタワービル",
+              "url": "https://lilea.net/lab/nakagin-capsule-tower/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "シャッツキステ",
+          "type": "閉店店舗・VRChatアーカイブ",
+          "note": "秋葉原で2020年に閉店した私設図書館カフェ。営業終了後の店内を再現したVRChat／clusterワールドが公開され、閉店した書架、家具、カフェ空間をデジタル上で探索できる。直接体験URLは現行ページでの公開状態を確認できないため、公開記録と保存記事を案内する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A3%E3%83%83%E3%83%84%E3%82%AD%E3%82%B9%E3%83%86%20%E7%A7%8B%E8%91%89%E5%8E%9F",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "VR店舗公開記録｜シャッツキステ",
+              "url": "https://vr-lifemagazine.com/vrchat_schatz-kiste/"
+            }
+          ]
         }
       ]
     }
