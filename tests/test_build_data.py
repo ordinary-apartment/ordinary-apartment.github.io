@@ -1,4 +1,5 @@
 import csv
+import hashlib
 import importlib.util
 import json
 import unicodedata
@@ -58,6 +59,31 @@ class BuildTests(unittest.TestCase):
         old=(self.root/'generated/facility-data.js').read_bytes()
         builder.build(self.root)
         self.assertEqual((self.root/'generated/facility-data.js').read_bytes(),old)
+
+    def test_build_updates_facility_asset_cache_key_deterministically(self):
+        self.write('資料.csv',[['施設名'],['施設']])
+        (self.root/'generated').mkdir(exist_ok=True)
+        (self.root/'script.js').write_text('console.log(1);')
+        (self.root/'data.js').write_text('window.DATA={};')
+        (self.root/'styles.css').write_text('body{}')
+        (self.root/'index.html').write_text(
+            '<script src="data.js?v=old"></script>'
+            '<script src="generated/facility-data.js?v=old"></script>'
+            '<script src="script.js?v=old"></script>'
+            '<link rel="stylesheet" href="styles.css?v=old">'
+        )
+        builder.build(self.root)
+        first_html=(self.root/'index.html').read_text()
+        digest=hashlib.sha256((self.root/'generated/facility-data.js').read_bytes()).hexdigest()[:16]
+        self.assertIn(f'generated/facility-data.js?v={digest}',first_html)
+        builder.build(self.root)
+        self.assertEqual(first_html,(self.root/'index.html').read_text())
+        self.write('資料.csv',[['施設名'],['施設'],['別の施設']])
+        builder.build(self.root)
+        second_html=(self.root/'index.html').read_text()
+        self.assertNotEqual(first_html,second_html)
+        second_digest=hashlib.sha256((self.root/'generated/facility-data.js').read_bytes()).hexdigest()[:16]
+        self.assertIn(f'generated/facility-data.js?v={second_digest}',second_html)
 
     def test_rename_and_delete_preserve_surviving_material_identity(self):
         self.write('削除.csv', [['施設名'], ['削除対象']])

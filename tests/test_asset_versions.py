@@ -31,3 +31,16 @@ class AssetVersionTests(unittest.TestCase):
         html = versions.version_html(versions.ROOT)
         for name in ('script.js', 'data.js', 'generated/facility-data.js', 'styles.css'):
             self.assertIn(name + '?v=', html)
+
+    def test_stale_html_reference_is_detectable(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / 'generated').mkdir()
+            (root / 'generated/facility-data.js').write_text('new dataset')
+            (root / 'index.html').write_text(
+                '<script src="generated/facility-data.js?v=old"></script>'
+            )
+            expected = versions.version_html(root)
+            self.assertNotEqual((root / 'index.html').read_text(), expected)
+            (root / 'index.html').write_text(expected)
+            self.assertEqual((root / 'index.html').read_text(), versions.version_html(root))

@@ -30,6 +30,27 @@ FIELDS = {
     'related3URL': ['関連リンク3URL', 'relatedLink3URL'],
 }
 
+# Keep browser cache keys tied to the bytes that are actually served.  This
+# runs as part of the normal data build so publishing never depends on a
+# manually edited query string in index.html.
+ASSET_REFERENCE = re.compile(r'((?:src|href)="|\')(?!https?:|//)([^"\'?#]+\.(?:js|css))(?:\?[^"\']*)?(["\'])')
+
+def update_asset_versions(root):
+    index = root / 'index.html'
+    if not index.exists():
+        return
+    html = index.read_text(encoding='utf-8')
+
+    def replace(match):
+        prefix, name, suffix = match.groups()
+        asset = root / name
+        digest = hashlib.sha256(asset.read_bytes()).hexdigest()[:16]
+        return f'{prefix}{name}?v={digest}{suffix}'
+
+    updated = ASSET_REFERENCE.sub(replace, html)
+    if updated != html:
+        index.write_text(updated, encoding='utf-8')
+
 def normalized_filename(value):
     """Use one filename identity on filesystems with different Unicode forms."""
     return unicodedata.normalize('NFC', value)
@@ -177,6 +198,7 @@ def build(root=ROOT):
     ]:
         if mirror.exists():
             mirror.write_bytes(source.read_bytes())
+    update_asset_versions(root)
     print(f"{len(materials)}資料 / {dataset['total']}件を生成しました")
     return dataset
 
