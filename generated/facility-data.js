@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 33,
-  "total": 1350,
+  "total": 1357,
   "materials": [
     {
       "id": "botanical",
@@ -23725,7 +23725,7 @@ window.FACILITY_DATASET={
       "name": "企業・産業系ライブラリー",
       "shortName": "企業・産業系ライブラリー",
       "file": "企業・産業系ライブラリー.csv",
-      "count": 12,
+      "count": 19,
       "items": [
         {
           "prefecture": "東京都",
@@ -23952,6 +23952,138 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "https://www.printing-museum.org/guide/floormap/library/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "建設産業図書館",
+          "type": "企業系財団専門ライブラリー",
+          "note": "一般財団法人建設業支援財団が運営する建設産業専門図書館。建設産業史、社史・団体史、統計、技術資料、雑誌、DVD等を収集し、開架閲覧、レファレンス、無料貸出を一般利用者へ提供している。入館時の記帳で閲覧でき、貸出には住所確認書類による図書館カードが必要。",
+          "official": "https://www.cisf.or.jp/library/howtouse/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BB%BA%E8%A8%AD%E7%94%A3%E6%A5%AD%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "建設産業図書館訪問記",
+              "url": "https://www.jcross.com/plaza/report/libraryreport/post-29.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "土木学会附属土木図書館",
+          "type": "産業団体専門ライブラリー",
+          "note": "公益社団法人土木学会が設置する土木工学専門図書館。学会出版物、論文・委員会報告、歴史的工事写真、設計図面、工事記録映像、デジタルアーカイブを収蔵し、非会員も400円の入館料と利用申請で閲覧できる。",
+          "official": "https://www.jsce.or.jp/library/page/lib21.shtml",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%9F%E6%9C%A8%E5%AD%A6%E4%BC%9A%E9%99%84%E5%B1%9E%E5%9C%9F%E6%9C%A8%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "住総研図書室",
+          "type": "企業系財団専門ライブラリー",
+          "note": "一般財団法人住宅総合研究財団が運営する住宅・建築専門図書室。住宅、建築、都市計画、構工法、材料、施工、災害、研究報告、建築古書などを収集し、誰でも館内閲覧できる。貸出は行わず、複写に対応する。",
+          "official": "https://www.jusoken.or.jp/library/ryousyo/ryousyo4.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%8F%E7%B7%8F%E7%A0%94%E5%9B%B3%E6%9B%B8%E5%AE%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "JCIIライブラリー",
+          "type": "企業系財団専門ライブラリー",
+          "note": "一般財団法人日本カメラ財団の専門図書館。写真・カメラ・映像に関する図書約46,000冊と雑誌約1,400種類を所蔵し、18歳以上が無料で閲覧できる。日本のカメラ産業と写真文化の技術・歴史資料を調べられる。",
+          "official": "https://www.jcii-cameramuseum.jp/map/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=JCII%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "JCIIライブラリー紹介",
+              "url": "https://www.libraryfair.jp/feature/2024/71"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "航空図書館",
+          "type": "産業団体専門ライブラリー",
+          "note": "一般財団法人日本航空協会が運営する航空宇宙専門図書館。航空史、航空技術、宇宙、運航、産業関連の図書・雑誌・技術資料を閲覧でき、一般利用者向けの貸出、複写、レファレンスにも対応する。",
+          "official": "https://www.aero.or.jp/culture/library/guide/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%88%AA%E7%A9%BA%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "航空図書館（レファレンス協同データベース）",
+              "url": "https://crd.ndl.go.jp/reference/entry/profile/show?id=4200012"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "日本図書館協会図書館",
+          "type": "産業団体専門ライブラリー",
+          "note": "公益社団法人日本図書館協会が運営する図書館情報学の専門図書館。図書館関係図書、参考図書、調査報告書約2万冊、紀要・雑誌等約2,300タイトルを所蔵し、非会員を含む誰でも閲覧、複写、レファレンスを利用できる。",
+          "official": "https://www.jla.or.jp/lib-info/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%8D%94%E4%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "全日本海員組合 図書資料室",
+          "type": "産業団体資料室",
+          "note": "全日本海員組合が運営する海運・漁業・船員労働の資料室。海運、漁業、環境、海洋文学、建築、組合史資料、1940年代からの映像を収蔵し、図書資料室と見える書庫を一般開放している。利用者はスタッフに申し出て閲覧できる。",
+          "official": "https://www.jsu.or.jp/library/guide/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%A8%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%93%A1%E7%B5%84%E5%90%88%20%E5%9B%B3%E6%9B%B8%E8%B3%87%E6%96%99%E5%AE%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "全日本海員組合図書資料室の紹介",
+              "url": "https://hatobun.org/works/jsu/"
+            }
+          ],
+          "extra": {
+            "参照": ""
           }
         }
       ]
