@@ -167,6 +167,30 @@ details.all-material-section>summary:focus-visible{outline:2px solid var(--ink);
 
 /* 一覧では関連リンクを記号に圧縮し、訪問済みリンクは落ち着いた色で区別する */
 .related-link-mark{display:inline-block;width:1.1em;margin-right:3px;text-align:center;text-decoration:none;font-size:13px;line-height:1.1}
-.related-link:hover,.related-link-mark:hover,.facility-register a:hover,.facility-index-bar a:hover{color:var(--deep);background:var(--mint)}@media (hover: hover) and (pointer: fine){.facility-detail-link:hover,.record-table a:hover{color:var(--deep);background:var(--mint)}}
+@media (hover: hover) and (pointer: fine){.related-link:hover,.related-link-mark:hover,.facility-register a:hover,.facility-index-bar a:hover,.facility-detail-link:hover,.record-table a:hover{color:var(--deep);background:var(--mint)}}
 .related-link:visited,.facility-detail-link:visited,.record-table a:visited,.facility-register a:visited,.facility-index-bar a:visited{color:#806b5c}
 .facility-detail-link{color:var(--ink);text-decoration:underline;text-decoration-color:var(--deep);text-underline-offset:2px}
+
+/* Touch links must not retain browser hover/active feedback; pointer-fine keeps desktop hover. */
+@media (hover: none) and (pointer: coarse){
+  .facilities-ledger .facility-detail-link,
+  .facilities-ledger .record-table a,
+  .related-link,
+  .facility-register a,
+  .facility-index-bar a{
+    -webkit-tap-highlight-color: transparent;
+  }
+  .facilities-ledger .facility-detail-link:active,
+  .facilities-ledger .facility-detail-link:focus,
+  .facilities-ledger .record-table a:active,
+  .facilities-ledger .record-table a:focus,
+  .related-link:active,
+  .related-link:focus,
+  .facility-register a:active,
+  .facility-register a:focus,
+  .facility-index-bar a:active,
+  .facility-index-bar a:focus{
+    color: var(--ink);
+    background: transparent;
+  }
+}
