@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 44,
-  "total": 1486,
+  "total": 1494,
   "materials": [
     {
       "id": "botanical",
@@ -25560,7 +25560,7 @@ window.FACILITY_DATASET={
       "name": "アトリウム・屋内公開空地",
       "shortName": "アトリウム・屋内公開空地",
       "file": "アトリウム・屋内公開空地.csv",
-      "count": 18,
+      "count": 26,
       "items": [
         {
           "prefecture": "東京都",
@@ -25867,6 +25867,174 @@ window.FACILITY_DATASET={
           "note": "1996。設計：ラファエル・ヴィニオリ。船形のガラス棟に高さのあるガレリアを持つ国際会議・文化複合施設。駅前から自由に通り抜けられ、展示やイベントの背景にもなる。",
           "official": "https://www.t-i-forum.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "青海フロンティアビル",
+          "type": "アトリウム",
+          "note": "1996年。臨海副都心のオフィスビル。公開されたエントランスと吹抜けが駅・周辺施設をつなぐ。",
+          "official": "https://www.tokyo-teleport.co.jp/b/aomi/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%B5%B7%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E3%83%93%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "有明フロンティアビル",
+          "type": "アトリウム・デッキ",
+          "note": "1996年。展示場前のオフィス複合施設。駅直結デッキとエントランスの吹抜けが一般来訪者の動線になる。",
+          "official": "https://www.tokyo-teleport.co.jp/b/ariake/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E3%83%93%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "東京オペラシティ",
+          "type": "ガレリア・アトリウム",
+          "note": "1996年。オフィス、劇場、ホール、ギャラリーを結ぶ全長約200mのガレリアとアトリウムを持つ文化複合施設。",
+          "official": "https://www.tokyooperacity.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%9A%E3%83%A9%E3%82%B7%E3%83%86%E3%82%A3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "アーバンネット大手町ビル",
+          "type": "アトリウム",
+          "note": "2000年。中央に広大なアトリウムを持つ大手町のフラッグシップオフィス。公開エントランスから内部空間を見られる。",
+          "official": "https://nttud.co.jp/business/office/detail/id/69.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%BC%E3%83%90%E3%83%B3%E3%83%8D%E3%83%83%E3%83%88%E5%A4%A7%E6%89%8B%E7%94%BA%E3%83%93%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "日本橋三井タワー",
+          "type": "アトリウム",
+          "note": "2005年。オフィス、ホテル、商業施設を組み合わせた日本橋の複合施設。低層部の吹抜けと公開動線が街に開かれている。",
+          "official": "https://www.mitsuitower.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%B8%89%E4%BA%95%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "汐留住友ビル",
+          "type": "アトリウム",
+          "note": "2001年。汐留再開発の業務系複合ビル。エントランスホールの大吹抜けと公開通路が周辺の都市動線を受け止める。",
+          "official": "https://office-b.sumitomo-rd.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%90%E7%95%99%E4%BD%8F%E5%8F%8B%E3%83%93%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "TOKIA ガレリア",
+          "type": "ガレリア・屋内広場",
+          "note": "2005年。東京駅八重洲口側のオフィス・商業複合施設。中央のガレリアが店舗と街路をつなぐ全天候型の歩行空間になる。",
+          "official": "https://www.tokia.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=TOKIA%20%E3%82%AC%E3%83%AC%E3%83%AA%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "KITTE丸の内",
+          "type": "アトリウム・大規模吹抜け",
+          "note": "2013年。旧東京中央郵便局舎を保存・再生した複合施設。中央アトリウムと各階テラスが歴史建築と新築部分をつなぐ。",
+          "official": "https://marunouchi.jp-kitte.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=KITTE%E4%B8%B8%E3%81%AE%E5%86%85%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
