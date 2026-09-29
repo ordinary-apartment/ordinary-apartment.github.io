@@ -1,6 +1,6 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 36,
+  "materialCount": 37,
   "total": 1406,
   "materials": [
     {
@@ -9,7 +9,7 @@ window.FACILITY_DATASET={
       "name": "植物園",
       "shortName": "植物園",
       "file": "植物園.csv",
-      "count": 55,
+      "count": 54,
       "items": [
         {
           "prefecture": "東京都",
@@ -645,27 +645,6 @@ window.FACILITY_DATASET={
         },
         {
           "prefecture": "神奈川県",
-          "city": "横浜市",
-          "name": "横浜市こども植物園",
-          "type": "植物園",
-          "note": "公共教育施設感が濃い。規模と古さがちょうどいい。9:00〜16:30。1979年開園。",
-          "official": "http://www.hama-midorinokyokai.or.jp/kodomo/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
-          "kind": "植物園・温室",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "２０２５・１２・６　横浜市こども植物園へ - 今日のころころこころ",
-              "url": "https://usausamin.hatenablog.com/entry/2025/12/06/205025"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.hama-midorinokyokai.or.jp/kodomo/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E6%A4%8D%E7%89%A9%E5%9C%92"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
           "city": "箱根町",
           "name": "箱根湿生花園",
           "type": "森林・湿生植物園",
@@ -1230,7 +1209,7 @@ window.FACILITY_DATASET={
       "name": "科学館",
       "shortName": "科学館",
       "file": "科学館.csv",
-      "count": 74,
+      "count": 62,
       "items": [
         {
           "prefecture": "埼玉県",
@@ -1444,27 +1423,6 @@ window.FACILITY_DATASET={
         },
         {
           "prefecture": "北海道",
-          "city": "釧路市",
-          "name": "釧路市こども遊学館",
-          "type": "科学館",
-          "note": "2005年竣工。",
-          "official": "http://kodomoyugakukan.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%A7%E8%B7%AF%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E9%81%8A%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "(#162)こども遊学館へ行ってみた｜Takayuki Sugawara",
-              "url": "https://note.com/ts__51/n/nd053b0561014"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://kodomoyugakukan.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%87%A7%E8%B7%AF%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E9%81%8A%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "北海道",
           "city": "苫小牧市",
           "name": "ウトナイ湖サンクチュアリ ネイチャーセンター",
           "type": "自然観察",
@@ -1524,27 +1482,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://msm720.jaea.go.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%82%80%E3%81%A4%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "岩手県",
-          "city": "盛岡市",
-          "name": "盛岡市子ども科学館",
-          "type": "科学館",
-          "note": "9:00〜16:30。 月曜休館。",
-          "official": "http://www.kodomokagakukan.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%9B%E5%B2%A1%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E7%9B%9B%E5%B2%A1%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "盛岡市子ども科学館を観光してきました | こどもとおでかけ回顧録",
-              "url": "https://sana1126.blog.fc2.com/blog-entry-1874.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.kodomokagakukan.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B2%A1%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -1695,27 +1632,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "栃木県",
-          "city": "宇都宮市",
-          "name": "栃木県子ども総合科学館",
-          "type": "科学館",
-          "note": "9:30～16:30",
-          "official": "https://t-csm.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AD%90%E3%81%A9%E3%82%82%E7%B7%8F%E5%90%88%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "栃木県子ども総合科学館の体験記",
-              "url": "https://kirinmatsuge.hatenablog.com/entry/Tochigi-Science-Museum"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://t-csm.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AD%90%E3%81%A9%E3%82%82%E7%B7%8F%E5%90%88%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
           "prefecture": "群馬県",
           "city": "下仁田町",
           "name": "下仁田町自然史館",
@@ -1776,48 +1692,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.city.koshigaya.saitama.jp/gigakoshigaya/miracle/"
-          }
-        },
-        {
-          "prefecture": "千葉県",
-          "city": "東金市",
-          "name": "東金こども科学館",
-          "type": "科学館",
-          "note": "9:00 - 16:30",
-          "official": "http://www.tsc.tobunspo.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E9%87%91%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%9D%B1%E9%87%91%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "東金こども科学館⭐︎ | こどもサークル東庄のブログ",
-              "url": "https://ameblo.jp/kc-tounoshoumachi/entry-12936342691.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.tsc.tobunspo.or.jp/"
-          }
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "厚木市",
-          "name": "神奈川工科大学厚木市子ども科学館",
-          "type": "科学館",
-          "note": "",
-          "official": "https://www.city.atsugi.kanagawa.jp/acsc/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%8E%9A%E6%9C%A8%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "神奈川工科大学厚木市子ども科学館 〔神奈川県厚木市〕 | お散歩パンダ.com",
-              "url": "https://osanpo-panda.com/13602433.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.atsugi.kanagawa.jp/acsc/index.html\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%8E%9A%E6%9C%A8%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -1901,27 +1775,6 @@ window.FACILITY_DATASET={
         },
         {
           "prefecture": "福井県",
-          "city": "坂井市",
-          "name": "福井県児童科学館 エンゼルランドふくい",
-          "type": "科学館",
-          "note": "9:30～17:00",
-          "official": "https://angelland.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%E5%85%90%E7%AB%A5%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E3%81%B5%E3%81%8F%E3%81%84%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E5%9D%82%E4%BA%95%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "エンゼルランドふくい(福井県児童科学館) 噴水広場 2026｜7/1〜9/30｜Yui (栞)",
-              "url": "https://shiori.life/spots/cmselnxjw08ebg0fz6fbiy7re"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://angelland.or.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E7%9C%8C%E5%85%90%E7%AB%A5%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "福井県",
           "city": "大野市",
           "name": "福井県自然保護センター",
           "type": "自然・天文",
@@ -1960,27 +1813,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.kagakukan.pref.yamanashi.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "長野県",
-          "city": "佐久市",
-          "name": "佐久市子ども未来館",
-          "type": "科学館",
-          "note": "",
-          "official": "https://kodomomiraikan.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E4%B9%85%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E6%9C%AA%E6%9D%A5%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%BD%90%E4%B9%85%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "佐久市子ども未来館｜ABYSS",
-              "url": "https://note.com/abyss8928/n/n90bfd88bf214"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://kodomomiraikan.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B9%85%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E6%9C%AA%E6%9D%A5%E9%A4%A8"
           }
         },
         {
@@ -2191,48 +2023,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://satokouen.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%82%B3%E3%82%A6%E3%83%8E%E3%83%88%E3%83%AA%E3%81%AE%E9%83%B7%E5%85%AC%E5%9C%92"
-          }
-        },
-        {
-          "prefecture": "奈良県",
-          "city": "橿原市",
-          "name": "橿原市立こども科学館",
-          "type": "科学館",
-          "note": "月曜日休館。",
-          "official": "https://www.city.kashihara.nara.jp/kanko_bunka_sports/kodomokagakukan/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A9%BF%E5%8E%9F%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%A5%88%E8%89%AF%E7%9C%8C%20%E6%A9%BF%E5%8E%9F%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖奈良おでかけ〗雨の日でも楽しめる♪橿原市立こども科学館で家族時間｜クロミカ｜奈良おでかけ記録",
-              "url": "https://note.com/kuromika8591/n/n5593d2826f97"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.kashihara.nara.jp/kanko_bunka_sports/kodomokagakukan/index.html\nWikipedia：https://ja.wikipedia.org/wiki/%E6%A9%BF%E5%8E%9F%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "和歌山県",
-          "city": "和歌山市",
-          "name": "和歌山市立こども科学館",
-          "type": "科学館",
-          "note": "９:３０ ～ １６:３０。 月曜日休館。1981年竣工。",
-          "official": "https://kodomo123.jp/wordpress/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖親子たび〗近畿3泊4日の4日目（和歌山城、わかやま歴史館、和歌山市立こども科学館）｜きいねこ",
-              "url": "https://note.com/ki_neko/n/nbaa498e108a7"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://kodomo123.jp/wordpress/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8"
           }
         },
         {
@@ -2499,27 +2289,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "京都府",
-          "city": "福知山市",
-          "name": "福知山市児童科学館",
-          "type": "科学館・児童科学館",
-          "note": "９:００〜１７:００。 水曜日休館。",
-          "official": "https://www.sandanike-kouen.or.jp/science-museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%E5%85%90%E7%AB%A5%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "福知山市児童科学館を子連れ体験レポ！巨大からくり＆不思議な家が楽しすぎる｜雨の日にもおすすめ | 京都の子連れお出かけ情報｜京都の休日ガイド｜ちいかわ家",
-              "url": "https://chiikawake.com/%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%E5%85%90%E7%AB%A5%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%82%92%E5%AD%90%E9%80%A3%E3%82%8C%E4%BD%93%E9%A8%93%E3%83%AC%E3%83%9D%EF%BC%81%E5%B7%A8%E5%A4%A7%E3%81%8B%E3%82%89/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.sandanike-kouen.or.jp/science-museum/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%E5%85%90%E7%AB%A5%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
           "prefecture": "岐阜県",
           "city": "岐阜市",
           "name": "岐阜市科学館",
@@ -2542,27 +2311,6 @@ window.FACILITY_DATASET={
         },
         {
           "prefecture": "兵庫県",
-          "city": "伊丹市",
-          "name": "伊丹市立こども文化科学館",
-          "type": "科学館・児童科学館",
-          "note": "平成初期型の公共科学施設 開館年：1990年。 火曜休館。9:00〜17:15。",
-          "official": "https://www.city.itami.lg.jp/SOSIKI/KODOMO/kodomobunka_kagakukan/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E4%B8%B9%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E6%96%87%E5%8C%96%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E4%BC%8A%E4%B8%B9%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "関西発・子どもとお出かけ隊ブログ！: 伊丹市立こども文化科学館",
-              "url": "https://ryokougurume.blogspot.com/2014/09/blog-post.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.itami.lg.jp/SOSIKI/KODOMO/kodomobunka_kagakukan/index.html"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
           "city": "加古川市",
           "name": "加古川総合文化センター",
           "type": "文化センター・公共施設",
@@ -2575,27 +2323,6 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://www.kakogawa-sougoubunka.jp/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "東大阪市",
-          "name": "東大阪市立児童文化スポーツセンター ドリーム21",
-          "type": "科学館・児童科学館",
-          "note": "平成初期型児童施設 開館年：1991年。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E5%85%90%E7%AB%A5%E6%96%87%E5%8C%96%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A021%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "東大阪市立児童文化スポーツセンター　ドリーム21（東大阪市松原南） 〖ぎゃるまま日記／ギャルママ日記（関西グルメ情報&おでかけ情報）〗",
-              "url": "https://galmama.net/blog-entry-2663.html"
-            }
-          ],
-          "extra": {
-            "参照": ""
           }
         },
         {
@@ -4737,7 +4464,7 @@ window.FACILITY_DATASET={
       "name": "博物館",
       "shortName": "博物館",
       "file": "博物館.csv",
-      "count": 33,
+      "count": 13,
       "items": [
         {
           "prefecture": "愛媛県",
@@ -4782,211 +4509,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "北海道",
-          "city": "帯広市",
-          "name": "帯広百年記念館",
-          "type": "自然・博物館",
-          "note": "",
-          "official": "https://museum-obihiro.jp/occm/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B8%AF%E5%BA%83%E7%99%BE%E5%B9%B4%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%B8%AF%E5%BA%83%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖巡検〗帯広百年記念館と晩成社・十勝監獄 -",
-              "url": "https://r20115.hatenablog.com/entry/obihiro"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://museum-obihiro.jp/occm/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "釧路市",
-          "name": "釧路市立博物館",
-          "type": "自然史",
-          "note": "月曜日休館。9:30〜17:00。",
-          "official": "http://www.city.kushiro.lg.jp/museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%A7%E8%B7%AF%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "釧路博物館は子連れも楽しい!?見どころや所要時間＆お得に見る方法まとめ - きたうみ日誌",
-              "url": "https://www.okmhn.com/hakubutukan-kushiro/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.kushiro.lg.jp/museum/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "斜里町",
-          "name": "斜里町立知床博物館",
-          "type": "自然史",
-          "note": "月曜日休館。",
-          "official": "https://shiretoko-museum.jpn.org/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%9C%E9%87%8C%E7%94%BA%E7%AB%8B%E7%9F%A5%E5%BA%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%96%9C%E9%87%8C%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "斜里町立知床博物館の訪問記",
-              "url": "https://ameblo.jp/sakana215555/entry-12937639011.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://shiretoko-museum.jpn.org/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "標茶町",
-          "name": "標茶町博物館 ニタイ・ト",
-          "type": "自然史",
-          "note": "",
-          "official": "http://www.sip.or.jp/~shibecha-museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%99%E8%8C%B6%E7%94%BA%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E3%83%8B%E3%82%BF%E3%82%A4%E3%83%BB%E3%83%88%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%A8%99%E8%8C%B6%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "標茶町博物館「ニタイ・ト」に潜入して来ました！ | ひらた家具店のブログ",
-              "url": "https://ameblo.jp/hiratakagu/entry-12820660679.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.sip.or.jp/~shibecha-museum/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "枝幸町",
-          "name": "オホーツクミュージアムえさし",
-          "type": "自然・考古",
-          "note": "9時00分～17時00分。 月曜日休館。",
-          "official": "https://www.esashi.jp/tourism/guide/museum.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%9B%E3%83%BC%E3%83%84%E3%82%AF%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%E3%81%88%E3%81%95%E3%81%97%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9E%9D%E5%B9%B8%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "オホーツクの博物館を訪問 - 北大野外鳥類学研究室ブログ",
-              "url": "https://hokudaiornithology.blog.fc2.com/blog-entry-115.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.esashi.jp/tourism/guide/museum.html"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "利尻町",
-          "name": "利尻町立博物館",
-          "type": "自然史",
-          "note": "",
-          "official": "http://www.town.rishiri.hokkaido.jp/rishiri/1060.htm",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%A9%E5%B0%BB%E7%94%BA%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%88%A9%E5%B0%BB%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "利尻・礼文の旅 2012/夏 (160) 「利尻町立博物館」 - Bojan International",
-              "url": "https://www.bojan.net/2013/12/13.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.town.rishiri.hokkaido.jp/rishiri/1060.htm"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "根室市",
-          "name": "根室市歴史と自然の資料館",
-          "type": "自然史",
-          "note": "月曜日休館。9:30〜16:30。",
-          "official": "http://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%B9%E5%AE%A4%E5%B8%82%E6%AD%B4%E5%8F%B2%E3%81%A8%E8%87%AA%E7%84%B6%E3%81%AE%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%A0%B9%E5%AE%A4%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖根室歴史旅記録〗根室市歴史と自然の資料館・納沙布岬・金刀比羅神社・ヤキトリ弁当〖一日目〗 - きたうみ日誌",
-              "url": "https://www.okmhn.com/travel-nemuro1/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/index.html"
-          }
-        },
-        {
-          "prefecture": "岩手県",
-          "city": "大船渡市",
-          "name": "大船渡市立博物館",
-          "type": "自然史",
-          "note": "",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%88%B9%E6%B8%A1%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A4%A7%E8%88%B9%E6%B8%A1%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "岩手県",
-          "city": "陸前高田市",
-          "name": "陸前高田市立博物館",
-          "type": "自然史",
-          "note": "",
-          "official": "https://www.city.rikuzentakata.iwate.jp/soshiki/kyouikusoumuka/hakubutsukan/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "陸前高田市立博物館｜陸前高田の記憶を継ぐハの字形屋根｜建録 TATE-ROKU",
-              "url": "https://tate-roku.com/rikuzentakatacitymuseum/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.rikuzentakata.iwate.jp/soshiki/kyouikusoumuka/hakubutsukan/index.html"
-          }
-        },
-        {
-          "prefecture": "秋田県",
-          "city": "にかほ市",
-          "name": "白瀬南極探検隊記念館",
-          "type": "極地・探検",
-          "note": "",
-          "official": "https://shirase-kinenkan.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%99%BD%E7%80%AC%E5%8D%97%E6%A5%B5%E6%8E%A2%E6%A4%9C%E9%9A%8A%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E3%81%AB%E3%81%8B%E3%81%BB%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "にかほ　～　白瀬南極探検隊記念館、　しらせ（Ⅰ）、　KD605雪上車　など　～ : 0830thのblogⅡ",
-              "url": "https://rxg07247.livedoor.blog/archives/1053849976.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://shirase-kinenkan.jp/"
-          }
-        },
-        {
           "prefecture": "山形県",
           "city": "山形市",
           "name": "山形県立博物館",
@@ -5008,27 +4530,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "福島県",
-          "city": "猪苗代町",
-          "name": "野口英世記念館",
-          "type": "医学・科学史",
-          "note": "",
-          "official": "http://www.noguchihideyo.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%8E%E5%8F%A3%E8%8B%B1%E4%B8%96%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E7%8C%AA%E8%8B%97%E4%BB%A3%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "野口英世記念館の訪問記（館内写真）",
-              "url": "https://ameblo.jp/sakupon0211/entry-11701435227.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.noguchihideyo.or.jp/"
-          }
-        },
-        {
           "prefecture": "群馬県",
           "city": "富岡市",
           "name": "群馬県立自然史博物館",
@@ -5047,111 +4548,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.gmnh.pref.gunma.jp/"
-          }
-        },
-        {
-          "prefecture": "群馬県",
-          "city": "みどり市",
-          "name": "みどり市大間々博物館 コノドント館",
-          "type": "化石・地質",
-          "note": "月曜日休館。9:00〜17:00。",
-          "official": "https://www.city.midori.gunma.jp/conodont/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%A9%E3%82%8A%E5%B8%82%E5%A4%A7%E9%96%93%E3%80%85%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E3%82%B3%E3%83%8E%E3%83%89%E3%83%B3%E3%83%88%E9%A4%A8%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E3%81%BF%E3%81%A9%E3%82%8A%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "みどり市大間々博物館〖コノドント館〗 | ｡*‡ みゆのつぶやき ‡*｡",
-              "url": "https://ameblo.jp/strawberry-kingdom2019/entry-12712097595.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.midori.gunma.jp/conodont/"
-          }
-        },
-        {
-          "prefecture": "福井県",
-          "city": "勝山市",
-          "name": "福井県立恐竜博物館",
-          "type": "恐竜・地質",
-          "note": "",
-          "official": "https://www.dinosaur.pref.fukui.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%AB%8B%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E5%8B%9D%E5%B1%B1%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖福井観光〗福井県立恐竜博物館に行ってみたら家族みんな大満足！！ - 酒飲みBisonの旅ブログ",
-              "url": "https://bison-blog.com/2026/03/22/fukuiprefecturaldinosaurmuseum_kankou-kannsou/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.dinosaur.pref.fukui.jp/\nWikipedia:https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%AB%8B%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "長野県",
-          "city": "大町市",
-          "name": "大町山岳博物館",
-          "type": "山岳・自然史",
-          "note": "",
-          "official": "https://www.omachi-sanpaku.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%BA%E5%B1%B1%E5%B2%B3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E5%A4%A7%E7%94%BA%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖山と人の歴史〗大町山岳博物館に行ってきた - 週末どうする？",
-              "url": "https://yosk-nkjm.hatenablog.com/entry/2020/07/27/153131"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.omachi-sanpaku.com/"
-          }
-        },
-        {
-          "prefecture": "長野県",
-          "city": "茅野市",
-          "name": "八ヶ岳総合博物館",
-          "type": "自然・科学",
-          "note": "",
-          "official": "https://www.city.chino.lg.jp/site/y-hakubutsukan/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E3%83%B6%E5%B2%B3%E7%B7%8F%E5%90%88%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E8%8C%85%E9%87%8E%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "八ヶ岳総合博物館をつぶさに見て廻る…ということ | 此処彼処見聞控～ここかしこみききのひかえ",
-              "url": "https://ameblo.jp/josh0916/entry-12947962629.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.chino.lg.jp/site/y-hakubutsukan/"
-          }
-        },
-        {
-          "prefecture": "滋賀県",
-          "city": "草津市",
-          "name": "滋賀県立琵琶湖博物館",
-          "type": "湖沼・自然史",
-          "note": "9時30分 - 17時00分。 月曜日休館。1996年竣工。",
-          "official": "https://www.biwahaku.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E7%AB%8B%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E8%8D%89%E6%B4%A5%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "琵琶湖博物館訪問記｜碧色翡翠",
-              "url": "https://note.com/alcedoemerald/n/n176fb1685d54"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.biwahaku.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%BB%8B%E8%B3%80%E7%9C%8C%E7%AB%8B%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -5215,27 +4611,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.i-kahaku.jp/"
-          }
-        },
-        {
-          "prefecture": "大分県",
-          "city": "日田市",
-          "name": "日田市立博物館",
-          "type": "自然史",
-          "note": "月曜休館。",
-          "official": "https://www.city.hita.oita.jp/soshiki/kyoikucho/shakaikyoikuka/hakubutsukan/hakubutukan/top.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E7%94%B0%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%A4%A7%E5%88%86%E7%9C%8C%20%E6%97%A5%E7%94%B0%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "複合文化施設AOSE内の日田市立博物館訪問記",
-              "url": "https://ameblo.jp/seiryou2/entry-12372161397.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.hita.oita.jp/soshiki/kyoikucho/shakaikyoikuka/hakubutsukan/hakubutukan/top.html"
           }
         },
         {
@@ -5339,69 +4714,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "栃木県",
-          "city": "壬生町",
-          "name": "壬生町おもちゃ博物館",
-          "type": "玩具・産業",
-          "note": "玩具の町にある体験展示中心の専門館。9:30〜16:30。 月曜日休館。",
-          "official": "https://omohaku.michinoeki-mibu.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A3%AC%E7%94%9F%E7%94%BA%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%A3%AC%E7%94%9F%E7%94%BA",
-          "kind": "玩具・産業",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "壬生町おもちゃ博物館へ行ってきた！鉄道模型と大型遊具に子どもが夢中 - 子連れ旅行ガイド",
-              "url": "https://trip-doctork.com/2026/08/04/mibumachi-toy-museum-family/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://omohaku.michinoeki-mibu.jp/"
-          }
-        },
-        {
-          "prefecture": "千葉県",
-          "city": "香取市",
-          "name": "伊能忠敬記念館",
-          "type": "測量・人物",
-          "note": "測量図、器具、記録から伊能忠敬の仕事を紹介。",
-          "official": "https://www.city.katori.lg.jp/smph/sightseeing/museum/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E8%83%BD%E5%BF%A0%E6%95%AC%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E9%A6%99%E5%8F%96%E5%B8%82",
-          "kind": "測量・人物",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "千葉県香取市佐原にある伊能忠敬記念館と伊能忠敬旧宅 - ふじ・ふじブログ",
-              "url": "https://fujisannoblog.com/post-16858/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.katori.lg.jp/smph/sightseeing/museum/index.html"
-          }
-        },
-        {
-          "prefecture": "和歌山県",
-          "city": "田辺市",
-          "name": "南方熊楠顕彰館",
-          "type": "人物・自然史",
-          "note": "南方熊楠の資料、蔵書、研究記録を保存。10:00～17:00。 月曜日休館。",
-          "official": "http://www.minakata.org/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%96%B9%E7%86%8A%E6%A5%A0%E9%A1%95%E5%BD%B0%E9%A4%A8%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E7%94%B0%E8%BE%BA%E5%B8%82",
-          "kind": "人物・自然史",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "名建築を歩く　矢田康順＋堀正人「南方熊楠顕彰館」（和歌山県）",
-              "url": "https://ameblo.jp/hituzou/entry-12971419646.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.minakata.org/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%8D%97%E6%96%B9%E7%86%8A%E6%A5%A0%E9%A1%95%E5%BD%B0%E9%A4%A8"
-          }
-        },
-        {
           "prefecture": "東京都",
           "city": "葛飾区",
           "name": "葛飾区郷土と天文の博物館",
@@ -5430,7 +4742,7 @@ window.FACILITY_DATASET={
       "name": "天文台・プラネタリウム",
       "shortName": "天文台・プラネタリウム",
       "file": "天文台・プラネタリウム.csv",
-      "count": 28,
+      "count": 26,
       "items": [
         {
           "prefecture": "岩手県",
@@ -5733,27 +5045,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "鳥取県",
-          "city": "米子市",
-          "name": "米子市児童文化センター",
-          "type": "科学・天文",
-          "note": "火曜日休館。",
-          "official": "https://yonagobunka.net/jibun/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E5%AD%90%E5%B8%82%E5%85%90%E7%AB%A5%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E7%B1%B3%E5%AD%90%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "米子のプラネタリウム見ました｜MRYM",
-              "url": "https://note.com/mrym_hoshi/n/n0933f7785ff5"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://yonagobunka.net/jibun/"
-          }
-        },
-        {
           "prefecture": "島根県",
           "city": "津和野町",
           "name": "日原天文台",
@@ -5793,27 +5084,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": ""
-          }
-        },
-        {
-          "prefecture": "香川県",
-          "city": "さぬき市",
-          "name": "さぬきこどもの国 スペースシアター",
-          "type": "科学・天文",
-          "note": "",
-          "official": "https://www.sanuki.or.jp/guide/kidshouse/spacetheater.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%AC%E3%81%8D%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%20%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E3%81%95%E3%81%AC%E3%81%8D%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "さぬきこどもの国スペースシアター（プラネタリウム「水の惑星」） | A's balcony",
-              "url": "https://asbalcony.com/20221001-sanuki-space-theater/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.sanuki.or.jp/guide/kidshouse/spacetheater.html"
           }
         },
         {
@@ -6008,7 +5278,7 @@ window.FACILITY_DATASET={
       "name": "空間に特徴のある図書館",
       "shortName": "図書館",
       "file": "空間に特徴のある図書館.csv",
-      "count": 27,
+      "count": 26,
       "items": [
         {
           "prefecture": "北海道",
@@ -6281,27 +5551,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：http://moriyama-city-lib.jp/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市北区",
-          "name": "こども本の森 中之島",
-          "type": "子ども図書館",
-          "note": "吹抜けの壁面書架を持つ子どものための図書文化施設。9:30-17:00",
-          "official": "https://kodomohonnomori.osaka/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%93%E3%81%A9%E3%82%82%E6%9C%AC%E3%81%AE%E6%A3%AE%20%E4%B8%AD%E4%B9%8B%E5%B3%B6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
-          "kind": "子ども図書館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "【日記第15話】行ってきました！こども本の森 中之島（大阪）　体験レビュー",
-              "url": "https://kyounaniyomu.com/diary-15-2/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://kodomohonnomori.osaka/"
           }
         },
         {
@@ -13907,7 +13156,7 @@ window.FACILITY_DATASET={
       "name": "東京の失われた名所",
       "shortName": "東京の失われた名所",
       "file": "東京の失われた名所.csv",
-      "count": 113,
+      "count": 110,
       "items": [
         {
           "prefecture": "東京都",
@@ -14255,32 +13504,6 @@ window.FACILITY_DATASET={
           "note": "特徴・説明：樹木に囲まれた震災復興住宅。竣工年と解体着手年を記載。旧所在地：東京都渋谷区代官山（旧番地未確認）開業年：1926年（竣工・移転等の扱いは特徴・説明参照）消滅年：1996年消滅種別：解体・再開発現在の状態：旧アパート群は解体。資料URL：https://daikanyama.life/?p=9065 | https://search.showakan.go.jp/search/book/detail.php?material_cord=000061952Googleマップ検索用名称：同潤会代官山アパートメント 東京都渋谷区",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%90%8C%E6%BD%A4%E4%BC%9A%E4%BB%A3%E5%AE%98%E5%B1%B1%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "東京都",
-          "city": "渋谷区",
-          "name": "こどもの城",
-          "type": "児童施設",
-          "note": "一般来館は2月1日まで、年度末に閉館。旧所在地：東京都渋谷区神宮前5-53-1開業年：1985年（竣工・移転等の扱いは特徴・説明参照）消滅年：2015年消滅種別：閉館現在の状態：こどもの城としての運営は終了。資料URL：https://kodomono-shiro-weblibrary.jp/manual/report/ | https://kodomono-shiro-weblibrary.jp/manual/report/files/report2014.pdf | https://iko-yo.net/facilities/159Googleマップ検索用名称：こどもの城 東京都渋谷区",
-          "official": "https://kodomono-shiro-weblibrary.jp/manual/report/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9F%8E%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "東京都",
-          "city": "渋谷区",
-          "name": "東京都児童会館",
-          "type": "児童施設",
-          "note": "2012年3月の閉館を区立図書館の年表で確認。旧所在地：東京都渋谷区渋谷1-18-24開業年：未確認（竣工・移転等の扱いは特徴・説明参照）消滅年：2012年消滅種別：閉館現在の状態：閉館。資料URL：https://www.lib.city.shibuya.tokyo.jp/shibuya/shibuya-history/timeline02/ | https://odekake.info/kanagawa/74_taiken/jidou/jidou.htmlGoogleマップ検索用名称：東京都児童会館 東京都渋谷区",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%90%E7%AB%A5%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
@@ -14840,19 +14063,6 @@ window.FACILITY_DATASET={
           "note": "特徴・説明：浅草ふれあい通りの温泉銭湯。2019年5月31日に廃業。旧所在地：東京都台東区浅草1-11-11開業年：未確認（竣工・移転等の扱いは特徴・説明参照）消滅年：2019年消滅種別：閉店現在の状態：銭湯営業終了。跡地の現況は未確認。資料URL：https://asakusa-fureai.net/about-episode/ | https://iiofuro.com/tokyo/s1690/Googleマップ検索用名称：蛇骨湯 東京都台東区",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E8%9B%87%E9%AA%A8%E6%B9%AF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "東京都",
-          "city": "台東区",
-          "name": "上野こども遊園地",
-          "type": "遊園地",
-          "note": "特徴・説明：小型の乗り物が並んだ動物園前の遊び場。8月31日閉園。旧所在地：東京都台東区上野恩賜公園・上野動物園正門前開業年：1946年（竣工・移転等の扱いは特徴・説明参照）消滅年：2016年消滅種別：閉園現在の状態：閉園。正門前広場整備に伴い廃業。資料URL：https://j-town.net/2016/09/08231654.html?p=all | https://j-town.net/2016/09/08231654.html?p=2Googleマップ検索用名称：上野こども遊園地 東京都台東区",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E9%87%8E%E3%81%93%E3%81%A9%E3%82%82%E9%81%8A%E5%9C%92%E5%9C%B0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
@@ -17686,7 +16896,7 @@ window.FACILITY_DATASET={
       "name": "地域文化施設",
       "shortName": "地域文化施設",
       "file": "地域文化施設.csv",
-      "count": 36,
+      "count": 48,
       "items": [
         {
           "prefecture": "北海道",
@@ -18302,6 +17512,217 @@ window.FACILITY_DATASET={
             {
               "title": "港区立郷土歴史館を訪ねる",
               "url": "https://gochan-blg.hatenablog.com/entry/2024/12/06/000000"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "帯広市",
+          "name": "帯広百年記念館",
+          "type": "自然・博物館",
+          "note": "A civic history museum documenting the development, industries and everyday life of Obihiro and the Tokachi region.",
+          "official": "https://museum-obihiro.jp/occm/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B8%AF%E5%BA%83%E7%99%BE%E5%B9%B4%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%B8%AF%E5%BA%83%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖巡検〗帯広百年記念館と晩成社・十勝監獄 -",
+              "url": "https://r20115.hatenablog.com/entry/obihiro"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "釧路市",
+          "name": "釧路市立博物館",
+          "type": "自然史",
+          "note": "月曜日休館。9:30〜17:00。",
+          "official": "http://www.city.kushiro.lg.jp/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%A7%E8%B7%AF%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "釧路博物館は子連れも楽しい!?見どころや所要時間＆お得に見る方法まとめ - きたうみ日誌",
+              "url": "https://www.okmhn.com/hakubutukan-kushiro/"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "斜里町",
+          "name": "斜里町立知床博物館",
+          "type": "自然史",
+          "note": "月曜日休館。",
+          "official": "https://shiretoko-museum.jpn.org/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%9C%E9%87%8C%E7%94%BA%E7%AB%8B%E7%9F%A5%E5%BA%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%96%9C%E9%87%8C%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "斜里町立知床博物館の訪問記",
+              "url": "https://ameblo.jp/sakana215555/entry-12937639011.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "標茶町",
+          "name": "標茶町博物館 ニタイ・ト",
+          "type": "自然史",
+          "note": "A local museum preserving the natural environment, Indigenous heritage and everyday history of Shibecha in eastern Hokkaido.",
+          "official": "http://www.sip.or.jp/~shibecha-museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%99%E8%8C%B6%E7%94%BA%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E3%83%8B%E3%82%BF%E3%82%A4%E3%83%BB%E3%83%88%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%A8%99%E8%8C%B6%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "標茶町博物館「ニタイ・ト」に潜入して来ました！ | ひらた家具店のブログ",
+              "url": "https://ameblo.jp/hiratakagu/entry-12820660679.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "枝幸町",
+          "name": "オホーツクミュージアムえさし",
+          "type": "自然・考古",
+          "note": "9時00分～17時00分。 月曜日休館。",
+          "official": "https://www.esashi.jp/tourism/guide/museum.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%9B%E3%83%BC%E3%83%84%E3%82%AF%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%E3%81%88%E3%81%95%E3%81%97%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9E%9D%E5%B9%B8%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "オホーツクの博物館を訪問 - 北大野外鳥類学研究室ブログ",
+              "url": "https://hokudaiornithology.blog.fc2.com/blog-entry-115.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "利尻町",
+          "name": "利尻町立博物館",
+          "type": "自然史",
+          "note": "A regional museum interpreting the island ecology, livelihoods and cultural history of Rishiri.",
+          "official": "http://www.town.rishiri.hokkaido.jp/rishiri/1060.htm",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%88%A9%E5%B0%BB%E7%94%BA%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%88%A9%E5%B0%BB%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "利尻・礼文の旅 2012/夏 (160) 「利尻町立博物館」 - Bojan International",
+              "url": "https://www.bojan.net/2013/12/13.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "根室市",
+          "name": "根室市歴史と自然の資料館",
+          "type": "自然史",
+          "note": "月曜日休館。9:30〜16:30。",
+          "official": "http://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%B9%E5%AE%A4%E5%B8%82%E6%AD%B4%E5%8F%B2%E3%81%A8%E8%87%AA%E7%84%B6%E3%81%AE%E8%B3%87%E6%96%99%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%A0%B9%E5%AE%A4%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖根室歴史旅記録〗根室市歴史と自然の資料館・納沙布岬・金刀比羅神社・ヤキトリ弁当〖一日目〗 - きたうみ日誌",
+              "url": "https://www.okmhn.com/travel-nemuro1/"
+            }
+          ]
+        },
+        {
+          "prefecture": "岩手県",
+          "city": "大船渡市",
+          "name": "大船渡市立博物館",
+          "type": "自然史",
+          "note": "A municipal museum presenting the natural environment, archaeology and local history of Ofunato and the Sanriku coast.",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%88%B9%E6%B8%A1%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E5%A4%A7%E8%88%B9%E6%B8%A1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "岩手県",
+          "city": "陸前高田市",
+          "name": "陸前高田市立博物館",
+          "type": "自然史",
+          "note": "A civic museum preserving the natural history, archaeology and community memory of Rikuzentakata.",
+          "official": "https://www.city.rikuzentakata.iwate.jp/soshiki/kyouikusoumuka/hakubutsukan/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "陸前高田市立博物館｜陸前高田の記憶を継ぐハの字形屋根｜建録 TATE-ROKU",
+              "url": "https://tate-roku.com/rikuzentakatacitymuseum/"
+            }
+          ]
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "みどり市",
+          "name": "みどり市大間々博物館 コノドント館",
+          "type": "化石・地質",
+          "note": "月曜日休館。9:00〜17:00。",
+          "official": "https://www.city.midori.gunma.jp/conodont/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%A9%E3%82%8A%E5%B8%82%E5%A4%A7%E9%96%93%E3%80%85%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E3%82%B3%E3%83%8E%E3%83%89%E3%83%B3%E3%83%88%E9%A4%A8%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E3%81%BF%E3%81%A9%E3%82%8A%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "みどり市大間々博物館〖コノドント館〗 | ｡*‡ みゆのつぶやき ‡*｡",
+              "url": "https://ameblo.jp/strawberry-kingdom2019/entry-12712097595.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "長野県",
+          "city": "茅野市",
+          "name": "八ヶ岳総合博物館",
+          "type": "自然・科学",
+          "note": "A regional museum covering the nature, archaeology, history and everyday culture of the Yatsugatake area.",
+          "official": "https://www.city.chino.lg.jp/site/y-hakubutsukan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E3%83%B6%E5%B2%B3%E7%B7%8F%E5%90%88%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E8%8C%85%E9%87%8E%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "八ヶ岳総合博物館をつぶさに見て廻る…ということ | 此処彼処見聞控～ここかしこみききのひかえ",
+              "url": "https://ameblo.jp/josh0916/entry-12947962629.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "大分県",
+          "city": "日田市",
+          "name": "日田市立博物館",
+          "type": "自然史",
+          "note": "月曜休館。",
+          "official": "https://www.city.hita.oita.jp/soshiki/kyoikucho/shakaikyoikuka/hakubutsukan/hakubutukan/top.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E7%94%B0%E5%B8%82%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%A4%A7%E5%88%86%E7%9C%8C%20%E6%97%A5%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "複合文化施設AOSE内の日田市立博物館訪問記",
+              "url": "https://ameblo.jp/seiryou2/entry-12372161397.html"
             }
           ]
         }
@@ -19256,7 +18677,7 @@ window.FACILITY_DATASET={
       "name": "遊園地・レジャー施設",
       "shortName": "遊園地・レジャー施設",
       "file": "遊園地・レジャー施設.csv",
-      "count": 22,
+      "count": 18,
       "items": [
         {
           "prefecture": "岐阜県",
@@ -19266,19 +18687,6 @@ window.FACILITY_DATASET={
           "note": "小規模レトロ遊園地。屋内遊具・色彩・古い設備。９:00～17:00。 火曜日休館。",
           "official": "https://www.yourou-land.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A4%8A%E8%80%81%E3%83%A9%E3%83%B3%E3%83%89%20%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E9%83%A1%E9%A4%8A%E8%80%81%E7%94%BA%E9%A4%8A%E8%80%811155-2",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "北海道",
-          "city": "函館市",
-          "name": "函館公園こどものくに",
-          "type": "遊園地・レジャー施設",
-          "note": "現役最古級の観覧車を含む小規模遊園地。10:00〜17:00。",
-          "official": "http://kodomonokuni.sakuraweb.com/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BD%E9%A4%A8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8F%E3%81%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82%E9%9D%92%E6%9F%B3%E7%94%BA17-4",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
@@ -19337,19 +18745,6 @@ window.FACILITY_DATASET={
           "relatedLinks": []
         },
         {
-          "prefecture": "青森県",
-          "city": "八戸市",
-          "name": "八戸公園こどもの国",
-          "type": "遊園地・レジャー施設",
-          "note": "公園内の地方遊園地。 月曜日休館。9:00〜17:00。",
-          "official": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koenryokuchika/koen/3884.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%85%AB%E6%88%B8%E5%B8%82%E5%8D%81%E6%97%A5%E5%B8%82%E5%A4%A9%E6%91%A933-2",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
           "prefecture": "福島県",
           "city": "郡山市",
           "name": "AGCエレクトロニクス郡山カルチャーパーク",
@@ -19357,19 +18752,6 @@ window.FACILITY_DATASET={
           "note": "公共遊園地型。広い園内と遊具。9:00～21:00",
           "official": "http://www.koriyamaculturepark.com/",
           "maps": "https://www.google.com/maps/search/?api=1&query=AGC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E9%83%A1%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%E9%83%A1%E5%B1%B1%E5%B8%82%E5%AE%89%E7%A9%8D%E7%94%BA%E6%88%90%E7%94%B0%E6%9D%B1%E4%B8%B8%E5%B1%B161",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "群馬県",
-          "city": "前橋市",
-          "name": "前橋市中央児童遊園 るなぱあく",
-          "type": "遊園地・レジャー施設",
-          "note": "小型遊具と木馬館。昭和児童遊園の原型 開業年：1954年。",
-          "official": "https://lunapark.maebashi-park.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%89%8D%E6%A9%8B%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%85%90%E7%AB%A5%E9%81%8A%E5%9C%92%20%E3%82%8B%E3%81%AA%E3%81%B1%E3%81%82%E3%81%8F%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%89%8D%E6%A9%8B%E5%B8%82%E5%A4%A7%E6%89%8B%E7%94%BA3-16-3",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
@@ -19409,19 +18791,6 @@ window.FACILITY_DATASET={
           "note": "遊園地＋ゲームセンターの複合感。",
           "official": "http://www.tedori.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%89%8B%E5%8F%96%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%A9%E3%83%B3%E3%83%89%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%E8%83%BD%E7%BE%8E%E5%B8%82%E7%B2%9F%E7%94%9F%E7%94%BA%E3%83%8458",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "太宰府市",
-          "name": "だざいふ遊園地",
-          "type": "遊園地・レジャー施設",
-          "note": "小規模遊園地。児童遊具中心。",
-          "official": "https://www.dazaifuyuuenchi.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A0%E3%81%96%E3%81%84%E3%81%B5%E9%81%8A%E5%9C%92%E5%9C%B0%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%B8%82%E5%AE%B0%E5%BA%9C4-7-8",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
@@ -23487,7 +22856,7 @@ window.FACILITY_DATASET={
       "name": "単一テーマ博物館",
       "shortName": "単一テーマ博物館",
       "file": "単一テーマ博物館.csv",
-      "count": 69,
+      "count": 77,
       "items": [
         {
           "prefecture": "東京都",
@@ -24633,6 +24002,539 @@ window.FACILITY_DATASET={
             {
               "title": "宮古島３日目①貝と地下ダムの博物館",
               "url": "https://ameblo.jp/stitch-chacha/entry-12883426409.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "秋田県",
+          "city": "にかほ市",
+          "name": "白瀬南極探検隊記念館",
+          "type": "極地・探検",
+          "note": "",
+          "official": "https://shirase-kinenkan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%99%BD%E7%80%AC%E5%8D%97%E6%A5%B5%E6%8E%A2%E6%A4%9C%E9%9A%8A%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E3%81%AB%E3%81%8B%E3%81%BB%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "にかほ　～　白瀬南極探検隊記念館、　しらせ（Ⅰ）、　KD605雪上車　など　～ : 0830thのblogⅡ",
+              "url": "https://rxg07247.livedoor.blog/archives/1053849976.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "福島県",
+          "city": "猪苗代町",
+          "name": "野口英世記念館",
+          "type": "医学・科学史",
+          "note": "",
+          "official": "http://www.noguchihideyo.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%8E%E5%8F%A3%E8%8B%B1%E4%B8%96%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E7%8C%AA%E8%8B%97%E4%BB%A3%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "野口英世記念館の訪問記（館内写真）",
+              "url": "https://ameblo.jp/sakupon0211/entry-11701435227.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "福井県",
+          "city": "勝山市",
+          "name": "福井県立恐竜博物館",
+          "type": "恐竜・地質",
+          "note": "",
+          "official": "https://www.dinosaur.pref.fukui.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%AB%8B%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E5%8B%9D%E5%B1%B1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖福井観光〗福井県立恐竜博物館に行ってみたら家族みんな大満足！！ - 酒飲みBisonの旅ブログ",
+              "url": "https://bison-blog.com/2026/03/22/fukuiprefecturaldinosaurmuseum_kankou-kannsou/"
+            }
+          ]
+        },
+        {
+          "prefecture": "長野県",
+          "city": "大町市",
+          "name": "大町山岳博物館",
+          "type": "山岳・自然史",
+          "note": "",
+          "official": "https://www.omachi-sanpaku.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%94%BA%E5%B1%B1%E5%B2%B3%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E5%A4%A7%E7%94%BA%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖山と人の歴史〗大町山岳博物館に行ってきた - 週末どうする？",
+              "url": "https://yosk-nkjm.hatenablog.com/entry/2020/07/27/153131"
+            }
+          ]
+        },
+        {
+          "prefecture": "滋賀県",
+          "city": "草津市",
+          "name": "滋賀県立琵琶湖博物館",
+          "type": "湖沼・自然史",
+          "note": "9時30分 - 17時00分。 月曜日休館。1996年竣工。",
+          "official": "https://www.biwahaku.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E7%AB%8B%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E8%8D%89%E6%B4%A5%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "琵琶湖博物館訪問記｜碧色翡翠",
+              "url": "https://note.com/alcedoemerald/n/n176fb1685d54"
+            }
+          ]
+        },
+        {
+          "prefecture": "栃木県",
+          "city": "壬生町",
+          "name": "壬生町おもちゃ博物館",
+          "type": "玩具・産業",
+          "note": "玩具の町にある体験展示中心の専門館。9:30〜16:30。 月曜日休館。",
+          "official": "https://omohaku.michinoeki-mibu.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A3%AC%E7%94%9F%E7%94%BA%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%A3%AC%E7%94%9F%E7%94%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "壬生町おもちゃ博物館へ行ってきた！鉄道模型と大型遊具に子どもが夢中 - 子連れ旅行ガイド",
+              "url": "https://trip-doctork.com/2026/08/04/mibumachi-toy-museum-family/"
+            }
+          ]
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "香取市",
+          "name": "伊能忠敬記念館",
+          "type": "測量・人物",
+          "note": "測量図、器具、記録から伊能忠敬の仕事を紹介。",
+          "official": "https://www.city.katori.lg.jp/smph/sightseeing/museum/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E8%83%BD%E5%BF%A0%E6%95%AC%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E9%A6%99%E5%8F%96%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "千葉県香取市佐原にある伊能忠敬記念館と伊能忠敬旧宅 - ふじ・ふじブログ",
+              "url": "https://fujisannoblog.com/post-16858/"
+            }
+          ]
+        },
+        {
+          "prefecture": "和歌山県",
+          "city": "田辺市",
+          "name": "南方熊楠顕彰館",
+          "type": "人物・自然史",
+          "note": "南方熊楠の資料、蔵書、研究記録を保存。10:00～17:00。 月曜日休館。",
+          "official": "http://www.minakata.org/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%96%B9%E7%86%8A%E6%A5%A0%E9%A1%95%E5%BD%B0%E9%A4%A8%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E7%94%B0%E8%BE%BA%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "名建築を歩く　矢田康順＋堀正人「南方熊楠顕彰館」（和歌山県）",
+              "url": "https://ameblo.jp/hituzou/entry-12971419646.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "csv-1c0d4b8e7a6f5d3c2b1a",
+      "number": 37,
+      "name": "こども向け施設",
+      "shortName": "こども向け施設",
+      "file": "こども向け施設.csv",
+      "count": 23,
+      "items": [
+        {
+          "prefecture": "北海道",
+          "city": "函館市",
+          "name": "函館公園こどものくに",
+          "type": "遊園地・レジャー施設",
+          "note": "現役最古級の観覧車を含む小規模遊園地。10:00〜17:00。",
+          "official": "http://kodomonokuni.sakuraweb.com/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BD%E9%A4%A8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8F%E3%81%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82%E9%9D%92%E6%9F%B3%E7%94%BA17-4",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "青森県",
+          "city": "八戸市",
+          "name": "八戸公園こどもの国",
+          "type": "遊園地・レジャー施設",
+          "note": "公園内の地方遊園地。 月曜日休館。9:00〜17:00。",
+          "official": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/koenryokuchika/koen/3884.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%85%AC%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%20%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%85%AB%E6%88%B8%E5%B8%82%E5%8D%81%E6%97%A5%E5%B8%82%E5%A4%A9%E6%91%A933-2",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "前橋市",
+          "name": "前橋市中央児童遊園 るなぱあく",
+          "type": "遊園地・レジャー施設",
+          "note": "小型遊具と木馬館。昭和児童遊園の原型 開業年：1954年。",
+          "official": "https://lunapark.maebashi-park.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%89%8D%E6%A9%8B%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%85%90%E7%AB%A5%E9%81%8A%E5%9C%92%20%E3%82%8B%E3%81%AA%E3%81%B1%E3%81%82%E3%81%8F%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%89%8D%E6%A9%8B%E5%B8%82%E5%A4%A7%E6%89%8B%E7%94%BA3-16-3",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "太宰府市",
+          "name": "だざいふ遊園地",
+          "type": "遊園地・レジャー施設",
+          "note": "小規模遊園地。児童遊具中心。",
+          "official": "https://www.dazaifuyuuenchi.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A0%E3%81%96%E3%81%84%E3%81%B5%E9%81%8A%E5%9C%92%E5%9C%B0%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%B8%82%E5%AE%B0%E5%BA%9C4-7-8",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "こどもの城",
+          "type": "児童施設",
+          "note": "一般来館は2月1日まで、年度末に閉館。旧所在地：東京都渋谷区神宮前5-53-1開業年：1985年（竣工・移転等の扱いは特徴・説明参照）消滅年：2015年消滅種別：閉館現在の状態：こどもの城としての運営は終了。資料URL：https://kodomono-shiro-weblibrary.jp/manual/report/ | https://kodomono-shiro-weblibrary.jp/manual/report/files/report2014.pdf | https://iko-yo.net/facilities/159Googleマップ検索用名称：こどもの城 東京都渋谷区",
+          "official": "https://kodomono-shiro-weblibrary.jp/manual/report/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9F%8E%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "東京都児童会館",
+          "type": "児童施設",
+          "note": "2012年3月の閉館を区立図書館の年表で確認。旧所在地：東京都渋谷区渋谷1-18-24開業年：未確認（竣工・移転等の扱いは特徴・説明参照）消滅年：2012年消滅種別：閉館現在の状態：閉館。資料URL：https://www.lib.city.shibuya.tokyo.jp/shibuya/shibuya-history/timeline02/ | https://odekake.info/kanagawa/74_taiken/jidou/jidou.htmlGoogleマップ検索用名称：東京都児童会館 東京都渋谷区",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%90%E7%AB%A5%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "上野こども遊園地",
+          "type": "遊園地",
+          "note": "特徴・説明：小型の乗り物が並んだ動物園前の遊び場。8月31日閉園。旧所在地：東京都台東区上野恩賜公園・上野動物園正門前開業年：1946年（竣工・移転等の扱いは特徴・説明参照）消滅年：2016年消滅種別：閉園現在の状態：閉園。正門前広場整備に伴い廃業。資料URL：https://j-town.net/2016/09/08231654.html?p=all | https://j-town.net/2016/09/08231654.html?p=2Googleマップ検索用名称：上野こども遊園地 東京都台東区",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E9%87%8E%E3%81%93%E3%81%A9%E3%82%82%E9%81%8A%E5%9C%92%E5%9C%B0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "鳥取県",
+          "city": "米子市",
+          "name": "米子市児童文化センター",
+          "type": "科学・天文",
+          "note": "火曜日休館。",
+          "official": "https://yonagobunka.net/jibun/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B1%B3%E5%AD%90%E5%B8%82%E5%85%90%E7%AB%A5%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E9%B3%A5%E5%8F%96%E7%9C%8C%20%E7%B1%B3%E5%AD%90%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "米子のプラネタリウム見ました｜MRYM",
+              "url": "https://note.com/mrym_hoshi/n/n0933f7785ff5"
+            }
+          ]
+        },
+        {
+          "prefecture": "香川県",
+          "city": "さぬき市",
+          "name": "さぬきこどもの国 スペースシアター",
+          "type": "科学・天文",
+          "note": "A children's cultural park with a planetarium and hands-on programs for learning through play.",
+          "official": "https://www.sanuki.or.jp/guide/kidshouse/spacetheater.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%AC%E3%81%8D%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%20%E9%A6%99%E5%B7%9D%E7%9C%8C%20%E3%81%95%E3%81%AC%E3%81%8D%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "さぬきこどもの国スペースシアター（プラネタリウム「水の惑星」） | A's balcony",
+              "url": "https://asbalcony.com/20221001-sanuki-space-theater/"
+            }
+          ]
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市北区",
+          "name": "こども本の森 中之島",
+          "type": "子ども図書館",
+          "note": "吹抜けの壁面書架を持つ子どものための図書文化施設。9:30-17:00",
+          "official": "https://kodomohonnomori.osaka/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%93%E3%81%A9%E3%82%82%E6%9C%AC%E3%81%AE%E6%A3%AE%20%E4%B8%AD%E4%B9%8B%E5%B3%B6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "【日記第15話】行ってきました！こども本の森 中之島（大阪）　体験レビュー",
+              "url": "https://kyounaniyomu.com/diary-15-2/"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市",
+          "name": "横浜市こども植物園",
+          "type": "植物園",
+          "note": "公共教育施設感が濃い。規模と古さがちょうどいい。9:00〜16:30。1979年開園。",
+          "official": "http://www.hama-midorinokyokai.or.jp/kodomo/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "２０２５・１２・６　横浜市こども植物園へ - 今日のころころこころ",
+              "url": "https://usausamin.hatenablog.com/entry/2025/12/06/205025"
+            }
+          ]
+        },
+        {
+          "prefecture": "北海道",
+          "city": "釧路市",
+          "name": "釧路市こども遊学館",
+          "type": "科学館",
+          "note": "2005年竣工。",
+          "official": "http://kodomoyugakukan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%A7%E8%B7%AF%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E9%81%8A%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E9%87%A7%E8%B7%AF%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "(#162)こども遊学館へ行ってみた｜Takayuki Sugawara",
+              "url": "https://note.com/ts__51/n/nd053b0561014"
+            }
+          ]
+        },
+        {
+          "prefecture": "岩手県",
+          "city": "盛岡市",
+          "name": "盛岡市子ども科学館",
+          "type": "科学館",
+          "note": "9:00〜16:30。 月曜休館。",
+          "official": "http://www.kodomokagakukan.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%9B%E5%B2%A1%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B2%A9%E6%89%8B%E7%9C%8C%20%E7%9B%9B%E5%B2%A1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "盛岡市子ども科学館を観光してきました | こどもとおでかけ回顧録",
+              "url": "https://sana1126.blog.fc2.com/blog-entry-1874.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "栃木県",
+          "city": "宇都宮市",
+          "name": "栃木県子ども総合科学館",
+          "type": "科学館",
+          "note": "9:30～16:30",
+          "official": "https://t-csm.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AD%90%E3%81%A9%E3%82%82%E7%B7%8F%E5%90%88%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%A0%83%E6%9C%A8%E7%9C%8C%20%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "栃木県子ども総合科学館の体験記",
+              "url": "https://kirinmatsuge.hatenablog.com/entry/Tochigi-Science-Museum"
+            }
+          ]
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "東金市",
+          "name": "東金こども科学館",
+          "type": "科学館",
+          "note": "9:00 - 16:30",
+          "official": "http://www.tsc.tobunspo.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E9%87%91%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%9D%B1%E9%87%91%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東金こども科学館⭐︎ | こどもサークル東庄のブログ",
+              "url": "https://ameblo.jp/kc-tounoshoumachi/entry-12936342691.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "厚木市",
+          "name": "神奈川工科大学厚木市子ども科学館",
+          "type": "科学館",
+          "note": "A children's science center offering hands-on exhibits and astronomy programs in Atsugi.",
+          "official": "https://www.city.atsugi.kanagawa.jp/acsc/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%8E%9A%E6%9C%A8%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E5%8E%9A%E6%9C%A8%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "神奈川工科大学厚木市子ども科学館 〔神奈川県厚木市〕 | お散歩パンダ.com",
+              "url": "https://osanpo-panda.com/13602433.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "福井県",
+          "city": "坂井市",
+          "name": "福井県児童科学館 エンゼルランドふくい",
+          "type": "科学館",
+          "note": "9:30～17:00",
+          "official": "https://angelland.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%E5%85%90%E7%AB%A5%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E3%81%B5%E3%81%8F%E3%81%84%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E5%9D%82%E4%BA%95%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "エンゼルランドふくい(福井県児童科学館) 噴水広場 2026｜7/1〜9/30｜Yui (栞)",
+              "url": "https://shiori.life/spots/cmselnxjw08ebg0fz6fbiy7re"
+            }
+          ]
+        },
+        {
+          "prefecture": "長野県",
+          "city": "佐久市",
+          "name": "佐久市子ども未来館",
+          "type": "科学館",
+          "note": "A children's learning center combining science exhibits, experiments and family discovery programs.",
+          "official": "https://kodomomiraikan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E4%B9%85%E5%B8%82%E5%AD%90%E3%81%A9%E3%82%82%E6%9C%AA%E6%9D%A5%E9%A4%A8%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E4%BD%90%E4%B9%85%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "佐久市子ども未来館｜ABYSS",
+              "url": "https://note.com/abyss8928/n/n90bfd88bf214"
+            }
+          ]
+        },
+        {
+          "prefecture": "奈良県",
+          "city": "橿原市",
+          "name": "橿原市立こども科学館",
+          "type": "科学館",
+          "note": "月曜日休館。",
+          "official": "https://www.city.kashihara.nara.jp/kanko_bunka_sports/kodomokagakukan/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A9%BF%E5%8E%9F%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%A5%88%E8%89%AF%E7%9C%8C%20%E6%A9%BF%E5%8E%9F%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖奈良おでかけ〗雨の日でも楽しめる♪橿原市立こども科学館で家族時間｜クロミカ｜奈良おでかけ記録",
+              "url": "https://note.com/kuromika8591/n/n5593d2826f97"
+            }
+          ]
+        },
+        {
+          "prefecture": "和歌山県",
+          "city": "和歌山市",
+          "name": "和歌山市立こども科学館",
+          "type": "科学館",
+          "note": "９:３０ ～ １６:３０。 月曜日休館。1981年竣工。",
+          "official": "https://kodomo123.jp/wordpress/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖親子たび〗近畿3泊4日の4日目（和歌山城、わかやま歴史館、和歌山市立こども科学館）｜きいねこ",
+              "url": "https://note.com/ki_neko/n/nbaa498e108a7"
+            }
+          ]
+        },
+        {
+          "prefecture": "京都府",
+          "city": "福知山市",
+          "name": "福知山市児童科学館",
+          "type": "科学館・児童科学館",
+          "note": "９:００〜１７:００。 水曜日休館。",
+          "official": "https://www.sandanike-kouen.or.jp/science-museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%E5%85%90%E7%AB%A5%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "福知山市児童科学館を子連れ体験レポ！巨大からくり＆不思議な家が楽しすぎる｜雨の日にもおすすめ | 京都の子連れお出かけ情報｜京都の休日ガイド｜ちいかわ家",
+              "url": "https://chiikawake.com/%E7%A6%8F%E7%9F%A5%E5%B1%B1%E5%B8%82%E5%85%90%E7%AB%A5%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%82%92%E5%AD%90%E9%80%A3%E3%82%8C%E4%BD%93%E9%A8%93%E3%83%AC%E3%83%9D%EF%BC%81%E5%B7%A8%E5%A4%A7%E3%81%8B%E3%82%89/"
+            }
+          ]
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "伊丹市",
+          "name": "伊丹市立こども文化科学館",
+          "type": "科学館・児童科学館",
+          "note": "平成初期型の公共科学施設 開館年：1990年。 火曜休館。9:00〜17:15。",
+          "official": "https://www.city.itami.lg.jp/SOSIKI/KODOMO/kodomobunka_kagakukan/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E4%B8%B9%E5%B8%82%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E6%96%87%E5%8C%96%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E4%BC%8A%E4%B8%B9%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "関西発・子どもとお出かけ隊ブログ！: 伊丹市立こども文化科学館",
+              "url": "https://ryokougurume.blogspot.com/2014/09/blog-post.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "東大阪市",
+          "name": "東大阪市立児童文化スポーツセンター ドリーム21",
+          "type": "科学館・児童科学館",
+          "note": "平成初期型児童施設 開館年：1991年。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E5%85%90%E7%AB%A5%E6%96%87%E5%8C%96%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A021%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東大阪市立児童文化スポーツセンター　ドリーム21（東大阪市松原南） 〖ぎゃるまま日記／ギャルママ日記（関西グルメ情報&おでかけ情報）〗",
+              "url": "https://galmama.net/blog-entry-2663.html"
             }
           ]
         }
