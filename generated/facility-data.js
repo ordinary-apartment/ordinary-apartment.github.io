@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 38,
-  "total": 1408,
+  "materialCount": 39,
+  "total": 1427,
   "materials": [
     {
       "id": "botanical",
@@ -10782,7 +10782,7 @@ window.FACILITY_DATASET={
       "name": "レトロゲームセンター",
       "shortName": "レトロゲームセンター",
       "file": "レトロゲームセンター.csv",
-      "count": 100,
+      "count": 92,
       "items": [
         {
           "prefecture": "北海道",
@@ -10995,22 +10995,6 @@ window.FACILITY_DATASET={
         {
           "prefecture": "群馬県",
           "city": "伊勢崎市",
-          "name": "オレンジハット茂呂店",
-          "type": "オートレストラン",
-          "note": "食品自販機コーナーとゲーム機が残る郊外型店舗。利用条件：ゲームごとに課金。24時間営業の案内",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E8%8C%82%E5%91%82%E5%BA%97",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "群馬県",
-          "city": "伊勢崎市",
           "name": "阿久津ベンディングサービス",
           "type": "オートレストラン",
           "note": "日常の休憩場所として残るタイプ。利用条件：ゲームごとに課金",
@@ -11080,38 +11064,6 @@ window.FACILITY_DATASET={
           "note": "駄菓子店にゲームや玩具が残る日常の遊び場。利用条件：店舗営業時のみ。ゲームごとに課金",
           "official": "",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%89%8D%E6%A9%8B%E5%B8%82%20%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B%E3%82%8F%E3%81%8C%E3%81%98%E3%82%83%E3%82%93%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "群馬県",
-          "city": "太田市",
-          "name": "オレンジハット沖之郷店",
-          "type": "オートレストラン",
-          "note": "田園のロードサイド。食品自販機と古いゲームコーナーが同居。利用条件：ゲームごとに課金。24時間営業の案内",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%A4%AA%E7%94%B0%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E6%B2%96%E4%B9%8B%E9%83%B7%E5%BA%97",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "群馬県",
-          "city": "藤岡市",
-          "name": "ドライブイン七輿 ゲームコーナー",
-          "type": "ドライブインのゲームコーナー",
-          "note": "食品自販機とワニワニパニック・ドライブゲーム等が同居するロードサイド空間。利用条件：ゲームごとに課金。ゲーム区画は深夜営業なし",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E8%97%A4%E5%B2%A1%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E4%B8%83%E8%BC%BF%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
@@ -11522,22 +11474,6 @@ window.FACILITY_DATASET={
         },
         {
           "prefecture": "新潟県",
-          "city": "燕市",
-          "name": "公楽園 ゲームコーナー",
-          "type": "オートレストラン・宿泊施設",
-          "note": "田園の二階建て休憩施設。自販機と旧作筐体が残る。利用条件：ゲームごとに課金。最新営業日は要確認",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82%20%E5%85%AC%E6%A5%BD%E5%9C%92%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "新潟県",
           "city": "三条市",
           "name": "イリスボウル ゲームコーナー",
           "type": "ボウリング場併設",
@@ -11566,22 +11502,6 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://www.playhouse-erina.com/"
-          }
-        },
-        {
-          "prefecture": "新潟県",
-          "city": "新潟市北区",
-          "name": "ポピーとよさか",
-          "type": "オートレストランのゲームコーナー",
-          "note": "自販機飲食とテーブル筐体が同居。古い空間を使い続けながらゲームを入れ替えている。利用条件：ゲームごとに課金。飲食注文と遊技の時間は別",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%83%9D%E3%83%94%E3%83%BC%E3%81%A8%E3%82%88%E3%81%95%E3%81%8B",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
           }
         },
         {
@@ -11953,22 +11873,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "京都府",
-          "city": "舞鶴市",
-          "name": "ドライブインダルマ ゲームコーナー",
-          "type": "ドライブインのゲームコーナー",
-          "note": "レトロ自販機と旧作ゲームが並ぶ古いロードサイド施設。利用条件：ゲームごとに課金。休業日・営業時間は要確認",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E8%88%9E%E9%B6%B4%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E3%83%80%E3%83%AB%E3%83%9E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
           "prefecture": "大阪府",
           "city": "大阪市中央区",
           "name": "THE SILVER BALL PLANET",
@@ -12142,38 +12046,6 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://urashimaresortsandspa.jp/wakayama-hotelurashima/facilities/"
-          }
-        },
-        {
-          "prefecture": "島根県",
-          "city": "浜田市",
-          "name": "ドライブイン日本海 ゲームコーナー",
-          "type": "ドライブインのゲームコーナー",
-          "note": "国道9号沿いに自販機とゲームが残る。使い込まれた壁や掲示物も記録対象。利用条件：ゲームごとに課金。各区画の利用時間は要確認",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%B5%9C%E7%94%B0%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E6%97%A5%E6%9C%AC%E6%B5%B7%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "岡山県",
-          "city": "倉敷市",
-          "name": "ドライブイン古城 ゲームコーナー",
-          "type": "ドライブインのゲームコーナー",
-          "note": "年季の入った建物に自販機と対戦ゲーム・スロットが残る。自然残存のロードサイド空間。利用条件：ゲームごとに課金。ゲーム区画の利用時間は要確認",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E5%8F%A4%E5%9F%8E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
           }
         },
         {
@@ -24595,6 +24467,448 @@ window.FACILITY_DATASET={
           "note": "飲料の調合・PETボトル充填・検品・出荷を現役設備で学ぶ工場見学。",
           "official": "https://www.asahiinryo.co.jp/entertainment/factory/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%B5%E3%83%92%E9%A3%B2%E6%96%99%E6%98%8E%E7%9F%B3%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "csv-5e8a1c3d7f204b96a2e1",
+      "number": 39,
+      "name": "レトロ自販機",
+      "shortName": "レトロ自販機",
+      "file": "レトロ自販機.csv",
+      "count": 27,
+      "items": [
+        {
+          "prefecture": "群馬県",
+          "city": "伊勢崎市",
+          "name": "オレンジハット茂呂店",
+          "type": "オートレストラン",
+          "note": "食品自販機コーナーとゲーム機が残る郊外型店舗。利用条件：ゲームごとに課金。24時間営業の案内",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E8%8C%82%E5%91%82%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "太田市",
+          "name": "オレンジハット沖之郷店",
+          "type": "オートレストラン",
+          "note": "田園のロードサイド。食品自販機と古いゲームコーナーが同居。利用条件：ゲームごとに課金。24時間営業の案内",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E5%A4%AA%E7%94%B0%E5%B8%82%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%8F%E3%83%83%E3%83%88%E6%B2%96%E4%B9%8B%E9%83%B7%E5%BA%97",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "藤岡市",
+          "name": "ドライブイン七輿 ゲームコーナー",
+          "type": "ドライブインのゲームコーナー",
+          "note": "食品自販機とワニワニパニック・ドライブゲーム等が同居するロードサイド空間。利用条件：ゲームごとに課金。ゲーム区画は深夜営業なし",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E8%97%A4%E5%B2%A1%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E4%B8%83%E8%BC%BF%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "燕市",
+          "name": "公楽園 ゲームコーナー",
+          "type": "オートレストラン・宿泊施設",
+          "note": "田園の二階建て休憩施設。自販機と旧作筐体が残る。利用条件：ゲームごとに課金。最新営業日は要確認",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E7%87%95%E5%B8%82%20%E5%85%AC%E6%A5%BD%E5%9C%92%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "新潟市北区",
+          "name": "ポピーとよさか",
+          "type": "オートレストランのゲームコーナー",
+          "note": "自販機飲食とテーブル筐体が同居。古い空間を使い続けながらゲームを入れ替えている。利用条件：ゲームごとに課金。飲食注文と遊技の時間は別",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82%E5%8C%97%E5%8C%BA%20%E3%83%9D%E3%83%94%E3%83%BC%E3%81%A8%E3%82%88%E3%81%95%E3%81%8B",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "京都府",
+          "city": "舞鶴市",
+          "name": "ドライブインダルマ ゲームコーナー",
+          "type": "ドライブインのゲームコーナー",
+          "note": "レトロ自販機と旧作ゲームが並ぶ古いロードサイド施設。利用条件：ゲームごとに課金。休業日・営業時間は要確認",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E8%88%9E%E9%B6%B4%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E3%83%80%E3%83%AB%E3%83%9E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "浜田市",
+          "name": "ドライブイン日本海 ゲームコーナー",
+          "type": "ドライブインのゲームコーナー",
+          "note": "国道9号沿いに自販機とゲームが残る。使い込まれた壁や掲示物も記録対象。利用条件：ゲームごとに課金。各区画の利用時間は要確認",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E6%B5%9C%E7%94%B0%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E6%97%A5%E6%9C%AC%E6%B5%B7%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "倉敷市",
+          "name": "ドライブイン古城 ゲームコーナー",
+          "type": "ドライブインのゲームコーナー",
+          "note": "年季の入った建物に自販機と対戦ゲーム・スロットが残る。自然残存のロードサイド空間。利用条件：ゲームごとに課金。ゲーム区画の利用時間は要確認",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E5%80%89%E6%95%B7%E5%B8%82%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E5%8F%A4%E5%9F%8E%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "伊勢崎市",
+          "name": "自販機食堂",
+          "type": "食品自販機コーナー",
+          "note": "自販機食堂に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=自販機食堂+群馬県+伊勢崎市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "みどり市",
+          "name": "丸美屋自販機",
+          "type": "食品自販機コーナー",
+          "note": "丸美屋自販機に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=丸美屋自販機+群馬県+みどり市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "太田市",
+          "name": "ピット・イン77",
+          "type": "食品自販機コーナー",
+          "note": "ピット・イン77に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=ピット・イン77+群馬県+太田市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "前橋市",
+          "name": "オレンジ353",
+          "type": "食品自販機コーナー",
+          "note": "オレンジ353に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=オレンジ353+群馬県+前橋市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "相模原市",
+          "name": "中古タイヤ市場 相模原店 レトロ自販機コーナー",
+          "type": "食品自販機コーナー",
+          "note": "中古タイヤ市場に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=中古タイヤ市場 相模原店 レトロ自販機コーナー+神奈川県+相模原市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "茨城県",
+          "city": "稲敷市",
+          "name": "あらいやオートコーナー",
+          "type": "食品自販機コーナー",
+          "note": "あらいやに残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=あらいやオートコーナー+茨城県+稲敷市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "成田市",
+          "name": "オートパーラーシオヤ",
+          "type": "食品自販機コーナー",
+          "note": "オートパーラーシオヤに残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=オートパーラーシオヤ+千葉県+成田市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "香取市",
+          "name": "24丸昇",
+          "type": "食品自販機コーナー",
+          "note": "24丸昇に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=24丸昇+千葉県+香取市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "栃木県",
+          "city": "那珂川町",
+          "name": "なかよし自販機コーナー",
+          "type": "食品自販機コーナー",
+          "note": "なかよし自販機に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=なかよし自販機コーナー+栃木県+那珂川町",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "明石市",
+          "name": "石田鶏卵",
+          "type": "食品自販機コーナー",
+          "note": "石田鶏卵に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=石田鶏卵+兵庫県+明石市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "益田市",
+          "name": "コインスナックふじ",
+          "type": "食品自販機コーナー",
+          "note": "コインスナックふじに残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=コインスナックふじ+島根県+益田市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "益田市",
+          "name": "コウラン",
+          "type": "食品自販機コーナー",
+          "note": "コウランに残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=コウラン+島根県+益田市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "益田市",
+          "name": "後藤商店 本店",
+          "type": "食品自販機コーナー",
+          "note": "後藤商店に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=後藤商店 本店+島根県+益田市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "益田市",
+          "name": "後藤商店 支店",
+          "type": "食品自販機コーナー",
+          "note": "後藤商店に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=後藤商店 支店+島根県+益田市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "益田市",
+          "name": "オアシス",
+          "type": "食品自販機コーナー",
+          "note": "オアシスに残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=オアシス+島根県+益田市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "益田市",
+          "name": "自販機のお店 風花",
+          "type": "食品自販機コーナー",
+          "note": "風花に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=自販機のお店 風花+島根県+益田市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "津和野町",
+          "name": "道の駅 にちはら",
+          "type": "食品自販機コーナー",
+          "note": "道の駅にちはらに残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=道の駅 にちはら+島根県+津和野町",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "山口県",
+          "city": "岩国市",
+          "name": "観音茶屋",
+          "type": "食品自販機コーナー",
+          "note": "観音茶屋に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=観音茶屋+山口県+岩国市",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "山口県",
+          "city": "岩国市",
+          "name": "欽明館",
+          "type": "食品自販機コーナー",
+          "note": "欽明館に残る昭和型の食品自販機を利用できる場所。2026年8月更新の全国マップで掲載・稼働確認。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=欽明館+山口県+岩国市",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
