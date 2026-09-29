@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 41,
-  "total": 1455,
+  "materialCount": 42,
+  "total": 1468,
   "materials": [
     {
       "id": "botanical",
@@ -1206,946 +1206,11 @@ window.FACILITY_DATASET={
     {
       "id": "science",
       "number": 2,
-      "name": "科学館",
-      "shortName": "科学館",
-      "file": "科学館.csv",
-      "count": 62,
+      "name": "東京の科学館",
+      "shortName": "東京の科学館",
+      "file": "東京の科学館.csv",
+      "count": 20,
       "items": [
-        {
-          "prefecture": "埼玉県",
-          "city": "寄居町",
-          "name": "埼玉県立川の博物館",
-          "type": "河川・自然史",
-          "note": "巨大水車・河川展示。9:00～17:00。 月曜日休館。1997年開館。",
-          "official": "https://www.river-museum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%AB%8B%E5%B7%9D%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%AF%84%E5%B1%85%E7%94%BA",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "埼玉県立川の博物館に行ってきた！ | みはたーぼ、のほほん日記",
-              "url": "https://ameblo.jp/mihata-bo/entry-12760135262.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.river-museum.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%AB%8B%E5%B7%9D%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "滋賀県",
-          "city": "草津市",
-          "name": "琵琶湖博物館",
-          "type": "水環境・総合博物館",
-          "note": "水環境展示。9時30分 - 17時00分。 月曜日休館。1996年竣工。",
-          "official": "https://www.biwahaku.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E8%8D%89%E6%B4%A5%E5%B8%82",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "『琵琶湖博物館』に行って、琵琶湖の世界を歩いてきた｜結城 弘 / 小説家・ライター",
-              "url": "https://note.com/hirosuke07/n/n4b1f6a49b969"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.biwahaku.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "北九州市門司区",
-          "name": "海峡ドラマシップ",
-          "type": "港湾・歴史展示",
-          "note": "巨大屋内展示＋港湾。2003年開館。",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E5%B3%A1%E3%83%89%E3%83%A9%E3%83%9E%E3%82%B7%E3%83%83%E3%83%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "福岡出張　～門司港レトロ　関門海峡ミュージアム～ - Girl's Be Ambitious",
-              "url": "https://girlsbe-ambitious.hatenablog.com/entry/2026/02/19/020000"
-            }
-          ],
-          "extra": {
-            "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%B3%A1%E3%83%89%E3%83%A9%E3%83%9E%E3%82%B7%E3%83%83%E3%83%97"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "北九州市門司区",
-          "name": "関門海峡ミュージアム",
-          "type": "港湾・歴史展示",
-          "note": "港湾展示と大規模吹き抜け。9:00～17:00。2003年開館。",
-          "official": "https://mojiko-retoro9.jp/spot/kanmon_kaikyo_museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%A2%E9%96%80%E6%B5%B7%E5%B3%A1%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
-          "kind": "ドリームコア",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "福岡出張　～門司港レトロ　関門海峡ミュージアム～ - Girl's Be Ambitious",
-              "url": "https://girlsbe-ambitious.hatenablog.com/entry/2026/02/19/020000"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://mojiko-retoro9.jp/spot/kanmon_kaikyo_museum/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%96%A2%E9%96%80%E6%B5%B7%E5%B3%A1%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0"
-          }
-        },
-        {
-          "prefecture": "富山県",
-          "city": "立山町",
-          "name": "立山カルデラ砂防博物館",
-          "type": "防災・砂防",
-          "note": "砂防・山岳インフラ展示。",
-          "official": "http://www.tatecal.or.jp/tatecal/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%87%E3%83%A9%E7%A0%82%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E7%AB%8B%E5%B1%B1%E7%94%BA",
-          "kind": "リミナル",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "大自然と人の「攻防と共存」の歴史！立山カルデラ砂防博物館に行ってみた｜Tadayoshi Kasai",
-              "url": "https://note.com/tadayoshi85/n/n1c69d5f5042f"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.tatecal.or.jp/tatecal/index.html\nWikipedia：https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%87%E3%83%A9%E7%A0%82%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "千葉県",
-          "city": "柏市",
-          "name": "千葉大学環境健康フィールド科学センター",
-          "type": "研究・植物施設",
-          "note": "大学の研究・栽培施設としての雰囲気が中心。",
-          "official": "http://www.fc.chiba-u.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E5%A4%A7%E5%AD%A6%E7%92%B0%E5%A2%83%E5%81%A5%E5%BA%B7%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9F%8F%E5%B8%82%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
-          "kind": "植物園・温室",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "「千葉大学 柏の葉キャンパス」構内の通り抜け通路を散策してきた : 柏の葉サイクルライフ",
-              "url": "https://kashiwanoha-cycle-life.blog.jp/archives/51840479.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.fc.chiba-u.jp/"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "札幌市",
-          "name": "札幌市青少年科学館",
-          "type": "科学館",
-          "note": "9:00〜17:00。1981年開館。",
-          "official": "https://www.ssc.slp.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "札幌市青少年科学館（札幌市公式案内）",
-              "url": "https://www.city.sapporo.jp/kyoiku/shogaikyoiku/kagaku_ibento.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.ssc.slp.or.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "旭川市",
-          "name": "旭川市科学館 サイパル",
-          "type": "科学館",
-          "note": "9:30～17:00。2005年竣工。",
-          "official": "http://www.city.asahikawa.hokkaido.jp/science/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%AD%E5%B7%9D%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%B5%E3%82%A4%E3%83%91%E3%83%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%AD%E5%B7%9D%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "旭川市科学館サイパル - ふうと旅行とたべあるく。",
-              "url": "https://fuand.hatenablog.com/entry/2025/09/13/213142"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.asahikawa.hokkaido.jp/science/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%97%AD%E5%B7%9D%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8_%E3%82%B5%E3%82%A4%E3%83%91%E3%83%AB"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "苫小牧市",
-          "name": "苫小牧市科学センター",
-          "type": "科学館",
-          "note": "9時30分～17時。1970年竣工。",
-          "official": "https://www.city.tomakomai.hokkaido.jp/kagaku/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖北海道〗苫小牧市科学センターの展示機 - 用廃機ハンターが行く！",
-              "url": "https://wrecks.hatenablog.com/entry/2022/07/30/201505"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.tomakomai.hokkaido.jp/kagaku/\nWikipedia：https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "室蘭市",
-          "name": "DENZAI環境科学館",
-          "type": "科学・環境",
-          "note": "10:00～17:00。 月曜日休館。2021年開館。",
-          "official": "https://www.kujiran.net/emiran/kagakukan/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=DENZAI%E7%92%B0%E5%A2%83%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%AE%A4%E8%98%AD%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖室蘭市〗えみらんDENZAI環境科学館に行ってきたよ　その1　2026.4.12 - 風月を友とする",
-              "url": "https://kazetotuki.hatenadiary.com/entry/2026/05/10/000000"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.kujiran.net/emiran/kagakukan/\nWikipedia：https://ja.wikipedia.org/wiki/DENZAI%E7%92%B0%E5%A2%83%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "苫小牧市",
-          "name": "ウトナイ湖サンクチュアリ ネイチャーセンター",
-          "type": "自然観察",
-          "note": "",
-          "official": "https://utonai-nc.sakura.ne.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A6%E3%83%88%E3%83%8A%E3%82%A4%E6%B9%96%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AA%20%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "厳冬のウトナイ湖サンクチュアリを歩く｜湖は氷結してました | にこみいるのQOL同好会",
-              "url": "https://nicomyl.com/utnai-sanctuary/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://utonai-nc.sakura.ne.jp/"
-          }
-        },
-        {
-          "prefecture": "青森県",
-          "city": "青森市",
-          "name": "青森県立三沢航空科学館",
-          "type": "航空・科学",
-          "note": "9:00〜17:00",
-          "official": "https://kokukagaku.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%E7%AB%8B%E4%B8%89%E6%B2%A2%E8%88%AA%E7%A9%BA%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E9%9D%92%E6%A3%AE%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "青森県立三沢航空科学館 その1｜光と風のアルバム",
-              "url": "https://note.com/hk_photo/n/nc731c5ae0eb6"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://kokukagaku.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E7%9C%8C%E7%AB%8B%E4%B8%89%E6%B2%A2%E8%88%AA%E7%A9%BA%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "青森県",
-          "city": "むつ市",
-          "name": "むつ科学技術館",
-          "type": "科学・エネルギー",
-          "note": "1996年開館。",
-          "official": "https://msm720.jaea.go.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%80%E3%81%A4%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E3%82%80%E3%81%A4%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "Digital Artworks TeeART Blog. 青森県にあるむつ科学技術館を見に行ってきた",
-              "url": "https://teeart.blog107.fc2.com/blog-entry-798.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://msm720.jaea.go.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%82%80%E3%81%A4%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "秋田県",
-          "city": "大仙市",
-          "name": "秋田県立農業科学館",
-          "type": "農業科学",
-          "note": "月曜日休館。9:30〜16:30。",
-          "official": "https://www.obako.or.jp/sun-agrin/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%E7%AB%8B%E8%BE%B2%E6%A5%AD%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E5%A4%A7%E4%BB%99%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "秋田県立農業科学館 大仙市 | 総合旅行業務取扱管理者のブログ - 楽天ブログ",
-              "url": "https://plaza.rakuten.co.jp/shin728/diary/202405010000/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.obako.or.jp/sun-agrin/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E7%9C%8C%E7%AB%8B%E8%BE%B2%E6%A5%AD%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "宮城県",
-          "city": "仙台市",
-          "name": "HOKUSHU仙台市科学館",
-          "type": "科学館",
-          "note": "9時〜16時45分。 月曜日休館。",
-          "official": "http://www.kagakukan.sendai-c.ed.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=HOKUSHU%E4%BB%99%E5%8F%B0%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖宮城県〗仙台市科学館の展示機 - 用廃機ハンターが行く！",
-              "url": "https://wrecks.hatenablog.com/entry/2026/04/07/120215"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.kagakukan.sendai-c.ed.jp/"
-          }
-        },
-        {
-          "prefecture": "福島県",
-          "city": "いわき市",
-          "name": "いわき市石炭・化石館 ほるる",
-          "type": "化石・鉱業",
-          "note": "",
-          "official": "https://www.sekitankasekikan.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%E7%9F%B3%E7%82%AD%E3%83%BB%E5%8C%96%E7%9F%B3%E9%A4%A8%20%E3%81%BB%E3%82%8B%E3%82%8B%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "日本で最も有名な化石と全国有数の炭鉱の歴史を今に語る〖いわき市石炭・化石館 ほるる〗 - ぽてとのまったりぶらり旅　冬の章",
-              "url": "https://mattari-hokuriku.fc2.net/blog-entry-1879.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.sekitankasekikan.or.jp/"
-          }
-        },
-        {
-          "prefecture": "茨城県",
-          "city": "つくば市",
-          "name": "地質標本館",
-          "type": "地質",
-          "note": "9:30～16:30。 月曜日休館。",
-          "official": "http://www.gsj.jp/Muse/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E8%B3%AA%E6%A8%99%E6%9C%AC%E9%A4%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "地質標本館「地球なんでも相談」体験記｜てるめぐる🔨💎",
-              "url": "https://note.com/terumeguru/n/n3566b2c2ecca"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.gsj.jp/Muse/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%B3%AA%E6%A8%99%E6%9C%AC%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "茨城県",
-          "city": "つくば市",
-          "name": "つくばエキスポセンター",
-          "type": "科学館",
-          "note": "月曜日休館。1985年竣工。",
-          "official": "http://www.expocenter.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A4%E3%81%8F%E3%81%B0%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%9D%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "つくばエキスポセンター｜科学技術週間2025｜町田 奈桜",
-              "url": "https://note.com/now2000/n/n6b0df2f61448"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.expocenter.or.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%8F%E3%81%B0%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%9D%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
-          }
-        },
-        {
-          "prefecture": "茨城県",
-          "city": "大洗町",
-          "name": "大洗わくわく科学館",
-          "type": "科学館",
-          "note": "",
-          "official": "https://www.jaea.go.jp/09/wakuwaku/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%B4%97%E3%82%8F%E3%81%8F%E3%82%8F%E3%81%8F%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E5%A4%A7%E6%B4%97%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "《茨城大洗町》楽しく体験する科学!!大洗わくわく科学館 - エリエット～ささやかな〇〇っ",
-              "url": "https://smile.hatenablog.com/entry/2025/04/26/192340"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.jaea.go.jp/09/wakuwaku/"
-          }
-        },
-        {
-          "prefecture": "茨城県",
-          "city": "日立市",
-          "name": "日立シビックセンター科学館サクリエ",
-          "type": "科学館",
-          "note": "月曜日休館。",
-          "official": "http://www.civic.jp/science/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E7%AB%8B%E3%82%B7%E3%83%93%E3%83%83%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%82%B5%E3%82%AF%E3%83%AA%E3%82%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E6%97%A5%E7%AB%8B%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "日立シビックセンター科学館「サクリエ」リニューアルオープン in 茨城県日立市",
-              "url": "https://satochannel.com/civic-science-hitachi/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.civic.jp/science/"
-          }
-        },
-        {
-          "prefecture": "群馬県",
-          "city": "下仁田町",
-          "name": "下仁田町自然史館",
-          "type": "地質・自然史",
-          "note": "９:００～１６:３０",
-          "official": "http://www.shimonita-geopark.jp/shizenshikan/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8B%E4%BB%81%E7%94%B0%E7%94%BA%E8%87%AA%E7%84%B6%E5%8F%B2%E9%A4%A8%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%B8%8B%E4%BB%81%E7%94%B0%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "下仁田へ行ってきた（その３） - Peepooblue’s Sketchbook",
-              "url": "https://peepooblue.hatenablog.com/entry/2024/10/27/235029"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.shimonita-geopark.jp/shizenshikan/index.html"
-          }
-        },
-        {
-          "prefecture": "埼玉県",
-          "city": "川口市",
-          "name": "川口市立科学館",
-          "type": "科学館",
-          "note": "火曜日休館。",
-          "official": "http://www.kawaguchi.science.museum/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%B7%9D%E5%8F%A3%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "遊びながら学べる川口市立科学館に行ってみた。子どもが夢中になる実験装置にプラネタリウムと盛り沢山♪ | さいたま市、埼玉県南部の地域情報サイト 〖リプロ マヴィ〗",
-              "url": "https://www.lipro-mavie.com/202311-kawaguchikagakukan/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.kawaguchi.science.museum/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "埼玉県",
-          "city": "越谷市",
-          "name": "越谷市科学技術体験センター ミラクル",
-          "type": "科学館",
-          "note": "",
-          "official": "https://www.city.koshigaya.saitama.jp/gigakoshigaya/miracle/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%8A%E8%B0%B7%E5%B8%82%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E4%BD%93%E9%A8%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E8%B6%8A%E8%B0%B7%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "夏休みの出費を抑えたい親必見！無料〜数十円で一日遊べる越谷の体験型〖F P１級ワーママのつぶやき／日々の気づき編〗｜家計を整える・はまぐりポケット",
-              "url": "https://note.com/poem565/n/n5ac1215e6019"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.koshigaya.saitama.jp/gigakoshigaya/miracle/"
-          }
-        },
-        {
-          "prefecture": "新潟県",
-          "city": "新潟市",
-          "name": "新潟県立自然科学館",
-          "type": "科学・自然史",
-          "note": "9:30～16:30",
-          "official": "https://www.sciencemuseum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "新潟県立自然科学館の訪問記",
-              "url": "https://ameblo.jp/madomoy3/entry-12887043610.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.sciencemuseum.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "新潟県",
-          "city": "十日町市",
-          "name": "十日町市立里山科学館 越後松之山「森の学校」キョロロ",
-          "type": "生態・自然",
-          "note": "火曜日休館。",
-          "official": "https://www.matsunoyama.com/kyororo/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82%E7%AB%8B%E9%87%8C%E5%B1%B1%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E8%B6%8A%E5%BE%8C%E6%9D%BE%E4%B9%8B%E5%B1%B1%E3%80%8C%E6%A3%AE%E3%81%AE%E5%AD%A6%E6%A0%A1%E3%80%8D%E3%82%AD%E3%83%A7%E3%83%AD%E3%83%AD%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "越後松之山「森の学校」キョロロ　手塚貴晴＋手塚由比｜新潟県の有名建築｜住宅/ビル/マンション設計者の建もの探訪",
-              "url": "https://www.naokikataoka.com/2017/08/31/kyororo/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.matsunoyama.com/kyororo/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82%E7%AB%8B%E9%87%8C%E5%B1%B1%E7%A7%91%E5%AD%A6%E9%A4%A8_%E8%B6%8A%E5%BE%8C%E6%9D%BE%E4%B9%8B%E5%B1%B1%E3%80%8C%E6%A3%AE%E3%81%AE%E5%AD%A6%E6%A0%A1%E3%80%8D%E3%82%AD%E3%83%A7%E3%83%AD%E3%83%AD"
-          }
-        },
-        {
-          "prefecture": "石川県",
-          "city": "能美市",
-          "name": "いしかわ動物園 動物学習センター",
-          "type": "生物",
-          "note": "",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%97%E3%81%8B%E3%82%8F%E5%8B%95%E7%89%A9%E5%9C%92%20%E5%8B%95%E7%89%A9%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E8%83%BD%E7%BE%8E%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
-          "prefecture": "石川県",
-          "city": "小松市",
-          "name": "サイエンスヒルズこまつ",
-          "type": "科学館",
-          "note": "9:30～18:00。 月曜日休館。",
-          "official": "http://science-hills-komatsu.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%92%E3%83%AB%E3%82%BA%E3%81%93%E3%81%BE%E3%81%A4%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E5%B0%8F%E6%9D%BE%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "建築さがし-サイエンスヒルズこまつ-｜Koki Takahashi / 建築家 / 創造家",
-              "url": "https://note.com/koki_takahashi/n/n449caf8ece82"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://science-hills-komatsu.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%92%E3%83%AB%E3%82%BA%E3%81%93%E3%81%BE%E3%81%A4"
-          }
-        },
-        {
-          "prefecture": "福井県",
-          "city": "大野市",
-          "name": "福井県自然保護センター",
-          "type": "自然・天文",
-          "note": "9:00〜17:00",
-          "official": "https://fncc.pref.fukui.lg.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%E8%87%AA%E7%84%B6%E4%BF%9D%E8%AD%B7%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E5%A4%A7%E9%87%8E%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "熱く！ 福井県自然保護センター",
-              "url": "https://bobykent.blog.fc2.com/blog-entry-412.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://fncc.pref.fukui.lg.jp/"
-          }
-        },
-        {
-          "prefecture": "山梨県",
-          "city": "甲府市",
-          "name": "山梨県立科学館",
-          "type": "科学館",
-          "note": "9時30分～17時。 月曜日休館。1998年竣工。",
-          "official": "https://www.kagakukan.pref.yamanashi.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E7%94%B2%E5%BA%9C%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "アスレチック的な面白科学館「山梨県立科学館」を歩く : 帝都を歩く",
-              "url": "https://teitowalk.blog.jp/archives/87252459.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.kagakukan.pref.yamanashi.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "長野県",
-          "city": "木曽町",
-          "name": "御嶽山ビジターセンター さとテラス三岳",
-          "type": "火山・自然",
-          "note": "9:00～16:00。 月曜休館。",
-          "official": "https://ontake-vc.jp/sato/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%A1%E5%B6%BD%E5%B1%B1%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%95%E3%81%A8%E3%83%86%E3%83%A9%E3%82%B9%E4%B8%89%E5%B2%B3%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9C%A8%E6%9B%BD%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "『木曽町 御嶽山ビジターセンター さとテラス三岳』｜佐藤プリン",
-              "url": "https://note.com/fair_wren1304/n/n83aefd9e5df3"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://ontake-vc.jp/sato/"
-          }
-        },
-        {
-          "prefecture": "静岡県",
-          "city": "静岡市",
-          "name": "静岡科学館る・く・る",
-          "type": "科学館",
-          "note": "9:30～17:00",
-          "official": "https://www.rukuru.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%82%8B%E3%83%BB%E3%81%8F%E3%83%BB%E3%82%8B%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "静岡科学館る・く・るを訪ねる｜静岡新聞アットエス",
-              "url": "https://www.at-s.com/life/article/ats/1613278.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.rukuru.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%82%8B%E3%83%BB%E3%81%8F%E3%83%BB%E3%82%8B"
-          }
-        },
-        {
-          "prefecture": "静岡県",
-          "city": "浜松市",
-          "name": "浜松科学館",
-          "type": "科学館",
-          "note": "1986年竣工。",
-          "official": "https://www.mirai-ra.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%9C%E6%9D%BE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%B5%9C%E6%9D%BE%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖グル録〗みらいーらカフェ(浜松科学館内) | ミチコのブログ",
-              "url": "https://ameblo.jp/michikoburogu/entry-12867145302.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.mirai-ra.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%B5%9C%E6%9D%BE%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "静岡県",
-          "city": "東伊豆町",
-          "name": "熱川バナナワニ園",
-          "type": "生物・植物",
-          "note": "",
-          "official": "http://bananawani.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%B1%E5%B7%9D%E3%83%90%E3%83%8A%E3%83%8A%E3%83%AF%E3%83%8B%E5%9C%92%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%9D%B1%E4%BC%8A%E8%B1%86%E7%94%BA",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "ワニやレッサーパンダがいる「熱川バナナワニ園」に行ってみた！所要時間やアクセス方法などを紹介 | いつおで",
-              "url": "https://itsuode.com/bananawani/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://bananawani.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%86%B1%E5%B7%9D%E3%83%90%E3%83%8A%E3%83%8A%E3%83%AF%E3%83%8B%E5%9C%92"
-          }
-        },
-        {
-          "prefecture": "愛知県",
-          "city": "蒲郡市",
-          "name": "蒲郡市生命の海科学館",
-          "type": "地球科学",
-          "note": "火曜日休館。",
-          "official": "http://www.city.gamagori.lg.jp/site/kagakukan/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%92%B2%E9%83%A1%E5%B8%82%E7%94%9F%E5%91%BD%E3%81%AE%E6%B5%B7%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%92%B2%E9%83%A1%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖自然探訪〗蒲郡市生命の海科学館：物質と生命の進化を実物標本で実感した｜Lama Lama",
-              "url": "https://note.com/lama_lama/n/n8ef4b1ce06a5"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.gamagori.lg.jp/site/kagakukan/\nWikipedia：https://ja.wikipedia.org/wiki/%E8%92%B2%E9%83%A1%E5%B8%82%E7%94%9F%E5%91%BD%E3%81%AE%E6%B5%B7%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "愛知県",
-          "city": "豊橋市",
-          "name": "豊橋市地下資源館",
-          "type": "資源・地質",
-          "note": "1980年開館。",
-          "official": "https://www.toyohaku.gr.jp/chika/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%A9%8B%E5%B8%82%E5%9C%B0%E4%B8%8B%E8%B3%87%E6%BA%90%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E6%A9%8B%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "科学館レビュー１６：豊橋市地下資源館（愛知県豊橋市）｜ぬばたま みどり＠化学系VTuber",
-              "url": "https://note.com/midori_nubatama/n/n78354f6852a6"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.toyohaku.gr.jp/chika/\nWikipedia：https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%A9%8B%E5%B8%82%E5%9C%B0%E4%B8%8B%E8%B3%87%E6%BA%90%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "貝塚市",
-          "name": "貝塚市立自然遊学館",
-          "type": "自然史",
-          "note": "9時～19時30分",
-          "official": "http://www.city.kaizuka.lg.jp/shizen/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B2%9D%E5%A1%9A%E5%B8%82%E7%AB%8B%E8%87%AA%E7%84%B6%E9%81%8A%E5%AD%A6%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E8%B2%9D%E5%A1%9A%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "全国自然博物館の旅〖70〗貝塚市立自然遊学館｜美原さつき",
-              "url": "https://note.com/satsukimihara/n/nceb0b5d14491"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.kaizuka.lg.jp/shizen/"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "伊丹市",
-          "name": "伊丹市昆虫館",
-          "type": "昆虫",
-          "note": "9時30分～16時30分。 火曜日休館。",
-          "official": "http://www.itakon.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E4%B8%B9%E5%B8%82%E6%98%86%E8%99%AB%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E4%BC%8A%E4%B8%B9%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖兵庫県伊丹市の遊び場〗昆陽池公園伊丹市昆虫館行ってきた！チョウの温室は子どものテンションをぶち上げる！！ - 育児と療育とOTと",
-              "url": "https://yotr.hatenablog.com/entry/2024/05/30/%E3%80%90%E5%85%B5%E5%BA%AB%E7%9C%8C%E4%BC%8A%E4%B8%B9%E5%B8%82%E3%81%AE%E9%81%8A%E3%81%B3%E5%A0%B4%E3%80%91%E6%98%86%E9%99%BD%E6%B1%A0%E5%85%AC%E5%9C%92%E4%BC%8A%E4%B8%B9%E5%B8%82%E6%98%86%E8%99%AB%E9%A4%A8"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.itakon.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%B8%B9%E5%B8%82%E6%98%86%E8%99%AB%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "姫路市",
-          "name": "姫路科学館",
-          "type": "科学館",
-          "note": "火曜日休館。",
-          "official": "http://www.city.himeji.lg.jp/atom/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A7%AB%E8%B7%AF%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%A7%AB%E8%B7%AF%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "姫路科学館へ行ってきました | 本好きに育てる",
-              "url": "https://maruyanblog.com/himeji"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.city.himeji.lg.jp/atom/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "豊岡市",
-          "name": "兵庫県立コウノトリの郷公園",
-          "type": "生態・保全",
-          "note": "",
-          "official": "https://satokouen.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%82%B3%E3%82%A6%E3%83%8E%E3%83%88%E3%83%AA%E3%81%AE%E9%83%B7%E5%85%AC%E5%9C%92%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%B1%8A%E5%B2%A1%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "兵庫県立コウノトリの郷公園 - sogensyookuのブログ",
-              "url": "https://sogensyooku.hatenablog.com/entry/2023/01/05/212940"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://satokouen.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%82%B3%E3%82%A6%E3%83%8E%E3%83%88%E3%83%AA%E3%81%AE%E9%83%B7%E5%85%AC%E5%9C%92"
-          }
-        },
-        {
-          "prefecture": "島根県",
-          "city": "出雲市",
-          "name": "出雲科学館",
-          "type": "科学館",
-          "note": "2002年竣工。",
-          "official": "https://www.izumo.ed.jp/kagaku/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BA%E9%9B%B2%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%87%BA%E9%9B%B2%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "出雲科学館に1人来館しました | こどもとおでかけ回顧録",
-              "url": "https://sana1126.blog.fc2.com/blog-entry-1341.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.izumo.ed.jp/kagaku/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%87%BA%E9%9B%B2%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "岡山県",
-          "city": "津山市",
-          "name": "つやま自然のふしぎ館",
-          "type": "自然史",
-          "note": "9:00～17:00。 月曜日休館。1963年開設。",
-          "official": "http://www.fushigikan.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A4%E3%82%84%E3%81%BE%E8%87%AA%E7%84%B6%E3%81%AE%E3%81%B5%E3%81%97%E3%81%8E%E9%A4%A8%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E6%B4%A5%E5%B1%B1%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "写真を飾ることのその先へ。写真集を持って、つやま自然のふしぎ館へ行って感じたこと｜Naoto Takazawa",
-              "url": "https://note.com/naototakazawa/n/nbfa5ba35e8d7"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.fushigikan.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%81%A4%E3%82%84%E3%81%BE%E8%87%AA%E7%84%B6%E3%81%AE%E3%81%B5%E3%81%97%E3%81%8E%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "広島県",
-          "city": "広島市",
-          "name": "広島市江波山気象館",
-          "type": "気象",
-          "note": "1934年竣工。",
-          "official": "http://www.ebayama.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "全国穴場スポット巡りIN広島・江波 広島湾を一望する江波山気象館 | ご当地巡りの旅",
-              "url": "https://gotouchisekai.com/eba-hiroshima/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.ebayama.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "広島県",
-          "city": "広島市",
-          "name": "広島市健康科学館",
-          "type": "人体・健康科学",
-          "note": "",
-          "official": "http://www.kenkou.city.hiroshima.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E5%81%A5%E5%BA%B7%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.kenkou.city.hiroshima.jp/"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "久留米市",
-          "name": "福岡県青少年科学館",
-          "type": "科学館",
-          "note": "1990年開館。",
-          "official": "http://www.science.pref.fukuoka.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖福岡県青少年科学館〗に行ってきましたⅠ　久留米の科学館 - 育児猫の育児日記",
-              "url": "https://www.ikujineko.com/entry/seishonenkagakukan"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.science.pref.fukuoka.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E7%9C%8C%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "北九州市",
-          "name": "北九州市科学館 スペースLABO",
-          "type": "科学館",
-          "note": "",
-          "official": "https://www.kitakyushuspacelabo.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9LABO%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖旅行〗北九州「スペースLABO」に行ってきました。サイエンスLABO編｜Kei*元図書館司書*男の子ママ",
-              "url": "https://note.com/kei_booklog/n/na7a4d17b4f21"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.kitakyushuspacelabo.jp/"
-          }
-        },
         {
           "prefecture": "東京都",
           "city": "葛飾区",
@@ -2205,27 +1270,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "青森県",
-          "city": "八戸市",
-          "name": "八戸市水産科学館マリエント",
-          "type": "海洋・水産",
-          "note": "",
-          "official": "",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%B8%82%E6%B0%B4%E7%94%A3%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%83%9E%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%85%AB%E6%88%B8%E5%B8%82",
-          "kind": "科学系施設",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖自意識旅行記 青森①〗　ウミネコネコネコ、マリエント｜斜め前",
-              "url": "https://note.com/nanamemae_/n/n0f522a9e012b"
-            }
-          ],
-          "extra": {
-            "参照": ""
-          }
-        },
-        {
           "prefecture": "東京都",
           "city": "港区",
           "name": "東京海洋大学マリンサイエンスミュージアム",
@@ -2244,143 +1288,6 @@ window.FACILITY_DATASET={
           ],
           "extra": {
             "参照": "公式サイト：https://www.s.kaiyodai.ac.jp/msm/index.html"
-          }
-        },
-        {
-          "prefecture": "北海道",
-          "city": "北見市",
-          "name": "北網圏北見文化センター",
-          "type": "科学館・児童科学館",
-          "note": "科学館・博物館・美術館・プラネタリウム複合施設 開館年：1984年。 月曜日休館。9:30〜16:30。",
-          "official": "https://hokumouken.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E7%B6%B2%E5%9C%8F%E5%8C%97%E8%A6%8B%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E8%A6%8B%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "北網圏北見文化センター　プラネタリウム祭り | 　十勝野機動部隊",
-              "url": "https://ameblo.jp/marbo555/entry-12318455219.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://hokumouken.com/"
-          }
-        },
-        {
-          "prefecture": "京都府",
-          "city": "京都市",
-          "name": "京都市青少年科学センター",
-          "type": "科学館・児童科学館",
-          "note": "1960年代開館の青少年科学センター 開館年：1969年。",
-          "official": "http://www.edu.city.kyoto.jp/science/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖京都〗京都市青少年科学センター3歳と行ってきた〖レビュー〗 | みつママ子育て奮闘記",
-              "url": "https://mitumama.net/sciencecenter-kyoto/"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.edu.city.kyoto.jp/science/"
-          }
-        },
-        {
-          "prefecture": "岐阜県",
-          "city": "岐阜市",
-          "name": "岐阜市科学館",
-          "type": "科学館・児童科学館",
-          "note": "前身は1955年。児童科学館の古い系譜 開館年：1980年。 月曜日休館。",
-          "official": "https://www.city.gifu.lg.jp/kankoubunka/kagakukan/index.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%B2%90%E9%98%9C%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "岐阜市科学館に行ってきた｜読書ナリ（dokushonary）",
-              "url": "https://note.com/dokushonary/n/nbacb707820ed"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.city.gifu.lg.jp/kankoubunka/kagakukan/index.html"
-          }
-        },
-        {
-          "prefecture": "兵庫県",
-          "city": "加古川市",
-          "name": "加古川総合文化センター",
-          "type": "文化センター・公共施設",
-          "note": "文化施設と科学・宇宙展示の複合 開館年：1985年。 月曜日休館。",
-          "official": "https://www.kakogawa-sougoubunka.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8A%A0%E5%8F%A4%E5%B7%9D%E7%B7%8F%E5%90%88%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.kakogawa-sougoubunka.jp/"
-          }
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "富田林市",
-          "name": "すばるホール",
-          "type": "文化センター・公共施設",
-          "note": "文化ホール＋プラネタリウム 開館年：1991年。",
-          "official": "http://subaruhall.org/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%B0%E3%82%8B%E3%83%9B%E3%83%BC%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%AF%8C%E7%94%B0%E6%9E%97%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "すばるホール（富田林市）の自習室に行ってきました。(2021年03月30日)｜キニナル",
-              "url": "https://note.com/kininaru_note/n/n400e16218f9a"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://subaruhall.org/"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "大牟田市",
-          "name": "大牟田文化会館",
-          "type": "文化センター・公共施設",
-          "note": "文化会館内プラネタリウム 開館年：1986年。9:00～22:00。 月曜日休館。",
-          "official": "https://omuta-bunka-kaikan.or.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%89%9F%E7%94%B0%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%A4%A7%E7%89%9F%E7%94%B0%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://omuta-bunka-kaikan.or.jp/"
-          }
-        },
-        {
-          "prefecture": "福岡県",
-          "city": "宗像市",
-          "name": "宗像ユリックス",
-          "type": "文化センター・公共施設",
-          "note": "平成初期の大型複合公共施設 開館年：1993年。",
-          "official": "https://yurix.munakata.com/index.php",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%97%E5%83%8F%E3%83%A6%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%AE%97%E5%83%8F%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "#21ゼロから公民連携にチャレンジ　レポ​〖宗像ユリックス視察〗公共施設リノベの最適解。「Mu-Mo」にみる、これからの全天候型こども広場の公民連携デザイン｜土木作業員からコンサルへ@鈴木戒",
-              "url": "https://note.com/fabconnect/n/n606b89bd423f"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://yurix.munakata.com/index.php"
           }
         },
         {
@@ -2405,27 +1312,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "大阪府",
-          "city": "大阪市",
-          "name": "大阪市立科学館",
-          "type": "科学館・児童科学館",
-          "note": "平成初期建築。改装あり 開館年：1989年。",
-          "official": "https://www.sci-museum.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
-          "kind": "リミナル科学館",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "ゆーあびるのどこまでやるの！: 大阪旅行⑩　大阪市立科学館",
-              "url": "https://saitouyuki.blogspot.com/2013/02/blog-post_2580.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.sci-museum.jp/"
-          }
-        },
-        {
           "prefecture": "東京都",
           "city": "江東区",
           "name": "東京都立第五福竜丸展示館",
@@ -2442,27 +1328,6 @@ window.FACILITY_DATASET={
           }
         },
         {
-          "prefecture": "茨城県",
-          "city": "つくば市",
-          "name": "地図と測量の科学館",
-          "type": "国土地理院・展示施設",
-          "note": "一般入館。",
-          "official": "http://www.gsi.go.jp/MUSEUM/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E5%9B%B3%E3%81%A8%E6%B8%AC%E9%87%8F%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
-          "kind": "見学可能な公的建築",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "〖茨城県〗国土地理院のB-65P - 用廃機ハンターが行く！",
-              "url": "https://wrecks.hatenablog.com/entry/2020/11/19/071303"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：http://www.gsi.go.jp/MUSEUM/\nWikipedia:https://ja.wikipedia.org/wiki/%E5%9C%B0%E5%9B%B3%E3%81%A8%E6%B8%AC%E9%87%8F%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8"
-          }
-        },
-        {
           "prefecture": "東京都",
           "city": "小平市",
           "name": "国立極地研究所 南極・北極科学館",
@@ -2476,6 +1341,214 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：http://www.nipr.ac.jp/science-museum"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "国立科学博物館",
+          "type": "総合科学",
+          "note": "自然史・科学技術の標本と研究成果を体系的に展示する国立の総合科学博物館。常設展と企画展を一般公開。",
+          "official": "https://www.kahaku.go.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "日本科学未来館",
+          "type": "総合科学",
+          "note": "科学技術を社会との関係から扱う国立研究開発法人の科学館。常設展示、ドームシアター、科学コミュニケーションを一般公開。",
+          "official": "https://www.miraikan.jst.go.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E7%A7%91%E5%AD%A6%E6%9C%AA%E6%9D%A5%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "港区立みなと科学館",
+          "type": "総合科学",
+          "note": "体験型展示、大型映像、実験・工作を通じて科学を学べる港区立の科学館。一般利用可能。",
+          "official": "https://minato-kagaku.tokyo/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%AF%E5%8C%BA%E7%AB%8B%E3%81%BF%E3%81%AA%E3%81%A8%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "板橋区",
+          "name": "板橋区立教育科学館",
+          "type": "総合科学",
+          "note": "体験型科学展示とプラネタリウム、教室・ワークショップを備え、科学を生涯学習として体験できる区立施設。",
+          "official": "https://www.itbs-sem.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%BF%E6%A9%8B%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "西東京市",
+          "name": "多摩六都科学館",
+          "type": "総合科学",
+          "note": "5市が共同運営する体験型科学館。大型プラネタリウムと展示室、観察・実験・工作を一般公開。",
+          "official": "https://tamarokuto.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%9A%E6%91%A9%E5%85%AD%E9%83%BD%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "八王子市",
+          "name": "コニカミノルタ サイエンスドーム（八王子市こども科学館）",
+          "type": "総合科学",
+          "note": "八王子市の常設科学館。科学展示とプラネタリウムを通じて子どもから一般まで科学を体験できる。",
+          "official": "https://www.city.hachioji.tokyo.jp/shisetsu/003/p011705.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%8B%E3%82%AB%E3%83%9F%E3%83%8E%E3%83%AB%E3%82%BF%20%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%89%E3%83%BC%E3%83%A0%EF%BC%88%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "TEPIA先端技術館",
+          "type": "先端技術",
+          "note": "ロボット、AI、先端ものづくりなどを体験型展示で紹介する技術館。予約制で一般見学を受け付ける。",
+          "official": "https://www.tepia.jp/exhibition",
+          "maps": "https://www.google.com/maps/search/?api=1&query=TEPIA%E5%85%88%E7%AB%AF%E6%8A%80%E8%A1%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "目黒区",
+          "name": "東京科学大学博物館",
+          "type": "大学研究",
+          "note": "東京科学大学と前身校の学術標本・資史料を収集保存し、研究と教育の成果を公開する大学博物館。開館予定を確認して見学できる。",
+          "official": "https://www.cent.titech.ac.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "東京理科大学 近代科学資料館",
+          "type": "大学研究",
+          "note": "東京理科大学の近代科学史資料と実物機器を収集展示する大学資料館。一般見学に対応。",
+          "official": "https://www.tus.ac.jp/info/setubi/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E7%90%86%E7%A7%91%E5%A4%A7%E5%AD%A6%20%E8%BF%91%E4%BB%A3%E7%A7%91%E5%AD%A6%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "東京理科大学 数学体験館",
+          "type": "大学研究",
+          "note": "数学の原理を模型や体験展示で学べる東京理科大学の公開施設。予約・開館情報を確認して一般利用できる。",
+          "official": "https://www.tus.ac.jp/mse/taikenkan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E7%90%86%E7%A7%91%E5%A4%A7%E5%AD%A6%20%E6%95%B0%E5%AD%A6%E4%BD%93%E9%A8%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "東京大学総合研究博物館",
+          "type": "大学研究",
+          "note": "東京大学の研究標本と学術資料を分野横断的に収集・研究・展示する大学博物館。企画展・常設展示を一般公開。",
+          "official": "https://www.um.u-tokyo.ac.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "目黒区",
+          "name": "東京大学駒場博物館",
+          "type": "大学研究",
+          "note": "東京大学教養学部・駒場の研究成果と学術資料を展示する大学博物館。企画展を一般公開。",
+          "official": "https://museum.c.u-tokyo.ac.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%A7%92%E5%A0%B4%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "インターメディアテク",
+          "type": "大学研究",
+          "note": "東京大学と日本郵便が運営する学術標本・研究資料の公開施設。自然史・文化史の標本を無料で一般公開。",
+          "official": "https://www.intermediatheque.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%86%E3%82%AF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
           }
         }
       ]
@@ -25323,6 +24396,1151 @@ window.FACILITY_DATASET={
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": []
+        }
+      ]
+    },
+    {
+      "id": "regional-science",
+      "number": 42,
+      "name": "地方の科学館",
+      "shortName": "地方の科学館",
+      "file": "地方の科学館.csv",
+      "count": 55,
+      "items": [
+        {
+          "prefecture": "埼玉県",
+          "city": "寄居町",
+          "name": "埼玉県立川の博物館",
+          "type": "河川・自然史",
+          "note": "巨大水車・河川展示。9:00～17:00。 月曜日休館。1997年開館。",
+          "official": "https://www.river-museum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%AB%8B%E5%B7%9D%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%AF%84%E5%B1%85%E7%94%BA",
+          "kind": "ドリームコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "埼玉県立川の博物館に行ってきた！ | みはたーぼ、のほほん日記",
+              "url": "https://ameblo.jp/mihata-bo/entry-12760135262.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.river-museum.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%AB%8B%E5%B7%9D%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "滋賀県",
+          "city": "草津市",
+          "name": "琵琶湖博物館",
+          "type": "水環境・総合博物館",
+          "note": "水環境展示。9時30分 - 17時00分。 月曜日休館。1996年竣工。",
+          "official": "https://www.biwahaku.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E8%8D%89%E6%B4%A5%E5%B8%82",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "『琵琶湖博物館』に行って、琵琶湖の世界を歩いてきた｜結城 弘 / 小説家・ライター",
+              "url": "https://note.com/hirosuke07/n/n4b1f6a49b969"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.biwahaku.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%90%B5%E7%90%B6%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "北九州市門司区",
+          "name": "海峡ドラマシップ",
+          "type": "港湾・歴史展示",
+          "note": "巨大屋内展示＋港湾。2003年開館。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E5%B3%A1%E3%83%89%E3%83%A9%E3%83%9E%E3%82%B7%E3%83%83%E3%83%97%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
+          "kind": "ドリームコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "福岡出張　～門司港レトロ　関門海峡ミュージアム～ - Girl's Be Ambitious",
+              "url": "https://girlsbe-ambitious.hatenablog.com/entry/2026/02/19/020000"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%B3%A1%E3%83%89%E3%83%A9%E3%83%9E%E3%82%B7%E3%83%83%E3%83%97"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "北九州市門司区",
+          "name": "関門海峡ミュージアム",
+          "type": "港湾・歴史展示",
+          "note": "港湾展示と大規模吹き抜け。9:00～17:00。2003年開館。",
+          "official": "https://mojiko-retoro9.jp/spot/kanmon_kaikyo_museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%96%A2%E9%96%80%E6%B5%B7%E5%B3%A1%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA",
+          "kind": "ドリームコア",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "福岡出張　～門司港レトロ　関門海峡ミュージアム～ - Girl's Be Ambitious",
+              "url": "https://girlsbe-ambitious.hatenablog.com/entry/2026/02/19/020000"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://mojiko-retoro9.jp/spot/kanmon_kaikyo_museum/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%96%A2%E9%96%80%E6%B5%B7%E5%B3%A1%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0"
+          }
+        },
+        {
+          "prefecture": "富山県",
+          "city": "立山町",
+          "name": "立山カルデラ砂防博物館",
+          "type": "防災・砂防",
+          "note": "砂防・山岳インフラ展示。",
+          "official": "http://www.tatecal.or.jp/tatecal/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%87%E3%83%A9%E7%A0%82%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E5%AF%8C%E5%B1%B1%E7%9C%8C%20%E7%AB%8B%E5%B1%B1%E7%94%BA",
+          "kind": "リミナル",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "大自然と人の「攻防と共存」の歴史！立山カルデラ砂防博物館に行ってみた｜Tadayoshi Kasai",
+              "url": "https://note.com/tadayoshi85/n/n1c69d5f5042f"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.tatecal.or.jp/tatecal/index.html\nWikipedia：https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B1%B1%E3%82%AB%E3%83%AB%E3%83%87%E3%83%A9%E7%A0%82%E9%98%B2%E5%8D%9A%E7%89%A9%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "千葉県",
+          "city": "柏市",
+          "name": "千葉大学環境健康フィールド科学センター",
+          "type": "研究・植物施設",
+          "note": "大学の研究・栽培施設としての雰囲気が中心。",
+          "official": "http://www.fc.chiba-u.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E5%A4%A7%E5%AD%A6%E7%92%B0%E5%A2%83%E5%81%A5%E5%BA%B7%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9F%8F%E5%B8%82%20%E5%8D%83%E8%91%89%E7%9C%8C%20%E6%97%A5%E6%9C%AC",
+          "kind": "植物園・温室",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「千葉大学 柏の葉キャンパス」構内の通り抜け通路を散策してきた : 柏の葉サイクルライフ",
+              "url": "https://kashiwanoha-cycle-life.blog.jp/archives/51840479.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.fc.chiba-u.jp/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市",
+          "name": "札幌市青少年科学館",
+          "type": "科学館",
+          "note": "9:00〜17:00。1981年開館。",
+          "official": "https://www.ssc.slp.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AD%E5%B9%8C%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%9C%AD%E5%B9%8C%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "札幌市青少年科学館（札幌市公式案内）",
+              "url": "https://www.city.sapporo.jp/kyoiku/shogaikyoiku/kagaku_ibento.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.ssc.slp.or.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "旭川市",
+          "name": "旭川市科学館 サイパル",
+          "type": "科学館",
+          "note": "9:30～17:00。2005年竣工。",
+          "official": "http://www.city.asahikawa.hokkaido.jp/science/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%AD%E5%B7%9D%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%B5%E3%82%A4%E3%83%91%E3%83%AB%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%97%AD%E5%B7%9D%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旭川市科学館サイパル - ふうと旅行とたべあるく。",
+              "url": "https://fuand.hatenablog.com/entry/2025/09/13/213142"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.city.asahikawa.hokkaido.jp/science/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%97%AD%E5%B7%9D%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8_%E3%82%B5%E3%82%A4%E3%83%91%E3%83%AB"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "苫小牧市",
+          "name": "苫小牧市科学センター",
+          "type": "科学館",
+          "note": "9時30分～17時。1970年竣工。",
+          "official": "https://www.city.tomakomai.hokkaido.jp/kagaku/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖北海道〗苫小牧市科学センターの展示機 - 用廃機ハンターが行く！",
+              "url": "https://wrecks.hatenablog.com/entry/2022/07/30/201505"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.city.tomakomai.hokkaido.jp/kagaku/\nWikipedia：https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "室蘭市",
+          "name": "DENZAI環境科学館",
+          "type": "科学・環境",
+          "note": "10:00～17:00。 月曜日休館。2021年開館。",
+          "official": "https://www.kujiran.net/emiran/kagakukan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=DENZAI%E7%92%B0%E5%A2%83%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%AE%A4%E8%98%AD%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖室蘭市〗えみらんDENZAI環境科学館に行ってきたよ　その1　2026.4.12 - 風月を友とする",
+              "url": "https://kazetotuki.hatenadiary.com/entry/2026/05/10/000000"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.kujiran.net/emiran/kagakukan/\nWikipedia：https://ja.wikipedia.org/wiki/DENZAI%E7%92%B0%E5%A2%83%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "苫小牧市",
+          "name": "ウトナイ湖サンクチュアリ ネイチャーセンター",
+          "type": "自然観察",
+          "note": "",
+          "official": "https://utonai-nc.sakura.ne.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A6%E3%83%88%E3%83%8A%E3%82%A4%E6%B9%96%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AA%20%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "厳冬のウトナイ湖サンクチュアリを歩く｜湖は氷結してました | にこみいるのQOL同好会",
+              "url": "https://nicomyl.com/utnai-sanctuary/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://utonai-nc.sakura.ne.jp/"
+          }
+        },
+        {
+          "prefecture": "青森県",
+          "city": "青森市",
+          "name": "青森県立三沢航空科学館",
+          "type": "航空・科学",
+          "note": "9:00〜17:00",
+          "official": "https://kokukagaku.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%E7%AB%8B%E4%B8%89%E6%B2%A2%E8%88%AA%E7%A9%BA%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E9%9D%92%E6%A3%AE%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "青森県立三沢航空科学館 その1｜光と風のアルバム",
+              "url": "https://note.com/hk_photo/n/nc731c5ae0eb6"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://kokukagaku.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E7%9C%8C%E7%AB%8B%E4%B8%89%E6%B2%A2%E8%88%AA%E7%A9%BA%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "青森県",
+          "city": "むつ市",
+          "name": "むつ科学技術館",
+          "type": "科学・エネルギー",
+          "note": "1996年開館。",
+          "official": "https://msm720.jaea.go.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%80%E3%81%A4%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E9%A4%A8%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E3%82%80%E3%81%A4%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "Digital Artworks TeeART Blog. 青森県にあるむつ科学技術館を見に行ってきた",
+              "url": "https://teeart.blog107.fc2.com/blog-entry-798.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://msm720.jaea.go.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%82%80%E3%81%A4%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "秋田県",
+          "city": "大仙市",
+          "name": "秋田県立農業科学館",
+          "type": "農業科学",
+          "note": "月曜日休館。9:30〜16:30。",
+          "official": "https://www.obako.or.jp/sun-agrin/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%E7%AB%8B%E8%BE%B2%E6%A5%AD%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A7%8B%E7%94%B0%E7%9C%8C%20%E5%A4%A7%E4%BB%99%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "秋田県立農業科学館 大仙市 | 総合旅行業務取扱管理者のブログ - 楽天ブログ",
+              "url": "https://plaza.rakuten.co.jp/shin728/diary/202405010000/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.obako.or.jp/sun-agrin/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E7%9C%8C%E7%AB%8B%E8%BE%B2%E6%A5%AD%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "宮城県",
+          "city": "仙台市",
+          "name": "HOKUSHU仙台市科学館",
+          "type": "科学館",
+          "note": "9時〜16時45分。 月曜日休館。",
+          "official": "http://www.kagakukan.sendai-c.ed.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=HOKUSHU%E4%BB%99%E5%8F%B0%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖宮城県〗仙台市科学館の展示機 - 用廃機ハンターが行く！",
+              "url": "https://wrecks.hatenablog.com/entry/2026/04/07/120215"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.kagakukan.sendai-c.ed.jp/"
+          }
+        },
+        {
+          "prefecture": "福島県",
+          "city": "いわき市",
+          "name": "いわき市石炭・化石館 ほるる",
+          "type": "化石・鉱業",
+          "note": "",
+          "official": "https://www.sekitankasekikan.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%E7%9F%B3%E7%82%AD%E3%83%BB%E5%8C%96%E7%9F%B3%E9%A4%A8%20%E3%81%BB%E3%82%8B%E3%82%8B%20%E7%A6%8F%E5%B3%B6%E7%9C%8C%20%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "日本で最も有名な化石と全国有数の炭鉱の歴史を今に語る〖いわき市石炭・化石館 ほるる〗 - ぽてとのまったりぶらり旅　冬の章",
+              "url": "https://mattari-hokuriku.fc2.net/blog-entry-1879.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.sekitankasekikan.or.jp/"
+          }
+        },
+        {
+          "prefecture": "茨城県",
+          "city": "つくば市",
+          "name": "地質標本館",
+          "type": "地質",
+          "note": "9:30～16:30。 月曜日休館。",
+          "official": "http://www.gsj.jp/Muse/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E8%B3%AA%E6%A8%99%E6%9C%AC%E9%A4%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "地質標本館「地球なんでも相談」体験記｜てるめぐる🔨💎",
+              "url": "https://note.com/terumeguru/n/n3566b2c2ecca"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.gsj.jp/Muse/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%B3%AA%E6%A8%99%E6%9C%AC%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "茨城県",
+          "city": "つくば市",
+          "name": "つくばエキスポセンター",
+          "type": "科学館",
+          "note": "月曜日休館。1985年竣工。",
+          "official": "http://www.expocenter.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A4%E3%81%8F%E3%81%B0%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%9D%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "つくばエキスポセンター｜科学技術週間2025｜町田 奈桜",
+              "url": "https://note.com/now2000/n/n6b0df2f61448"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.expocenter.or.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%8F%E3%81%B0%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%9D%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+          }
+        },
+        {
+          "prefecture": "茨城県",
+          "city": "大洗町",
+          "name": "大洗わくわく科学館",
+          "type": "科学館",
+          "note": "",
+          "official": "https://www.jaea.go.jp/09/wakuwaku/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%B4%97%E3%82%8F%E3%81%8F%E3%82%8F%E3%81%8F%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E5%A4%A7%E6%B4%97%E7%94%BA",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "《茨城大洗町》楽しく体験する科学!!大洗わくわく科学館 - エリエット～ささやかな〇〇っ",
+              "url": "https://smile.hatenablog.com/entry/2025/04/26/192340"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.jaea.go.jp/09/wakuwaku/"
+          }
+        },
+        {
+          "prefecture": "茨城県",
+          "city": "日立市",
+          "name": "日立シビックセンター科学館サクリエ",
+          "type": "科学館",
+          "note": "月曜日休館。",
+          "official": "http://www.civic.jp/science/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E7%AB%8B%E3%82%B7%E3%83%93%E3%83%83%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%82%B5%E3%82%AF%E3%83%AA%E3%82%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E6%97%A5%E7%AB%8B%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "日立シビックセンター科学館「サクリエ」リニューアルオープン in 茨城県日立市",
+              "url": "https://satochannel.com/civic-science-hitachi/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.civic.jp/science/"
+          }
+        },
+        {
+          "prefecture": "群馬県",
+          "city": "下仁田町",
+          "name": "下仁田町自然史館",
+          "type": "地質・自然史",
+          "note": "９:００～１６:３０",
+          "official": "http://www.shimonita-geopark.jp/shizenshikan/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8B%E4%BB%81%E7%94%B0%E7%94%BA%E8%87%AA%E7%84%B6%E5%8F%B2%E9%A4%A8%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%20%E4%B8%8B%E4%BB%81%E7%94%B0%E7%94%BA",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "下仁田へ行ってきた（その３） - Peepooblue’s Sketchbook",
+              "url": "https://peepooblue.hatenablog.com/entry/2024/10/27/235029"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.shimonita-geopark.jp/shizenshikan/index.html"
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "川口市",
+          "name": "川口市立科学館",
+          "type": "科学館",
+          "note": "火曜日休館。",
+          "official": "http://www.kawaguchi.science.museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E5%B7%9D%E5%8F%A3%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "遊びながら学べる川口市立科学館に行ってみた。子どもが夢中になる実験装置にプラネタリウムと盛り沢山♪ | さいたま市、埼玉県南部の地域情報サイト 〖リプロ マヴィ〗",
+              "url": "https://www.lipro-mavie.com/202311-kawaguchikagakukan/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.kawaguchi.science.museum/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%8F%A3%E5%B8%82%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "埼玉県",
+          "city": "越谷市",
+          "name": "越谷市科学技術体験センター ミラクル",
+          "type": "科学館",
+          "note": "",
+          "official": "https://www.city.koshigaya.saitama.jp/gigakoshigaya/miracle/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B6%8A%E8%B0%B7%E5%B8%82%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E4%BD%93%E9%A8%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E8%B6%8A%E8%B0%B7%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "夏休みの出費を抑えたい親必見！無料〜数十円で一日遊べる越谷の体験型〖F P１級ワーママのつぶやき／日々の気づき編〗｜家計を整える・はまぐりポケット",
+              "url": "https://note.com/poem565/n/n5ac1215e6019"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.city.koshigaya.saitama.jp/gigakoshigaya/miracle/"
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "新潟市",
+          "name": "新潟県立自然科学館",
+          "type": "科学・自然史",
+          "note": "9:30～16:30",
+          "official": "https://www.sciencemuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E6%96%B0%E6%BD%9F%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "新潟県立自然科学館の訪問記",
+              "url": "https://ameblo.jp/madomoy3/entry-12887043610.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.sciencemuseum.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "新潟県",
+          "city": "十日町市",
+          "name": "十日町市立里山科学館 越後松之山「森の学校」キョロロ",
+          "type": "生態・自然",
+          "note": "火曜日休館。",
+          "official": "https://www.matsunoyama.com/kyororo/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82%E7%AB%8B%E9%87%8C%E5%B1%B1%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E8%B6%8A%E5%BE%8C%E6%9D%BE%E4%B9%8B%E5%B1%B1%E3%80%8C%E6%A3%AE%E3%81%AE%E5%AD%A6%E6%A0%A1%E3%80%8D%E3%82%AD%E3%83%A7%E3%83%AD%E3%83%AD%20%E6%96%B0%E6%BD%9F%E7%9C%8C%20%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "越後松之山「森の学校」キョロロ　手塚貴晴＋手塚由比｜新潟県の有名建築｜住宅/ビル/マンション設計者の建もの探訪",
+              "url": "https://www.naokikataoka.com/2017/08/31/kyororo/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.matsunoyama.com/kyororo/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82%E7%AB%8B%E9%87%8C%E5%B1%B1%E7%A7%91%E5%AD%A6%E9%A4%A8_%E8%B6%8A%E5%BE%8C%E6%9D%BE%E4%B9%8B%E5%B1%B1%E3%80%8C%E6%A3%AE%E3%81%AE%E5%AD%A6%E6%A0%A1%E3%80%8D%E3%82%AD%E3%83%A7%E3%83%AD%E3%83%AD"
+          }
+        },
+        {
+          "prefecture": "石川県",
+          "city": "能美市",
+          "name": "いしかわ動物園 動物学習センター",
+          "type": "生物",
+          "note": "",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%97%E3%81%8B%E3%82%8F%E5%8B%95%E7%89%A9%E5%9C%92%20%E5%8B%95%E7%89%A9%E5%AD%A6%E7%BF%92%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E8%83%BD%E7%BE%8E%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "石川県",
+          "city": "小松市",
+          "name": "サイエンスヒルズこまつ",
+          "type": "科学館",
+          "note": "9:30～18:00。 月曜日休館。",
+          "official": "http://science-hills-komatsu.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%92%E3%83%AB%E3%82%BA%E3%81%93%E3%81%BE%E3%81%A4%20%E7%9F%B3%E5%B7%9D%E7%9C%8C%20%E5%B0%8F%E6%9D%BE%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "建築さがし-サイエンスヒルズこまつ-｜Koki Takahashi / 建築家 / 創造家",
+              "url": "https://note.com/koki_takahashi/n/n449caf8ece82"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://science-hills-komatsu.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%92%E3%83%AB%E3%82%BA%E3%81%93%E3%81%BE%E3%81%A4"
+          }
+        },
+        {
+          "prefecture": "福井県",
+          "city": "大野市",
+          "name": "福井県自然保護センター",
+          "type": "自然・天文",
+          "note": "9:00〜17:00",
+          "official": "https://fncc.pref.fukui.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%E8%87%AA%E7%84%B6%E4%BF%9D%E8%AD%B7%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E7%A6%8F%E4%BA%95%E7%9C%8C%20%E5%A4%A7%E9%87%8E%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "熱く！ 福井県自然保護センター",
+              "url": "https://bobykent.blog.fc2.com/blog-entry-412.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://fncc.pref.fukui.lg.jp/"
+          }
+        },
+        {
+          "prefecture": "山梨県",
+          "city": "甲府市",
+          "name": "山梨県立科学館",
+          "type": "科学館",
+          "note": "9時30分～17時。 月曜日休館。1998年竣工。",
+          "official": "https://www.kagakukan.pref.yamanashi.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%20%E7%94%B2%E5%BA%9C%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "アスレチック的な面白科学館「山梨県立科学館」を歩く : 帝都を歩く",
+              "url": "https://teitowalk.blog.jp/archives/87252459.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.kagakukan.pref.yamanashi.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "長野県",
+          "city": "木曽町",
+          "name": "御嶽山ビジターセンター さとテラス三岳",
+          "type": "火山・自然",
+          "note": "9:00～16:00。 月曜休館。",
+          "official": "https://ontake-vc.jp/sato/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BE%A1%E5%B6%BD%E5%B1%B1%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%81%95%E3%81%A8%E3%83%86%E3%83%A9%E3%82%B9%E4%B8%89%E5%B2%B3%20%E9%95%B7%E9%87%8E%E7%9C%8C%20%E6%9C%A8%E6%9B%BD%E7%94%BA",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "『木曽町 御嶽山ビジターセンター さとテラス三岳』｜佐藤プリン",
+              "url": "https://note.com/fair_wren1304/n/n83aefd9e5df3"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://ontake-vc.jp/sato/"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "静岡市",
+          "name": "静岡科学館る・く・る",
+          "type": "科学館",
+          "note": "9:30～17:00",
+          "official": "https://www.rukuru.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%82%8B%E3%83%BB%E3%81%8F%E3%83%BB%E3%82%8B%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E9%9D%99%E5%B2%A1%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "静岡科学館る・く・るを訪ねる｜静岡新聞アットエス",
+              "url": "https://www.at-s.com/life/article/ats/1613278.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.rukuru.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%82%8B%E3%83%BB%E3%81%8F%E3%83%BB%E3%82%8B"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "浜松市",
+          "name": "浜松科学館",
+          "type": "科学館",
+          "note": "1986年竣工。",
+          "official": "https://www.mirai-ra.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%9C%E6%9D%BE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%B5%9C%E6%9D%BE%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖グル録〗みらいーらカフェ(浜松科学館内) | ミチコのブログ",
+              "url": "https://ameblo.jp/michikoburogu/entry-12867145302.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.mirai-ra.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%B5%9C%E6%9D%BE%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "静岡県",
+          "city": "東伊豆町",
+          "name": "熱川バナナワニ園",
+          "type": "生物・植物",
+          "note": "",
+          "official": "http://bananawani.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%86%B1%E5%B7%9D%E3%83%90%E3%83%8A%E3%83%8A%E3%83%AF%E3%83%8B%E5%9C%92%20%E9%9D%99%E5%B2%A1%E7%9C%8C%20%E6%9D%B1%E4%BC%8A%E8%B1%86%E7%94%BA",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "ワニやレッサーパンダがいる「熱川バナナワニ園」に行ってみた！所要時間やアクセス方法などを紹介 | いつおで",
+              "url": "https://itsuode.com/bananawani/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://bananawani.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%86%B1%E5%B7%9D%E3%83%90%E3%83%8A%E3%83%8A%E3%83%AF%E3%83%8B%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "蒲郡市",
+          "name": "蒲郡市生命の海科学館",
+          "type": "地球科学",
+          "note": "火曜日休館。",
+          "official": "http://www.city.gamagori.lg.jp/site/kagakukan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%92%B2%E9%83%A1%E5%B8%82%E7%94%9F%E5%91%BD%E3%81%AE%E6%B5%B7%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%92%B2%E9%83%A1%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖自然探訪〗蒲郡市生命の海科学館：物質と生命の進化を実物標本で実感した｜Lama Lama",
+              "url": "https://note.com/lama_lama/n/n8ef4b1ce06a5"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.city.gamagori.lg.jp/site/kagakukan/\nWikipedia：https://ja.wikipedia.org/wiki/%E8%92%B2%E9%83%A1%E5%B8%82%E7%94%9F%E5%91%BD%E3%81%AE%E6%B5%B7%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "豊橋市",
+          "name": "豊橋市地下資源館",
+          "type": "資源・地質",
+          "note": "1980年開館。",
+          "official": "https://www.toyohaku.gr.jp/chika/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E6%A9%8B%E5%B8%82%E5%9C%B0%E4%B8%8B%E8%B3%87%E6%BA%90%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%20%E8%B1%8A%E6%A9%8B%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "科学館レビュー１６：豊橋市地下資源館（愛知県豊橋市）｜ぬばたま みどり＠化学系VTuber",
+              "url": "https://note.com/midori_nubatama/n/n78354f6852a6"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.toyohaku.gr.jp/chika/\nWikipedia：https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%A9%8B%E5%B8%82%E5%9C%B0%E4%B8%8B%E8%B3%87%E6%BA%90%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "貝塚市",
+          "name": "貝塚市立自然遊学館",
+          "type": "自然史",
+          "note": "9時～19時30分",
+          "official": "http://www.city.kaizuka.lg.jp/shizen/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B2%9D%E5%A1%9A%E5%B8%82%E7%AB%8B%E8%87%AA%E7%84%B6%E9%81%8A%E5%AD%A6%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E8%B2%9D%E5%A1%9A%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "全国自然博物館の旅〖70〗貝塚市立自然遊学館｜美原さつき",
+              "url": "https://note.com/satsukimihara/n/nceb0b5d14491"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.city.kaizuka.lg.jp/shizen/"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "伊丹市",
+          "name": "伊丹市昆虫館",
+          "type": "昆虫",
+          "note": "9時30分～16時30分。 火曜日休館。",
+          "official": "http://www.itakon.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BC%8A%E4%B8%B9%E5%B8%82%E6%98%86%E8%99%AB%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E4%BC%8A%E4%B8%B9%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖兵庫県伊丹市の遊び場〗昆陽池公園伊丹市昆虫館行ってきた！チョウの温室は子どものテンションをぶち上げる！！ - 育児と療育とOTと",
+              "url": "https://yotr.hatenablog.com/entry/2024/05/30/%E3%80%90%E5%85%B5%E5%BA%AB%E7%9C%8C%E4%BC%8A%E4%B8%B9%E5%B8%82%E3%81%AE%E9%81%8A%E3%81%B3%E5%A0%B4%E3%80%91%E6%98%86%E9%99%BD%E6%B1%A0%E5%85%AC%E5%9C%92%E4%BC%8A%E4%B8%B9%E5%B8%82%E6%98%86%E8%99%AB%E9%A4%A8"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.itakon.com/\nWikipedia：https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%B8%B9%E5%B8%82%E6%98%86%E8%99%AB%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "姫路市",
+          "name": "姫路科学館",
+          "type": "科学館",
+          "note": "火曜日休館。",
+          "official": "http://www.city.himeji.lg.jp/atom/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A7%AB%E8%B7%AF%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%A7%AB%E8%B7%AF%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "姫路科学館へ行ってきました | 本好きに育てる",
+              "url": "https://maruyanblog.com/himeji"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.city.himeji.lg.jp/atom/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "豊岡市",
+          "name": "兵庫県立コウノトリの郷公園",
+          "type": "生態・保全",
+          "note": "",
+          "official": "https://satokouen.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%82%B3%E3%82%A6%E3%83%8E%E3%83%88%E3%83%AA%E3%81%AE%E9%83%B7%E5%85%AC%E5%9C%92%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%B1%8A%E5%B2%A1%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "兵庫県立コウノトリの郷公園 - sogensyookuのブログ",
+              "url": "https://sogensyooku.hatenablog.com/entry/2023/01/05/212940"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://satokouen.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%82%B3%E3%82%A6%E3%83%8E%E3%83%88%E3%83%AA%E3%81%AE%E9%83%B7%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "島根県",
+          "city": "出雲市",
+          "name": "出雲科学館",
+          "type": "科学館",
+          "note": "2002年竣工。",
+          "official": "https://www.izumo.ed.jp/kagaku/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%87%BA%E9%9B%B2%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%20%E5%87%BA%E9%9B%B2%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "出雲科学館に1人来館しました | こどもとおでかけ回顧録",
+              "url": "https://sana1126.blog.fc2.com/blog-entry-1341.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.izumo.ed.jp/kagaku/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%87%BA%E9%9B%B2%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "岡山県",
+          "city": "津山市",
+          "name": "つやま自然のふしぎ館",
+          "type": "自然史",
+          "note": "9:00～17:00。 月曜日休館。1963年開設。",
+          "official": "http://www.fushigikan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%A4%E3%82%84%E3%81%BE%E8%87%AA%E7%84%B6%E3%81%AE%E3%81%B5%E3%81%97%E3%81%8E%E9%A4%A8%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%20%E6%B4%A5%E5%B1%B1%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "写真を飾ることのその先へ。写真集を持って、つやま自然のふしぎ館へ行って感じたこと｜Naoto Takazawa",
+              "url": "https://note.com/naototakazawa/n/nbfa5ba35e8d7"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.fushigikan.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E3%81%A4%E3%82%84%E3%81%BE%E8%87%AA%E7%84%B6%E3%81%AE%E3%81%B5%E3%81%97%E3%81%8E%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市",
+          "name": "広島市江波山気象館",
+          "type": "気象",
+          "note": "1934年竣工。",
+          "official": "http://www.ebayama.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "全国穴場スポット巡りIN広島・江波 広島湾を一望する江波山気象館 | ご当地巡りの旅",
+              "url": "https://gotouchisekai.com/eba-hiroshima/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.ebayama.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%B8%82%E6%B1%9F%E6%B3%A2%E5%B1%B1%E6%B0%97%E8%B1%A1%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "広島県",
+          "city": "広島市",
+          "name": "広島市健康科学館",
+          "type": "人体・健康科学",
+          "note": "",
+          "official": "http://www.kenkou.city.hiroshima.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E5%B8%82%E5%81%A5%E5%BA%B7%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.kenkou.city.hiroshima.jp/"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "久留米市",
+          "name": "福岡県青少年科学館",
+          "type": "科学館",
+          "note": "1990年開館。",
+          "official": "http://www.science.pref.fukuoka.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖福岡県青少年科学館〗に行ってきましたⅠ　久留米の科学館 - 育児猫の育児日記",
+              "url": "https://www.ikujineko.com/entry/seishonenkagakukan"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.science.pref.fukuoka.jp/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E7%9C%8C%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "北九州市",
+          "name": "北九州市科学館 スペースLABO",
+          "type": "科学館",
+          "note": "",
+          "official": "https://www.kitakyushuspacelabo.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9LABO%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖旅行〗北九州「スペースLABO」に行ってきました。サイエンスLABO編｜Kei*元図書館司書*男の子ママ",
+              "url": "https://note.com/kei_booklog/n/na7a4d17b4f21"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.kitakyushuspacelabo.jp/"
+          }
+        },
+        {
+          "prefecture": "青森県",
+          "city": "八戸市",
+          "name": "八戸市水産科学館マリエント",
+          "type": "海洋・水産",
+          "note": "",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%B8%82%E6%B0%B4%E7%94%A3%E7%A7%91%E5%AD%A6%E9%A4%A8%E3%83%9E%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%20%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E5%85%AB%E6%88%B8%E5%B8%82",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖自意識旅行記 青森①〗　ウミネコネコネコ、マリエント｜斜め前",
+              "url": "https://note.com/nanamemae_/n/n0f522a9e012b"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "北見市",
+          "name": "北網圏北見文化センター",
+          "type": "科学館・児童科学館",
+          "note": "科学館・博物館・美術館・プラネタリウム複合施設 開館年：1984年。 月曜日休館。9:30〜16:30。",
+          "official": "https://hokumouken.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E7%B6%B2%E5%9C%8F%E5%8C%97%E8%A6%8B%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%8C%97%E6%B5%B7%E9%81%93%20%E5%8C%97%E8%A6%8B%E5%B8%82",
+          "kind": "リミナル科学館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "北網圏北見文化センター　プラネタリウム祭り | 　十勝野機動部隊",
+              "url": "https://ameblo.jp/marbo555/entry-12318455219.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://hokumouken.com/"
+          }
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市",
+          "name": "京都市青少年科学センター",
+          "type": "科学館・児童科学館",
+          "note": "1960年代開館の青少年科学センター 開館年：1969年。",
+          "official": "http://www.edu.city.kyoto.jp/science/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%20%E4%BA%AC%E9%83%BD%E5%B8%82",
+          "kind": "リミナル科学館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖京都〗京都市青少年科学センター3歳と行ってきた〖レビュー〗 | みつママ子育て奮闘記",
+              "url": "https://mitumama.net/sciencecenter-kyoto/"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.edu.city.kyoto.jp/science/"
+          }
+        },
+        {
+          "prefecture": "岐阜県",
+          "city": "岐阜市",
+          "name": "岐阜市科学館",
+          "type": "科学館・児童科学館",
+          "note": "前身は1955年。児童科学館の古い系譜 開館年：1980年。 月曜日休館。",
+          "official": "https://www.city.gifu.lg.jp/kankoubunka/kagakukan/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%90%E9%98%9C%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%B2%90%E9%98%9C%E7%9C%8C%20%E5%B2%90%E9%98%9C%E5%B8%82",
+          "kind": "リミナル科学館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "岐阜市科学館に行ってきた｜読書ナリ（dokushonary）",
+              "url": "https://note.com/dokushonary/n/nbacb707820ed"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.city.gifu.lg.jp/kankoubunka/kagakukan/index.html"
+          }
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "加古川市",
+          "name": "加古川総合文化センター",
+          "type": "文化センター・公共施設",
+          "note": "文化施設と科学・宇宙展示の複合 開館年：1985年。 月曜日休館。",
+          "official": "https://www.kakogawa-sougoubunka.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8A%A0%E5%8F%A4%E5%B7%9D%E7%B7%8F%E5%90%88%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%B8%82",
+          "kind": "リミナル科学館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.kakogawa-sougoubunka.jp/"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "富田林市",
+          "name": "すばるホール",
+          "type": "文化センター・公共施設",
+          "note": "文化ホール＋プラネタリウム 開館年：1991年。",
+          "official": "http://subaruhall.org/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%B0%E3%82%8B%E3%83%9B%E3%83%BC%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%AF%8C%E7%94%B0%E6%9E%97%E5%B8%82",
+          "kind": "リミナル科学館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "すばるホール（富田林市）の自習室に行ってきました。(2021年03月30日)｜キニナル",
+              "url": "https://note.com/kininaru_note/n/n400e16218f9a"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://subaruhall.org/"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "大牟田市",
+          "name": "大牟田文化会館",
+          "type": "文化センター・公共施設",
+          "note": "文化会館内プラネタリウム 開館年：1986年。9:00～22:00。 月曜日休館。",
+          "official": "https://omuta-bunka-kaikan.or.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%89%9F%E7%94%B0%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%A4%A7%E7%89%9F%E7%94%B0%E5%B8%82",
+          "kind": "リミナル科学館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://omuta-bunka-kaikan.or.jp/"
+          }
+        },
+        {
+          "prefecture": "福岡県",
+          "city": "宗像市",
+          "name": "宗像ユリックス",
+          "type": "文化センター・公共施設",
+          "note": "平成初期の大型複合公共施設 開館年：1993年。",
+          "official": "https://yurix.munakata.com/index.php",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%97%E5%83%8F%E3%83%A6%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%20%E5%AE%97%E5%83%8F%E5%B8%82",
+          "kind": "リミナル科学館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "#21ゼロから公民連携にチャレンジ　レポ​〖宗像ユリックス視察〗公共施設リノベの最適解。「Mu-Mo」にみる、これからの全天候型こども広場の公民連携デザイン｜土木作業員からコンサルへ@鈴木戒",
+              "url": "https://note.com/fabconnect/n/n606b89bd423f"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://yurix.munakata.com/index.php"
+          }
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市",
+          "name": "大阪市立科学館",
+          "type": "科学館・児童科学館",
+          "note": "平成初期建築。改装あり 開館年：1989年。",
+          "official": "https://www.sci-museum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "kind": "リミナル科学館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "ゆーあびるのどこまでやるの！: 大阪旅行⑩　大阪市立科学館",
+              "url": "https://saitouyuki.blogspot.com/2013/02/blog-post_2580.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.sci-museum.jp/"
+          }
+        },
+        {
+          "prefecture": "茨城県",
+          "city": "つくば市",
+          "name": "地図と測量の科学館",
+          "type": "国土地理院・展示施設",
+          "note": "一般入館。",
+          "official": "http://www.gsi.go.jp/MUSEUM/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E5%9B%B3%E3%81%A8%E6%B8%AC%E9%87%8F%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%20%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
+          "kind": "見学可能な公的建築",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "〖茨城県〗国土地理院のB-65P - 用廃機ハンターが行く！",
+              "url": "https://wrecks.hatenablog.com/entry/2020/11/19/071303"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：http://www.gsi.go.jp/MUSEUM/\nWikipedia:https://ja.wikipedia.org/wiki/%E5%9C%B0%E5%9B%B3%E3%81%A8%E6%B8%AC%E9%87%8F%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8"
+          }
         }
       ]
     }

@@ -6,10 +6,10 @@
     "short": "植物園"
   },
   {
-    "file": "科学館.csv",
+    "file": "東京の科学館.csv",
     "id": "science",
     "number": 2,
-    "short": "科学館"
+    "short": "東京の科学館"
   },
   {
     "file": "社会科見学施設.csv",
@@ -220,5 +220,11 @@
     "file": "名建築で昼食を.csv",
     "id": "csv-c51fcc5dbc6c5cb6c2d4",
     "number": 41
+  },
+  {
+    "file": "地方の科学館.csv",
+    "id": "regional-science",
+    "number": 42,
+    "short": "地方の科学館"
   }
 ]
