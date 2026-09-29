@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 37,
-  "total": 1406,
+  "materialCount": 38,
+  "total": 1408,
   "materials": [
     {
       "id": "botanical",
@@ -20582,7 +20582,7 @@ window.FACILITY_DATASET={
       "name": "用途転換された歴史的建築",
       "shortName": "用途転換された歴史的建築",
       "file": "用途転換された歴史的建築.csv",
-      "count": 72,
+      "count": 73,
       "items": [
         {
           "prefecture": "神奈川県",
@@ -21631,6 +21631,32 @@ window.FACILITY_DATASET={
             {
               "title": "JPタワー（大成建設設計本部）",
               "url": "https://www.taisei-design.jp/de/feature/conservation/works/works_detail_12.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "国立国会図書館 国際子ども図書館",
+          "type": "児童書専門図書館／旧帝国図書館建築の保存活用",
+          "note": "国内外の児童書と関連資料を収集・保存・提供する国立の児童書専門図書館。1906年に帝国図書館として建てられた建物を保存・再利用し、児童書の閲覧や子どもの読書・調べものを支援している。",
+          "official": "https://www.kodomo.go.jp/about/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=国際子ども図書館+東京都台東区上野公園12-49",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "帝国図書館の歴史",
+              "url": "https://www.kodomo.go.jp/about/building/history/imperial"
+            },
+            {
+              "title": "建物の歴史",
+              "url": "https://www.kodomo.go.jp/about/building/history"
+            },
+            {
+              "title": "国際子ども図書館 来館案内",
+              "url": "https://www.kodomo.go.jp/use/access"
             }
           ]
         }
@@ -24535,6 +24561,42 @@ window.FACILITY_DATASET={
             {
               "title": "東大阪市立児童文化スポーツセンター　ドリーム21（東大阪市松原南） 〖ぎゃるまま日記／ギャルママ日記（関西グルメ情報&おでかけ情報）〗",
               "url": "https://galmama.net/blog-entry-2663.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "csv-2d4e6f8091ab3c5d7e0f",
+      "number": 38,
+      "name": "こどものための施設",
+      "shortName": "こどものための施設",
+      "file": "こどものための施設.csv",
+      "count": 1,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "国立国会図書館 国際子ども図書館",
+          "type": "児童書専門図書館／旧帝国図書館建築の保存活用",
+          "note": "国内外の児童書と関連資料を収集・保存・提供する国立の児童書専門図書館。1906年に帝国図書館として建てられた建物を保存・再利用し、児童書の閲覧や子どもの読書・調べものを支援している。",
+          "official": "https://www.kodomo.go.jp/about/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=国際子ども図書館+東京都台東区上野公園12-49",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "帝国図書館の歴史",
+              "url": "https://www.kodomo.go.jp/about/building/history/imperial"
+            },
+            {
+              "title": "建物の歴史",
+              "url": "https://www.kodomo.go.jp/about/building/history"
+            },
+            {
+              "title": "国際子ども図書館 来館案内",
+              "url": "https://www.kodomo.go.jp/use/access"
             }
           ]
         }
