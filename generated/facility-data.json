@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "materialCount": 39,
-  "total": 1427,
+  "materialCount": 40,
+  "total": 1431,
   "materials": [
     {
       "id": "botanical",
@@ -17267,7 +17267,7 @@
       "name": "地域独自スーパー",
       "shortName": "地域独自スーパー",
       "file": "地域独自スーパー.csv",
-      "count": 14,
+      "count": 15,
       "items": [
         {
           "prefecture": "岩手県",
@@ -17535,6 +17535,24 @@
             {
               "title": "レトロネオンと食品雑貨のセキノヤ訪問記",
               "url": "https://niigata-kankou.or.jp/blog/1465"
+            }
+          ]
+        },
+        {
+          "prefecture": "鹿児島県",
+          "city": "阿久根市",
+          "name": "A-Zあくね",
+          "type": "巨大地域スーパー",
+          "note": "24時間型の超大型地域スーパー。食品・日用品だけでなく資材、園芸、車、ガソリン、鍾乳石の展示販売、飲食、バーベキューまで一つの敷地に組み込み、売場規模そのものが訪問理由になる。",
+          "official": "https://a-zmakio.com/store/akune/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%98%BF%E4%B9%85%E6%A0%B9%E5%B8%82%E8%B5%A4%E7%80%AC%E5%B7%9D%EF%BC%92%EF%BC%92%EF%BC%91%EF%BC%90",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "A-Zを訪ねる｜巨大スーパーセンター",
+              "url": "https://www.bepal.net/archives/631529"
             }
           ]
         }
@@ -24916,6 +24934,73 @@
           "extra": {
             "参照": ""
           }
+        }
+      ]
+    },
+    {
+      "id": "csv-7d106924dd7bbb8d90b8",
+      "number": 40,
+      "name": "目的地化した店舗",
+      "shortName": "目的地化した店舗",
+      "file": "目的地化した店舗.csv",
+      "count": 3,
+      "items": [
+        {
+          "prefecture": "岡山県",
+          "city": "瀬戸内市",
+          "name": "日本一のだがし売場",
+          "type": "巨大駄菓子店",
+          "note": "田園地帯の大型倉庫に数千種類の駄菓子と縁日玩具を集め、昭和の駄菓子屋を再現した売場も併設する。店舗そのものを目的に県外から来訪者が集まる。",
+          "official": "https://www.okayama-kanko.jp/spot/detail_13014.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E7%80%AC%E6%88%B8%E5%86%85%E5%B8%82%E9%95%B7%E8%88%B9%E7%94%BA%E6%9D%B1%E9%A0%88%E6%81%B5%EF%BC%91%EF%BC%93%EF%BC%97%EF%BC%93%EF%BC%95",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "岡山県観光WEB訪問記",
+              "url": "https://www.okayama-kanko.jp/okatabi/1104/page"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "荒川区",
+          "name": "大屋商店",
+          "type": "駄菓子・玩具問屋",
+          "note": "かつて日暮里に並んだ駄菓子問屋の最後の一軒。高層住宅内の小さな売場に箱単位の駄菓子と玩具を積み上げ、失われた問屋街の商業空間を現在に残す。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C%EF%BC%92%EF%BC%8D%EF%BC%92%EF%BC%95%EF%BC%8D%EF%BC%91",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "たった一軒残った駄菓子問屋の記録",
+              "url": "https://bunshun.jp/articles/-/42054"
+            },
+            {
+              "title": "日暮里駄菓子問屋街の訪問記",
+              "url": "https://blog.dagashijiten.com/oyashoten/"
+            },
+            {
+              "title": "駄菓子問屋を訪ねる",
+              "url": "https://studio.persol-group.co.jp/kininaru/220113-1/"
+            }
+          ]
+        },
+        {
+          "prefecture": "沖縄県",
+          "city": "豊見城市",
+          "name": "上間商店（上間菓子店）",
+          "type": "駄菓子・菓子直売店",
+          "note": "スッパイマンで知られる菓子メーカーの直売店。昔ながらの駄菓子屋の売場、詰め放題、沖縄限定商品、商店限定商品が工場隣接の店舗に混在する。",
+          "official": "https://www.amaume.co.jp/shop/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E8%B1%8A%E8%A6%8B%E5%9F%8E%E5%B8%82%E8%B1%8A%E5%B4%8E%EF%BC%93%EF%BC%96%EF%BC%94",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
         }
       ]
     }
