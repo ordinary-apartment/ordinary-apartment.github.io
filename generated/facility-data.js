@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 44,
-  "total": 1480,
+  "total": 1486,
   "materials": [
     {
       "id": "botanical",
@@ -25560,7 +25560,7 @@ window.FACILITY_DATASET={
       "name": "アトリウム・屋内公開空地",
       "shortName": "アトリウム・屋内公開空地",
       "file": "アトリウム・屋内公開空地.csv",
-      "count": 12,
+      "count": 18,
       "items": [
         {
           "prefecture": "東京都",
@@ -25750,6 +25750,132 @@ window.FACILITY_DATASET={
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "東京都現代美術館",
+          "type": "アトリウム",
+          "note": "1995。設計：柳澤孝彦。美術館のエントランスから展示室へ伸びる大空間。作品展示にも使われる、一般来館者に開かれた美術館アトリウム。",
+          "official": "https://www.mot-art-museum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市東区",
+          "name": "モエレ沼公園 ガラスのピラミッド",
+          "type": "アトリウム・ガラス建築",
+          "note": "2005。設計：イサム・ノグチ。公園の中心的施設であるガラスのピラミッド。内部の大吹抜けと斜路を、通常の公園利用者も自由に歩いて体験できる。",
+          "official": "https://moerenumapark.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%A2%E3%82%A8%E3%83%AC%E6%B2%BC%E5%85%AC%E5%9C%92%20%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AE%E3%83%94%E3%83%A9%E3%83%9F%E3%83%83%E3%83%89%20%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "京都府",
+          "city": "京都市左京区",
+          "name": "京都市京セラ美術館",
+          "type": "アトリウム・ガラスリボン",
+          "note": "1933／2020改修。設計：前田健二郎／青木淳・西澤徹夫。旧本館の保存改修に新しいガラスのアトリウムと地下動線を組み合わせ、歴史建築と現代的な公開空間を接続する。",
+          "official": "https://kyotocity-kyocera.museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BA%AC%E3%82%BB%E3%83%A9%E7%BE%8E%E8%A1%93%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "愛知県",
+          "city": "小牧市",
+          "name": "小牧市中央図書館",
+          "type": "アトリウム・大規模吹抜け",
+          "note": "2021。設計：新居千秋都市建築設計。階段と吹抜けを中心に閲覧・交流の場を立体的につなぐ市立図書館。一般利用者が日常的に歩ける公開空間。",
+          "official": "https://www.library.komaki.aichi.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%89%A7%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%B0%8F%E7%89%A7%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "紀尾井清堂",
+          "type": "アトリウム・大規模吹抜け",
+          "note": "2020。設計：内藤廣。用途を固定しないまま建てられた内藤廣設計の建築。採光と吹抜けが各階をつなぐ、通常は催事時などに公開される特徴的な内部空間。",
+          "official": "https://www.naitoaa.co.jp/090701/works/kio/side.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B4%80%E5%B0%BE%E4%BA%95%E6%B8%85%E5%A0%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "東京国際フォーラム",
+          "type": "ガラス棟ガレリア・アトリウム",
+          "note": "1996。設計：ラファエル・ヴィニオリ。船形のガラス棟に高さのあるガレリアを持つ国際会議・文化複合施設。駅前から自由に通り抜けられ、展示やイベントの背景にもなる。",
+          "official": "https://www.t-i-forum.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
           "extra": {
             "参照": ""
           }
