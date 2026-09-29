@@ -1,9 +1,9 @@
 [
   {
-    "file": "植物園.csv",
+    "file": "東京の植物園.csv",
     "id": "botanical",
     "number": 1,
-    "short": "植物園"
+    "short": "東京の植物園"
   },
   {
     "file": "東京の科学館.csv",
@@ -226,5 +226,11 @@
     "id": "regional-science",
     "number": 42,
     "short": "地方の科学館"
+  },
+  {
+    "file": "地方の植物園.csv",
+    "id": "regional-botanical",
+    "number": 43,
+    "short": "地方の植物園"
   }
 ]
