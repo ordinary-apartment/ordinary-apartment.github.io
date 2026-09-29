@@ -238,5 +238,11 @@
     "id": "atrium-public-space",
     "number": 44,
     "short": "アトリウム・屋内公開空地"
+  },
+  {
+    "file": "戦後闇市・マーケットの痕跡.csv",
+    "id": "csv-951934b61d38ed2b45b0",
+    "number": 45,
+    "short": "戦後闇市・マーケットの痕跡"
   }
 ]
