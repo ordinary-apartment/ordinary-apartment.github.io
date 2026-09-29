@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "materialCount": 44,
-  "total": 1494,
+  "total": 1496,
   "materials": [
     {
       "id": "botanical",
@@ -25560,7 +25560,7 @@
       "name": "アトリウム・屋内公開空地",
       "shortName": "アトリウム・屋内公開空地",
       "file": "アトリウム・屋内公開空地.csv",
-      "count": 26,
+      "count": 28,
       "items": [
         {
           "prefecture": "東京都",
@@ -26035,6 +26035,48 @@
           "note": "2013年。旧東京中央郵便局舎を保存・再生した複合施設。中央アトリウムと各階テラスが歴史建築と新築部分をつなぐ。",
           "official": "https://marunouchi.jp-kitte.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=KITTE%E4%B8%B8%E3%81%AE%E5%86%85%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "第一生命日比谷ファースト（旧第一生命館）",
+          "type": "アトリウム・歴史建築接続",
+          "note": "1938／2022改修年。旧第一生命館と新築棟を一体化した日比谷の業務施設。保存された歴史建築と公開エントランスの吹抜けが連続する。",
+          "official": "https://www.dai-ichi-life.co.jp/company/info/hibiya.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%AC%AC%E4%B8%80%E7%94%9F%E5%91%BD%E6%97%A5%E6%AF%94%E8%B0%B7%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%88%E6%97%A7%E7%AC%AC%E4%B8%80%E7%94%9F%E5%91%BD%E9%A4%A8%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "「最高のアトリウムを探せ！」",
+              "url": "https://note.com/hirobluesky/n/nf65f9fc02cc7"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "明治生命館／明治安田ヴィレッジ丸の内",
+          "type": "アトリウム・パサージュ",
+          "note": "1934／2004街区整備年。重要文化財の明治生命館と新築の明治安田生命ビルを接続する丸の内の公開街区。1階アトリウムから歴史建築・ギャラリー・店舗を回遊できる。",
+          "official": "https://www.meijiyasuda-v.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E6%B2%BB%E7%94%9F%E5%91%BD%E9%A4%A8%EF%BC%8F%E6%98%8E%E6%B2%BB%E5%AE%89%E7%94%B0%E3%83%B4%E3%82%A3%E3%83%AC%E3%83%83%E3%82%B8%E4%B8%B8%E3%81%AE%E5%86%85%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
