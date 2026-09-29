@@ -1,4 +1,4 @@
-都道府県,市区町村,店舗名・施設名,分類,関連リンク1タイトル,関連リンク1URL,関連リンク2タイトル,関連リンク2URL,関連リンク3タイトル,関連リンク3URL,説明・狙い目,公式サイト,Googleマップ,雰囲気,公式検索,地図検索名,参照
+﻿都道府県,市区町村,店舗名・施設名,分類,関連リンク1タイトル,関連リンク1URL,関連リンク2タイトル,関連リンク2URL,関連リンク3タイトル,関連リンク3URL,説明・狙い目,公式サイト,Googleマップ,雰囲気,公式検索,地図検索名,参照
 東京都,江東区,東京都虹の下水道館,上下水道,〖徹底比較〗東京都虹の下水道館と小平市ふれあい下水道館に行ってきた！,https://tabicoffret.com/article/81796/,,,,,有明水再生センター5階にある東京都下水道局の広報施設。「レインボータウン」を舞台に、下水道管・ポンプ所・中央監視室・水質検査室での仕事を体験する構成。9:30～16:30。 月曜日休館。,https://www.nijinogesuidoukan.jp/,https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%99%B9%E3%81%AE%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA,バックルーム,,,"公式サイト：https://www.nijinogesuidoukan.jp/
 Wikipedia:https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%99%B9%E3%81%AE%E4%B8%8B%E6%B0%B4%E9%81%93%E9%A4%A8"
 東京都,江東区,東京都水の科学館,上下水道,〖暑い日に最適お出かけスポット〗東京都水の科学館に行ってみた,https://ameblo.jp/soratomon/entry-12910841485.html,東京都水の科学館に行ってきました！,https://kodomo-to-odekake.blog/mizunokagaku202307/,,,水道PR館。人工的な水空間。9:30～17:00。 月曜日休館。1995年竣工。,http://www.mizunokagaku.jp/,https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B0%B4%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA,リミナル,,,"公式サイト：http://www.mizunokagaku.jp/
@@ -51,29 +51,6 @@ Wikipedia:https://ja.wikipedia.org/wiki/%E5%8C%97%E5%A4%9A%E6%91%A9%E4%B8%80%E5%
 東京都,特別区,東京23区の清掃工場,ごみ・リサイクル,,,,,,,施設ごと。複数の現役清掃工場を実際に見学できる公式索引。,http://www.union.tokyo23-seisou.lg.jp/kojo/nerima/,https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC23%E5%8C%BA%E3%81%AE%E6%B8%85%E6%8E%83%E5%B7%A5%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%89%B9%E5%88%A5%E5%8C%BA,見学可能な公的建築,,,公式サイト：http://www.union.tokyo23-seisou.lg.jp/kojo/nerima/
 埼玉県,春日部市,首都圏外郭放水路・庄和排水機場,ダム・河川,,,,,,,見学会。巨大立坑と地下神殿状の調圧水槽を持つ国の治水施設。,https://www.ktr.mlit.go.jp/edogawa/edogawa00233.html,https://www.google.com/maps/search/?api=1&query=%E9%A6%96%E9%83%BD%E5%9C%8F%E5%A4%96%E9%83%AD%E6%94%BE%E6%B0%B4%E8%B7%AF%E3%83%BB%E5%BA%84%E5%92%8C%E6%8E%92%E6%B0%B4%E6%A9%9F%E5%A0%B4%20%E5%9F%BC%E7%8E%89%E7%9C%8C%20%E6%98%A5%E6%97%A5%E9%83%A8%E5%B8%82,見学可能な公的建築,,,公式サイト：https://www.ktr.mlit.go.jp/edogawa/edogawa00233.html
 沖縄県,宮古島市,地下ダム資料館,ダム・河川,宮古島３日目①貝と地下ダムの博物館,https://ameblo.jp/stitch-chacha/entry-12883426409.html,,,,,一般入館。,http://www.city.miyakojima.lg.jp/,https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E4%B8%8B%E3%83%80%E3%83%A0%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%B2%96%E7%B8%84%E7%9C%8C%20%E5%AE%AE%E5%8F%A4%E5%B3%B6%E5%B8%82,見学可能な公的建築,,,公式サイト：http://www.city.miyakojima.lg.jp/
-大阪府,三島郡島本町,サントリー山崎蒸溜所,工場・製造,,,,,,,原料の仕込みから発酵・蒸留・熟成までを行う現役蒸溜所。見学では製造設備と品質管理の工程を確認する。,https://www.suntory.co.jp/factory/yamazaki/,,,,,Wikipedia:https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E5%B1%B1%E5%B4%8E%E8%92%B8%E6%BA%9C%E6%89%80
-山梨県,北杜市,サントリー白州蒸溜所,工場・製造,,,,,,,水源と結び付いたウイスキー製造拠点。仕込み・蒸留・樽熟成の設備を見学できる予約制ツアー。,https://www.suntory.co.jp/factory/hakushu/,,,,,Wikipedia:https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E7%99%BD%E5%B7%9E%E8%92%B8%E6%BA%9C%E6%89%80
-愛知県,知多市,サントリー知多蒸溜所,工場・製造,,,,,,,グレーンウイスキーの蒸留・熟成を担う製造拠点。公開プログラムの実施状況を公式案内で確認する。,https://www.suntory.co.jp/factory/chita/,,,,,Wikipedia:https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E7%9F%A5%E5%A4%9A%E8%92%B8%E6%BA%9C%E6%89%80
-神奈川県,横浜市鶴見区,キリンビール横浜工場,工場・製造,,,,,,,麦芽・仕込み・発酵・パッケージングまでのビール製造工程を見学できる現役工場。,https://www.kirin.co.jp/experience/factory/,,,,,
-茨城県,取手市,キリンビール取手工場,工場・製造,,,,,,,大規模なビール製造ラインと品質管理を見学する予約制ツアー。,https://www.kirin.co.jp/experience/factory/,,,,,
-兵庫県,神戸市北区,キリンビール神戸工場,工場・製造,,,,,,,原料から缶・瓶製品までの製造工程を現役設備で学べる工場見学。,https://www.kirin.co.jp/experience/factory/,,,,,
-大阪府,吹田市,アサヒビール吹田工場,工場・製造,,,,,,,仕込み・発酵・ろ過・充填を行うビール工場。見学通路から製造設備と物流工程を確認する。,https://www.asahibeer.co.jp/brewery/,,,,,
-福岡県,福岡市博多区,アサヒビール博多工場,工場・製造,,,,,,,都市圏へ製品を供給する現役ビール工場。製造工程と品質管理の展示・見学を行う。,https://www.asahibeer.co.jp/brewery/,,,,,
-埼玉県,坂戸市,明治なるほどファクトリー坂戸,工場・製造,,,,,,,乳製品・菓子の製造工程を見学者通路から確認できる現役工場。,https://www.meiji.co.jp/learned/factory/,,,,,
-茨城県,守谷市,明治なるほどファクトリー守谷,工場・製造,,,,,,,乳製品の原料処理・充填・衛生管理を学ぶ工場見学施設。,https://www.meiji.co.jp/learned/factory/,,,,,
-愛知県,江南市,グリコピア・イースト,工場・製造,,,,,,,菓子の製造ラインと包装工程を見学できる予約制工場。10:00～15:30。 金曜日休館。,https://www.glico.com/jp/enjoy/experience/glicopiaeast/,,,,,
-兵庫県,神戸市西区,グリコピア神戸,工場・製造,,,,,,,ポッキー等の製造工程を見学し、原料・成形・包装の流れを学べる。9:30～16:30。 金曜日休館。,https://www.glico.com/jp/enjoy/experience/glicopiakobe/,,,,,
-北海道,千歳市,カルビー北海道工場,工場・製造,,,,,,,じゃがいもの加工・製造・包装を行う現役食品工場。見学受付状況を公式で確認する。,https://www.calbee.co.jp/factory/,,,,,
-千葉県,野田市,キッコーマンもの知りしょうゆ館,工場・製造,,,,,,,しょうゆの仕込み・発酵・圧搾・充填を現役工場に併設した見学施設で学ぶ。9:00～16:00。 月曜日休館。,https://www.kikkoman.co.jp/enjoys/factory/noda/,,,,,
-愛知県,豊田市,トヨタ会館・工場見学,工場・製造,,,,,,,自動車の開発・生産・品質管理を展示と工場見学で学ぶ。実際の製造ライン見学は予約制。,https://www.toyota.co.jp/jp/about_toyota/facility/toyota-kaikan/,,,,,
-広島県,安芸郡府中町,マツダミュージアム,工場・製造,,,,,,,自動車工場に併設され、車両の組立工程や開発・物流の仕組みを見学できる。,https://www.mazda.com/ja/about/museum/,,,,,Wikipedia:https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%84%E3%83%80%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0
-神奈川県,海老名市,コカ・コーラ ボトラーズジャパン工場見学,工場・製造,,,,,,,飲料の調合・充填・検査・出荷を学ぶ工場見学プログラム。 月曜日休館。,https://www.ccbji.co.jp/plant/,,,,,
-北海道,札幌市東区,サッポロビール北海道工場,工場・製造,,,,,,,麦芽からビールをつくり、缶・瓶へ詰めて出荷する現役工場。,https://www.sapporobeer.jp/brewery/hokkaido/,,,,,
-千葉県,銚子市,ヤマサ醤油工場見学センター,工場・製造,,,,,,,しょうゆの発酵・熟成・充填と地域産業の関係を見学できる。,https://www.yamasa.com/enjoy/factory/,,,,,
-神奈川県,川崎市川崎区,味の素 川崎工場,工場・製造,,,,,,,調味料の原料・製造・包装工程を見学する予約制プログラム。,https://www.ajinomoto.co.jp/kfb/kengaku/,,,,,
 北海道,札幌市東区,雪印メグミルク 酪農と乳の歴史館,工場・製造,,,,,,,乳業の原料受入・加工・衛生管理を学ぶ企業博物館と製造関連施設。,https://www.meg-snow.com/fun/academy/,,,,,
-福岡県,福岡市東区,めんたいこ工場見学（ふくや）,工場・製造,,,,,,,原料処理・調味・熟成・包装という食品加工の工程を見学できる施設。,https://www.fukuya.com/mentai/factory/,,,,,
-東京都,大田区,羽田クロノゲート見学コース,物流・流通,,,,,,,宅配便の仕分け・保管・輸送を担う物流拠点。荷物が自動搬送される現場を見学できる。,https://www.yamato-hd.co.jp/facilities/haneda-chronogate/,,,,,
-大阪府,大阪市此花区,アサヒ飲料明石工場見学,工場・製造,,,,,,,飲料の調合・PETボトル充填・検品・出荷を現役設備で学ぶ工場見学。,https://www.asahiinryo.co.jp/entertainment/factory/,,,,,
 東京都,千代田区,国立公文書館,行政・公共機関,,,,,,,国の公文書を収集・保存・公開する現役の行政機関。文書の受入れ、保存環境、利用請求という公共サービスの仕組みを学ぶ。,http://www.archives.go.jp/,https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E5%85%AC%E6%96%87%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA,見学可能な公的建築,,,"公式サイト：http://www.archives.go.jp/
 Wikipedia:https://ja.wikipedia.org/wiki/%E5%9B%BD%E7%AB%8B%E5%85%AC%E6%96%87%E6%9B%B8%E9%A4%A8"
