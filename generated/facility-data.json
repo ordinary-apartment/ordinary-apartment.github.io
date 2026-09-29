@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "materialCount": 41,
-  "total": 1450,
+  "total": 1455,
   "materials": [
     {
       "id": "botanical",
@@ -16429,7 +16429,7 @@
       "name": "地域文化施設",
       "shortName": "地域文化施設",
       "file": "地域文化施設.csv",
-      "count": 47,
+      "count": 48,
       "items": [
         {
           "prefecture": "北海道",
@@ -16590,6 +16590,24 @@
             {
               "title": "船橋市郷土資料館の訪問記（食文化展）",
               "url": "https://ameblo.jp/eveningshower/entry-12860048087.html"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "小金井市",
+          "name": "江戸東京たてもの園",
+          "type": "地域文化施設",
+          "note": "東京の郊外・下町・商業地で使われた建物を移築保存し、都市の住まいと仕事の場を実物空間で継承する。",
+          "official": "https://www.tatemonoen.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E6%88%B8%E6%9D%B1%E4%BA%AC%E3%81%9F%E3%81%A6%E3%82%82%E3%81%AE%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "江戸東京たてもの園の写真訪問記",
+              "url": "https://www.camera-girls.net/magazine/photospot/tatemonoen/"
             }
           ]
         },
@@ -17546,7 +17564,7 @@
       "name": "古いビル",
       "shortName": "古いビル",
       "file": "古いビル.csv",
-      "count": 14,
+      "count": 15,
       "items": [
         {
           "prefecture": "東京都",
@@ -17730,6 +17748,19 @@
           "note": "1965年竣工、有楽町駅前の地上15階・地下4階の複合ビル。",
           "official": "https://www.kotsukaikan.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E6%9C%89%E6%A5%BD%E7%94%BA2-10-1",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "銀座ライオンビル",
+          "type": "古いビル",
+          "note": "1934年創建の旧大日本麦酒本社系ビヤホール建築で、現存するビヤホールの内装と大空間を営業中の店舗として体験できる。",
+          "official": "https://www.ginzalion.jp/shop/brand/lionginza7/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A77-9-20%20%E9%8A%80%E5%BA%A7%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%93%E3%83%AB",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
@@ -20102,7 +20133,7 @@
       "name": "用途転換された歴史的建築",
       "shortName": "用途転換された歴史的建築",
       "file": "用途転換された歴史的建築.csv",
-      "count": 70,
+      "count": 72,
       "items": [
         {
           "prefecture": "神奈川県",
@@ -20660,6 +20691,19 @@
         {
           "prefecture": "大阪府",
           "city": "大阪市中央区",
+          "name": "芝川ビル",
+          "type": "旧事務所ビル→店舗・飲食施設",
+          "note": "1927年竣工の近代オフィスビル。現在は菓子店・飲食店・物販店などが入居し、マヤ・インカ風装飾と地下金庫を残す。",
+          "official": "https://shibakawa-bld.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%9D%E5%B7%9D%E3%83%93%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
           "name": "北浜レトロビルヂング",
           "type": "旧株仲買商・商社事務所→紅茶店・菓子店",
           "note": "1912年建築の株式関係者の集会所・商館。戦後は商社本社として使われ、1997年から英国菓子舗・紅茶室として営業。地下金庫も残る。",
@@ -20979,6 +21023,19 @@
               "url": "https://visit-chiyoda.tokyo/app/spot/detail/60"
             }
           ]
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市中区",
+          "name": "ホテルニューグランド",
+          "type": "ホテル→GHQ将校宿舎→ホテル",
+          "note": "1927年開業のホテル。1945年8月から1952年6月まで全館が米軍に接収され、GHQ将校宿舎として使用された。接収解除後の1952年7月に営業を再開し、現在も本館をホテル・レストランとして利用。",
+          "official": "https://www.hotel-newgrand.co.jp/corporate/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
         },
         {
           "prefecture": "東京都",
@@ -21847,7 +21904,7 @@
       "name": "役所・庁舎の市民開放空間",
       "shortName": "役所・庁舎の市民開放空間",
       "file": "役所・庁舎の市民開放空間.csv",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "prefecture": "東京都",
@@ -21991,6 +22048,22 @@
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "目黒区",
+          "name": "目黒区総合庁舎「めぐろ十五庭」",
+          "type": "区役所屋上庭園",
+          "note": "目黒区総合庁舎本館屋上の庭園。区民の憩い・交流の場として、区役所開庁日の9:00〜16:30に一般開放される。天候や管理作業で閉園する場合がある。",
+          "official": "https://www.city.meguro.tokyo.jp/soumu/shisetsu/koukyoushisetsu/7.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%B7%8F%E5%90%88%E5%BA%81%E8%88%8E%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "役所・庁舎の市民開放空間",
+          "officialSearch": "",
+          "mapQueryName": "目黒区総合庁舎",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.meguro.tokyo.jp/soumu/shisetsu/koukyoushisetsu/7.html"
           }
         },
         {
