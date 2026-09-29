@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "materialCount": 43,
-  "total": 1468,
+  "materialCount": 44,
+  "total": 1480,
   "materials": [
     {
       "id": "botanical",
@@ -25550,6 +25550,208 @@
           ],
           "extra": {
             "参照": "公式サイト：https://www.morikirara.jp/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "atrium-public-space",
+      "number": 44,
+      "name": "アトリウム・屋内公開空地",
+      "shortName": "アトリウム・屋内公開空地",
+      "file": "アトリウム・屋内公開空地.csv",
+      "count": 12,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "品川区",
+          "name": "大森ベルポート",
+          "type": "アトリウム",
+          "note": "1996年。旧いすゞ自動車工場跡地の業務系複合施設。中央の大規模アトリウムをイベント・通行・滞在に開く。",
+          "official": "https://www.omoribellport.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%A3%AE%E3%83%99%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%88%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "シーバンス",
+          "type": "アトリウム・ガレリア",
+          "note": "1991年。芝浦のオフィス街に設けられたアトリウム棟。水の公園と飲食店を備え、一般来訪者が通行・滞在できる屋内広場として機能する。",
+          "official": "https://seavans-amall.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%BC%E3%83%90%E3%83%B3%E3%82%B9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中野区",
+          "name": "ハーモニースクエア",
+          "type": "アトリウム・ガレリア",
+          "note": "1997年。中野坂上の業務・公共・商業複合施設。交差点に面した誰もが自由に出入りできるアトリウムと南北のガレリアが都市の通路を形成する。",
+          "official": "https://harmony-square.co.jp/detail.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "テレコムセンタービル",
+          "type": "アトリウム",
+          "note": "1995年。臨海副都心の業務施設。東西棟の間に自然光が入る1階アトリウムを設け、駅から一般来訪者が通行・利用できる。",
+          "official": "https://www.tokyo-teleport.co.jp/b/tel/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%83%AC%E3%82%B3%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "新宿パークタワー",
+          "type": "アトリウム",
+          "note": "1994年。オフィス・文化・商業・ホテルを複合した超高層施設。1階に高さ約17mのガラス屋根アトリウムがあり、展示や地域イベントにも使われる。",
+          "official": "https://www.shinjukuparktower.com/floor/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%83%91%E3%83%BC%E3%82%AF%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "品川インターシティ",
+          "type": "アトリウム・ガレリア",
+          "note": "1998年。3棟の超高層オフィスとホール・商業施設を結ぶ再開発。アトリウム、ガレリア、スカイウェイが公開性のある歩行者空間をつくる。",
+          "official": "https://www.sicity.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%93%81%E5%B7%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "新宿NSビル",
+          "type": "アトリウム",
+          "note": "1982年。2つのオフィス棟に囲まれた大吹き抜けを持つ先駆的な超高層オフィス。1階アトリウムは一般に開かれ、ブリッジや時計を見られる。",
+          "official": "https://www.shinjuku-ns.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BFNS%E3%83%93%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "キャロットタワー",
+          "type": "アトリウム",
+          "note": "1996年。三軒茶屋の業務・文化・商業複合施設。高層棟と中層棟をつなぐ3階アトリウムが劇場・駅前広場と一体の通行空間になる。",
+          "official": "https://www.t-build.com/property/carrottower/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%83%E3%83%88%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "大手町ファーストスクエア",
+          "type": "アトリウム・サンクンガーデン",
+          "note": "1992年。ツインタワー型のオフィス複合施設。アトリウムエントランスとサンクンガーデンが大手町の業務街に一般利用可能なゆとりをつくる。",
+          "official": "https://www.1st.co.jp/about/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%89%8B%E7%94%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "新宿アイランド",
+          "type": "アトリウム・屋内広場",
+          "note": "1995年。オフィス、住宅、専門学校、店舗、広場を組み合わせた西新宿の複合都市。公開された広場と館内通路が複数用途をつなぐ。",
+          "official": "https://shinjuku-i-land.com/about_i-land.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "新宿住友ビル 三角広場",
+          "type": "屋内公開空地・全天候型広場",
+          "note": "1974 / 2020改修年。1974年竣工のオフィスビルを改修し、2020年に大屋根付きの三角広場を整備。1階の公開空地をイベントや通行に開く。",
+          "official": "https://office-b.sumitomo-rd.co.jp/sankakuhiroba/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E4%BD%8F%E5%8F%8B%E3%83%93%E3%83%AB%20%E4%B8%89%E8%A7%92%E5%BA%83%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "丸ビル MARUCUBE",
+          "type": "アトリウム・イベント広場",
+          "note": "2002年。丸の内のオフィス・商業複合ビル1階にある吹き抜けのイベント空間。一般来訪者が通行・滞在でき、展示や催事に使われる。",
+          "official": "https://www.marunouchi.com/building/marubiru/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B8%E3%83%93%E3%83%AB%20MARUCUBE%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
           }
         }
       ]

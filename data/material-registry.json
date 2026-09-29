@@ -232,5 +232,11 @@
     "id": "regional-botanical",
     "number": 43,
     "short": "地方の植物園"
+  },
+  {
+    "file": "アトリウム・屋内公開空地.csv",
+    "id": "atrium-public-space",
+    "number": 44,
+    "short": "アトリウム・屋内公開空地"
   }
 ]
