@@ -5858,7 +5858,7 @@ window.FACILITY_DATASET={
       "name": "東京都内の入れる屋上・屋上庭園・公開テラス",
       "shortName": "屋上・屋上庭園",
       "file": "東京都内の入れる屋上・屋上庭園・公開テラス.csv",
-      "count": 91,
+      "count": 99,
       "items": [
         {
           "prefecture": "東京都",
@@ -7460,6 +7460,149 @@ window.FACILITY_DATASET={
           "extra": {
             "参照": "公式サイト：http://www.bigsight.jp/"
           }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "渋谷スクランブルスクエア「SHIBUYA SKY SKY STAGE」",
+          "type": "屋上展望施設",
+          "note": "有料・チケット制。完全な屋外屋上。高所感は最大級。",
+          "official": "https://www.shibuya-scramble-square.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "渋谷スクランブルスクエア",
+          "relatedLinks": [
+            {
+              "title": "【東京旅】9割が外国人、SHIBUYÅ SKY @渋谷スクランブルスクエア",
+              "url": "https://ameblo.jp/nocovic/entry-12882615889.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.shibuya-scramble-square.com/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "恵比寿ガーデンプレイスタワー「SKY LOUNGE周辺屋外眺望空間」",
+          "type": "高層展望・テラス",
+          "note": "無料。都市俯瞰系。庭園より眺望重視。 火曜日休館。12:00〜20:00。",
+          "official": "https://gardenplace.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "恵比寿ガーデンプレイスタワー",
+          "relatedLinks": [
+            {
+              "title": "恵比寿ガーデンプレイス「スカイラウンジ」で夜景撮影してきた",
+              "url": "https://ameblo.jp/e10dokup/entry-12552020110.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://gardenplace.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "六本木ヒルズ「屋上スカイデッキ系公開イベント」",
+          "type": "高層屋外展望",
+          "note": "開催時・条件あり。通常庭園とは別系統の高所屋外体験。",
+          "official": "https://www.roppongihills.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E6%9C%AC%E6%9C%A8%E3%83%92%E3%83%AB%E3%82%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "六本木ヒルズ",
+          "relatedLinks": [
+            {
+              "title": "六本木ヒルズ　スカイデッキへ行ってきた　vol.1",
+              "url": "https://ameblo.jp/kantokuyo/entry-12122544740.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.roppongihills.com/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "北とぴあ「展望ロビー・屋外系イベント」",
+          "type": "公共文化施設高所",
+          "note": "無料。公共施設の高所空間。8:30～22:00",
+          "official": "http://www.hokutopia.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E3%81%A8%E3%81%B4%E3%81%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "北とぴあ",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.hokutopia.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "浅草文化観光センター「8階展望テラス」",
+          "type": "公共施設高層テラス",
+          "note": "無料。雷門と仲見世を見下ろす。",
+          "official": "https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/a-tic-gaiyo.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89%E6%96%87%E5%8C%96%E8%A6%B3%E5%85%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "浅草文化観光センター",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/a-tic-gaiyo.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "すみだリバーサイドホール／墨田区役所「上層展望スペース」",
+          "type": "公共施設高所",
+          "note": "無料。隅田川沿い庁舎の眺望空間。",
+          "official": "http://www.city.sumida.lg.jp/sisetu_info/tamokuteki/sumidariversidehall/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%BF%E3%81%A0%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%8F%E5%A2%A8%E7%94%B0%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "すみだリバーサイドホール／墨田区役所",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.city.sumida.lg.jp/sisetu_info/tamokuteki/sumidariversidehall/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "東京スカイツリー「天望回廊周辺屋外イベント空間」",
+          "type": "高所展望施設",
+          "note": "有料。屋内中心だが屋上・高所収集の関連候補。10:00 〜 22:00",
+          "official": "https://www.tokyo-skytree.jp/?utm_source",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%84%E3%83%AA%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "東京スカイツリー",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.tokyo-skytree.jp/?utm_source"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江戸川区",
+          "name": "タワーホール船堀「展望塔・上層屋外系空間」",
+          "type": "公共文化施設",
+          "note": "無料。公共施設高所系。",
+          "official": "https://www.towerhall.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E8%88%B9%E5%A0%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
+          "kind": "屋上・屋上庭園・公開テラス",
+          "officialSearch": "",
+          "mapQueryName": "タワーホール船堀",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.towerhall.jp/"
+          }
         }
       ]
     },
@@ -7863,7 +8006,7 @@ window.FACILITY_DATASET={
       "name": "展望塔・展望施設",
       "shortName": "展望塔・展望施設",
       "file": "展望塔・展望施設.csv",
-      "count": 28,
+      "count": 20,
       "items": [
         {
           "prefecture": "千葉県",
@@ -8183,149 +8326,6 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://rakutenchi.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "渋谷区",
-          "name": "渋谷スクランブルスクエア「SHIBUYA SKY SKY STAGE」",
-          "type": "屋上展望施設",
-          "note": "有料・チケット制。完全な屋外屋上。高所感は最大級。",
-          "official": "https://www.shibuya-scramble-square.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "渋谷スクランブルスクエア",
-          "relatedLinks": [
-            {
-              "title": "【東京旅】9割が外国人、SHIBUYÅ SKY @渋谷スクランブルスクエア",
-              "url": "https://ameblo.jp/nocovic/entry-12882615889.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.shibuya-scramble-square.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "渋谷区",
-          "name": "恵比寿ガーデンプレイスタワー「SKY LOUNGE周辺屋外眺望空間」",
-          "type": "高層展望・テラス",
-          "note": "無料。都市俯瞰系。庭園より眺望重視。 火曜日休館。12:00〜20:00。",
-          "official": "https://gardenplace.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "恵比寿ガーデンプレイスタワー",
-          "relatedLinks": [
-            {
-              "title": "恵比寿ガーデンプレイス「スカイラウンジ」で夜景撮影してきた",
-              "url": "https://ameblo.jp/e10dokup/entry-12552020110.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://gardenplace.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "港区",
-          "name": "六本木ヒルズ「屋上スカイデッキ系公開イベント」",
-          "type": "高層屋外展望",
-          "note": "開催時・条件あり。通常庭園とは別系統の高所屋外体験。",
-          "official": "https://www.roppongihills.com/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E6%9C%AC%E6%9C%A8%E3%83%92%E3%83%AB%E3%82%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "六本木ヒルズ",
-          "relatedLinks": [
-            {
-              "title": "六本木ヒルズ　スカイデッキへ行ってきた　vol.1",
-              "url": "https://ameblo.jp/kantokuyo/entry-12122544740.html"
-            }
-          ],
-          "extra": {
-            "参照": "公式サイト：https://www.roppongihills.com/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "北区",
-          "name": "北とぴあ「展望ロビー・屋外系イベント」",
-          "type": "公共文化施設高所",
-          "note": "無料。公共施設の高所空間。8:30～22:00",
-          "official": "http://www.hokutopia.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E3%81%A8%E3%81%B4%E3%81%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "北とぴあ",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.hokutopia.jp/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "台東区",
-          "name": "浅草文化観光センター「8階展望テラス」",
-          "type": "公共施設高層テラス",
-          "note": "無料。雷門と仲見世を見下ろす。",
-          "official": "https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/a-tic-gaiyo.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89%E6%96%87%E5%8C%96%E8%A6%B3%E5%85%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "浅草文化観光センター",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/a-tic-gaiyo.html"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "墨田区",
-          "name": "すみだリバーサイドホール／墨田区役所「上層展望スペース」",
-          "type": "公共施設高所",
-          "note": "無料。隅田川沿い庁舎の眺望空間。",
-          "official": "http://www.city.sumida.lg.jp/sisetu_info/tamokuteki/sumidariversidehall/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%BF%E3%81%A0%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%9B%E3%83%BC%E3%83%AB%EF%BC%8F%E5%A2%A8%E7%94%B0%E5%8C%BA%E5%BD%B9%E6%89%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "すみだリバーサイドホール／墨田区役所",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：http://www.city.sumida.lg.jp/sisetu_info/tamokuteki/sumidariversidehall/"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "墨田区",
-          "name": "東京スカイツリー「天望回廊周辺屋外イベント空間」",
-          "type": "高所展望施設",
-          "note": "有料。屋内中心だが屋上・高所収集の関連候補。10:00 〜 22:00",
-          "official": "https://www.tokyo-skytree.jp/?utm_source",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%84%E3%83%AA%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "東京スカイツリー",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.tokyo-skytree.jp/?utm_source"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "江戸川区",
-          "name": "タワーホール船堀「展望塔・上層屋外系空間」",
-          "type": "公共文化施設",
-          "note": "無料。公共施設高所系。",
-          "official": "https://www.towerhall.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E8%88%B9%E5%A0%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
-          "kind": "屋上・屋上庭園・公開テラス",
-          "officialSearch": "",
-          "mapQueryName": "タワーホール船堀",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.towerhall.jp/"
           }
         }
       ]
