@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "materialCount": 45,
-  "total": 1528,
+  "materialCount": 46,
+  "total": 1639,
   "materials": [
     {
       "id": "botanical",
@@ -26501,6 +26501,2014 @@
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": []
+        }
+      ]
+    },
+    {
+      "id": "csv-79cf58cb9efce60af912",
+      "number": 46,
+      "name": "東京歴建（東京都選定歴史的建造物）",
+      "shortName": "東京歴建（東京都選定歴史的建造物）",
+      "file": "東京歴建（東京都選定歴史的建造物）.csv",
+      "count": 111,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "近三ビルヂング（旧森五商店東京支店ビル）",
+          "type": "東京都選定歴史的建造物 No.2",
+          "note": "東京都選定歴史的建造物 No.2。建設年 昭和6（1931）年 / 設計者 村野藤吾。建築家・村野藤吾が渡辺節建築事務所から独立後はじめて手がけた作品。 / 昭和初期の日本を代表するオフィスビル建築である。 / ※一般非公開のため、内部見学できません",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.6886215,139.772037",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜近三ビルヂング（旧森五商店東京支店ビル）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/427/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "聖路加国際病院（チャペル及び付属する旧病棟）",
+          "type": "東京都選定歴史的建造物 No.3",
+          "note": "東京都選定歴史的建造物 No.3。建設年 昭和8（1933）年 / 設計者 レーモンド、バーガミニ、フォイエルシュタイン。居留地の名残をとどめる明石町のシンボル。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.667936,139.775829",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜聖路加国際病院（チャペル及び付属する旧病棟）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/523/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "早稲田大学２号館（旧図書館）",
+          "type": "東京都選定歴史的建造物 No.5",
+          "note": "東京都選定歴史的建造物 No.5。建設年 大正14（1925）年 / 設計者 今井兼次、桐山均一、内藤多仲。早稲田大学キャンパス内でも特に古い建築の一つ。 / 今井兼次の代表作。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.708527,139.720289",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜早稲田大学２号館（旧図書館）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/591/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "早稲田奉仕園スコットホール",
+          "type": "東京都選定歴史的建造物 No.6",
+          "note": "東京都選定歴史的建造物 No.6。建設年 大正10（1921）年 / 設計者 ヴォーリズ建築事務所、内藤多仲、今井兼次。区内に残る数少ないれんが造近代洋風建築の一つ。大正期のれんが造としても稀少。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.707806,139.716264",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜早稲田奉仕園スコットホール",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/592/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "静嘉堂文庫",
+          "type": "東京都選定歴史的建造物 No.7",
+          "note": "東京都選定歴史的建造物 No.7。建設年 大正13（1924）年 / 設計者 桜井小太郎。岡本の丘上に位置する岩崎家の文庫建築。桜井小太郎の代表的住宅建築。 /  外観のみご覧いただけます。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.622352,139.619345",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜静嘉堂文庫",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/530/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "岩崎家玉川廟",
+          "type": "東京都選定歴史的建造物 No.8",
+          "note": "東京都選定歴史的建造物 No.8。建設年 明治43（1910）年 / 設計者 Ｊ・コンドル。Ｊ・コンドル設計の十字形平面の西洋式納骨堂として貴重な遺構。 /  ※霊廟は現在も墓所として使用されています。観覧の際にはご配慮願います。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.622167,139.620059",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜岩崎家玉川廟",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/535/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "立教大学本館（モリス館）",
+          "type": "東京都選定歴史的建造物 No.9",
+          "note": "東京都選定歴史的建造物 No.9。建設年 大正7（1918）年 / 設計者 マーフィ&ダナ建築事務所。大学正門の中央に位置し、チューダー様式を基調とした赤いれんが造りの建物。 / 立教大学のシンボル的な存在。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%2035.730534,139.704016",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜立教大学本館（モリス館）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/593/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "メーザーライブラリー記念館・旧館（旧立教大学図書館旧館）",
+          "type": "東京都選定歴史的建造物 No.10",
+          "note": "東京都選定歴史的建造物 No.10。建設年 大正7（1918）年 / 設計者 マーフィ&ダナ建築事務所。本館の左手に配置され、チューダー様式を基調とした赤いれんが造りの建物。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.730806,139.704580",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜メーザーライブラリー記念館・旧館（旧立教大学図書館旧館）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/599/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "立教学院諸聖徒礼拝堂",
+          "type": "東京都選定歴史的建造物 No.11",
+          "note": "東京都選定歴史的建造物 No.11。建設年 大正7（1918）年 / 設計者 マーフィ&ダナ建築事務所。本館の右手に配置され、チューダー様式を基調とした赤いれんが造りのチャペル。 / 当時の大学の景観を象徴する存在。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.73064,139.70361",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜立教学院諸聖徒礼拝堂",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/594/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "ヨネイビルディング",
+          "type": "東京都選定歴史的建造物 No.16",
+          "note": "東京都選定歴史的建造物 No.16。建設年 昭和5（1930）年 / 設計者 森山松之助。調和性を重視した「ストリートアーキテクチャー」の一例。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.67338554668587,139.7681905652981",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜ヨネイビルディング",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/601/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "カトリック築地教会聖堂",
+          "type": "東京都選定歴史的建造物 No.17",
+          "note": "東京都選定歴史的建造物 No.17。建設年 昭和2（1927）年 / 設計者 石川音次郎、ジロジアス神父。ギリシャ神殿風の教会として珍しい存在。居留地時代の息吹を今に伝える建物。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.668173,139.777120",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜カトリック築地教会聖堂",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/603/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "日立目白クラブ（本館及び別館）",
+          "type": "東京都選定歴史的建造物 No.18",
+          "note": "東京都選定歴史的建造物 No.18。建設年 昭和3（1928）年 / 設計者 宮内省内匠寮。スパニッシュ調の個性的な街並みを形成していた住宅建築群7棟のうちの2棟。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.718166,139.704261",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜日立目白クラブ（本館及び別館）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/606/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "上田邸（旧忍旅館）",
+          "type": "東京都選定歴史的建造物 No.19",
+          "note": "東京都選定歴史的建造物 No.19。建設年 昭和4（1929）年 / 設計者 不詳（中村）。「花園町の白鷺城」の異名をとり、当時の大衆文化を物語る建物。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.716549,139.769723",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜上田邸（旧忍旅館）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/580/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "東京都慰霊堂",
+          "type": "東京都選定歴史的建造物 No.20",
+          "note": "東京都選定歴史的建造物 No.20。建設年 昭和5（1930）年 / 設計者 伊東忠太。東京の防災のシンボル。仏教寺院風の三重の塔は地域のランドマーク。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.699160,139.796085",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京都慰霊堂",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/607/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "東京都復興記念館",
+          "type": "東京都選定歴史的建造物 No.21",
+          "note": "東京都選定歴史的建造物 No.21。建設年 昭和6（1931）年 / 設計者 伊東忠太、佐野利器。関東大震災からの東京の復興を記念した建物。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.699726,139.796888",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京都復興記念館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/609/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "中央区立常盤小学校",
+          "type": "東京都選定歴史的建造物 No.23",
+          "note": "東京都選定歴史的建造物 No.23。建設年 昭和4（1929）年 / 設計者 東京市土木局建築課。震災復興事業の一つとして建てられた小学校の初期の代表的な作品。表現派風建築として、貴重な遺構。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.688476,139.770558",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜中央区立常盤小学校",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/611/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "中央区立泰明小学校",
+          "type": "東京都選定歴史的建造物 No.24",
+          "note": "東京都選定歴史的建造物 No.24。建設年 昭和4（1929）年 / 設計者 東京市土木局建築課。震災復興事業の一つとして建てられた小学校。カーブを描く壁面やアーチ窓等、全体的に表現派風の意匠をもつ建物。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.672328,139.761287",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜中央区立泰明小学校",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/613/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "国立国会図書館国際子ども図書館",
+          "type": "東京都選定歴史的建造物 No.25",
+          "note": "東京都選定歴史的建造物 No.25。建設年 明治39（1906、1929、2002）年 / 設計者 久留正道、真水英夫 他 安藤忠雄。東洋最大規模を目標に計画されたわが国初の国立図書館。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.719558,139.773724",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜国立国会図書館国際子ども図書館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/616/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "蔵前橋",
+          "type": "東京都選定歴史的建造物 No.30",
+          "note": "東京都選定歴史的建造物 No.30。建設年 昭和2（1927）年 / 設計者 復興局 井浦玄三。関東大震災の後、架け替えられ、当時としては思い切ったアーチ橋造りで注目を集めた。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.700974,139.793403",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜蔵前橋",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/618/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "厩橋",
+          "type": "東京都選定歴史的建造物 No.31",
+          "note": "東京都選定歴史的建造物 No.31。建設年 昭和4（1929）年 / 設計者 東京市土木局。優美な三つの曲線が連なるアーチとなっている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.704423,139.795113",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜厩橋",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/620/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "駒形橋",
+          "type": "東京都選定歴史的建造物 No.32",
+          "note": "東京都選定歴史的建造物 No.32。建設年 昭和2（1927）年 / 設計者 復興局 岩切良助。橋の中央部と左右の床板の下側にアーチのある橋。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.708274,139.797309",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜駒形橋",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/622/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "吾妻橋",
+          "type": "東京都選定歴史的建造物 No.33",
+          "note": "東京都選定歴史的建造物 No.33。建設年 昭和6（1931）年 / 設計者 東京市土木局。関東大震災の後、架け替えられた床板の下側に3連アーチがある橋。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.709991,139.799071",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜吾妻橋",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/624/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "白鬚橋",
+          "type": "東京都選定歴史的建造物 No.34",
+          "note": "東京都選定歴史的建造物 No.34。建設年 昭和6（1931）年 / 設計者 施工者不詳。鋼橋で骨太な感じは永代橋と似通っていて重量感がある橋。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.727996,139.809740",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜白鬚橋",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/626/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "東京ルーテルセンタービル",
+          "type": "東京都選定歴史的建造物 No.35",
+          "note": "東京都選定歴史的建造物 No.35。建設年 昭和12（1937）年 / 設計者 長谷部鋭吉。識別性の高いファサードデザイン。 / 富士見町のランドマーク。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.698685,139.747147",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京ルーテルセンタービル",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/586/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "西町インターナショナルスクール松方ハウス",
+          "type": "東京都選定歴史的建造物 No.36",
+          "note": "東京都選定歴史的建造物 No.36。建設年 大正10（1921）年 / 設計者 W・M・ヴォーリズ。明治の元勲松方正義の子、正熊の自邸として建てられた。 / 大きな壁面の色調を押さえ、庇の垂木や窓回り部分を白色のペイント塗りして際立たせている。 / 1965年からは正熊の三女、松方種子が創立した西町インターナショナルスクールの教室および教職員室として活用され、「松方ハウス」として現在に至る。 / 学校舎の一部として使用しているため一般公開は行なっていない。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.653802,139.730409",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜西町インターナショナルスクール松方ハウス",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/629/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "杉並区",
+          "name": "浴風会本館",
+          "type": "東京都選定歴史的建造物 No.37",
+          "note": "東京都選定歴史的建造物 No.37。建設年 昭和元年（1926）年 / 設計者 内田祥三、土岐達人。中央に塔を配置し、垂直線が強調されたデザインが、東京大学安田講堂と共通する表情を見せている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.6812784,139.6068972",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜浴風会本館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/434/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "小平市",
+          "name": "津田塾大学本館",
+          "type": "東京都選定歴史的建造物 No.38",
+          "note": "東京都選定歴史的建造物 No.38。建設年 昭和6（1931）年 / 設計者 佐藤功一。外壁はタイル貼りで、瓦屋根が採用され、伝統への回帰という昭和初期の建築界の傾向を反映した作品である。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.721814,139.465991",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜津田塾大学本館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/630/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "いせ源本館",
+          "type": "東京都選定歴史的建造物 No.40",
+          "note": "東京都選定歴史的建造物 No.40。建設年 昭和7（1932）年 / 設計者 不詳。「あんこう料理」、入母屋造りと2階の欄干に施された、菱形模様の彫りが特徴。木製の看板は建築当時から使用（平成8（1996）年補修済）しているもの。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.696570,139.769132",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜いせ源本館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/631/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "神田まつや",
+          "type": "東京都選定歴史的建造物 No.41",
+          "note": "東京都選定歴史的建造物 No.41。昭和元年〜2年 / 設計者 不詳。「そば」、左右の出入り口の上部に松模様の欄間飾りを施してある。平面を見れば、入口の部分が土間であったと考えられる。現在、コンクリートが敷いてある。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.696115,139.768788",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜神田まつや",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/633/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "ぼたん",
+          "type": "東京都選定歴史的建造物 No.42",
+          "note": "東京都選定歴史的建造物 No.42。建設年 昭和4（1929）年 / 設計者 不詳。「鳥のすきやき」、玄関の格式の高い式台が通りすがりに見える。入母屋造りで、一部改修されているが建設当時の界わいの雰囲気をよく伝えている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%2035.696474,139.768914",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜ぼたん",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/635/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "竹むら",
+          "type": "東京都選定歴史的建造物 No.43",
+          "note": "東京都選定歴史的建造物 No.43。建設年 昭和5（1930）年 / 設計者 不詳。「汁粉」、入母屋造りで２階の欄干に竹と梅模様が彫られ、軒下に木製の提灯が下げられている。外観は屋根と庇で４層に見える。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.696675,139.769058",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜竹むら",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/637/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "虎ノ門 金刀比羅宮",
+          "type": "東京都選定歴史的建造物 No.44",
+          "note": "東京都選定歴史的建造物 No.44。建設年 昭和26（1951）年 / 設計者 伊東忠太。讃岐丸亀藩主の讃岐の金刀比羅権現を江戸藩邸に屋敷社として勧請した建物である。第2次世界大戦で焼けたため、権現造りの拝殿・幣殿は昭和26年に再建された。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.669634,139.748026",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜虎ノ門 金刀比羅宮",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/638/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "立教大学 第一食堂",
+          "type": "東京都選定歴史的建造物 No.45",
+          "note": "東京都選定歴史的建造物 No.45。建設年 大正7（1918）年 / 設計者 マーフィ&ダナ建築事務所。立教大学本館の軸線を延長した正面に位置し、中央のアーチをくぐった奥に中庭を配し、特徴ある塔をもち、チューダー様式を基調とした赤いれんが造りの建物。 / 屋根は建設当初切り妻屋根であったが、震災被害により現在は寄せ棟屋根に変更されている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.729746,139.704148",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜立教大学 第一食堂",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/639/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "立教大学 2号館",
+          "type": "東京都選定歴史的建造物 No.46",
+          "note": "東京都選定歴史的建造物 No.46。建設年 大正7（1918）年 / 設計者 マーフィ&ダナ建築事務所。立教大学本館の軸線を延長した正面に位置し、中央のアーチをくぐった奥に中庭を配し、特徴ある塔をもち、チューダー様式を基調とした赤いれんが造りの建物。 / 屋根は建設当初切り妻屋根であったが、震災被害により現在は寄せ棟屋根に変更されている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.730058,139.704347",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜立教大学 2号館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/641/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "立教大学 3号館",
+          "type": "東京都選定歴史的建造物 No.47",
+          "note": "東京都選定歴史的建造物 No.47。1918 / 設計者 マーフィ&ダナ建築事務所。中庭を囲んで第1食堂の右に配置され、チューダー様式を基調とした赤いれんが造りの建物。もとは寄宿舎で、屋根は建築当初切り妻屋根であったが、震災被害により現在は寄せ棟屋根に変更されている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.729990,139.703861",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜立教大学 3号館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/642/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "府中市",
+          "name": "髙安寺本堂",
+          "type": "東京都選定歴史的建造物 No.49",
+          "note": "東京都選定歴史的建造物 No.49。建設年 （1803）年 / 設計者 不詳。暦応年間（14世紀）に創設、建長年間（17世紀）に再興された寺院。本堂は、寛永元（1624）年に火災で焼失した後、再建されたもの。正面に掲げる「等持院」の扁額は、開基となった足利尊氏公の法嗣名。内陣や大間の組物廻りに意匠を凝らした点に特徴が見られ、大縁（八尺間）は禅寺基本の姿をとどめている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.669357,139.472002",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜髙安寺本堂",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/643/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "府中市",
+          "name": "髙安寺山門",
+          "type": "東京都選定歴史的建造物 No.50",
+          "note": "東京都選定歴史的建造物 No.50。建設年 明治5（1872）年 / 設計者 不詳。本堂の東方に位置する規模の大きい二重門。初層の左右からも出入りできる点に特徴がある。山門の左右に仁王像が安置されている。安政4（1857）年に托鉢で集めた浄財を基に、明治に入り再建に取り掛かったが、明治5年に廃仏毀釈の世相を受け工事を中断、現在は完成している。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.669405,139.472763",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜髙安寺山門",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/644/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "府中市",
+          "name": "髙安寺鐘楼",
+          "type": "東京都選定歴史的建造物 No.51",
+          "note": "東京都選定歴史的建造物 No.51。安政3（1856）年 / 設計者 不詳。袴腰付きで、虹梁型頭貫の木鼻位置には龍の丸彫を配している。 / 高安寺の鐘は江戸幕府の指定した「時の鐘」であった。創建当初の鐘は享和元（1801）年の火災で焼失し、現在の鐘は安政3年に改鋳された。下谷保の金屋関忠蔵父子が鋳造したとされる。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.669479,139.472346",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜髙安寺鐘楼",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/645/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "東久留米市",
+          "name": "自由学園初等部食堂",
+          "type": "東京都選定歴史的建造物 No.52",
+          "note": "東京都選定歴史的建造物 No.52。建設年 昭和6（1931）年 / 設計者 遠藤新。この建物は、既に建てられていた南側の4つの教室と呼応して、中央に配置され、両脇に中庭を囲む回廊と教室がある。建物とその周囲に児童のためのスケール感が漂っている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.753300,139.537359",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜自由学園初等部食堂",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/646/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "東久留米市",
+          "name": "ラーニングコモンズ(自由学園 男子部体育館)",
+          "type": "東京都選定歴史的建造物 No.55",
+          "note": "東京都選定歴史的建造物 No.55。建設年 昭和11（1936）年 / 設計者 遠藤新。正面は、高く大きな開口部をとって、多くの光が室内に入るようにしている。左右に張り出した2階建部分の下がアーチ型の出入口になっている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.754058,139.539809",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜ラーニングコモンズ(自由学園 男子部体育館)",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/841/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "聖母病院",
+          "type": "東京都選定歴史的建造物 No.56",
+          "note": "東京都選定歴史的建造物 No.56。建設年 昭和6（1931）年 / 設計者 マックス・ヒンデル。キリスト教の精神に基づき開院した国際病院で、うす茶色のタイル張りの外壁と建物の中央に立つ二つの塔が特徴となっている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.720008,139.694233",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜聖母病院",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/842/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "新宿区立林芙美子記念館",
+          "type": "東京都選定歴史的建造物 No.57",
+          "note": "東京都選定歴史的建造物 No.57。建設年 昭和16（1941）年 / 設計者 山口文象。作家・林芙美子が、住んでいた家。芙美子の生活棟と画家であった夫の緑敏のアトリエ棟の2棟で構成されている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.715868,139.684261",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜新宿区立林芙美子記念館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/843/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "明治神宮桃林荘",
+          "type": "東京都選定歴史的建造物 No.60",
+          "note": "東京都選定歴史的建造物 No.60。明治初期 / 設計者 不詳。明治神宮社殿の東方に建つ近代和風建築で、ガラス障子の縁側と廊下を巡らした書院造りの建物。もと一條家にあった茶室、華山亭が南側に付属している。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.674110,139.702984",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜明治神宮桃林荘",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/844/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "清明亭",
+          "type": "東京都選定歴史的建造物 No.61",
+          "note": "東京都選定歴史的建造物 No.61。建設年 昭和6（1931）年 / 設計者 大江新太郎。崖地を利用して、地上階の約半分が列柱により支えられた木造住宅。広間の東面に大きく張り出した一間半四方の釣殿が特徴である。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.623714,139.647709",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜清明亭",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/845/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "葛飾区",
+          "name": "葛飾区山本亭",
+          "type": "東京都選定歴史的建造物 No.62",
+          "note": "東京都選定歴史的建造物 No.62。大正末期～昭和初期 / 設計者 不詳。和風住居に洋風の接客部分を併設した、典型的な近代和風建築。南側の庭園は書院の庭園の形式をとどめており、昭和初期の邸宅の雰囲気をよく伝えている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.758018,139.880176",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜葛飾区山本亭",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/846/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "第一生命日比谷ファースト（旧DNタワー２１）",
+          "type": "東京都選定歴史的建造物 No.63",
+          "note": "東京都選定歴史的建造物 No.63。建設年 昭和13（1938）年 / 設計者 渡辺 仁、松本 与作。第二次世界大戦前最後の大作。外装は花崗岩を主とし、装飾を排したシンプルなモチーフの力強いデザインでまとめられている。 / 終戦後はＧＨＱ本部として使用された。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.6758374,139.7608173",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜第一生命日比谷ファースト（旧DNタワー２１）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/439/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "鈴木ビル",
+          "type": "東京都選定歴史的建造物 No.64",
+          "note": "東京都選定歴史的建造物 No.64。建設年 昭和4（1929）年 / 設計者 新 定蔵、山中設計事務所。公演や稽古事等に部屋を貸し出していた貸席建築である。 / 外観は馬蹄形の窓を持つ銅版葺きの屋根、デザインを変えた窓、一階円柱の幾何学的レリーフ、内部の壁に用いられている布目タイルなどが特徴。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.672066,139.771857",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜鈴木ビル",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/582/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "日本基督教団安藤記念教会会堂",
+          "type": "東京都選定歴史的建造物 No.65",
+          "note": "東京都選定歴史的建造物 No.65。建設年 大正6（1917）年 / 設計者 吉武長一。関東大震災前にしゅん工した教会堂の貴重な例。大谷石（一部小松石）の組積造の建物で、道路に面したアーチ型の窓にはステンドグラスがはめ込まれている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.652374,139.730567",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜日本基督教団安藤記念教会会堂",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/847/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "小笠原伯爵邸（旧小笠原邸）",
+          "type": "東京都選定歴史的建造物 No.66",
+          "note": "東京都選定歴史的建造物 No.66。建設年 昭和2（1927）年 / 設計者 曾根中條建築事務所。スパニッシュスタイルで構成された外観は、スペイン瓦やタイルの装飾壁面などにより優美な雰囲気を醸し出している。 / 喫煙室にはイスラム様式の装飾が施され、大理石モザイクタイル貼りの床、彩色漆喰彫刻の壁なども高く評価されている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.69850620370504,139.7174895476762",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜小笠原伯爵邸（旧小笠原邸）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/347/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "伊勢丹本店本館（伊勢丹新宿本店）",
+          "type": "東京都選定歴史的建造物 No.67",
+          "note": "東京都選定歴史的建造物 No.67。建設年 昭和元年（1926、1933）年 / 設計者 清水組。大正15年にしゅん工したほてい屋が昭和8年に伊勢丹に買収され、昭和10（1935）年に建物も合体された。 / 建築当時世界的に流行したアールデコ調の装飾をふんだんに使っている。装飾性の豊かな低層部分の上に、外観の柱で垂直線を強調した上層部分が続き、屋上には明治通りと新宿通りに面して二つの塔が建つ。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.691574,139.704647",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜伊勢丹本店本館（伊勢丹新宿本店）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/852/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "新宿御苑旧御凉亭（台湾閣）",
+          "type": "東京都選定歴史的建造物 No.68",
+          "note": "東京都選定歴史的建造物 No.68。建設年 昭和2（1927）年 / 設計者 森山 松之助。皇太子（後の昭和天皇）の御成婚を記念して献上された、池に面した建物。 / 卍形の平面をもつ御休息所をはじめ、屋根の形や色、内部装飾などで中国の建築にならっており、日本では数少ない本格的中国建築の一つ。 / 柱に台湾杉、天井の鏡板に台湾扁柏（へんぱく）や台湾桧など、台湾から取り寄せた部材が多く使われている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.684456,139.708773",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜新宿御苑旧御凉亭（台湾閣）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/444/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "東京大学広報センター（旧医師会事務局）",
+          "type": "東京都選定歴史的建造物 No.69",
+          "note": "東京都選定歴史的建造物 No.69。建設年 昭和元年（1926）年 / 設計者 岸田日出刀。急病者受付所（うけつけどころ）として竜岡門横に設けられた、ゲート・ロッジというヨーロッパ邸館建築の形式を踏襲した建物で、様式的にはマッシヴな（どっしりとした塊を思わせる）構成をとる。平成7（1995）年に改修を行い広報関係施設としてオープンした。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.708856,139.763887",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京大学広報センター（旧医師会事務局）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/848/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "東京大学七徳堂",
+          "type": "東京都選定歴史的建造物 No.70",
+          "note": "東京都選定歴史的建造物 No.70。建設年 昭和13（1938）年 / 設計者 内田祥三。本郷御殿下グラウンドの南に位置する高台にある、純日本式御殿造りの型を誇る武道場。屋根の反り、鬼瓦など天平風のもので、雄渾、剛健な気風をよく映している。中国の古典『春秋左氏伝』の「武に七徳あり」より、塩谷温博士により命名された。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.711177,139.763252",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京大学七徳堂",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/849/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "東京大学農学部３号館",
+          "type": "東京都選定歴史的建造物 No.71",
+          "note": "東京都選定歴史的建造物 No.71。建設年 昭和16（1941）年 / 設計者 内田祥三。関東大震災後の震災復興計画に採用された擬ゴシック様式を踏襲している。弥生キャンパスの農正門から入った右側に1号館、左側に2号館、正面奥に3号館が、ヴィスタを重視する配置で建設されている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.716557,139.760592",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京大学農学部３号館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/851/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "中央区十思スクエア（旧中央区立十思小学校）",
+          "type": "東京都選定歴史的建造物 No.72",
+          "note": "東京都選定歴史的建造物 No.72。建設年 昭和3（1928）年 / 設計者 東京市土木局建築課。関東大震災ののちに建築された復興小学校の一校。角地を利用した正面玄関は曲線で構成され、1階と3階にはアーチ型の意匠が用いられている。現在は、改修・整備され、福祉関係の複合施設として再利用されている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.690639,139.777109",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜中央区十思スクエア（旧中央区立十思小学校）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/854/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "港区立高輪台小学校",
+          "type": "東京都選定歴史的建造物 No.73",
+          "note": "東京都選定歴史的建造物 No.73。建設年 昭和10（1935）年 / 設計者 東京市土木局建築課。関東大震災ののちに建築された復興小学校の最後期の校舎。ガラス面を多くとった階段室や教室は、直線的なデザインで構成されており、モダニズム建築の先駆けといわれる。平成17（2005）年3月に耐震補強などの改修工事を終えた。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.636300,139.734314",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜港区立高輪台小学校",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/855/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "涼亭",
+          "type": "東京都選定歴史的建造物 No.74",
+          "note": "東京都選定歴史的建造物 No.74。建設年 明治42（1909）年 / 設計者 保岡勝也。東京都指定名勝の都立清澄庭園内の数奇屋造りの建物。屋根は、銅板葺きの寄棟造りで、座敷には、当時貴重であったガラス障子を用い、その外側三方に水上の吹抜縁を廻らしている。昭和60（1985）年に全面改修工事を行なっているが、創建時の姿を残している。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.679965,139.797605",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜涼亭",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/858/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "日本橋ダイヤビルディング（旧三菱倉庫江戸橋倉庫ビル）",
+          "type": "東京都選定歴史的建造物 No.76",
+          "note": "東京都選定歴史的建造物 No.76。建設年 昭和5（1930）年 / 設計者 三菱倉庫株式会社。都市型倉庫（都市内にあり、貨物の配給機構の一環として利 用される倉庫）の初期のものであり、わが国における表現派風建築の代表的作品。船橋を模した屋上の塔屋や上層階の半円窓など、船体を思わせる個性的な外観を持つ。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.683694,139.777479",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜日本橋ダイヤビルディング（旧三菱倉庫江戸橋倉庫ビル）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/859/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "両国橋",
+          "type": "東京都選定歴史的建造物 No.77",
+          "note": "東京都選定歴史的建造物 No.77。建設年 昭和7（1932）年 / 設計者 東京市。架設当時は、言問橋と並びわが国最大支間の橋として威容を誇った。土俵をデザインした円形のバルコニー等、相撲を意識した意匠が特徴。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.694308,139.788846",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜両国橋",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/860/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "言問橋",
+          "type": "東京都選定歴史的建造物 No.78",
+          "note": "東京都選定歴史的建造物 No.78。建設年 昭和3（1928）年 / 設計者 復興局。帝都復興計画で初めて架設された。直線的で力強いデザインが特徴。橋上内外の眺望と景観を考慮して設計された。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.714206,139.803395",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜言問橋",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/864/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "東大和市",
+          "name": "村山下貯水池第一取水塔",
+          "type": "東京都選定歴史的建造物 No.79",
+          "note": "東京都選定歴史的建造物 No.79。建設年 大正14（1925）年 / 設計者 玉置岩男。重厚なデザインのドーム屋根、柱型とアーチ窓でアクセントをつけたタイル張りの外壁が特徴。取水地のシンボル。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.761252,139.438721",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜村山下貯水池第一取水塔",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/866/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "高輪消防署二本榎出張所",
+          "type": "東京都選定歴史的建造物 No.81",
+          "note": "東京都選定歴史的建造物 No.81。建設年 昭和8（1933）年 / 設計者 越智操（警視庁総監会計課営繕係）。円筒形の望楼を中心に左右後方にウィングが伸びる魅力的な造形が最大の特徴。 / 尾根道の交差点に位置し、地域のシンボル的存在。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.635761,139.733257",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜高輪消防署二本榎出張所",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/519/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "聖心女子学院正門",
+          "type": "東京都選定歴史的建造物 No.82",
+          "note": "東京都選定歴史的建造物 No.82。建設年 明治42（1909）年 / 設計者 ヤン・レツル。聖心女子学院の玄関口にふさわしいクラシックな正門。亀の甲形の屋根や、亀の装飾が刻まれている門柱などが特徴。昭和10（1935）年、表通りにあったものを現在の場所に移設。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.641486,139.726768",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜聖心女子学院正門",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/868/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "東京藝術大学赤レンガ１号館",
+          "type": "東京都選定歴史的建造物 No.83",
+          "note": "東京都選定歴史的建造物 No.83。建設年 明治13（1880）年 / 設計者 林忠恕。旧上野教育博物館書籍閲覧所書庫。東京に現存する最古のれんが造で、明治初期建築の意匠の特徴を様々に有している。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.719521,139.772137",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京藝術大学赤レンガ１号館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/869/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "東京藝術大学赤レンガ２号館",
+          "type": "東京都選定歴史的建造物 No.84",
+          "note": "東京都選定歴史的建造物 No.84。建設年 明治19（1886）年 / 設計者 小島憲之。旧東京図書館書籍庫。現存するれんが造としては、隣接する赤れんが1号館に次いで都内で2番目に古い。入口の尖塔アーチや最上部の丸窓などが特徴的。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.719617,139.772017",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京藝術大学赤レンガ２号館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/871/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "東京藝術大学陳列館",
+          "type": "東京都選定歴史的建造物 No.85",
+          "note": "東京都選定歴史的建造物 No.85。建設年 昭和4（1929）年 / 設計者 岡田信一郎。学生等の作品の展示施設。黒田記念館とともに、茶色のスクラッチタイル張りの調和のとれた景観を形成。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.718890,139.772487",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京藝術大学陳列館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/873/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "東京藝術大学正木記念館",
+          "type": "東京都選定歴史的建造物 No.86",
+          "note": "東京都選定歴史的建造物 No.86。建設年 昭和10（1935）年 / 設計者 金澤庸治。東京美術学校5代校長・正木直彦の業績を記念して建てられた作品陳列館。昭和初期に流行したRC造の躯体に城郭風の屋根を載せた帝冠様式が特徴。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.718711,139.772786",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京藝術大学正木記念館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/874/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "東京藝術大学旧東京美術学校玄関",
+          "type": "東京都選定歴史的建造物 No.87",
+          "note": "東京都選定歴史的建造物 No.87。建設年 大正2（1913）年 / 設計者 文部省建築課（鳥海他郎）・大澤三之助・古宇田實。昭和47（1972）年の学校本館取り壊しの際、玄関部分のみ正木記念館中庭に移築。周囲とよく調和しており、移築保存の好例。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.719202,139.771885",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京藝術大学旧東京美術学校玄関",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/875/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "日野市",
+          "name": "渡邉家（蔵）",
+          "type": "東京都選定歴史的建造物 No.88",
+          "note": "東京都選定歴史的建造物 No.88。江戸末期～明治初期 / 設計者 不詳。旧甲州街道沿いの店蔵。建設当初は土蔵であったが、関東大震災の影響を受け、昭和5（1930）年に大谷石による張石蔵へと改修されている。日野宿の文化を物語る貴重な建物。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.67905,139.397784",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜渡邉家（蔵）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/876/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "宮川食鳥鶏卵",
+          "type": "東京都選定歴史的建造物 No.89",
+          "note": "東京都選定歴史的建造物 No.89。建設年 昭和4（1929）年 / 設計者 不詳。東京及び近県で、関東大震災以降に多く建てられた看板建築の一つ、壁材の銅板が青黒く見え、昭和初期の商店の雰囲気を醸し出している。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.669463,139.772047",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜宮川食鳥鶏卵",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/877/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "府中市",
+          "name": "聖将山東郷寺山門",
+          "type": "東京都選定歴史的建造物 No.90",
+          "note": "東京都選定歴史的建造物 No.90。建設年 昭和15（1940）年 / 設計者 伊東忠太。通常の八脚門に比べて規模が格段に大きく、装飾的要素が少ないことが、なお雄大さを際立たせている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.664109,139.499859",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜聖将山東郷寺山門",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/879/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "奥多摩町",
+          "name": "丹三郎屋敷長屋門",
+          "type": "東京都選定歴史的建造物 No.91",
+          "note": "東京都選定歴史的建造物 No.91。江戸中期 / 設計者 不詳。門の両側に部屋が連なる形式の長屋門。吉野街道沿いの集落にあり、奥多摩における四季折々の美しい里山景観を形成している。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.810659,139.154508",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜丹三郎屋敷長屋門",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/881/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "国分寺市",
+          "name": "大倉喜八郎 進一層館（Forward Hall）",
+          "type": "東京都選定歴史的建造物 No.92",
+          "note": "東京都選定歴史的建造物 No.92。建設年 昭和43（1968）年 / 設計者 鬼頭梓建築設計事務所。本建築は東京経済大学キャンパス内の園路の軸線上に正面を構え、創設者の銅像とともに大学の象徴的な建築となっている。 / キャンパス裏側の公開空地からも崖上に立地する本建築を樹木越しに視認することができる。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.698687,139.490225",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜大倉喜八郎 進一層館（Forward Hall）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/884/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "小平市",
+          "name": "武蔵野美術大学４号館",
+          "type": "東京都選定歴史的建造物 No.93",
+          "note": "東京都選定歴史的建造物 No.93。建設年 昭和39（1964）年 / 設計者 芦原義信建築設計研究所。隣接地と校舎に囲まれ公道から見えないが、本建築の前面は開けた広場となっており、特徴ある外観が良く確認できる。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.728084,139.447096",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜武蔵野美術大学４号館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/887/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "八王子市",
+          "name": "大学セミナーハウス本館",
+          "type": "東京都選定歴史的建造物 No.94",
+          "note": "東京都選定歴史的建造物 No.94。建設年 昭和40（1965）年 / 設計者 吉阪隆正＋Ｕ研究室。野猿街道の野猿峠交差点より南側の丘陵地に建つ。園内には樹木が生い茂っているが、丘の上に建つ特徴的な外観が園内遠方からも良く確認できるほか、野猿峠交差点からも外観が視認できる。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.630349,139.36554",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜大学セミナーハウス本館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/888/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "普連土学園中学校舎",
+          "type": "東京都選定歴史的建造物 No.95",
+          "note": "東京都選定歴史的建造物 No.95。建設年 昭和43（1968）年 / 設計者 大江宏。JR線田町駅、都営線三田駅から徒歩圏内に位置し、慶應義塾大学正門前より長延寺の墓地を右手に坂を上った丘の上に建つ。建物の三方が道路に面し、道路から特徴的な外観が良く望める。敷地内の植栽や周辺の寺社、住宅地とともに、落ち着いた景観を創出している。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.646489,139.741669",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜普連土学園中学校舎",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/890/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "紀伊國屋ビルディング",
+          "type": "東京都選定歴史的建造物 No.96",
+          "note": "東京都選定歴史的建造物 No.96。建設年 昭和39（1964）年 / 設計者 前川國男。新宿駅東口側、新宿通りに面して建つ。同程度の高さの建築が建ち並ぶ中、通り沿いから特徴的な外観が良く確認できる。街区を通して計画されており、新宿通りから背面の路地まで通行でき、路地から背面外観が良く確認できる。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.691968,139.702823",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜紀伊國屋ビルディング",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1081/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "三鷹市",
+          "name": "ルーテル学院大学（旧日本ルーテル神学大学）チャペル",
+          "type": "東京都選定歴史的建造物 No.97",
+          "note": "東京都選定歴史的建造物 No.97。建設年 昭和44（1969）年 / 設計者 村野・森建築事務所。国際基督教大学に隣接した雑木林の中に建ち、敷地西側、南側が樹木で囲まれている。前面道路より、図書館側からは雑木林を通して大教室、図書館の外観が確認でき、校庭側からはチャペルなどの外観が良く確認できる",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.6884,139.535497",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜ルーテル学院大学（旧日本ルーテル神学大学）チャペル",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/891/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "三鷹市",
+          "name": "ルーテル学院大学（旧日本ルーテル神学大学）本館",
+          "type": "東京都選定歴史的建造物 No.98",
+          "note": "東京都選定歴史的建造物 No.98。建設年 昭和44（1969）年 / 設計者 村野・森建築事務所。国際基督教大学に隣接した雑木林の中に建ち、敷地西側、南側が樹木で囲まれている。前面道路より、図書館側からは雑木林を通して大教室、図書館の外観が確認でき、校庭側からはチャペルなどの外観が良く確認できる。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.688279,139.535221",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜ルーテル学院大学（旧日本ルーテル神学大学）本館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/892/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "三鷹市",
+          "name": "ルーテル学院大学（旧日本ルーテル神学大学）図書館",
+          "type": "東京都選定歴史的建造物 No.99",
+          "note": "東京都選定歴史的建造物 No.99。建設年 昭和44（1969）年 / 設計者 村野・森建築事務所。国際基督教大学に隣接した雑木林の中に建ち、敷地西側、南側が樹木で囲まれている。前面道路より、図書館側からは雑木林を通して大教室、図書館の外観が確認でき、校庭側からはチャペルなどの外観が良く確認できる。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.68864,139.53498",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜ルーテル学院大学（旧日本ルーテル神学大学）図書館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/893/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "三鷹市",
+          "name": "ルーテル学院大学（旧日本ルーテル神学大学）寮棟",
+          "type": "東京都選定歴史的建造物 No.100",
+          "note": "東京都選定歴史的建造物 No.100。建設年 昭和44（1969）年 / 設計者 村野・森建築事務所。国際基督教大学に隣接した雑木林の中に建ち、敷地西側、南側が樹木で囲まれている。前面道路より、図書館側からは雑木林を通して大教室、図書館の外観が確認でき、校庭側からはチャペルなどの外観が良く確認できる。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.687748102673034,%20139.53523088720294",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜ルーテル学院大学（旧日本ルーテル神学大学）寮棟",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/894/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "品川区",
+          "name": "カトリック目黒教会聖アンセルモ聖堂",
+          "type": "東京都選定歴史的建造物 No.101",
+          "note": "東京都選定歴史的建造物 No.101。建設年 昭和31（1956）年 / 設計者 アントニン・レーモンド。レーモンドは縦15m、横30m、高さ15mというデザイン上最も美しい比例といわれるモジュールをもとに、壁と天井を折板構造にし、そして側壁のスリットからは東に向けて光線が入るという、ダイナミックかつ静寂を満たし、日本の伝統とモダニズムを統合した聖堂を完成させた。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.632074,139.715464",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜カトリック目黒教会聖アンセルモ聖堂",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/895/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "根津二丁目の蔵（クラシックガーデン文京根津）",
+          "type": "東京都選定歴史的建造物（選定番号未記載）",
+          "note": "東京都選定歴史的建造物（選定番号未記載）。建設年 明治43（1910）年 / 設計者 不詳。明治時代に建てられた旧邸宅の跡地に建つ。 / 旧邸宅にあった蔵を移築改修し、飲食店として活用されている。 / また、蔵とともに旧邸宅時代の日本庭園も残されており、当時の邸宅の趣を今に伝えている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.718089,139.766965",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜根津二丁目の蔵（クラシックガーデン文京根津）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/450/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "青梅市",
+          "name": "寿々喜家",
+          "type": "東京都選定歴史的建造物（選定番号未記載）",
+          "note": "東京都選定歴史的建造物（選定番号未記載）。明治中期 / 設計者 不詳。創業明治34（1901）年の老舗飲食店。当時では珍しい木造３階建ての建物であり、カウンターのほか、奥には座敷を設ける。小説家池波正太郎も通ったお店でもある。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.789514,139.259888",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜寿々喜家",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/896/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "青梅市",
+          "name": "永濱邸",
+          "type": "東京都選定歴史的建造物（選定番号未記載）",
+          "note": "東京都選定歴史的建造物（選定番号未記載）。昭和 / 設計者 不詳。旧青梅街道沿いに建つ昭和期のモルタル看板建築である。 / 正面窓の上部には、三角形をモチーフとした装飾があり、同様の意匠が側面の窓の上部にも施されており、砂岩風の外壁も特徴的である。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B8%E6%BF%B1%E9%82%B8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E9%9D%92%E6%A2%85%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜永濱邸",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/882/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "青梅市",
+          "name": "昭和レトロ商品博物館",
+          "type": "東京都選定歴史的建造物（選定番号未記載）",
+          "note": "東京都選定歴史的建造物（選定番号未記載）。明治～大正期 / 設計者 不詳。「昭和レトロ商品博物館」は旧青梅街道沿いに建ち、青梅駅前で進めている「昭和レトロ」をテーマとしたまちづくりの中心的存在である。本建物は当時の商店としての町家の構えを持ち、館内の昭和商品とともに、昭和の面影を今に伝えている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.788721,139.260481",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜昭和レトロ商品博物館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/898/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "塔の家",
+          "type": "東京都選定歴史的建造物 No.106",
+          "note": "東京都選定歴史的建造物 No.106。建設年 昭和41（1966）年 / 設計者 東孝光。設計者の自宅として外苑西通りに面して約20㎡の敷地に建てられた戸建の住宅。 / 都市に住むことにこだわり、縦に空間を積み上げた住宅である。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.671262,139.713268",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜塔の家",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/584/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "ヒルサイドテラス A・B棟",
+          "type": "東京都選定歴史的建造物 No.107",
+          "note": "東京都選定歴史的建造物 No.107。/ 設計者 槇文彦。共同住宅・店舗・事務所からなる、旧山手通り沿いの集合建築「ヒルサイドテラス」第1期の2棟。区道との交差点に面するA棟と、隣接するB棟の2棟とも、外観が良く確認できる。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.647414,139.701493",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜ヒルサイドテラス A・B棟",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/899/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "旧博物館動物園駅駅舎",
+          "type": "東京都選定歴史的建造物 No.108",
+          "note": "東京都選定歴史的建造物 No.108。建設年 昭和8（1933）年 / 設計者 不詳。京成電気軌道の地下駅として開業した旧博物館動物園駅（廃止）の駅舎。東京国立博物館・東京藝術大学・都立上野恩賜公園に囲まれた交差点の角地に面し、方形屋根で円柱の付いた出入口部分と陸屋根の階段部分を組み合わせた外観が良く確認できる。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.718636,139.773472",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜旧博物館動物園駅駅舎",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/900/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江戸川区",
+          "name": "旧小松川 閘門",
+          "type": "東京都選定歴史的建造物 No.109",
+          "note": "東京都選定歴史的建造物 No.109。建設年 昭和5（1930）年 / 設計者 内務省土木局東京土木出張所荒川下流改修事務所。荒川放水路（今の荒川）開削工事において建設され、舟運確保を目的として、水位の異なる旧中川・小名木川と荒川放水路を結んでいた 閘門（こうもん）の一つ。旧中川側の 後扉（こうひ）が、昭和50年代の閉鎖後、市街地再開発事業による盛土を経て、都立大島小松川公園に囲まれ残っている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.685843,139.848071",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜旧小松川 閘門",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/901/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "万世橋（一般国道17号）",
+          "type": "東京都選定歴史的建造物 No.110",
+          "note": "東京都選定歴史的建造物 No.110。建設年 昭和5（1930）年 / 設計者 東京市土木局。関東大震災後の復興事業において架けられた、旧中山道の近く、かつ中央通りにある橋。親柱の照明灯、花模様の高欄やランプ・汽車をモチーフとした歩車道分離柵は、昭和61（1986）年度の改修時のもの。名称「まんせいばし」は、明治6（1873）年に架けられた東京最初の石橋「 萬世 よろずよ （代）橋」に由来する。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.697316,139.771050",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜万世橋（一般国道17号）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/902/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "福生市",
+          "name": "日光橋",
+          "type": "東京都選定歴史的建造物 No.111",
+          "note": "東京都選定歴史的建造物 No.111。明治24年（1891年）、昭和25年（1950年）（拡幅） / 設計者 倉田吉嗣、不詳。玉川上水に架かる橋。れんがアーチ橋の両側を鉄筋コンクリートアーチ橋で挟んで拡幅しており、水面上にれんがの一部を見ることができる。名称は、江戸幕府に仕えた八王子千人同心が日光との往還に利用した、日光街道に由来する。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.722852,139.343474",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜日光橋",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/903/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "東京都北区立中央図書館 （旧東京第一陸軍造兵廠第一製造所 赤レンガ棟）",
+          "type": "東京都選定歴史的建造物 No.112",
+          "note": "東京都選定歴史的建造物 No.112。建設年 大正8（1919）年 / 設計者 不詳。本建造物は、工場棟であった旧275号棟が保存され、増築されるとともに、その内部が図書館として活用されている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.756281,139.729072",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京都北区立中央図書館 （旧東京第一陸軍造兵廠第一製造所 赤レンガ棟）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/904/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "東京都北区立中央公園文化センター（旧東京第一陸軍造兵廠本部事務所）",
+          "type": "東京都選定歴史的建造物 No.113",
+          "note": "東京都選定歴史的建造物 No.113。建設年 昭和5（1930）年 / 設計者 不詳。東京第一陸軍造兵廠（兵器工場）の本部として建てられた。戦後、米軍からの返還以降、昭和56年から文化センターとして活用している。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.75313,139.727323",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京都北区立中央公園文化センター（旧東京第一陸軍造兵廠本部事務所）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/906/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "カトリック赤羽教会",
+          "type": "東京都選定歴史的建造物 No.114",
+          "note": "東京都選定歴史的建造物 No.114。建設年 昭和26（1951）年 / 設計者 不詳。昭和26年に赤羽駅前に落成した教会堂。「被昇天の聖母マリア」に捧げられた事から「被昇天の聖母カトリック赤羽教会」と呼ばれている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.778828,139.72323",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜カトリック赤羽教会",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/907/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "小平市",
+          "name": "小平市平櫛田中彫刻美術館記念館（旧平櫛田中邸）",
+          "type": "東京都選定歴史的建造物 No.115",
+          "note": "東京都選定歴史的建造物 No.115。建設年 昭和44（1969）年 / 設計者 大江宏。大江宏の設計による彫刻家平櫛田中の旧宅。内部の和室には、彫刻家平櫛田中の生活感がそのまま残されている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.717987,139.475571",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜小平市平櫛田中彫刻美術館記念館（旧平櫛田中邸）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/908/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "光風亭（旧馬場正治烏山別邸）",
+          "type": "東京都選定歴史的建造物 No.116",
+          "note": "東京都選定歴史的建造物 No.116。建設年 昭和12（1937）年 / 設計者 吉田鉄郎。馬場海運の社長であった馬場正治の別邸として、本地域の中に建築された、日本の初期モダニズムを代表する建築物である。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.661718,139.593303",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜光風亭（旧馬場正治烏山別邸）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/468/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "上智大学一号館",
+          "type": "東京都選定歴史的建造物 No.117",
+          "note": "東京都選定歴史的建造物 No.117。建設年 昭和7（1932）年 / 設計者 マックス・ヒンデル建築事務所。大正から昭和初期にかけて、日本各地のカトリック教会を設計したスイス人マックス・ヒンデルの手によるドイツ風の学校建築で、残存例として貴重な建物である。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.683821,139.731633",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜上智大学一号館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/909/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "鳳明館台町別館",
+          "type": "東京都選定歴史的建造物 No.118",
+          "note": "東京都選定歴史的建造物 No.118。建設年 昭和26（1951）年 / 設計者 不詳。多くの文豪に親しまれていた本郷地区の歴史的な景観を、道路を挟んで立地している鳳明館本館（国登録有形文化財）と一体になって形成している貴重な建築物である。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.711265,139.7566",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜鳳明館台町別館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/910/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "日証館",
+          "type": "東京都選定歴史的建造物 No.119",
+          "note": "東京都選定歴史的建造物 No.119。建設年 昭和3（1928）年 / 設計者 横河工務所（横河民輔）。建築家横河民輔が設立した横河工務所の代表的な建築作品である。 / 基壇の大きな石貼り、入口と最上階のアーチ窓が並ぶ重厚な意匠が、証券会社が立ち並んでいた日本橋兜町の歴史的景観今に伝える建物である。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.683377,139.778715",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜日証館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1119/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "東京大学 龍岡門（門、門衛所）",
+          "type": "東京都選定歴史的建造物 No.120",
+          "note": "東京都選定歴史的建造物 No.120。建設年 昭和8（1933）年 / 設計者 不詳。キャンパス内の校舎群、都選定歴史的建造物に選定された広報センター、それぞれ建築年次の異なる建造物と一体的な景観を構成している。 / キャンパス内の病院の入り口であり、かつ道路の曲がり角にも位置することから、地域のランドマークとしての役割を果たしている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.708827,139.763822",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京大学 龍岡門（門、門衛所）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1122/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "東京大学 農正門（門、農学部門衛所、農学資料館）",
+          "type": "東京都選定歴史的建造物 No.121",
+          "note": "東京都選定歴史的建造物 No.121。建設年 昭和12（1937）年 / 設計者 不詳。弥生キャンパス（東京大学農学部）の正門として、キャンパス内の校舎群と木々の緑が一体的となり風格ある景観を構成している。 / 中山道の曲がり角に位置し、地域及び街道のランドマークとしての役割も果たしている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.716205,139.758711",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京大学 農正門（門、農学部門衛所、農学資料館）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1126/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "東京大学 弥生門（門、門衛所）",
+          "type": "東京都選定歴史的建造物 No.122",
+          "note": "東京都選定歴史的建造物 No.122。建設年 昭和12（1937）年 / 設計者 不詳。言問い通りから暗闇坂に続く特徴的な堀や、本郷キャンパス内の校舎群とも一体的な景観を構成しており、地域のランドマークとしての役割を果たしている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.714861,139.762939",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京大学 弥生門（門、門衛所）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1130/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "早稲田大学1号館",
+          "type": "東京都選定歴史的建造物 No.123",
+          "note": "東京都選定歴史的建造物 No.123。建設年 昭和10（1935）年 / 設計者 早稲田大学営繕課（桐山均一）。早稲田大学法学部校舎として昭和10年に建てられた。 / 入口には、明治期に正門となっていた門柱を加工した一対の御影石円柱があり、大学の歴史を伝えている。 / 早稲田キャンパスの正門付近に位置しており、大隈記念講堂とあわせて地域の歴史的景観を特徴付けている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.709327,139.72077",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜早稲田大学1号館",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1133/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "八芳園（壺中庵）",
+          "type": "東京都選定歴史的建造物 No.124",
+          "note": "東京都選定歴史的建造物 No.124。明治末期 / 設計者 不詳。明治の大実業家渋沢栄一の従兄弟に当たる渋沢喜作の屋敷を、日立製作所などの基礎を築いた久原房之介が譲り受け、銀座等で割烹などを経営していた長谷敏司に庭園の一部と屋敷を提供して飲食店が開業し今に至る。 / 庭園には多くの人が散策に訪れており、屋敷と一体となって地域の重要な景観資源となっている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.638475,139.728646",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜八芳園（壺中庵）",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1138/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "日本基督教団 高輪教会",
+          "type": "東京都選定歴史的建造物 No.125",
+          "note": "東京都選定歴史的建造物 No.125。建設年 昭和8（1933）年 / 設計者 岡見健彦。F.L.ライトの工房（タリアセン）から帰国したばかりの岡見健彦が、昭和 8年に設計した木造の教会堂で、外観・内観ともに、柱・壁を組み合わせたシンプルな構成美が特徴の建築物である。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.634936065122815,139.73301000633927",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜日本基督教団 高輪教会",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1185/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "常盤堂雷おこし本舗 雷門本店",
+          "type": "東京都選定歴史的建造物 No.126",
+          "note": "東京都選定歴史的建造物 No.126。建設年 昭和29（1954）年 / 設計者 不明。浅草寺に対比した鉄筋和風造りで、昭和29 年に建てられた建築物である。地域の重要な景観資源である雷門と一体となって、浅草寺一帯の歴史的景観を特徴づけている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.71142090548389,139.7960941998036",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜常盤堂雷おこし本舗 雷門本店",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1187/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "曙湯",
+          "type": "東京都選定歴史的建造物 No.127",
+          "note": "東京都選定歴史的建造物 No.127。建設年 昭和23（1948）年 / 設計者 不明。中高層のビル等に囲まれた中にあって、「鶴と松」が彫られた兎毛通し等の建築意匠と道路側の藤ノ木が、特徴ある景観を形成しており、地域のランドマークとなっている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.72096941831349,139.79534129129166",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜曙湯",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1188/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "鶴の湯",
+          "type": "東京都選定歴史的建造物 No.128",
+          "note": "東京都選定歴史的建造物 No.128。建設年 昭和2（1927）年 / 設計者 不明。屋根の入母屋破風や玄関の唐破風、雲取りの施された木塀等、細部にまで配慮された意匠が際立っており、周辺環境と相まって親しみを感じさせる景観を形成している。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.704352679665355,139.78347514579153",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜鶴の湯",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1189/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "品川区",
+          "name": "東京浴場",
+          "type": "東京都選定歴史的建造物 No.129",
+          "note": "東京都選定歴史的建造物 No.129。建設年 昭和20（1945）年 / 設計者 不明。高く突き出た煙突と松ノ木がバランスよく配置されており、道路からの視認性も高いことから、地域のランドマークとしての役割を果たしている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.60378027883511,139.72888805125638",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜東京浴場",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1190/"
+            }
+          ]
+        },
+        {
+          "prefecture": "東京都",
+          "city": "大田区",
+          "name": "明神湯",
+          "type": "東京都選定歴史的建造物 No.130",
+          "note": "東京都選定歴史的建造物 No.130。建設年 昭和31（1956）年 / 設計者 不明。建設当時からの建築意匠がよく残されており、玄関の唐破風と兎毛通し等細部にまで配慮された意匠が、ひときわ異彩を放ち、地域のランドマークとなっている。",
+          "official": "https://with-tokyorekiken.metro.tokyo.lg.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=35.58972056602521,139.69013292082315",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京歴建公式｜明神湯",
+              "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/tokyo-rekiken/1191/"
+            }
+          ]
         }
       ]
     }
