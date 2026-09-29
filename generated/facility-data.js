@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 40,
-  "total": 1431,
+  "materialCount": 41,
+  "total": 1450,
   "materials": [
     {
       "id": "botanical",
@@ -16429,7 +16429,7 @@ window.FACILITY_DATASET={
       "name": "地域文化施設",
       "shortName": "地域文化施設",
       "file": "地域文化施設.csv",
-      "count": 48,
+      "count": 47,
       "items": [
         {
           "prefecture": "北海道",
@@ -16590,24 +16590,6 @@ window.FACILITY_DATASET={
             {
               "title": "船橋市郷土資料館の訪問記（食文化展）",
               "url": "https://ameblo.jp/eveningshower/entry-12860048087.html"
-            }
-          ]
-        },
-        {
-          "prefecture": "東京都",
-          "city": "小金井市",
-          "name": "江戸東京たてもの園",
-          "type": "地域文化施設",
-          "note": "東京の郊外・下町・商業地で使われた建物を移築保存し、都市の住まいと仕事の場を実物空間で継承する。",
-          "official": "https://www.tatemonoen.jp/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E6%88%B8%E6%9D%B1%E4%BA%AC%E3%81%9F%E3%81%A6%E3%82%82%E3%81%AE%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": [
-            {
-              "title": "江戸東京たてもの園の写真訪問記",
-              "url": "https://www.camera-girls.net/magazine/photospot/tatemonoen/"
             }
           ]
         },
@@ -17564,7 +17546,7 @@ window.FACILITY_DATASET={
       "name": "古いビル",
       "shortName": "古いビル",
       "file": "古いビル.csv",
-      "count": 15,
+      "count": 14,
       "items": [
         {
           "prefecture": "東京都",
@@ -17748,19 +17730,6 @@ window.FACILITY_DATASET={
           "note": "1965年竣工、有楽町駅前の地上15階・地下4階の複合ビル。",
           "official": "https://www.kotsukaikan.co.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E6%9C%89%E6%A5%BD%E7%94%BA2-10-1",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "東京都",
-          "city": "中央区",
-          "name": "銀座ライオンビル",
-          "type": "古いビル",
-          "note": "1934年創建の旧大日本麦酒本社系ビヤホール建築で、現存するビヤホールの内装と大空間を営業中の店舗として体験できる。",
-          "official": "https://www.ginzalion.jp/shop/brand/lionginza7/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A77-9-20%20%E9%8A%80%E5%BA%A7%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%93%E3%83%AB",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
@@ -20133,7 +20102,7 @@ window.FACILITY_DATASET={
       "name": "用途転換された歴史的建築",
       "shortName": "用途転換された歴史的建築",
       "file": "用途転換された歴史的建築.csv",
-      "count": 72,
+      "count": 70,
       "items": [
         {
           "prefecture": "神奈川県",
@@ -20691,19 +20660,6 @@ window.FACILITY_DATASET={
         {
           "prefecture": "大阪府",
           "city": "大阪市中央区",
-          "name": "芝川ビル",
-          "type": "旧事務所ビル→店舗・飲食施設",
-          "note": "1927年竣工の近代オフィスビル。現在は菓子店・飲食店・物販店などが入居し、マヤ・インカ風装飾と地下金庫を残す。",
-          "official": "https://shibakawa-bld.net/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%9D%E5%B7%9D%E3%83%93%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
-        },
-        {
-          "prefecture": "大阪府",
-          "city": "大阪市中央区",
           "name": "北浜レトロビルヂング",
           "type": "旧株仲買商・商社事務所→紅茶店・菓子店",
           "note": "1912年建築の株式関係者の集会所・商館。戦後は商社本社として使われ、1997年から英国菓子舗・紅茶室として営業。地下金庫も残る。",
@@ -21023,19 +20979,6 @@ window.FACILITY_DATASET={
               "url": "https://visit-chiyoda.tokyo/app/spot/detail/60"
             }
           ]
-        },
-        {
-          "prefecture": "神奈川県",
-          "city": "横浜市中区",
-          "name": "ホテルニューグランド",
-          "type": "ホテル→GHQ将校宿舎→ホテル",
-          "note": "1927年開業のホテル。1945年8月から1952年6月まで全館が米軍に接収され、GHQ将校宿舎として使用された。接収解除後の1952年7月に営業を再開し、現在も本館をホテル・レストランとして利用。",
-          "official": "https://www.hotel-newgrand.co.jp/corporate/",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
-          "kind": "",
-          "officialSearch": "",
-          "mapQueryName": "",
-          "relatedLinks": []
         },
         {
           "prefecture": "東京都",
@@ -21904,7 +21847,7 @@ window.FACILITY_DATASET={
       "name": "役所・庁舎の市民開放空間",
       "shortName": "役所・庁舎の市民開放空間",
       "file": "役所・庁舎の市民開放空間.csv",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "prefecture": "東京都",
@@ -22048,22 +21991,6 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou"
-          }
-        },
-        {
-          "prefecture": "東京都",
-          "city": "目黒区",
-          "name": "目黒区総合庁舎「めぐろ十五庭」",
-          "type": "区役所屋上庭園",
-          "note": "目黒区総合庁舎本館屋上の庭園。区民の憩い・交流の場として、区役所開庁日の9:00〜16:30に一般開放される。天候や管理作業で閉園する場合がある。",
-          "official": "https://www.city.meguro.tokyo.jp/soumu/shisetsu/koukyoushisetsu/7.html",
-          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%B7%8F%E5%90%88%E5%BA%81%E8%88%8E%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
-          "kind": "役所・庁舎の市民開放空間",
-          "officialSearch": "",
-          "mapQueryName": "目黒区総合庁舎",
-          "relatedLinks": [],
-          "extra": {
-            "参照": "公式サイト：https://www.city.meguro.tokyo.jp/soumu/shisetsu/koukyoushisetsu/7.html"
           }
         },
         {
@@ -24997,6 +24924,328 @@ window.FACILITY_DATASET={
           "note": "スッパイマンで知られる菓子メーカーの直売店。昔ながらの駄菓子屋の売場、詰め放題、沖縄限定商品、商店限定商品が工場隣接の店舗に混在する。",
           "official": "https://www.amaume.co.jp/shop/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E8%B1%8A%E8%A6%8B%E5%9F%8E%E5%B8%82%E8%B1%8A%E5%B4%8E%EF%BC%93%EF%BC%96%EF%BC%94",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        }
+      ]
+    },
+    {
+      "id": "csv-c51fcc5dbc6c5cb6c2d4",
+      "number": 41,
+      "name": "名建築で昼食を",
+      "shortName": "名建築で昼食を",
+      "file": "名建築で昼食を.csv",
+      "count": 24,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "アンスティチュ・フランセ東京",
+          "type": "東京編",
+          "note": "『名建築で昼食を』東京編第1話登場。坂倉準三設計、1952年開設のフランス政府公式文化施設で、モダニズム建築と中庭・カフェを現在も利用できる。",
+          "official": "https://www.institutfrancais.jp/tokyo/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%81%E3%83%A5%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BB%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "自由学園明日館",
+          "type": "東京編",
+          "note": "『名建築で昼食を』東京編第2話登場。フランク・ロイド・ライトと遠藤新が設計し1921年に竣工した校舎を、公開施設・講堂・喫茶として保存活用。",
+          "official": "https://jiyu.jp/myonichikan/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%87%AA%E7%94%B1%E5%AD%A6%E5%9C%92%E6%98%8E%E6%97%A5%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "ビヤホールライオン 銀座七丁目店",
+          "type": "東京編",
+          "note": "『名建築で昼食を』東京編第3話登場。1934年竣工の銀座ライオンビル1階に残る大空間のビヤホールで、創建時の壁画・照明・内装を営業中に見学できる。",
+          "official": "https://www.ginzalion.jp/shop/brand/lionginza7/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%93%E3%83%A4%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%20%E9%8A%80%E5%BA%A7%E4%B8%83%E4%B8%81%E7%9B%AE%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "東京都庭園美術館",
+          "type": "東京編",
+          "note": "『名建築で昼食を』東京編第4話登場。旧朝香宮邸として1933年に竣工したアール・デコ建築（設計：アンリ・ラパン、宮内省内匠寮）を本館として保存し、現在は美術館として公開。",
+          "official": "https://www.teien-art-museum.ne.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%BA%AD%E5%9C%92%E7%BE%8E%E8%A1%93%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "目黒区",
+          "name": "目黒区総合庁舎「めぐろ十五庭」",
+          "type": "東京編",
+          "note": "『名建築で昼食を』東京編第5話登場。村野藤吾設計、旧千代田生命本社として1966年に竣工した建築を庁舎へ転用し、屋上庭園と螺旋階段を現在も一般利用できる。",
+          "official": "https://www.city.meguro.tokyo.jp/soumu/shisetsu/koukyoushisetsu/7.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%B7%8F%E5%90%88%E5%BA%81%E8%88%8E%E3%80%8C%E3%82%81%E3%81%90%E3%82%8D%E5%8D%81%E4%BA%94%E5%BA%AD%E3%80%8D%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "国際文化会館",
+          "type": "東京編",
+          "note": "『名建築で昼食を』東京編第6話登場。前川國男・坂倉準三・吉村順三設計、1955年竣工の国際交流施設で、庭園と建築を一般利用者が訪問できる。",
+          "official": "https://ihj.global/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E9%9A%9B%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "山の上ホテル",
+          "type": "東京編",
+          "note": "『名建築で昼食を』東京編第7話登場。ウィリアム・メレル・ヴォーリズ設計、1937年竣工のホテル建築。2024年から全館休業中で、再開・見学条件は公式発表を要確認。",
+          "official": "https://www.yamanoue-hotel.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E3%81%AE%E4%B8%8A%E3%83%9B%E3%83%86%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "町田市",
+          "name": "旧白洲邸 武相荘",
+          "type": "東京編",
+          "note": "『名建築で昼食を』東京編第8話登場。白洲次郎・正子夫妻が暮らした旧邸宅を保存公開する施設で、茅葺の主屋と庭、資料展示を見学できる。",
+          "official": "https://buaiso.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A7%E7%99%BD%E6%B4%B2%E9%82%B8%20%E6%AD%A6%E7%9B%B8%E8%8D%98%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%94%BA%E7%94%B0%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "台東区",
+          "name": "国立国会図書館 国際子ども図書館",
+          "type": "東京編",
+          "note": "『名建築で昼食を』東京編第9話登場。久留正道設計の旧帝国図書館レンガ棟（1906年）を保存・再利用した児童書専門図書館で、建物と閲覧空間を一般利用できる。",
+          "official": "https://www.kodomo.go.jp/about/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E5%9B%BD%E9%9A%9B%E5%AD%90%E3%81%A9%E3%82%82%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8F%B0%E6%9D%B1%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "東京都",
+          "city": "小金井市",
+          "name": "江戸東京たてもの園",
+          "type": "東京編",
+          "note": "『名建築で昼食を』東京編第10話登場。高橋是清邸や子宝湯、前川國男邸など移築建物を園内で公開し、ドラマでは複数の保存建築と街路空間を紹介。",
+          "official": "https://www.tatemonoen.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E6%88%B8%E6%9D%B1%E4%BA%AC%E3%81%9F%E3%81%A6%E3%82%82%E3%81%AE%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市西区",
+          "name": "神奈川県立図書館",
+          "type": "横浜編",
+          "note": "『名建築で昼食を』スペシャル横浜編登場。前川國男設計の1954年開館の図書館建築で、現在も県立図書館として利用される。",
+          "official": "https://www.kanagawa-la.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市西区",
+          "name": "神奈川県立音楽堂",
+          "type": "横浜編",
+          "note": "『名建築で昼食を』スペシャル横浜編登場。前川國男設計、1954年開館の公立音楽ホールで、木質の客席空間と音響を現在も体験できる。",
+          "official": "https://www.kanagawa-ongakudo.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E9%9F%B3%E6%A5%BD%E5%A0%82%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市中区",
+          "name": "横浜市開港記念会館",
+          "type": "横浜編",
+          "note": "『名建築で昼食を』スペシャル横浜編登場。1917年開館、横浜開港50周年を記念する公会堂で、時計塔と赤レンガ外観を現在も公開。",
+          "official": "https://www.kaikokinenkaikan.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%96%8B%E6%B8%AF%E8%A8%98%E5%BF%B5%E4%BC%9A%E9%A4%A8%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "神奈川県",
+          "city": "横浜市中区",
+          "name": "ホテルニューグランド",
+          "type": "横浜編",
+          "note": "『名建築で昼食を』スペシャル横浜編登場。1927年開業の本館を現在もホテル・レストランとして使用し、戦後の接収史とクラシックな内部空間を伝える。",
+          "official": "https://www.hotel-newgrand.co.jp/corporate/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "綿業会館",
+          "type": "大阪編",
+          "note": "『名建築で昼食を』大阪編第1話登場。渡辺節設計、1931年竣工の日本綿業倶楽部会館。予約制見学会等で各室の異なる様式の内部を公開。",
+          "official": "https://mengyo-club.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B6%BF%E6%A5%AD%E4%BC%9A%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "生駒ビルヂング",
+          "type": "大阪編",
+          "note": "『名建築で昼食を』大阪編第2話登場。宗建築事務所設計、1930年竣工の生駒時計店旧本社で、時計塔やスクラッチタイルを残す現役テナントビル。",
+          "official": "https://www.ikoma-bldg.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%94%9F%E9%A7%92%E3%83%93%E3%83%AB%E3%83%82%E3%83%B3%E3%82%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "芝川ビル",
+          "type": "大阪編",
+          "note": "『名建築で昼食を』大阪編第2話登場。渋谷五郎・本間乙彦設計、1927年竣工の旧芝川家事務所ビルで、マヤ・インカ風意匠と地下金庫を残し店舗・飲食施設として再利用。",
+          "official": "https://shibakawa-bld.net/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8A%9D%E5%B7%9D%E3%83%93%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "船場ビルディング",
+          "type": "大阪編",
+          "note": "『名建築で昼食を』大阪編第3話登場。村上徹一設計、1925年竣工の集合型オフィスビルで、吹き抜けの中庭型共用空間と回廊を現在も利用できる。",
+          "official": "https://www.senba-building.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%88%B9%E5%A0%B4%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "大阪農林会館",
+          "type": "大阪編",
+          "note": "『名建築で昼食を』大阪編第3話登場。1930年代に建てられた旧三菱商事大阪支店を転用した近代建築で、階段・時計・シャンデリアを残し店舗・事務所として使われている。",
+          "official": "https://www.osaka-norin.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E8%BE%B2%E6%9E%97%E4%BC%9A%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "日本銀行大阪支店旧館",
+          "type": "大阪編",
+          "note": "『名建築で昼食を』大阪編第4話登場。辰野金吾設計、1903年竣工の煉瓦・石造建築。現役の日銀大阪支店として保存利用され、見学会等で公開される。",
+          "official": "https://www3.boj.or.jp/osaka/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%E5%A4%A7%E9%98%AA%E6%94%AF%E5%BA%97%E6%97%A7%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市中央区",
+          "name": "大阪ガスビルディング",
+          "type": "大阪編",
+          "note": "『名建築で昼食を』大阪編第4話登場。安井武雄設計の南館が1933年竣工。大阪ガス本社ビルとして保存され、南館の外観・ガスビル食堂などを現在も利用できる。",
+          "official": "https://ogud.co.jp/enterprise/working/office/osaka-gas/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E3%82%AC%E3%82%B9%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "兵庫県",
+          "city": "西宮市",
+          "name": "神戸女学院",
+          "type": "大阪編",
+          "note": "『名建築で昼食を』大阪編第5話登場。ウィリアム・メレル・ヴォーリズ設計、1933年竣工の岡田山キャンパス建築群。通常は大学関係者区域が多く、公開行事・見学機会に限り建築群を見学できる。",
+          "official": "https://www.kobe-c.ac.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E5%A5%B3%E5%AD%A6%E9%99%A2%20%E5%85%B5%E5%BA%AB%E7%9C%8C%20%E8%A5%BF%E5%AE%AE%E5%B8%82",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市北区",
+          "name": "大阪市中央公会堂",
+          "type": "大阪編",
+          "note": "『名建築で昼食を』大阪編第6話登場。岡田信一郎・辰野金吾・片岡安に関わる設計で1918年開館のネオ・ルネサンス公会堂。現在も貸館・見学施設として利用される。",
+          "official": "https://osaka-chuokokaikan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%85%AC%E4%BC%9A%E5%A0%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": []
+        },
+        {
+          "prefecture": "大阪府",
+          "city": "大阪市北区",
+          "name": "大阪府立中之島図書館",
+          "type": "大阪編",
+          "note": "『名建築で昼食を』大阪編第6話登場。野口孫市らの設計で1904年開館、住友家の寄付で建てられたネオ・バロック様式の府立図書館。現在も図書館・文化施設として利用される。",
+          "official": "https://www.library.pref.osaka.jp/site/nakato/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AB%8B%E4%B8%AD%E4%B9%8B%E5%B3%B6%E5%9B%B3%E6%9B%B8%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA",
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
