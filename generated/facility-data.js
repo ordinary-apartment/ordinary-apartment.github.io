@@ -19749,6 +19749,10 @@ window.FACILITY_DATASET={
             {
               "title": "東成田駅訪問記",
               "url": "https://hirokun5150blog.com/shibayamanarita/"
+            },
+            {
+              "title": "名前を奪われた駅、東成田｜フィルムでもう一つの成田空港駅を撮る",
+              "url": "https://note.com/knts_note/n/n537b73d93605"
             }
           ]
         },
