@@ -1,15 +1,15 @@
 [
   {
-    "file": "植物園.csv",
+    "file": "東京の植物園.csv",
     "id": "botanical",
     "number": 1,
-    "short": "植物園"
+    "short": "東京の植物園"
   },
   {
-    "file": "科学館.csv",
+    "file": "東京の科学館.csv",
     "id": "science",
     "number": 2,
-    "short": "科学館"
+    "short": "東京の科学館"
   },
   {
     "file": "社会科見学施設.csv",
@@ -179,5 +179,91 @@
     "file": "企業・産業系ライブラリー.csv",
     "id": "csv-ae06d7092f08d6e26f59",
     "number": 33
+  },
+  {
+    "file": "役所・庁舎の市民開放空間.csv",
+    "id": "csv-4f8d0c2b9a6e7315d4c0",
+    "number": 34,
+    "short": "役所・庁舎の市民開放空間"
+  },
+  {
+    "file": "VR・3Dで歩ける場所.csv",
+    "id": "csv-7cdb9d632f052f171b8d",
+    "number": 35
+  },
+  {
+    "file": "単一テーマ博物館.csv",
+    "id": "csv-fec6d836d19be37419a5",
+    "number": 36
+  },
+  {
+    "file": "こども向け施設.csv",
+    "id": "csv-1c0d4b8e7a6f5d3c2b1a",
+    "number": 37
+  },
+  {
+    "file": "工場・製造現場見学.csv",
+    "id": "csv-4b7e9d2c1a6f8035e4d1",
+    "number": 38
+  },
+  {
+    "file": "レトロ自販機.csv",
+    "id": "csv-5e8a1c3d7f204b96a2e1",
+    "number": 39
+  },
+  {
+    "file": "目的地化した店舗.csv",
+    "id": "csv-7d106924dd7bbb8d90b8",
+    "number": 40
+  },
+  {
+    "file": "名建築で昼食を.csv",
+    "id": "csv-c51fcc5dbc6c5cb6c2d4",
+    "number": 41
+  },
+  {
+    "file": "地方の科学館.csv",
+    "id": "regional-science",
+    "number": 42,
+    "short": "地方の科学館"
+  },
+  {
+    "file": "地方の植物園.csv",
+    "id": "regional-botanical",
+    "number": 43,
+    "short": "地方の植物園"
+  },
+  {
+    "file": "アトリウム・屋内公開空地.csv",
+    "id": "atrium-public-space",
+    "number": 44,
+    "short": "アトリウム・屋内公開空地"
+  },
+  {
+    "file": "戦後闇市・マーケットの痕跡.csv",
+    "id": "csv-951934b61d38ed2b45b0",
+    "number": 45,
+    "short": "戦後闇市・マーケットの痕跡"
+  },
+  {
+    "file": "東京歴建（東京都選定歴史的建造物）.csv",
+    "id": "csv-79cf58cb9efce60af912",
+    "number": 46,
+    "short": "東京歴建（東京都選定歴史的建造物）"
+  },
+  {
+    "file": "カプセルホテル.csv",
+    "id": "csv-cc513b7c9f5893947494",
+    "number": 47
+  },
+  {
+    "file": "東京の企業博物館.csv",
+    "id": "csv-683454247f3b500c4b27",
+    "number": 48
+  },
+  {
+    "file": "用途転換された公園.csv",
+    "id": "csv-40c028e97472850c4f37",
+    "number": 49
   }
 ]
