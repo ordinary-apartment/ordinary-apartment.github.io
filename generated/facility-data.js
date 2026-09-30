@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 48,
-  "total": 1673,
+  "materialCount": 49,
+  "total": 1724,
   "materials": [
     {
       "id": "botanical",
@@ -29787,6 +29787,861 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "https://ja.wikipedia.org/wiki/地下鉄博物館"
+          }
+        }
+      ]
+    },
+    {
+      "id": "csv-40c028e97472850c4f37",
+      "number": 49,
+      "name": "用途転換された公園",
+      "shortName": "用途転換された公園",
+      "file": "用途転換された公園.csv",
+      "count": 51,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "新宿御苑",
+          "type": "用途転換公園",
+          "note": "江戸期の信濃高遠藩内藤家の下屋敷を母体とし、明治期に農事試験場・皇室庭園として整備された土地が、戦後に国民公園として一般公開された。旧御殿・御凉亭・温室など庭園化以前からの施設と、近代以降の植栽・園路が重なる。",
+          "official": "https://fng.or.jp/shinjuku/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "新宿中央公園",
+          "type": "用途転換公園",
+          "note": "旧淀橋浄水場の敷地の一部を再編して1970年代に開園した都心公園。高層ビル群の足元に、浄水場跡地の大きな平坦地と人工地盤、滝・芝生広場を組み合わせ、都市インフラ跡が公共緑地へ転換された構成を読むことができる。",
+          "official": "https://shinjukuchuo-park.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%BF%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中野区",
+          "name": "中野四季の森公園",
+          "type": "用途転換公園",
+          "note": "旧陸軍中野学校などの軍施設用地、戦後の警察大学校を経て、再開発地区の公開公園として整備された。芝生広場と業務棟を一体化した中野セントラルパークの構成に、軍用地から官庁施設、複合市街地への転換過程が重なる。",
+          "official": "https://www.city.tokyo-nakano.lg.jp/shisetsu/jitensha/kouen/shikinomori.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E9%87%8E%E5%9B%9B%E5%AD%A3%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8E%E5%9B%9B%E5%AD%A3%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中野区",
+          "name": "中野区立平和の森公園",
+          "type": "用途転換公園",
+          "note": "中野刑務所（旧豊多摩監獄）跡地に、下水処理場と広域避難場所を兼ねる防災公園として段階整備された。1985年の一部開園、2002年の第二期開園、2020年の再整備を経て、旧刑務所正門や地下インフラの履歴を公園空間から読み取れる。",
+          "official": "https://www.city.tokyo-nakano.lg.jp/shisetsu/jitensha/kouen/heiwanomori.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E9%87%8E%E5%8C%BA%E7%AB%8B%E5%B9%B3%E5%92%8C%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "平和の森公園ができるまで（国立国会図書館レファレンス）",
+              "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000255654&page=ref_view"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%92%8C%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92_%28%E4%B8%AD%E9%87%8E%E5%8C%BA%29"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中野区",
+          "name": "江古田の森公園",
+          "type": "用途転換公園",
+          "note": "国立療養所中野病院などの医療施設跡地を転用して整備された公園。旧病院用地のまとまった樹林と起伏を活かし、緑地・運動施設・防災空間を一体化している。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E5%8F%A4%E7%94%B0%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E9%87%8E%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "杉並区",
+          "name": "蚕糸の森公園",
+          "type": "用途転換公園",
+          "note": "旧農林省蚕糸試験場の敷地を公園化した施設。蚕糸研究のための試験場・桑園があった土地に、池・流れ・樹林・運動広場を配置し、研究施設跡から地域公園への転換を示す。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%9A%95%E7%B3%B8%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%89%E4%B8%A6%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "杉並区",
+          "name": "馬橋公園",
+          "type": "用途転換公園",
+          "note": "旧施設用地を公園へ転用した杉並区の防災公園。敷地内の既存樹木・水路・広場を組み合わせ、住宅地の公共用地転換の履歴を観察できる。前身施設の詳細は区の公園沿革資料で確認できる範囲に限定して記録する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%AC%E6%A9%8B%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%89%E4%B8%A6%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "杉並区",
+          "name": "桃井原っぱ公園",
+          "type": "用途転換公園",
+          "note": "日産自動車荻窪工場（前身は中島飛行機系工場）の約9ha跡地を再開発し、2011年に開園した防災公園。広い原っぱ、ロケット発祥の地記念碑、地下貯水槽・備蓄倉庫などに、工場跡から住宅・公園への転換が刻まれている。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E4%BA%95%E5%8E%9F%E3%81%A3%E3%81%B1%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%89%E4%B8%A6%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "杉並区「桃井原っぱ公園」工場跡地の記録",
+              "url": "https://www.painfo.net/archives/2019/06/post-26973.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "杉並区",
+          "name": "梅里中央公園",
+          "type": "用途転換公園",
+          "note": "旧施設・公共用地を公園へ転用した梅里地区の区立公園。住宅地の中に防災広場と樹林を確保する整備過程を記録し、旧用途と現在のオープンスペースの関係を現地で確認できる。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A2%85%E9%87%8C%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%89%E4%B8%A6%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "雑司が谷公園",
+          "type": "用途転換公園",
+          "note": "旧高田小学校（2001年閉校）の跡地を既存公園と一体化して再整備し、2020年に全面開園した。校舎解体後の敷地に丘の上テラス、運動広場、防災設備を配置し、学校跡地の地域公園化を示す。",
+          "official": "https://www.city.toshima.lg.jp/454/shisetsu/koen/044.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%9B%91%E5%8F%B8%E3%81%8C%E8%B0%B7%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧高田小学校跡地の公園づくり",
+              "url": "https://www.zoshigaya.org/takada.html"
+            },
+            {
+              "title": "雑司が谷公園 丘の上テラス（豊島区）",
+              "url": "https://www.city.toshima.lg.jp/347/2607131108.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "品川区",
+          "name": "文庫の森",
+          "type": "用途転換公園",
+          "note": "旧三井文庫の敷地と建物を公園化した施設。旧書庫・洋館の記憶を残す樹林と池のある区立公園として整備され、企業・財団の資料保存施設が地域の緑地へ転換された事例である。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E5%BA%AB%E3%81%AE%E6%A3%AE%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "品川区",
+          "name": "ねむの木の庭",
+          "type": "用途転換公園",
+          "note": "旧皇后陛下の生家・正田邸跡地を区立公園として整備した小規模な庭園。邸宅は解体されたが、門や記念性のある植栽を継承し、住宅地の大規模邸宅跡が公開緑地へ転換された。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AD%E3%82%80%E3%81%AE%E6%9C%A8%E3%81%AE%E5%BA%AD%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "目黒区",
+          "name": "めぐろ区民キャンパス公園",
+          "type": "用途転換公園",
+          "note": "旧東京都立大学のキャンパス跡地を、学校建築・体育施設を含む区民施設群と公園へ再編した。大学の校舎・樹木・広場の配置を継承し、教育施設跡が公共文化・緑地へ転換された空間である。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%81%E3%81%90%E3%82%8D%E5%8C%BA%E6%B0%91%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "品川区・目黒区",
+          "name": "林試の森公園",
+          "type": "用途転換公園",
+          "note": "林業試験場（旧農商務省林業試験場）の跡地を都立公園化した施設。試験林・樹木園として育てられた大木を保存し、研究用樹林と公開公園が重なる。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9E%97%E8%A9%A6%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA%E3%83%BB%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "光が丘公園",
+          "type": "用途転換公園",
+          "note": "戦時中の成増飛行場、戦後の米軍グラントハイツを経て公園と住宅地に転用された。広大な芝生・樹林、旧基地の道路スケール、防災施設が基地跡地の都市改造を伝える。",
+          "official": "https://www.tokyo-park.or.jp/park/hikarigaoka/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%89%E3%81%8C%E4%B8%98%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E5%85%89%E3%81%8C%E4%B8%98%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "練馬城址公園",
+          "type": "用途転換公園",
+          "note": "としまえん閉園後の敷地と周辺を再編して整備された都立公園。遊園地の園路・樹木・地形を引き継ぎながら、防災・文化施設を組み込む段階的な公園化が進む。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B7%B4%E9%A6%AC%E5%9F%8E%E5%9D%80%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "赤羽自然観察公園",
+          "type": "用途転換公園",
+          "note": "旧自衛隊十条駐屯地関連用地を含む土地を公園化し、湧水・田んぼ・雑木林を再生した自然観察公園。軍用地の区画を一般公開の環境学習空間へ転換した。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E7%BE%BD%E8%87%AA%E7%84%B6%E8%A6%B3%E5%AF%9F%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "赤羽緑道公園",
+          "type": "用途転換公園",
+          "note": "旧軍用貨物引込線の線路敷を緑道公園へ転換した。造兵廠・兵器補給廠へつながっていた鉄道の線形が、細長い園路と植栽配置に残る。",
+          "official": "https://www.city.kita.lg.jp/culture-tourism-sports/culture/1010290/1010294.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E7%BE%BD%E7%B7%91%E9%81%93%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "王子四丁目公園",
+          "type": "用途転換公園",
+          "note": "王子地区の工場・軍需関連施設の跡地利用と戦後の市街地整備を経て開設された公園。工場地帯の土地割と防災広場への転換を地域史資料で確認できる。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%8E%8B%E5%AD%90%E5%9B%9B%E4%B8%81%E7%9B%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "荒川区",
+          "name": "尾久の原公園",
+          "type": "用途転換公園",
+          "note": "旧旭電化工業尾久工場跡地を中心に整備された都立公園。工場移転後の広い敷地を湿地・原っぱ・運動広場へ転換し、工業地帯の土地利用の変化を残す。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%BE%E4%B9%85%E3%81%AE%E5%8E%9F%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "大田区",
+          "name": "道塚南公園",
+          "type": "用途転換公園",
+          "note": "旧工場・倉庫用地を住宅地の防災公園へ転換した大田区の区立公園。小規模な街区に避難広場と遊具を組み込み、工業地から公共緑地への転換を示す。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%81%93%E5%A1%9A%E5%8D%97%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "府中市",
+          "name": "府中の森公園",
+          "type": "用途転換公園",
+          "note": "旧陸軍燃料廠、戦後の米軍府中空軍施設の返還跡地を公園・文化施設・学校へ再編した。大規模な敷地の道路軸と樹林、府中市美術館などが基地跡地の転換を伝える。",
+          "official": "https://www.city.fuchu.tokyo.jp/gyosei/kekaku/kekaku/tosikiban/kichiatochi/fuchukichiatochi/fchukichi_tochiriyo.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%9C%E4%B8%AD%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%BA%9C%E4%B8%AD%E5%B8%82",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "府中市",
+          "name": "府中市平和の森公園",
+          "type": "用途転換公園",
+          "note": "旧府中刑務所周辺の土地利用を再編して整備された公園。刑務所・矯正施設に隣接した土地を、運動広場と樹林、防災空間を持つ市民公園へ転換した。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%9C%E4%B8%AD%E5%B8%82%E5%B9%B3%E5%92%8C%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%BA%9C%E4%B8%AD%E5%B8%82",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "府中市・調布市・三鷹市",
+          "name": "武蔵野の森公園",
+          "type": "用途転換公園",
+          "note": "調布飛行場周辺の軍用地を公園化した施設。園内・周辺に大沢掩体壕など飛行場関連遺構が残り、滑走路に沿う広い視界と運動空間が旧飛行場の地形を伝える。",
+          "official": "https://www.tokyo-park.or.jp/park/musashino-no-mori/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%BA%9C%E4%B8%AD%E5%B8%82%E3%83%BB%E8%AA%BF%E5%B8%83%E5%B8%82%E3%83%BB%E4%B8%89%E9%B7%B9%E5%B8%82",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "武蔵野市",
+          "name": "武蔵野中央公園",
+          "type": "用途転換公園",
+          "note": "中島飛行機武蔵製作所西工場（旧多摩製作所）跡地を1989年に公園化した。工場建物は失われたが、広大な原っぱと道路軸、周辺の記念碑が航空機工場跡の履歴を残す。",
+          "official": "https://www.tokyo-park.or.jp/park/musashino-chuo/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A6%E8%94%B5%E9%87%8E%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "武蔵野中央公園（中島飛行機跡地）",
+              "url": "https://www.city.mitaka.lg.jp/peace-tourism/spots/musashino_02_05.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "東大和市",
+          "name": "東大和南公園",
+          "type": "用途転換公園",
+          "note": "日立航空機立川工場跡地を公園へ転換した。園内には工場の旧変電所を保存し、航空機工場の建物・基礎と芝生広場が隣接する。",
+          "official": "https://www.tokyo-park.or.jp/park/higashiyamato/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%8D%97%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "立川市・昭島市",
+          "name": "国営昭和記念公園",
+          "type": "用途転換公園",
+          "note": "旧陸軍立川飛行場、戦後の米軍立川基地を経て、返還跡地に整備された国営公園。約180haの原っぱ・樹林・水景と、基地由来の直線道路や飛行場スケールが混在する。",
+          "official": "https://www.ktr.mlit.go.jp/showa/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9B%BD%E5%96%B6%E6%98%AD%E5%92%8C%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%AB%8B%E5%B7%9D%E5%B8%82%E3%83%BB%E6%98%AD%E5%B3%B6%E5%B8%82",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%96%B6%E6%98%AD%E5%92%8C%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "若洲海浜公園",
+          "type": "用途転換公園",
+          "note": "東京湾の廃棄物埋立地を基盤に造成された若洲地区の公園。埋立地の護岸・人工地盤を利用し、海釣り施設、キャンプ場、風力発電施設を組み合わせた臨海公園へ転換された。",
+          "official": "https://www.tptc.co.jp/park/03_07",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8B%A5%E6%B4%B2%E6%B5%B7%E6%B5%9C%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "代々木公園",
+          "type": "用途転換公園",
+          "note": "旧陸軍代々木練兵場、戦後の米軍住宅ワシントンハイツを経て、1964年東京五輪の選手村利用後に公園化された。ケヤキ並木と広い中央広場、旧宿舎地区の道路軸が軍用地・米軍施設の履歴を伝える。",
+          "official": "https://www.tokyo-park.or.jp/park/yoyogi/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "新宿区",
+          "name": "戸山公園",
+          "type": "用途転換公園",
+          "note": "旧尾張徳川家戸山荘、明治期の陸軍戸山学校・射撃場を経て公園化された。箱根山、旧軍施設の地形、周辺の国立国際医療センターなどが、庭園・軍用地・公共施設の重層を示す。",
+          "official": "https://www.tokyo-park.or.jp/park/toyama/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%88%B8%E5%B1%B1%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "日比谷公園",
+          "type": "用途転換公園",
+          "note": "旧大名屋敷・陸軍練兵場の土地を近代的洋風公園として1903年に開園した。日比谷見附の石垣、S字園路、旧花壇など江戸城外郭と軍用地の痕跡を公共公園に組み込む。",
+          "official": "https://www.tokyo-park.or.jp/park/hibiya/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%AF%94%E8%B0%B7%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E6%97%A5%E6%AF%94%E8%B0%B7%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "北の丸公園",
+          "type": "用途転換公園",
+          "note": "江戸城北の丸と近世の屋敷地、近代の近衛師団施設を経て1969年に森林公園として開園した。田安門・清水門、石垣、旧軍用地の地割が、皇居周辺の歴史施設と緑地に連続する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E3%81%AE%E4%B8%B8%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E5%8C%97%E3%81%AE%E4%B8%B8%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "夢の島公園",
+          "type": "用途転換公園",
+          "note": "東京湾のごみ埋立処分場として造成された夢の島を、1978年から公園・運動施設へ転換した。原っぱ、熱帯植物館、運動場の下に埋立地の人工地盤があり、廃棄物処分場から大規模緑地への変換を示す。",
+          "official": "https://www.tokyo-park.or.jp/park/yumenoshima/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A2%E3%81%AE%E5%B3%B6%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E5%A4%A2%E3%81%AE%E5%B3%B6"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "木場公園",
+          "type": "用途転換公園",
+          "note": "江戸から続く木材流通・貯木場の跡地を、1992年に都立公園へ転換した。大横川の水路、木場の材木業に由来する地名、吊橋と広い芝生が水運・木材産業の記憶を残す。",
+          "official": "https://www.tokyo-park.or.jp/park/kiba/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%A8%E5%A0%B4%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "猿江恩賜公園",
+          "type": "用途転換公園",
+          "note": "江戸期からの猿江貯木場の一部を、皇太子成婚記念で東京市へ下賜し公園化した。旧貯木場の水路・池と運動施設が残り、木材保管施設から都市公園への転換を示す。",
+          "official": "https://www.tokyo-park.or.jp/park/sarue/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%8C%BF%E6%B1%9F%E6%81%A9%E8%B3%9C%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E7%8C%BF%E6%B1%9F%E6%81%A9%E8%B3%9C%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "亀戸中央公園",
+          "type": "用途転換公園",
+          "note": "日立製作所亀戸工場の移転跡地を買収し、1970年代後半から段階的に公園化した。旧工場の広い敷地と旧中川沿いの親水空間を、運動場・テニスコート・樹林へ再編している。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E4%BA%80%E6%88%B8%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "亀戸中央公園は、その昔、日立製作所の工場でした",
+              "url": "https://sakaedk.com/%E5%B7%A5%E4%BA%8B%E6%96%99%E9%87%91/3812/"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E4%BA%80%E6%88%B8%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区・江戸川区",
+          "name": "大島小松川公園",
+          "type": "用途転換公園",
+          "note": "旧中川沿いの工業地・工場跡地を防災公園として再編し、1990年代に開園した。自由の広場、スポーツ施設、バーベキュー広場に加え、旧小松川閘門を保存し、運河・工業地の履歴を伝える。",
+          "official": "https://www.tokyo-park.or.jp/park/ojima-komatsugawa/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%B3%B6%E5%B0%8F%E6%9D%BE%E5%B7%9D%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA%E3%83%BB%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "荒川区",
+          "name": "荒川自然公園",
+          "type": "用途転換公園",
+          "note": "旧三河島汚水処分場の上部に人工地盤を築き、1974年に開園した公園。池・湿地・自然観察園・運動施設を重ね、下水処理インフラの上に緑地を成立させた立体的な用途転換を示す。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%8D%92%E5%B7%9D%E8%87%AA%E7%84%B6%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%8D%92%E5%B7%9D%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B7%9D%E8%87%AA%E7%84%B6%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "大田区",
+          "name": "平和の森公園（大田区）",
+          "type": "用途転換公園",
+          "note": "平和島運河の埋立地・旧工場地帯を基盤に整備された区立公園。アスレチック、弓道場、相撲場、運動広場を配置し、港湾・工業地の土地を大田区最大級の公園へ転換した。",
+          "official": "https://www.city.ota.tokyo.jp/shisetsu/park/heiwanomori.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B9%B3%E5%92%8C%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92%EF%BC%88%E5%A4%A7%E7%94%B0%E5%8C%BA%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%92%8C%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%92_%28%E5%A4%A7%E7%94%B0%E5%8C%BA%29"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "砧公園",
+          "type": "用途転換公園",
+          "note": "紀元2600年記念事業の大緑地計画、防空緑地を経て、戦後は都営ゴルフ場として使われた土地を1957年に公園化した。芝生のファミリーパークと運動施設、世田谷美術館を組み合わせる。",
+          "official": "https://www.tokyo-park.or.jp/park/kinuta/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A0%A7%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E7%A0%A7%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区・目黒区",
+          "name": "駒沢オリンピック公園",
+          "type": "用途転換公園",
+          "note": "旧ゴルフ場を含む土地に1964年東京オリンピック第2会場を整備し、大会後に運動公園として公開した。競技場、体育館、球技場、園路が五輪施設の再利用として現在も機能する。",
+          "official": "https://www.tokyo-park.or.jp/park/komazawa-olympic/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A7%92%E6%B2%A2%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E3%83%BB%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E9%A7%92%E6%B2%A2%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "目黒区",
+          "name": "駒場公園",
+          "type": "用途転換公園",
+          "note": "旧前田侯爵家本邸・庭園を戦後に公園として公開した。洋館・和館、庭園樹木、園路が残り、大規模邸宅から文化施設と区立公園への転換を示す。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A7%92%E5%A0%B4%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%9B%AE%E9%BB%92%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "調布市・小金井市・三鷹市",
+          "name": "野川公園",
+          "type": "用途転換公園",
+          "note": "旧国際基督教大学のゴルフ場・学校関連用地を取得し、1974年に都立公園として開園した。野川、自然観察園、芝生広場が旧レクリエーション用地の公共緑地化を示す。",
+          "official": "https://www.tokyo-park.or.jp/park/nogawa/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%87%8E%E5%B7%9D%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%AA%BF%E5%B8%83%E5%B8%82%E3%83%BB%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E3%83%BB%E4%B8%89%E9%B7%B9%E5%B8%82",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B7%9D%E5%85%AC%E5%9C%92"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "町田市・八王子市",
+          "name": "小山内裏公園",
+          "type": "用途転換公園",
+          "note": "多摩丘陵の米軍施設・戦車道路として使われた土地を含む都立公園。尾根道、広い草地、旧道の線形を保存し、軍用演習地から自然観察公園へ転換した。",
+          "official": "https://www.tokyo-park.or.jp/park/oyamadairi/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B1%B1%E5%86%85%E8%A3%8F%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%94%BA%E7%94%B0%E5%B8%82%E3%83%BB%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "板橋区",
+          "name": "加賀公園",
+          "type": "用途転換公園",
+          "note": "旧陸軍板橋火薬製造所の敷地を公園化した。土塁・水路・煉瓦構造物など軍需工場の痕跡が周辺に残り、近代工業遺産と緑地が接続する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8A%A0%E8%B3%80%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "北区立中央公園文化センター周辺公園",
+          "type": "用途転換公園",
+          "note": "旧東京第一陸軍造兵廠本部事務所と兵器工場跡地を、公園・文化施設・学校へ再編した。煉瓦建築と広場・樹林が軍需工場跡の都市転換を伝える。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%8C%BA%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%91%A8%E8%BE%BA%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "大田区",
+          "name": "城南島海浜公園",
+          "type": "用途転換公園",
+          "note": "東京湾の埋立・港湾物流用地を、海浜公園とキャンプ・散策空間へ転換した。護岸、コンテナ港湾、人工海浜が隣接し、工業港湾の中に公開緑地を組み込んだ構成が特徴。",
+          "official": "https://www.tptc.co.jp/park/03_06",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9F%8E%E5%8D%97%E5%B3%B6%E6%B5%B7%E6%B5%9C%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "蘆花恒春園",
+          "type": "用途転換公園",
+          "note": "文筆家・徳冨蘆花の旧邸宅と庭を核に、死後に遺族から寄贈された土地を公園化した。旧宅・書斎・墓域と雑木林が残り、個人邸宅から公開公園への転換を示す。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E8%98%86%E8%8A%B1%E6%81%92%E6%98%A5%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "有栖川宮記念公園",
+          "type": "用途転換公園",
+          "note": "旧有栖川宮邸・御用地を前身とする公園。大名屋敷・宮邸の地形と池、渓流、茶室を継承し、皇族用地から区立公園・国際交流施設へ転換した。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%A0%96%E5%B7%9D%E5%AE%AE%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "駒沢緑泉公園",
+          "type": "用途転換公園",
+          "note": "旧農業・住宅用地を公園化した施設。地域の水路・樹木を取り込み、都市の小規模土地利用転換を示す。前身用途の詳細が確認できる範囲を限定して記録する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%A7%92%E6%B2%A2%E7%B7%91%E6%B3%89%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "豊島区",
+          "name": "元池袋史跡公園",
+          "type": "用途転換公園",
+          "note": "池袋駅周辺の旧池・水源の位置を公園として再現した史跡公園。都市化で失われた水面を公共空間に再構成し、地名の由来と土地の履歴を可視化する。",
+          "official": "",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%85%83%E6%B1%A0%E8%A2%8B%E5%8F%B2%E8%B7%A1%E5%85%AC%E5%9C%92%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%B1%8A%E5%B3%B6%E5%8C%BA",
+          "kind": "土地履歴の公園",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
           }
         }
       ]
