@@ -18327,7 +18327,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "建築訪問｜横浜赤レンガ倉庫",
+              "url": "https://note.com/archi_to_sweets/n/n7b01e5a06d21"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/横浜赤レンガ倉庫"
+          }
         },
         {
           "prefecture": "京都府",
@@ -18340,7 +18348,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "訪問記｜舞鶴赤れんがパーク",
+              "url": "https://note.com/rich_turtle9459/n/n264e16e7d913"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "福井県",
@@ -18353,7 +18369,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "福岡県",
@@ -18366,7 +18385,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "訪問記｜門司赤煉瓦プレイス",
+              "url": "https://note.com/sho_kamafuchi/n/nb632ecfbb5d"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -18379,7 +18406,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -18392,7 +18422,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "岡山県",
@@ -18405,7 +18438,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "長野県",
@@ -18418,7 +18454,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "愛知県",
@@ -18431,7 +18470,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "熊本県",
@@ -18444,7 +18486,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "岩手県",
@@ -18457,7 +18502,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "佐賀県",
@@ -18470,7 +18518,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "秋田県",
@@ -18483,7 +18534,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "訪問記｜秋田市立赤れんが郷土館",
+              "url": "https://note.com/naota_t/n/n78144c0a7cfc"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/秋田市立赤れんが郷土館"
+          }
         },
         {
           "prefecture": "北海道",
@@ -18496,7 +18555,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "北海道",
@@ -18509,7 +18571,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "北海道",
@@ -18522,7 +18587,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "神奈川県",
@@ -18535,7 +18603,19 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "建築訪問｜旧横浜正金銀行本店",
+              "url": "https://note.com/nobitana/n/nbd799cb7883b"
+            },
+            {
+              "title": "訪問記｜神奈川県立歴史博物館",
+              "url": "https://note.com/kazukun100/n/n7a7449486d06"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/神奈川県立歴史博物館"
+          }
         },
         {
           "prefecture": "福井県",
@@ -18548,7 +18628,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "建築訪問｜旧大和田銀行本店",
+              "url": "https://note.com/jan_undersson/n/n719d0a96981b"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "長崎県",
@@ -18561,7 +18649,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "訪問記｜旧香港上海銀行長崎支店",
+              "url": "https://note.com/hearty_eider6807/n/n50924a37bcac"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "佐賀県",
@@ -18574,7 +18670,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "訪問記｜旧唐津銀行",
+              "url": "https://note.com/kana0509/n/n3fe5cce810e6"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "福岡県",
@@ -18587,7 +18691,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "建築訪問｜旧大阪商船",
+              "url": "https://note.com/long_egret9073/n/n0b02a268b261"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "福岡県",
@@ -18600,7 +18712,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/旧門司税関"
+          }
         },
         {
           "prefecture": "東京都",
@@ -18613,7 +18728,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "島根県",
@@ -18626,7 +18744,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/旧大社駅"
+          }
         },
         {
           "prefecture": "北海道",
@@ -18639,7 +18760,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "滋賀県",
@@ -18652,7 +18776,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "滋賀県",
@@ -18665,7 +18792,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "奈良県",
@@ -18678,7 +18808,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "静岡県",
@@ -18691,7 +18824,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "長野県",
@@ -18704,7 +18840,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/旧開智学校"
+          }
         },
         {
           "prefecture": "静岡県",
@@ -18717,7 +18856,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -18730,7 +18872,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "訪問記｜旧古河庭園",
+              "url": "https://note.com/monoomouhibi/n/ad2a98a4dd38"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/旧古河庭園"
+          }
         },
         {
           "prefecture": "兵庫県",
@@ -18743,7 +18893,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "建築訪問｜ヨドコウ迎賓館",
+              "url": "https://note.com/tammy_organize/n/n4da4cf0f5c5f"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/ヨドコウ迎賓館"
+          }
         },
         {
           "prefecture": "長野県",
@@ -18756,7 +18914,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "長崎県",
@@ -18769,7 +18930,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/旧グラバー住宅"
+          }
         },
         {
           "prefecture": "東京都",
@@ -18787,7 +18951,10 @@ window.FACILITY_DATASET={
               "title": "兜町再活性化プロジェクト",
               "url": "https://www.heiwa-net.co.jp/business/redevelopment/kabuto_cho/case.html"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -18805,7 +18972,10 @@ window.FACILITY_DATASET={
               "title": "東京歴建 日証館",
               "url": "https://with-tokyorekiken.metro.tokyo.lg.jp/rekiken/1277/"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -18823,7 +18993,10 @@ window.FACILITY_DATASET={
               "title": "BANK開業資料",
               "url": "https://prtimes.jp/main/html/rd/p/000000049.000024148.html"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "大阪府",
@@ -18836,7 +19009,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "岡山県",
@@ -18854,7 +19030,10 @@ window.FACILITY_DATASET={
               "title": "倉敷アイビースクエアの歴史",
               "url": "https://www.ivysquare.co.jp/history/"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "京都府",
@@ -18867,7 +19046,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "大阪府",
@@ -18880,7 +19062,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "大阪府",
@@ -18898,7 +19083,10 @@ window.FACILITY_DATASET={
               "title": "大阪市 生きた建築ミュージアム",
               "url": "https://www.city.osaka.lg.jp/toshiseibi/page/0000647403.html"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "兵庫県",
@@ -18911,7 +19099,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "北海道",
@@ -18929,7 +19120,10 @@ window.FACILITY_DATASET={
               "title": "北海道観光公式案内",
               "url": "https://www.visit-hokkaido.jp/spot/detail_10098.html"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "北海道",
@@ -18942,7 +19136,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "北海道",
@@ -18960,7 +19157,10 @@ window.FACILITY_DATASET={
               "title": "建物の歴史",
               "url": "https://hakomachi.com/facility/history/"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "北海道",
@@ -18978,7 +19178,10 @@ window.FACILITY_DATASET={
               "title": "BELCA賞 建物用途転換の紹介",
               "url": "https://www.belca.or.jp/b142.htm"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "北海道",
@@ -18991,7 +19194,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "広島県",
@@ -19004,7 +19210,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "島根県",
@@ -19022,7 +19231,10 @@ window.FACILITY_DATASET={
               "title": "松江市 リニューアル案内",
               "url": "https://www.city.matsue.lg.jp/sangyo_business/sangyoshinko/7/karakoro/20780.html"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "岡山県",
@@ -19035,7 +19247,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "大分県",
@@ -19048,7 +19263,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "大分県",
@@ -19061,7 +19279,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "兵庫県",
@@ -19074,7 +19295,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "京都府",
@@ -19092,7 +19316,10 @@ window.FACILITY_DATASET={
               "title": "京都芸術センターの歩み",
               "url": "https://www.kac.or.jp/history/"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "京都府",
@@ -19110,7 +19337,10 @@ window.FACILITY_DATASET={
               "title": "元清水小学校の保存活用",
               "url": "https://www.princehotels.co.jp/seiryu-kiyomizu/experience/"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "京都府",
@@ -19123,7 +19353,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "京都府",
@@ -19136,7 +19369,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "千葉県",
@@ -19154,7 +19390,10 @@ window.FACILITY_DATASET={
               "title": "VMG施設紹介",
               "url": "https://www.vmg.co.jp/venues/sawara/"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "兵庫県",
@@ -19167,7 +19406,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -19185,7 +19427,10 @@ window.FACILITY_DATASET={
               "title": "第一生命日比谷ファースト（Visit Chiyoda）",
               "url": "https://visit-chiyoda.tokyo/app/spot/detail/95"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -19203,7 +19448,10 @@ window.FACILITY_DATASET={
               "title": "明治生命館（Visit Chiyoda）",
               "url": "https://visit-chiyoda.tokyo/app/spot/detail/60"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "神奈川県",
@@ -19216,7 +19464,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/ホテルニューグランド"
+          }
         },
         {
           "prefecture": "東京都",
@@ -19234,7 +19485,10 @@ window.FACILITY_DATASET={
               "title": "九段会館テラス（Visit Chiyoda）",
               "url": "https://visit-chiyoda.tokyo/app/spot/detail/844"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "大阪府",
@@ -19252,7 +19506,10 @@ window.FACILITY_DATASET={
               "title": "旧第四師団司令部庁舎（現MIRAIZA OSAKA-JO）",
               "url": "https://osaka-castle.jp/osakajokoen/miraiza-osaka-jo.html"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "兵庫県",
@@ -19270,7 +19527,10 @@ window.FACILITY_DATASET={
               "title": "デザイン・クリエイティブセンター神戸（兵庫県観光）",
               "url": "https://www.hyogo-tourism.jp/spot/detail_1002.html"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "京都府",
@@ -19288,7 +19548,10 @@ window.FACILITY_DATASET={
               "title": "丸福樓（京都建築祭）",
               "url": "https://2022.kenchikusai.jp/event/architecture_detail.php?id=166"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "広島県",
@@ -19306,7 +19569,10 @@ window.FACILITY_DATASET={
               "title": "旧日本銀行広島支店（広島県）",
               "url": "https://www.pref.hiroshima.lg.jp/site/tatemonogatari/tatemonojouhou2.html"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "北海道",
@@ -19324,7 +19590,10 @@ window.FACILITY_DATASET={
               "title": "旧小樽商工会議所の再生（小樽市）",
               "url": "https://www.city.otaru.lg.jp/docs/2023112800021/"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "大阪府",
@@ -19342,7 +19611,10 @@ window.FACILITY_DATASET={
               "title": "昭和の印刷工場を文化複合施設へ（MEBIC）",
               "url": "https://www.mebic.com/collabo/case-101.html"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -19364,7 +19636,10 @@ window.FACILITY_DATASET={
               "title": "JPタワー（大成建設設計本部）",
               "url": "https://www.taisei-design.jp/de/feature/conservation/works/works_detail_12.html"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         }
       ]
     },
