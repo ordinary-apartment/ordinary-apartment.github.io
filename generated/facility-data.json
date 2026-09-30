@@ -16,7 +16,7 @@
           "city": "江東区",
           "name": "夢の島熱帯植物館",
           "type": "温室",
-          "note": "巨大ドーム温室。人工熱帯空間。1988年竣工。",
+          "note": "1988年開館。東京湾岸の夢の島公園に建つドーム型の熱帯植物館で、清掃工場のごみ焼却熱を館内の温室熱源に利用する。1000種類を超える熱帯植物を育成・展示し、熱帯多雨林の植物多様性を学ぶ展示と保全活動を行う。開館9:30〜17:00（最終入館16:00）、月曜・年末年始休館。",
           "official": "https://www.yumenoshima.jp/botanicalhall",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A2%E3%81%AE%E5%B3%B6%E7%86%B1%E5%B8%AF%E6%A4%8D%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
           "kind": "ドリームコア",
@@ -33,7 +33,7 @@
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.yumenoshima.jp/botanicalhall\nWikipedia：https://ja.wikipedia.org/wiki/%E5%A4%A2%E3%81%AE%E5%B3%B6%E7%86%B1%E5%B8%AF%E6%A4%8D%E7%89%A9%E9%A4%A8"
+            "参照": "公式サイト：https://www.yumenoshima.jp/botanicalhallWikipedia：https://ja.wikipedia.org/wiki/%E5%A4%A2%E3%81%AE%E5%B3%B6%E7%86%B1%E5%B8%AF%E6%A4%8D%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -41,7 +41,7 @@
           "city": "板橋区",
           "name": "板橋区立熱帯環境植物館",
           "type": "温室",
-          "note": "地下水族展示＋温室。人工環境感が強い。1994年開園。",
+          "note": "1994年開設。板橋清掃工場の余熱を利用し、東南アジアの熱帯雨林を再現する温室・冷室と、海水・汽水・淡水の生物を扱うミニ水族館を組み合わせた施設である。温室・冷室は熱帯雨林から高山帯まで4つの植生ゾーンに分かれ、約700種・2000本の植物を展示する。開館10:00〜18:00（入館17:30まで）、月曜・年末年始ほか休館。",
           "official": "http://www.seibu-la.co.jp/nettaikan/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E7%86%B1%E5%B8%AF%E7%92%B0%E5%A2%83%E6%A4%8D%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%9D%BF%E6%A9%8B%E5%8C%BA",
           "kind": "ドリームコア",
@@ -54,7 +54,7 @@
             }
           ],
           "extra": {
-            "参照": "公式サイト：http://www.seibu-la.co.jp/nettaikan/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E7%86%B1%E5%B8%AF%E7%92%B0%E5%A2%83%E6%A4%8D%E7%89%A9%E9%A4%A8"
+            "参照": "公式サイト：http://www.seibu-la.co.jp/nettaikan/Wikipedia：https://ja.wikipedia.org/wiki/%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E7%86%B1%E5%B8%AF%E7%92%B0%E5%A2%83%E6%A4%8D%E7%89%A9%E9%A4%A8"
           }
         },
         {
@@ -62,7 +62,7 @@
           "city": "調布市",
           "name": "神代植物公園 大温室",
           "type": "温室",
-          "note": "大型温室の連続空間。9:30〜17:00。",
+          "note": "1961年開園の神代植物公園は、街路樹を育てる苗圃、戦後の神代緑地を前身とする都立植物公園で、約4,800種類・10万本／株を保存・展示する。本資料の大温室は熱帯・亜熱帯植物、ラン、ベゴニア、熱帯スイレン、小笠原植物などを扱い、2016年にリニューアルオープンした。公園は9:30〜17:00（入園16:00まで）、月曜・年末年始休園。",
           "official": "https://www.tokyo-park.or.jp/jindai/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E4%BB%A3%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E8%AA%BF%E5%B8%83%E5%B8%82",
           "kind": "ドリームコア",
@@ -79,7 +79,7 @@
             }
           ],
           "extra": {
-            "参照": "公式サイト：https://www.tokyo-park.or.jp/jindai/\nWikipedia：https://ja.wikipedia.org/wiki/%E7%A5%9E%E4%BB%A3%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92"
+            "参照": "公式サイト：https://www.tokyo-park.or.jp/jindai/Wikipedia：https://ja.wikipedia.org/wiki/%E7%A5%9E%E4%BB%A3%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92"
           }
         },
         {
@@ -87,7 +87,7 @@
           "city": "新宿区",
           "name": "新宿御苑 大温室",
           "type": "温室",
-          "note": "都心の巨大温室。曲面ガラスと熱帯植物の人工環境感。",
+          "note": "新宿御苑の温室は1875年のガラス温室に始まり、2012年に全面建て替えされた。現施設は面積約2,750平方メートル、高さ約15メートルで、熱帯・亜熱帯植物、絶滅危惧植物の保護増殖、洋ランの隔離栽培を行う。新宿御苑の開園日に公開され、温室は季節により9:30〜17:30、18:30、16:00まで（最終入館は各30分前）。月曜・年末年始など休園。",
           "official": "https://fng.or.jp/shinjuku/category/温室/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%20%E5%A4%A7%E6%B8%A9%E5%AE%A4%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%B0%E5%AE%BF%E5%8C%BA",
           "kind": "ドリームコア",
@@ -116,7 +116,7 @@
           "city": "文京区",
           "name": "小石川植物園 公開温室",
           "type": "温室",
-          "note": "大学研究施設らしい非観光的な空気がある。",
+          "note": "徳川幕府の小石川御薬園（1684年）を遠い前身とし、東京大学附属植物園として植物学の研究・教育を担う。公開温室は2019年に整備され、熱帯・亜熱帯植物約2,000種を6室に分け、乾燥地植物、有用植物、東アジア・小笠原植物、ランなどを展示する。隣接する冷温室では冷温帯・高山植物約400種を扱う。園は9:00〜16:30（入園16:00まで）、温室10:00〜15:00、月曜休園。",
           "official": "https://koishikawa-bg.jp/ennai/glasshouse/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%9F%B3%E5%B7%9D%E6%A4%8D%E7%89%A9%E5%9C%92%20%E5%85%AC%E9%96%8B%E6%B8%A9%E5%AE%A4%20%E6%96%87%E4%BA%AC%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -137,7 +137,7 @@
           "city": "小平市",
           "name": "東京都薬用植物園 温室",
           "type": "園芸・農業施設",
-          "note": "実用施設感が強い。",
+          "note": "1946年設立の東京都小平薬用植物栽培場を前身とする、薬務行政のための薬用植物園。温室（冷房室併設）ではインドジャボク、熱帯・亜熱帯の薬用植物や果樹、ヒマラヤの青いケシなどを扱い、屋外の漢方薬原料、製薬原料、有毒植物、ケシ・アサ試験区とあわせて薬草の収集・栽培・普及啓発を行う。無料公開で、4〜9月は9:00〜16:30、10〜3月は9:00〜16:00。原則月曜・年末年始休園。",
           "official": "https://www.tmiph.metro.tokyo.lg.jp/lb_iyaku/plant/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%96%AC%E7%94%A8%E6%A4%8D%E7%89%A9%E5%9C%92%20%E6%B8%A9%E5%AE%A4%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
@@ -158,7 +158,7 @@
           "city": "渋谷区",
           "name": "渋谷区ふれあい植物センター",
           "type": "植物園",
-          "note": "旧温室施設の系譜。10:00〜21:00",
+          "note": "2005年開園後、老朽化による休園を経て2023年7月29日にリニューアルオープン。渋谷清掃工場の地域還元施設として、焼却時に発生する電力を活用し、「栽培・収穫・消費」を一つの建物で体験できる農と食の地域拠点へ転換した。土耕・水耕の展示室、屋上ファームガーデン、ワークショップ空間、カフェを備える。10:00〜21:00（入園20:30まで）、月曜・年末年始休園、入園料100円。",
           "official": "https://sbgf.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=%E6%B8%8B%E8%B0%B7%E5%8C%BA%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E6%A4%8D%E7%89%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E6%B8%8B%E8%B0%B7%E5%8C%BA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%97%A5%E6%9C%AC",
           "kind": "植物園・温室",
