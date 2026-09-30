@@ -265,6 +265,10 @@
             {
               "title": "全国自然博物館の旅〖18〗東京海洋大学マリンサイエンスミュージアム｜美原さつき",
               "url": "https://note.com/satsukimihara/n/n98db9feb98f7"
+            },
+            {
+              "title": "東京海洋大学",
+              "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6"
             }
           ],
           "extra": {
@@ -328,7 +332,12 @@
           "kind": "見学可能な公的建築",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "国立極地研究所",
+              "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E7%AB%8B%E6%A5%B5%E5%9C%B0%E7%A0%94%E7%A9%B6%E6%89%80"
+            }
+          ],
           "extra": {
             "参照": "公式サイト：http://www.nipr.ac.jp/science-museum"
           }
@@ -528,7 +537,12 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "東京理科大学近代科学資料館",
+              "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%90%86%E7%A7%91%E5%A4%A7%E5%AD%A6%E8%BF%91%E4%BB%A3%E7%A7%91%E5%AD%A6%E8%B3%87%E6%96%99%E9%A4%A8"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -581,7 +595,12 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "JPタワー",
+              "url": "https://ja.wikipedia.org/wiki/JP%E3%82%BF%E3%83%AF%E3%83%BC"
+            }
+          ],
           "extra": {
             "参照": ""
           }
