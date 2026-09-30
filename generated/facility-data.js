@@ -15758,7 +15758,19 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "建物探訪｜中野ブロードウェイ物語",
+              "url": "https://note.com/k16_/n/n32d472123e07"
+            },
+            {
+              "title": "訪問記｜中野ブロードウェイ",
+              "url": "https://note.com/qkotetsu/n/n8e46c7982d2f"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/中野ブロードウェイ"
+          }
         },
         {
           "prefecture": "東京都",
@@ -15771,7 +15783,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "神奈川県",
@@ -15784,7 +15799,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -15797,7 +15815,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "愛知県",
@@ -15810,7 +15831,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/T-FACE"
+          }
         },
         {
           "prefecture": "北海道",
@@ -15823,7 +15847,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/サッポロファクトリー"
+          }
         },
         {
           "prefecture": "千葉県",
@@ -15836,7 +15863,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "現地訪問記｜あすみが丘バーズモール",
+              "url": "https://note.com/katane_shiro/n/n4681dbcd26a4"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "大阪府",
@@ -15849,7 +15884,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "街歩き｜あべのベルタ",
+              "url": "https://note.com/kintaro_2001/n/ndc0e69147181"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/あべのベルタ"
+          }
         },
         {
           "prefecture": "兵庫県",
@@ -15862,7 +15905,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "神奈川県",
@@ -15875,7 +15921,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -15888,7 +15937,10 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -15906,7 +15958,10 @@ window.FACILITY_DATASET={
               "title": "東京高速道路下の銀座ナイン案内",
               "url": "https://www.tokyo-kousoku.jp/tenants/sc/"
             }
-          ]
+          ],
+          "extra": {
+            "参照": ""
+          }
         },
         {
           "prefecture": "東京都",
@@ -15919,7 +15974,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "建築訪問｜新橋駅前ビル1号館",
+              "url": "https://note.com/ab202s/n/n38744d75403f"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/新橋駅前ビル"
+          }
         },
         {
           "prefecture": "東京都",
@@ -15932,7 +15995,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "建築訪問｜東京交通会館ビル",
+              "url": "https://note.com/lapaznote0/n/nd2da46dcf589"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/東京交通会館"
+          }
         },
         {
           "prefecture": "東京都",
@@ -15945,7 +16016,15 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "建築訪問｜銀座ライオンビル",
+              "url": "https://note.com/tabijitabikibun/n/n23399acf9a10"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia: https://ja.wikipedia.org/wiki/銀座ライオン"
+          }
         }
       ]
     },
