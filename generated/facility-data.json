@@ -25603,7 +25603,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "訪問記｜大森ベルポートのアトリウム",
+              "url": "https://yamakenlab.com/archives/tokyo-omoribellport.html"
+            },
+            {
+              "title": "設計解説｜大森ベルポート",
+              "url": "https://www.ugtk.co.jp/projects/omoribellport/"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -25619,7 +25628,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "訪問記｜シーバンス ア・モール",
+              "url": "https://fuwatu.com/a-mall-kuuga/"
+            },
+            {
+              "title": "施設解説｜ア・モール（シーバンス）",
+              "url": "https://nttud.co.jp/business/commercial_facilities/detail/id/27.html"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -25651,7 +25669,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "訪問記｜テレコムセンタービル",
+              "url": "https://yamakenlab.com/archives/tokyo-telecom_center.html"
+            },
+            {
+              "title": "建築紹介｜テレコムセンタービル",
+              "url": "https://news.mynavi.jp/article/20140926-telecomcenter/"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%82%B3%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
           }
@@ -25667,7 +25694,12 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "施設紹介｜新宿パークタワーのアトリウム",
+              "url": "https://www.ozone.co.jp/parktowerhall/space/atrium/"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%BF%E3%83%91%E3%83%BC%E3%82%AF%E3%82%BF%E3%83%AF%E3%83%BC"
           }
@@ -25704,7 +25736,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "訪問記｜新宿NSビル",
+              "url": "https://takeshampo.com/ns-bulding/"
+            },
+            {
+              "title": "設計解説｜新宿NSビルのアトリウム",
+              "url": "https://www.nikken.co.jp/ja/about/projects_history/corporate_history/07_02.html"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%BFNS%E3%83%93%E3%83%AB"
           }
@@ -25720,7 +25761,12 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "施設紹介｜キャロットタワー",
+              "url": "https://www.tokyu.co.jp/area/sangen-jaya/article/arti-01KS6TTH11RW90FTVAPSV1CS9M/"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%83%E3%83%88%E3%82%BF%E3%83%AF%E3%83%BC"
           }
@@ -25736,7 +25782,12 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "公開空地の改修｜大手町ファーストスクエア",
+              "url": "https://ikou.nttud.co.jp/news/detail/id/n23627.html"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -25752,7 +25803,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "建築データ｜新宿アイランドタワー",
+              "url": "https://skyscrapers-and-urbandevelopment.com/page-258/page-29431/page-572/page-4040/"
+            },
+            {
+              "title": "訪問記｜新宿アイランドのアトリウム",
+              "url": "https://4travel.jp/travelogue/11095636"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%BF%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89"
           }
@@ -25789,7 +25849,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "建築訪問｜丸ビル MARUCUBE",
+              "url": "https://hwdesignstand.hatenablog.com/entry/2025/08/28/190609"
+            },
+            {
+              "title": "設計解説｜MARUCUBE",
+              "url": "https://www.mjd.co.jp/projects/29344/"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E4%B8%B8%E3%81%AE%E5%86%85%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0"
           }
@@ -25935,7 +26004,12 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "訪問記｜青海フロンティアビル",
+              "url": "https://ameblo.jp/saschaboeckle/entry-12808585411.html"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -25951,7 +26025,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "訪問記｜有明フロンティアビル",
+              "url": "https://note.com/lainin1998/n/n94914cfe7e2a"
+            },
+            {
+              "title": "設計解説｜有明フロンティアビル",
+              "url": "https://www.mhs.co.jp/work/akiake-frontier/"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -25988,7 +26071,12 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "建築紹介｜アーバンネット大手町ビル",
+              "url": "https://bb-building.net/tokyo/deta/1260.html"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -26004,7 +26092,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "施設解説｜日本橋三井タワーのアトリウム",
+              "url": "https://www.mitsuitower.jp/about/index.html"
+            },
+            {
+              "title": "照明設計紹介｜日本橋三井タワー",
+              "url": "https://jirei.tlt.co.jp/index.cgi?id=1793&mode=detail"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%B8%89%E4%BA%95%E3%82%BF%E3%83%AF%E3%83%BC"
           }
@@ -26020,7 +26117,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "建築解説｜汐留住友ビルのアトリウム",
+              "url": "https://glass-wonderland.jp/professoinal/contents/spm-report/shiodome/"
+            },
+            {
+              "title": "照明設計紹介｜汐留住友ビル",
+              "url": "https://www.lighting.co.jp/projects/shiodome-sumitomo-building/"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -26036,7 +26142,12 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "施設紹介｜TOKIA ガレリア",
+              "url": "https://tokyo-marunouchi.jp/ja/facilities/3073"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -26052,7 +26163,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "建築訪問｜KITTE丸の内・旧東京中央郵便局",
+              "url": "https://massneko.hatenablog.com/entry/2020/01/10/000000"
+            },
+            {
+              "title": "写真訪問｜KITTEの吹き抜け",
+              "url": "https://awazo.com/ja/article/people_walking_through_the_atr.html"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/KITTE"
           }
@@ -26068,7 +26188,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "設計解説｜第一生命日比谷ファースト LOFFT",
+              "url": "https://suppose.jp/works/%E7%AC%AC%E4%B8%80%E7%94%9F%E5%91%BD%E6%97%A5%E6%AF%94%E8%B0%B7%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88-lofft/"
+            },
+            {
+              "title": "改修資料｜第一生命日比谷ファースト",
+              "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202302253593184630"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E7%94%9F%E5%91%BD%E9%A4%A8"
           }
@@ -26084,7 +26213,12 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "施設解説｜明治安田ヴィレッジのアトリウム",
+              "url": "https://www.mitsubishi.com/ja/minikite/vol37.html"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB%E7%94%9F%E5%91%BD%E9%A4%A8"
           }
@@ -26184,7 +26318,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "設計解説｜横浜市役所",
+              "url": "https://www.s-onsite.com/works/001419.html"
+            },
+            {
+              "title": "訪問・利用案内｜横浜市役所アトリウム",
+              "url": "https://www.city.yokohama.lg.jp/city-info/yokohamashi/shichosha/teisou.html?lang=en"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%BD%B9%E6%89%80"
           }
@@ -26200,7 +26343,16 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "建築訪問｜京都駅ビル大階段・吹き抜け",
+              "url": "https://www.fieldnotes-japan.com/ja/spot/kyoto-station-building-daikaidan/"
+            },
+            {
+              "title": "訪問記｜京都駅ビル空中経路",
+              "url": "https://fumin-blog.com/kyoto-station/"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB"
           }
@@ -26216,7 +26368,12 @@
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "訪問記｜せんだいメディアテーク初訪問",
+              "url": "https://tikikiti.jp/fukuhomu/14626.html"
+            }
+          ],
           "extra": {
             "参照": "Wikipedia:https://ja.wikipedia.org/wiki/%E3%81%9B%E3%82%93%E3%81%A0%E3%81%84%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%86%E3%83%BC%E3%82%AF"
           }
