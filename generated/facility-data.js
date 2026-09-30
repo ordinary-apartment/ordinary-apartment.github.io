@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
   "materialCount": 48,
-  "total": 1672,
+  "total": 1673,
   "materials": [
     {
       "id": "botanical",
@@ -17317,7 +17317,7 @@ window.FACILITY_DATASET={
       "name": "大型リゾート施設",
       "shortName": "大型リゾート施設",
       "file": "大型リゾート施設.csv",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "prefecture": "静岡県",
@@ -17540,6 +17540,31 @@ window.FACILITY_DATASET={
           "relatedLinks": [],
           "extra": {
             "参照": "公式サイト：https://www.sunhatoya.co.jp/"
+          }
+        },
+        {
+          "prefecture": "北海道",
+          "city": "札幌市南区",
+          "name": "定山渓ビューホテル 水の王国ラグーン",
+          "type": "大型屋内プール",
+          "note": "1996年開業の新館グレイトビュー地下1〜2階に併設された屋内温水アミューズメント施設。約4,000㎡の空間に、波が押し寄せるウェーブプール、流れるプール、全長50mの急流を専用ボートで滑るスプラッシュリバー、浅瀬のキッズプラザ、深さ15cmの子供プール「パルパル」、船型遊具「パレットピア号」、ジャグジーゾーンなどを配置する。2021年のホテル営業再開後もラグーンは継続して営業しており、宿泊者の利用時間は原則14:00〜21:00、日帰りは平日14:00〜21:00・土日祝10:00〜15:00（変更の場合あり）。ラグーン・スパは公式案内で現在休止中。",
+          "official": "https://www.jozankeiview.com/pool/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%9A%E5%B1%B1%E6%B8%93%E3%83%93%E3%83%A5%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB%20%E6%B0%B4%E3%81%AE%E7%8E%8B%E5%9B%BD%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B3%20%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%AE%9A%E5%B1%B1%E6%B8%93%E6%B8%A9%E6%B3%89%E6%9D%B12%E4%B8%81%E7%9B%AE111",
+          "kind": "大型リゾート",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "スプラッシュリバーの刹那〜定山渓ビューホテルを巡る一考察（2）",
+              "url": "https://note.com/homeport/n/n91b116132af3"
+            },
+            {
+              "title": "定山渓ビューホテルのプールは子連れに最高？水の王国ラグーンの魅力・持ち物・宿泊で楽しむコツ",
+              "url": "https://ameblo.jp/ryouhei0816/entry-12966650885.html"
+            }
+          ],
+          "extra": {
+            "参照": "公式サイト：https://www.jozankeiview.com/pool/\nWikipedia：https://ja.wikipedia.org/wiki/%E5%AE%9A%E5%B1%B1%E6%B8%93%E3%83%93%E3%83%A5%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB"
           }
         }
       ]
