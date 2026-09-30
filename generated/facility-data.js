@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 47,
-  "total": 1654,
+  "materialCount": 48,
+  "total": 1680,
   "materials": [
     {
       "id": "botanical",
@@ -28840,6 +28840,437 @@ window.FACILITY_DATASET={
               "url": "https://saunamile.com/saunasan-2/"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "csv-683454247f3b500c4b27",
+      "number": 48,
+      "name": "東京の企業博物館",
+      "shortName": "東京の企業博物館",
+      "file": "東京の企業博物館.csv",
+      "count": 26,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "IHIものづくり館 i-muse",
+          "type": "産業技術",
+          "note": "９:３０～１７:３０",
+          "official": "http://www.ihi.co.jp/i-muse/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=IHI%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E9%A4%A8%20i-muse%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "科学系施設",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：http://www.ihi.co.jp/i-muse/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "セイコーミュージアム 銀座",
+          "type": "時計・計時技術",
+          "note": "セイコーの時計製造史と計時技術を中心に、日時計から機械式時計、クオーツ、スポーツ計時までを実物資料で展示する。",
+          "official": "https://museum.seiko.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E9%8A%80%E5%BA%A7%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A74-3-13",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://museum.seiko.co.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "たばこと塩の博物館",
+          "type": "たばこ・塩文化",
+          "note": "たばこと塩を軸に、喫煙文化、専売制度、塩の製造と流通、世界各地の生活文化を資料と実物で展示する。",
+          "official": "https://www.tabashio.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%9F%E3%81%B0%E3%81%93%E3%81%A8%E5%A1%A9%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E6%A8%AA%E5%B7%9D1-16-3",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "https://ja.wikipedia.org/wiki/たばこと塩の博物館"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "印刷博物館",
+          "type": "印刷・出版技術",
+          "note": "印刷文化と出版技術を専門に、古代から現代までの印刷物、活字、印刷機械、製造技術を体系的に紹介する企業系専門博物館。",
+          "official": "https://www.printing-museum.org/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%8D%B0%E5%88%B7%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "https://ja.wikipedia.org/wiki/印刷博物館"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "日本カメラ博物館",
+          "type": "カメラ・写真技術",
+          "note": "日本カメラ財団が運営するカメラ専門館。国内外の歴史的カメラ、写真機材、映像技術を収集し、企画展と常設展示で公開する。",
+          "official": "https://www.jcii-cameramuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E3%82%AB%E3%83%A1%E3%83%A9%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E4%B8%80%E7%95%AA%E7%94%BA25",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "https://ja.wikipedia.org/wiki/日本カメラ博物館"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "紙の博物館",
+          "type": "紙・産業",
+          "note": "紙の歴史、製造技術、紙文化を扱う専門館。10:00 〜 17:00。 月曜日休館。",
+          "official": "http://www.papermuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E7%B4%99%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "はじめての　#紙の博物館　（　#王子　#北区　#東京　#東大寺　#修二会　#和紙　#白石和紙　） - shiraike's blog",
+              "url": "https://shiraike.hatenablog.com/entry/2024/02/05/012808"
+            }
+          ],
+          "extra": {
+            "参照": "https://ja.wikipedia.org/wiki/紙の博物館"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "Daiichi Sankyo くすりミュージアム",
+          "type": "医薬品・製薬史",
+          "note": "第一三共が運営する医薬品の歴史・創薬・薬の科学を体系的に紹介する企業ミュージアム。実物資料や体験展示を通じ、製薬企業の研究開発と社会との関係を見られる。見学は予約制。",
+          "official": "https://kusuri-museum.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Daiichi%20Sankyo%20%E3%81%8F%E3%81%99%E3%82%8A%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://kusuri-museum.com/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "多摩市",
+          "name": "KDDI MUSEUM",
+          "type": "通信・情報技術史",
+          "note": "KDDIの通信事業の歴史、海底ケーブル、衛星通信、携帯電話などを実物・映像・体験展示で紹介する企業ミュージアム。通信設備とサービスの変遷を一つの施設で追える。",
+          "official": "https://www.kddi.com/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=KDDI%20MUSEUM%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.kddi.com/museum/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "YEBISU BREWERY TOKYO",
+          "type": "ビール醸造史",
+          "note": "恵比寿のビール工場跡地で、サッポロビールと恵比寿ブランドの歴史、醸造文化、製品を展示するミュージアム。旧工場に由来する地域の企業史を体験できる。",
+          "official": "https://www.sapporobeer.jp/brewery/y_museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=YEBISU%20BREWERY%20TOKYO%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.sapporobeer.jp/brewery/y_museum/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "アドミュージアム東京",
+          "type": "広告・メディア史",
+          "note": "電通創業者を記念する公益財団が運営し、日本の広告史を広告作品、業界資料、映像で紹介する企業系ミュージアム。広告会社とメディア産業の形成を実物資料から見られる。",
+          "official": "https://www.admt.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%89%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "https://ja.wikipedia.org/wiki/アド・ミュージアム東京"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "がすてなーに ガスの科学館",
+          "type": "ガス・エネルギー史",
+          "note": "東京ガスが運営するガスの科学館。都市ガスの製造・供給、エネルギー利用、安全、環境を実機・模型・体験展示で紹介する。企業のインフラ技術を一般公開する常設施設。",
+          "official": "https://www.gas-kagakukan.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8C%E3%81%99%E3%81%A6%E3%81%AA%E3%83%BC%E3%81%AB%20%E3%82%AC%E3%82%B9%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.gas-kagakukan.com/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "品川区",
+          "name": "ニコンミュージアム",
+          "type": "光学・カメラ技術史",
+          "note": "ニコンの創業から現在までのカメラ、測量・顕微鏡・半導体関連機器などを展示する企業博物館。歴代製品と光学技術の実物から、企業の事業変遷を追える。",
+          "official": "https://www.jp.nikon.com/company/corporate/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%82%B3%E3%83%B3%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "https://ja.wikipedia.org/wiki/ニコンミュージアム"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "ヤマトグループ歴史館 クロネコヤマトミュージアム",
+          "type": "物流・宅配便史",
+          "note": "ヤマトグループの物流・宅配便の歴史、車両、制服、伝票、配送設備を展示する企業ミュージアム。宅配便が成立した業務工程と企業文化を具体的な資料で見られる。",
+          "official": "https://www.yamato-hd.co.jp/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%A4%E3%83%9E%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%AD%B4%E5%8F%B2%E9%A4%A8%20%E3%82%AF%E3%83%AD%E3%83%8D%E3%82%B3%E3%83%A4%E3%83%9E%E3%83%88%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.yamato-hd.co.jp/museum/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "品川区",
+          "name": "容器文化ミュージアム",
+          "type": "容器・包装産業史",
+          "note": "東洋製罐グループが運営し、缶・びん・プラスチック容器などの製造技術と包装文化を実物資料、金型、製造工程模型で紹介する企業ミュージアム。",
+          "official": "https://www.toyo-seikan.co.jp/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%AE%B9%E5%99%A8%E6%96%87%E5%8C%96%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%93%81%E5%B7%9D%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.toyo-seikan.co.jp/museum/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "練馬区",
+          "name": "東映アニメーションミュージアム",
+          "type": "アニメーション産業史",
+          "note": "東映アニメーションの作品、制作工程、原画・設定資料を展示する企業ミュージアム。アニメーション制作の道具と作品資料を通じて、日本の商業アニメ産業を体験できる。",
+          "official": "https://museum.toei-anim.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%98%A0%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E7%B7%B4%E9%A6%AC%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "https://ja.wikipedia.org/wiki/東映アニメーションミュージアム"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "武蔵野市",
+          "name": "NTT技術史料館",
+          "type": "通信技術史",
+          "note": "NTTの前身から続く電気通信技術の発展を、交換機、電話機、伝送装置、研究開発資料で保存・展示する企業史料館。通信設備の実物がまとまって見られる。見学は案内を確認。",
+          "official": "https://hct.rd.ntt/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=NTT%E6%8A%80%E8%A1%93%E5%8F%B2%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://hct.rd.ntt/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "小平市",
+          "name": "GAS MUSEUM がす資料館",
+          "type": "都市ガス・産業史",
+          "note": "東京ガスが保存する明治期のガス灯、ガス器具、広告、供給設備を展示する企業博物館。都市ガス事業の成立と暮らしの変化を歴史資料と実物から見られる。",
+          "official": "https://www.gasmuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=GAS%20MUSEUM%20%E3%81%8C%E3%81%99%E8%B3%87%E6%96%99%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.gasmuseum.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "小平市",
+          "name": "ブリヂストン イノベーションギャラリー",
+          "type": "タイヤ・ゴム技術史",
+          "note": "ブリヂストンの創業、タイヤとゴム技術、モータースポーツ、将来技術を実物製品と体験展示で紹介する企業ミュージアム。製品開発と企業理念の変化を追える。",
+          "official": "https://www.bridgestone.co.jp/corporate/innovation_gallery/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%96%E3%83%AA%E3%83%82%E3%82%B9%E3%83%88%E3%83%B3%20%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AE%E3%83%A3%E3%83%A9%E3%83%AA%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%B0%8F%E5%B9%B3%E5%B8%82",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.bridgestone.co.jp/corporate/innovation_gallery/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "多摩市",
+          "name": "長谷工マンションミュージアム",
+          "type": "住宅・建設産業史",
+          "note": "長谷工グループが運営するマンションの歴史、設計・施工、設備、住戸の変化を展示する企業ミュージアム。集合住宅の実物模型や構法資料を通じて住宅産業の仕事を見られる。2026年10月から2027年3月まで一時休館予定。",
+          "official": "https://www.haseko.co.jp/hmm/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E8%B0%B7%E5%B7%A5%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%9A%E6%91%A9%E5%B8%82",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.haseko.co.jp/hmm/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "北区",
+          "name": "東書文庫",
+          "type": "出版・教科書史",
+          "note": "東京書籍が設立した教科書図書館。明治以降の教科書・教育資料を保存し、出版社の事業と学校教育の変遷を原資料で公開する。事前申請で閲覧できる。",
+          "official": "https://www.tosho-bunko.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%9B%B8%E6%96%87%E5%BA%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8C%97%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.tosho-bunko.jp/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "name": "樫尾俊雄発明記念館",
+          "type": "電子機器・発明史",
+          "note": "カシオ計算機創業者の発明と、計算機・時計・電子楽器などカシオ製品の開発史を展示する企業系記念館。歴代製品と発明資料を予約制で見学できる。",
+          "official": "https://www.kashiotoshio.org/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AB%E5%B0%BE%E4%BF%8A%E9%9B%84%E7%99%BA%E6%98%8E%E8%A8%98%E5%BF%B5%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.kashiotoshio.org/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "大田区",
+          "name": "JAL SKY MUSEUM",
+          "type": "航空・旅客サービス史",
+          "note": "日本航空の格納庫見学と併設展示で、航空機、整備、客室乗務員、運航の仕事と企業史を紹介する。現役整備現場と歴代資料を同時に見られる予約制の企業ミュージアム。",
+          "official": "https://www.jal.com/ja/kengaku/reservations/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=JAL%20SKY%20MUSEUM%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A4%A7%E7%94%B0%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.jal.com/ja/kengaku/reservations/"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "八王子市",
+          "name": "オリンパスミュージアム",
+          "type": "光学・医療機器技術史",
+          "note": "オリンパスのカメラ、顕微鏡、内視鏡など歴代製品と光学・医療技術を展示する企業ミュージアム。製品の実物と開発の歩みを見られる。見学は予約制。",
+          "official": "https://www.olympus.co.jp/company/base/map/olympusmuseum.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%91%E3%82%B9%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "公式サイト：https://www.olympus.co.jp/company/base/map/olympusmuseum.html"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "東武博物館",
+          "type": "鉄道・交通産業史",
+          "note": "東武鉄道が運営する鉄道企業博物館。車両、運転機器、駅設備、沿線開発資料を保存展示し、鉄道会社の業務と都市交通の歴史を実物で見られる。",
+          "official": "https://www.tobu.co.jp/museum/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "https://ja.wikipedia.org/wiki/東武博物館"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "郵政博物館",
+          "type": "郵便・通信制度",
+          "note": "郵便制度の歴史と通信文化を専門に、切手、郵便資料、通信機器、制度史資料を収集・保存・展示する。",
+          "official": "https://www.postalmuseum.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E9%83%B5%E6%94%BF%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E6%8A%BC%E4%B8%8A1-1-2",
+          "kind": "",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "https://ja.wikipedia.org/wiki/郵政博物館"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江戸川区",
+          "name": "地下鉄博物館",
+          "type": "地下鉄・交通技術史",
+          "note": "東京地下鉄株式会社の企業博物館。地下鉄車両、運転シミュレーター、トンネル・信号設備、東京の地下鉄史を実物と体験展示で公開する。",
+          "official": "https://www.chikahaku.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E4%B8%8B%E9%89%84%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
+          "kind": "企業博物館",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "https://ja.wikipedia.org/wiki/地下鉄博物館"
+          }
         }
       ]
     }
