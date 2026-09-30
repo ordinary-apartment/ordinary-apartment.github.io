@@ -224,6 +224,10 @@ window.FACILITY_DATASET={
             {
               "title": "〖東京〗目黒寄生虫館へ行ってきた〖名所〗｜Kana",
               "url": "https://note.com/kanago/n/nb5641082769d"
+            },
+            {
+              "title": "目黒寄生虫館",
+              "url": "https://ja.wikipedia.org/wiki/%E7%9B%AE%E9%BB%92%E5%AF%84%E7%94%9F%E8%99%AB%E9%A4%A8"
             }
           ],
           "extra": {
@@ -282,6 +286,10 @@ window.FACILITY_DATASET={
             {
               "title": "科学館レビュー３４：科学技術館（東京都千代田区）｜ぬばたま みどり＠化学系VTuber",
               "url": "https://note.com/midori_nubatama/n/ncba71668b209"
+            },
+            {
+              "title": "科学技術館",
+              "url": "https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E9%A4%A8"
             }
           ],
           "extra": {
@@ -299,7 +307,12 @@ window.FACILITY_DATASET={
           "kind": "公共空間",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "東京都立第五福竜丸展示館",
+              "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%AC%AC%E4%BA%94%E7%A6%8F%E7%AB%9C%E4%B8%B8%E5%B1%95%E7%A4%BA%E9%A4%A8"
+            }
+          ],
           "extra": {
             "参照": "公式サイト：http://d5f.org/\nWikipedia：https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%AC%AC%E4%BA%94%E7%A6%8F%E7%AB%9C%E4%B8%B8%E5%B1%95%E7%A4%BA%E9%A4%A8"
           }
@@ -331,7 +344,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "国立科学博物館",
+              "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E7%AB%8B%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -347,7 +365,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "日本科学未来館",
+              "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%A7%91%E5%AD%A6%E6%9C%AA%E6%9D%A5%E9%A4%A8"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -379,7 +402,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "板橋区立教育科学館",
+              "url": "https://ja.wikipedia.org/wiki/%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E9%A4%A8"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -395,7 +423,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "多摩六都科学館",
+              "url": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E6%91%A9%E5%85%AD%E9%83%BD%E7%A7%91%E5%AD%A6%E9%A4%A8"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -411,7 +444,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "八王子市こども科学館",
+              "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E3%81%93%E3%81%A9%E3%82%82%E7%A7%91%E5%AD%A6%E9%A4%A8"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -427,7 +465,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "テピア",
+              "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%94%E3%82%A2"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -443,7 +486,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "東京科学大学博物館",
+              "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -459,7 +507,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "東京理科大学近代科学資料館",
+              "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%90%86%E7%A7%91%E5%A4%A7%E5%AD%A6%E8%BF%91%E4%BB%A3%E7%A7%91%E5%AD%A6%E8%B3%87%E6%96%99%E9%A4%A8"
+            }
+          ],
           "extra": {
             "参照": ""
           }
@@ -491,7 +544,12 @@ window.FACILITY_DATASET={
           "kind": "",
           "officialSearch": "",
           "mapQueryName": "",
-          "relatedLinks": [],
+          "relatedLinks": [
+            {
+              "title": "東京大学総合研究博物館",
+              "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E5%8D%9A%E7%89%A9%E9%A4%A8"
+            }
+          ],
           "extra": {
             "参照": ""
           }
