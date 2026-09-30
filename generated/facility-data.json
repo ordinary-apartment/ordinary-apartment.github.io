@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "materialCount": 49,
-  "total": 1724,
+  "materialCount": 50,
+  "total": 1745,
   "materials": [
     {
       "id": "botanical",
@@ -30640,6 +30640,392 @@
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "csv-5528016a2512e7e3e955",
+      "number": 50,
+      "name": "元○○だった東京のホテル",
+      "shortName": "元○○だった東京のホテル",
+      "file": "元○○だった東京のホテル.csv",
+      "count": 21,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "文京区",
+          "name": "ホテル椿山荘東京",
+          "type": "元大名屋敷・元邸宅",
+          "note": "江戸期は久留里藩黒田家の下屋敷、明治11年に山縣有朋が取得して邸宅・庭園「椿山荘」を築いた土地。戦後に藤田興業が庭園を再整備し、1952年に宴会場として開業、1992年にホテル棟を開業した。現在のホテルは建物をそのまま転用したものではなく、山縣邸の庭園・史跡を敷地継承するホテルで、三重塔や古稀庵など旧土地の記憶を残す。",
+          "official": "https://hotel-chinzanso-tokyo.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E6%A4%BF%E5%B1%B1%E8%8D%98%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%96%87%E4%BA%AC%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "ホテル椿山荘東京の歴史",
+              "url": "https://hotel-chinzanso-tokyo.jp/garden/history/"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%86%E3%83%AB%E6%A4%BF%E5%B1%B1%E8%8D%98%E6%9D%B1%E4%BA%AC"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "The Okura Tokyo",
+          "type": "元大使館・邸宅地",
+          "note": "旧ホテルオークラ本館の敷地を建て替え、2019年に開業した。周辺は戦前から各国大使館や旧大倉邸などが集まる高台で、ホテル本館は建物転用ではなく旧ホテル建築・庭園の土地を継承する再開発である。旧本館のロビー意匠を継承した意匠と、別館・大倉集古館との複合的な構成を持つ。",
+          "official": "https://theokuratokyo.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=The%20Okura%20Tokyo%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%86%E3%83%AB%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%A9%E6%9D%B1%E4%BA%AC"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "ホテルニューオータニ",
+          "type": "元大名屋敷・元宮家邸宅",
+          "note": "江戸期の加藤清正下屋敷・井伊家中屋敷を経て、明治期から伏見宮邸となった土地。戦後に大谷米太郎が取得して自邸とした後、東京五輪に向けて1964年にホテルニューオータニが開業した。ホテル建物は新築だが、約400年の庭園と旧邸宅地の地形を敷地継承する。",
+          "official": "https://www.newotani.co.jp/tokyo/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%BF%E3%83%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "伏見宮邸からホテルニューオータニへ",
+              "url": "https://smtrc.jp/town-archives/city/kojimachi/p07.html"
+            }
+          ],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%86%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%BF%E3%83%8B"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "K5",
+          "type": "元銀行",
+          "note": "1923年竣工の旧第一銀行澁澤倉庫を改修し、2020年にホテルとして開業した建物転用例。旧銀行の鉄筋コンクリート躯体、階段、金庫・倉庫的な空間を活かし、客室と飲食・展示空間を組み込んでいる。日本橋兜町の金融街再生と、銀行建築を宿泊施設へ変える改修を同時に確認できる。",
+          "official": "https://k5-tokyo.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=K5%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "山の上ホテル",
+          "type": "元生活改善運動施設・元軍関連施設",
+          "note": "1936年竣工の「佐藤新興生活館」を前身とし、戦時中は陸軍に接収され、戦後はGHQ関連施設として使用された建物を改修して1954年にホテル開業。アール・デコ調の外観や階段、客室構成を残す建物転用である。2024年2月から全館休業し、耐震・設備改修後の再開を予定している。",
+          "official": "https://www.yamanoue-hotel.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E3%81%AE%E4%B8%8A%E3%83%9B%E3%83%86%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "パレスホテル東京",
+          "type": "元官公庁施設・国営ホテル",
+          "note": "旧帝室林野局庁舎を改築して1947年に開業したホテルテートが前身。1961年にパレスホテルとして建て替えられ、2009年から建替え工事を行い2012年に現ホテルが開業した。現在の建物は新築だが、GHQ期の国営ホテルから続く皇居前の宿泊施設の履歴を継承する。",
+          "official": "https://www.palacehoteltokyo.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%AC%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AC%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "name": "KAIKA TOKYO by THE SHARE HOTELS",
+          "type": "元倉庫",
+          "note": "玩具メーカーの倉庫として建てられた築約54年の倉庫ビルを耐震補強・防水改修し、2020年にアートストレージ併設ホテルへコンバージョンした。天井高のある地下荷捌き空間や倉庫の構造を保存し、公開収蔵庫と客室を組み合わせている。",
+          "official": "https://www.thesharehotels.com/kaika/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=KAIKA%20TOKYO%20by%20THE%20SHARE%20HOTELS%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%A2%A8%E7%94%B0%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "ザ・キャピトルホテル 東急",
+          "type": "元料亭",
+          "note": "日枝神社の星ヶ岡にあった北大路魯山人の会員制料亭「星岡茶寮」の跡地に、1963年に東京ヒルトンとして開業。2006年に建替えられ、2010年に現ホテルとして再開業した。建物は建替えだが、料亭跡の土地と日枝神社に接する丘の地形を継承する。",
+          "official": "https://www.tokyuhotels.co.jp/capitol-h/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%94%E3%83%88%E3%83%AB%E3%83%9B%E3%83%86%E3%83%AB%20%E6%9D%B1%E6%80%A5%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "星岡茶寮跡地のブランドヒストリー",
+              "url": "https://www.tokyuhotels.co.jp/capitol-h/company/brandhistory/index.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "東京ステーションホテル",
+          "type": "元鉄道駅舎",
+          "note": "1914年開業の東京駅丸の内駅舎内に1915年開業。駅舎のホテル用途は戦災・復旧を経て継続し、2006〜2012年の駅舎保存復原工事に合わせて再生された。ホテルが別用途建物へ移転した例ではなく、重要文化財の鉄道駅舎に宿泊機能を組み込んだ建物内用途の継承例である。",
+          "official": "https://www.tokyostationhotel.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9B%E3%83%86%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": "Wikipedia：https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9B%E3%83%86%E3%83%AB"
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "庭のホテル 東京",
+          "type": "元日本旅館",
+          "note": "1935年創業の日本旅館「森田館」を起点とする神田三崎町の宿泊施設。旧旅館の系譜と敷地を引き継ぎ、2009年に「庭のホテル 東京」として現建物を開業した。前用途は同じ宿泊業だが、木造旅館から現代ホテルへの更新過程と、神保町・出版街に近い立地の履歴を記録できる。",
+          "official": "https://www.hotelniwa.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%BA%AD%E3%81%AE%E3%83%9B%E3%83%86%E3%83%AB%20%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "庭のホテルのあゆみ",
+              "url": "https://www.hotelniwa.jp/about/history/"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "中央区",
+          "name": "ホテル龍名館東京",
+          "type": "元旅館",
+          "note": "江戸期から日本橋室町で営業した名倉屋旅館を起源とする龍名館の系譜を八重洲の現ホテルへ継承する。現在のホテル建物は建替えられているが、旅館業から都市型ホテルへの転換と、震災後も残る槐の木を保存した敷地利用が確認できる。",
+          "official": "https://www.ryumeikan-tokyo.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E9%BE%8D%E5%90%8D%E9%A4%A8%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "グランドプリンスホテル高輪",
+          "type": "元宮家邸宅",
+          "note": "1953年開業。敷地には1911年竣工の旧竹田宮邸「貴賓館」が現存し、宮家の邸宅地がホテルと日本庭園へ転用された。貴賓館はホテルの宴会・婚礼施設として保存活用され、庭園・門・旧邸宅の意匠が宿泊施設の中に残る。",
+          "official": "https://www.princehotels.co.jp/takanawa/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB%E9%AB%98%E8%BC%AA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧竹田宮邸・貴賓館の歴史",
+              "url": "https://www.princehotels.co.jp/takanawa/wedding/history/"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "グランドプリンスホテル新高輪",
+          "type": "元宮家邸宅",
+          "note": "1971年開業。高輪の旧北白川宮邸など宮家用地を再編したホテル地区に建ち、旧邸宅・庭園の土地利用を継承する。旧建物をホテル客室へ転用したものではなく、宮家邸宅地の庭園と複数ホテルによる再開発として成立した。",
+          "official": "https://www.princehotels.co.jp/shintakanawa/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB%E6%96%B0%E9%AB%98%E8%BC%AA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "ザ・プリンス さくらタワー東京",
+          "type": "元宮家邸宅",
+          "note": "1998年開業。高輪の旧宮家邸宅地・庭園をプリンスホテル群へ再編した敷地に建つホテルで、旧邸宅の建物転用ではなく土地・庭園の履歴を継承する。高輪貴賓館や日本庭園と一体のホテル地区として、宮家用地から民間宿泊施設への転換を示す。",
+          "official": "https://www.princehotels.co.jp/sakuratower/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%20%E3%81%95%E3%81%8F%E3%82%89%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "パークホテル東京",
+          "type": "元鉄道貨物駅・再開発施設",
+          "note": "旧国鉄汐留貨物駅跡地の再開発で建設された汐留メディアタワーの25〜34階に入るホテル。建物転用ではなく、貨物駅・鉄道用地を業務・文化・宿泊の複合施設へ変えた土地継承型で、旧新橋停車場や鉄道発祥地に近接する。",
+          "official": "https://parkhoteltokyo.com/ja/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%9B%E3%83%86%E3%83%AB%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "コンラッド東京",
+          "type": "元鉄道貨物駅・再開発施設",
+          "note": "旧国鉄汐留貨物駅跡地の汐留再開発地区に建つ高層複合施設のホテル。ホテル建物自体は新築だが、貨物駅・鉄道用地から業務、商業、文化、宿泊が集まる都市街区へ転換された土地の履歴を持つ。",
+          "official": "https://conrad-tokyo.hiltonjapan.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%B3%E3%83%A9%E3%83%83%E3%83%89%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "渋谷区",
+          "name": "SHIBUYA STREAM HOTEL",
+          "type": "元鉄道駅・線路敷",
+          "note": "東横線と副都心線の相互直通化で廃止された旧東横線渋谷駅ホーム・線路跡地を活用した渋谷ストリームのホテル。2018年開業で、旧高架橋や駅の形状を再利用した複合施設に宿泊機能を組み込む。 2024年に「SHIBUYA STREAM HOTEL」へリブランドされた。",
+          "official": "https://www.tokyuhotels.co.jp/shibuyastream/index.html",
+          "maps": "https://www.google.com/maps/search/?api=1&query=SHIBUYA%20STREAM%20HOTEL%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "旧東横線渋谷駅の線路跡を歩く",
+              "url": "https://www.tokyu.co.jp/area/shibuya/article/arti-01JSDK4Y09EYPAAHFNRRT08NSP/"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "ホテルメトロポリタン丸の内",
+          "type": "元鉄道関連用地・オフィスビル",
+          "note": "東京駅日本橋口直上のサピアタワー27〜34階に2007年開業。駅周辺の鉄道用地・再開発街区に建つオフィス複合ビルの上層階をホテルへ転用したもので、駅施設と業務・宿泊機能が積層する。",
+          "official": "https://marunouchi.metropolitan.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%BF%E3%83%B3%E4%B8%B8%E3%81%AE%E5%86%85%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "ホテル イースト21東京",
+          "type": "元建設会社資材置場",
+          "note": "鹿島が戦後に取得した約1万坪の機材センター（豊住ヤード）跡地を再開発し、1992年にホテル・オフィス・商業の複合施設「東京イースト21」として開業した。資材置場から都市型ホテルと広場へ転換された土地利用を、ホテルの吹抜け・庭園・複合動線から確認できる。",
+          "official": "https://www.hotel-east21.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%20%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%8821%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "東京イースト21・資材置場跡地の開発史",
+              "url": "https://www.kajima.co.jp/news/digest/oct_2022/feature/03/index.html"
+            }
+          ],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "品川プリンスホテル",
+          "type": "元華族邸宅",
+          "note": "1978年開業。品川駅西側の旧公爵邸など華族邸宅地を再編したプリンスホテル地区に建つ。旧邸宅建物の直接転用ではないが、邸宅・庭園用地が大規模な都市ホテル・レジャー複合施設へ転換された土地の履歴を持つ。",
+          "official": "https://www.princehotels.co.jp/shinagawa/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E5%93%81%E5%B7%9D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "ザ・プリンス パークタワー東京",
+          "type": "元ゴルフ場・ボウリング場",
+          "note": "2005年開業。芝ゴルフ場と芝ボウリングセンターの跡地を再開発し、芝公園・増上寺に隣接するホテル・宴会・レジャー複合施設として建設された。旧レジャー施設の土地に超高層ホテルを配置した用途転換である。",
+          "official": "https://www.princehotels.co.jp/parktower/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC%E9%83%BD%20%E6%B8%AF%E5%8C%BA",
+          "kind": "前用途からホテルへの転用",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [
+            {
+              "title": "芝ゴルフ場・芝ボウリングセンター跡地のホテル開発",
+              "url": "https://www.princehotels.co.jp/tokyo/contents/60th/"
+            }
+          ],
           "extra": {
             "参照": ""
           }
