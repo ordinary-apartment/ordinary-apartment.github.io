@@ -1,7 +1,7 @@
 window.FACILITY_DATASET={
   "schemaVersion": 2,
-  "materialCount": 51,
-  "total": 1753,
+  "materialCount": 52,
+  "total": 1765,
   "materials": [
     {
       "id": "botanical",
@@ -31161,6 +31161,208 @@ window.FACILITY_DATASET={
           "official": "https://www.lib.uec.ac.jp/",
           "maps": "https://www.google.com/maps/search/?api=1&query=電気通信大学附属図書館%20東京都%20調布市",
           "kind": "一般開放された組織空間",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "csv-5979040622cc5fb19a68",
+      "number": 52,
+      "name": "企業・大学の一般開放空間",
+      "shortName": "企業・大学の一般開放空間",
+      "file": "企業・大学の一般開放空間.csv",
+      "count": 12,
+      "items": [
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "三井住友海上 駿河台緑地・屋上庭園",
+          "type": "企業本社公開庭園",
+          "note": "三井住友海上の駿河台本社周辺に整備された緑地と屋上庭園。企業敷地の植栽帯・屋上部を地域に開き、散策・休憩できる公開範囲を設けている。利用可能時間、立入範囲、イベント時の制限は公式案内に従う。",
+          "official": "https://www.ms-ins.com/company/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=三井住友海上 駿河台緑地・屋上庭園%20東京都%20千代田区",
+          "kind": "組織内部と公共空間の境界",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "田町トーセイビル 公開空地",
+          "type": "企業公開空地",
+          "note": "オフィスビルの足元に設けられた公開空地。歩行者動線だけでなく植栽とベンチを備え、建物利用者以外も滞在できる外部空間として整備されている。公開時間・イベント利用時の制限は現地案内による。",
+          "official": "https://www.toseicorp.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=田町トーセイビル 公開空地%20東京都%20港区",
+          "kind": "組織内部と公共空間の境界",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "丸紅「紅の杜」",
+          "type": "企業公開緑地",
+          "note": "丸紅本社ビルに設けられた「紅の杜」。低層部の緑地・広場を一般の散策と休憩に開き、オフィス敷地の生物多様性・地域共生を示す公開空間である。利用可能時間はビルの公開案内に従う。",
+          "official": "https://www.marubeni.com/jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=丸紅「紅の杜」%20東京都%20千代田区",
+          "kind": "組織内部と公共空間の境界",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "鉄鋼ビルディング 西側緑地・散策路",
+          "type": "企業散策路",
+          "note": "東京駅八重洲口の鉄鋼ビルディング西側に整備された緑地と歩行者空間。オフィスビルの敷地内に植栽、ベンチ、通路を組み込み、一般歩行者が通過・滞在できる。利用時間は公開空間の現地案内による。",
+          "official": "https://www.tokyostationcity.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=鉄鋼ビルディング 西側緑地・散策路%20東京都%20千代田区",
+          "kind": "組織内部と公共空間の境界",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "大手町タワー「大手町の森」",
+          "type": "企業公開緑地",
+          "note": "大手町タワー低層部に設けられた約3,600㎡の「大手町の森」。樹木・下草・園路を組み合わせた都市内のまとまった緑地で、オフィス街の一般歩行者が散策・休憩できる。開放時間は施設案内による。",
+          "official": "https://www.nttud.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=大手町タワー「大手町の森」%20東京都%20千代田区",
+          "kind": "組織内部と公共空間の境界",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "港区",
+          "name": "アークヒルズ サウスタワー 屋上庭園スカイパーク",
+          "type": "企業屋上庭園",
+          "note": "アークヒルズ サウスタワー屋上の公開庭園。高層オフィス・商業施設の上部に植栽と滞在スペースを設け、一般来館者が屋上から都心景観を見られる。季節・イベントによる公開時間変更は公式案内による。",
+          "official": "https://www.arkhills.com/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=アークヒルズ サウスタワー 屋上庭園スカイパーク%20東京都%20港区",
+          "kind": "組織内部と公共空間の境界",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "平河町森タワー 公開空地",
+          "type": "企業公開空地",
+          "note": "平河町森タワーの足元に設けられた緑地・広場。オフィス街の公開空地として歩行者通路と植栽・ベンチを整え、建物利用者以外も通過・休憩できる。公開範囲と時間は現地掲示による。",
+          "official": "https://www.mori.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=平河町森タワー 公開空地%20東京都%20千代田区",
+          "kind": "組織内部と公共空間の境界",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "江東区",
+          "name": "日本紙パルプ商事フォアフロントタワー周辺公開空間",
+          "type": "企業本社公開空間",
+          "note": "日本紙パルプ商事のオフィスビル周辺に設けられた植栽・歩行者空間。企業敷地の外構を一般に開き、業務地区の中で休憩・通過できる公開範囲を形成している。利用条件は現地案内による。",
+          "official": "https://www.kamipa.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=日本紙パルプ商事フォアフロントタワー周辺公開空間%20東京都%20江東区",
+          "kind": "組織内部と公共空間の境界",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "目黒区",
+          "name": "住友不動産青葉台タワー 公開空地",
+          "type": "企業公開空地",
+          "note": "住友不動産青葉台タワーの公開空地。オフィス・住宅複合地の外部に植栽、広場、歩行者動線を設け、一般の通過と短時間の滞在に対応する。公開時間や管理上の制限は現地案内に従う。",
+          "official": "https://www.sumitomo-rd.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=住友不動産青葉台タワー 公開空地%20東京都%20目黒区",
+          "kind": "組織内部と公共空間の境界",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "三菱商事「231 PLACE / 231 GALLERY」",
+          "type": "企業本社公開空間",
+          "note": "三菱商事本社ビルに設けられた一般公開型の交流・展示空間。企業活動を紹介するギャラリーと来訪者向けの滞在スペースを組み合わせ、組織内部のロビーを社会に開いている。展示・開室時間や予約条件は公式案内による。",
+          "official": "https://www.mitsubishicorp.com/jp/ja/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=三菱商事「231 PLACE / 231 GALLERY」%20東京都%20千代田区",
+          "kind": "組織内部と公共空間の境界",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "第一生命ロビー",
+          "type": "企業ロビー",
+          "note": "第一生命日比谷本社の低層部にある一般来訪者向けロビー。旧第一生命館の建築要素と企業案内・展示を併せて見られる公開範囲で、建物利用者以外も受付条件のもとで入れる。公開時間と見学範囲は公式案内による。",
+          "official": "https://www.dai-ichi-life.co.jp/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=第一生命ロビー%20東京都%20千代田区",
+          "kind": "組織内部と公共空間の境界",
+          "officialSearch": "",
+          "mapQueryName": "",
+          "relatedLinks": [],
+          "extra": {
+            "参照": ""
+          }
+        },
+        {
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "name": "法政大学 市ケ谷キャンパス屋上緑化スペース",
+          "type": "大学屋上",
+          "note": "法政大学市ケ谷キャンパスの屋上緑化空間。大学施設の屋上を植栽・環境教育の場として整備し、公開行事や大学施設利用時に外部者が見学できる範囲を設ける。通常公開の有無・日時は大学公式案内に従う。",
+          "official": "https://www.hosei.ac.jp/ichigaya/",
+          "maps": "https://www.google.com/maps/search/?api=1&query=法政大学 市ケ谷キャンパス屋上緑化スペース%20東京都%20千代田区",
+          "kind": "組織内部と公共空間の境界",
           "officialSearch": "",
           "mapQueryName": "",
           "relatedLinks": [],
