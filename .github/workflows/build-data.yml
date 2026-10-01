@@ -37,7 +37,8 @@ jobs:
       - name: Prepare public files
         run: |
           mkdir -p _site/generated
-          cp index.html styles.css script.js data.js icon.png _site/
+          cp index.html styles.css script.js data.js translations-en.js icon.png _site/
+          if [ -d en ]; then cp -R en _site/; fi
           cp generated/facility-data.js generated/facility-data.json _site/generated/
           if [ -f CNAME ]; then cp CNAME _site/; fi
           if [ -d images ]; then cp -R images _site/; fi
