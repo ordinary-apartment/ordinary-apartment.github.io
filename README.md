@@ -6,6 +6,8 @@ Codexに「○○を追加して」「この施設群を資料○○として追
 
 重複候補確認は `python3 -B tools/check-additions.py duplicates /tmp/候補.csv`、既存データの保全確認は `python3 -B tools/check-additions.py verify --base <作業開始commit>` で実行できます。候補CSVは `data/` の外に置いてください。
 
+短い依頼の例と省略時の扱いは [短い依頼例](docs/短い依頼例.md) を参照してください。恒久規約はリポジトリ全体に適用されます。
+
 ## 最初の設置
 
 1. このフォルダの**中身**を、既存GitHubリポジトリの直下へ追加・上書きします。フォルダごと一段深く置かないでください。
@@ -74,7 +76,7 @@ PRと既定以外のブランチでは検証のみで、公開しません。生
 
 ## 検索用ファイルのキャッシュ更新
 
-通常の公開は `main` ブランチの `/ (root)` から行い、`git push origin main` で更新します。
+通常の公開は `main` の更新を受けて `.github/workflows/build-data.yml` がGitHub Pagesへ配置します。PagesのSourceはGitHub Actionsです。
 JS/CSS変更後はpush前に `python3 -B tools/version-assets.py` を実行してください。HTML内の全ローカルJS/CSS（`generated/facility-data.js`を含む）に内容のSHA-256の先頭16桁をURLクエリとして付け、更新前のキャッシュの再利用を防ぎます。`python3 -B tools/version-assets.py --check` で更新漏れを検出できます。開いたままのタブは更新後に再読込してください。
 
 ## ローカルで生成する場合
