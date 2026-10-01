@@ -1,4 +1,15 @@
+const SITE_LANG=window.SITE_LANG||'ja';
+const IS_EN=SITE_LANG==='en';
 const records=window.ARCHIVE_DATA,main=document.querySelector('#main');
+const uiText={
+  ja:{ref:'参照',pref:'都道府県',city:'市区町村',name:'店舗名・施設名',type:'分類',related:'関連リンク',note:'説明・狙い目',official:'公式',map:'地図',all:'すべて',search:'全資料検索',placeholder:'都道府県・市区町村・施設名',clear:'解除',collections:'資料',places:'施設',detail:'個別記録',close:'詳細を閉じる ×',back:'← 一覧へ戻る',noResult:'該当する施設はありません。検索語を変えてお試しください。',records:'記録一覧',count:'件'},
+  en:{ref:'References',pref:'Prefecture',city:'City / Ward',name:'Place',type:'Category',related:'Related Links',note:'Description / Notes',official:'Official',map:'Map',all:'All',search:'Search all collections',placeholder:'Prefecture, city, or place name',clear:'Clear',collections:'Collections',places:'Places',detail:'Place record',close:'Close details ×',back:'← Back to list',noResult:'No matching places. Try another search term.',records:'All places',count:'places'}
+};
+const ui=k=>uiText[IS_EN?'en':'ja'][k]||k;
+const displayName=x=>x?.name_en||window.EN_TRANSLATIONS?.facilities?.[x?.name]||x?.name||'';
+const displayNote=x=>x?.note_en||x?.note||'';
+const displayType=x=>x?.type_en||window.EN_TRANSLATIONS?.types?.[x?.type]||x?.type||'';
+const displayMaterial=m=>m?.name_en||window.EN_TRANSLATIONS?.materials?.[m?.name]||m?.name||'';
 const categories=[...new Set(records.map(x=>x.category))],tags=[...new Set(records.flatMap(x=>x.tags))].sort((a,b)=>a.localeCompare(b,'ja'));
 const card=x=>`<button class="card" data-id="${x.id}"><span class="file-tab">FILE ${String(records.indexOf(x)+1).padStart(3,'0')}</span><img src="${x.image}" alt="${x.title}" loading="lazy"><span class="card-copy"><span class="card-meta"><span>分類 / ${x.category}</span><span>${x.date}</span></span><h3>${x.title}</h3><p>${x.excerpt}</p><span class="card-foot"><span>${x.place}</span><span>詳細を見る →</span></span></span></button>`;
 function wire(){document.querySelectorAll('[data-id]').forEach(e=>e.onclick=()=>go('detail/'+e.dataset.id));document.querySelectorAll('[data-route]').forEach(e=>e.onclick=()=>go(e.dataset.route==='archive'?'home':e.dataset.route))}function active(r){document.querySelectorAll('[data-route]').forEach(e=>e.classList.toggle('active',e.dataset.route===r))}function go(r){location.hash=r}function random(){let x=records[Math.floor(Math.random()*records.length)];if(location.hash.endsWith(x.id))x=records[(records.indexOf(x)+1)%records.length];go('detail/'+x.id)}
@@ -10,11 +21,11 @@ const tullys=q=>`https://shop.tullys.co.jp/all?keyword=${encodeURIComponent(q)}`
 const facilityDataset=window.FACILITY_DATASET;
 // Registry numbers are the public display numbers. IDs remain the durable keys.
 const materialDisplayNumbers=new Map(facilityDataset.materials.map(m=>[m.id,String(m.number).padStart(2,'0')]));
-const materialDefinitions=facilityDataset.materials.map(m=>[m.id,materialDisplayNumbers.get(m.id),m.name,m.shortName]);
+const materialDefinitions=facilityDataset.materials.map(m=>[m.id,materialDisplayNumbers.get(m.id),displayMaterial(m),m.shortName]);
 const materialItemMap=new Map(facilityDataset.materials.map(m=>[m.id,m.items]));
 const materialItems=key=>materialItemMap.get(key)||[];
 const h=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const sortableHead=`<thead><tr><th scope="col">参照</th><th scope="col"><button class="sort-button" data-sort="prefecture" data-label="都道府県">都道府県 ↕</button></th><th scope="col">市区町村</th><th scope="col">店舗名・施設名</th><th scope="col"><button class="sort-button" data-sort="type" data-label="分類">分類 ↕</button></th><th scope="col">関連リンク</th><th scope="col">説明・狙い目</th></tr></thead>`;
+const sortableHead=`<thead><tr><th scope="col">${ui('ref')}</th><th scope="col"><button class="sort-button" data-sort="prefecture" data-label="${ui('pref')}">${ui('pref')} ↕</button></th><th scope="col">${ui('city')}</th><th scope="col">${ui('name')}</th><th scope="col"><button class="sort-button" data-sort="type" data-label="${ui('type')}">${ui('type')} ↕</button></th><th scope="col">${ui('related')}</th><th scope="col">${ui('note')}</th></tr></thead>`;
 let facilitiesScrollTop=0;
 const isWikipediaLink=link=>/(?:https?:\/\/)(?:ja|en)\.wikipedia\.org\/wiki\//i.test(link?.url||'');
 const visibleRelatedLinks=links=>(links||[]).filter(link=>!isWikipediaLink(link));
@@ -30,7 +41,7 @@ const wikipediaLinksMarkup=(extra,links=[])=>{
   return urls.length?`<span class="reference-links">${urls.map(url=>`<a href="${h(url)}" target="_blank" rel="noopener noreferrer" title="wiki" aria-label="wiki">wiki</a>`).join('')}</span>`:'';
 };
 const referenceMarkup=(extra,links=[])=>wikipediaLinksMarkup(extra,links)||'';
-function catalogSection(number,id,title,note,items){const rows=items.map(x=>`<tr data-prefecture="${h(x.prefecture)}" data-type="${h(x.type)}"><td>${x.official?`<a href="${h(x.official)}" target="_blank" rel="noopener noreferrer">公式</a> `:''}<a href="${h(x.maps)}" target="_blank" rel="noopener noreferrer">地図</a> ${referenceMarkup(x.extra,x.relatedLinks)}</td><td>${h(x.prefecture)}</td><td>${h(x.city)}</td><td>${x.name==='玄海海中展望塔'?`<button class="facility-detail-link" data-facility-detail="genkai-undersea">${h(x.name)}</button>`:h(x.name)}</td><td>${h(x.type)}</td><td>${relatedLinksMarkup(x.relatedLinks,true)}</td><td>${h(x.note)}</td></tr>`).join('');return `<section class="reference-section" id="${id}"><div class="reference-heading"><span>資料${number}</span><h2>${title}</h2><span>${String(items.length).padStart(3,'0')}件</span></div><p class="reference-note">${note}　都道府県・分類の見出しで昇順／降順。</p><div class="record-table catalog-table"><table>${sortableHead}<tbody>${rows}</tbody></table></div></section>`}
+function catalogSection(number,id,title,note,items){const rows=items.map(x=>`<tr data-prefecture="${h(x.prefecture)}" data-type="${h(displayType(x))}"><td>${x.official?`<a href="${h(x.official)}" target="_blank" rel="noopener noreferrer">${ui('official')}</a> `:''}<a href="${h(x.maps)}" target="_blank" rel="noopener noreferrer">${ui('map')}</a> ${referenceMarkup(x.extra,x.relatedLinks)}</td><td>${h(x.prefecture)}</td><td>${h(x.city)}</td><td>${x.name==='玄海海中展望塔'?`<button class="facility-detail-link" data-facility-detail="genkai-undersea">${h(displayName(x))}</button>`:h(displayName(x))}</td><td>${h(displayType(x))}</td><td>${relatedLinksMarkup(x.relatedLinks,true)}</td><td>${h(displayNote(x))}</td></tr>`).join('');return `<section class="reference-section" id="${id}"><div class="reference-heading"><span>${IS_EN?'Collection':'資料'}${number}</span><h2>${h(title)}</h2><span>${String(items.length).padStart(3,'0')}${ui('count')}</span></div><p class="reference-note">${h(note)}　${IS_EN?'Sort by prefecture or category.':'都道府県・分類の見出しで昇順／降順。'}</p><div class="record-table catalog-table"><table>${sortableHead}<tbody>${rows}</tbody></table></div></section>`}
 function wireSortTables(){
   document.querySelectorAll('.record-table table').forEach(table=>{
     table.querySelectorAll('[data-sort]').forEach(button=>{
@@ -50,15 +61,15 @@ const facilitySearchIndex=FACILITY_SEARCH.buildIndex(facilityDataset,materialDis
 const facilityEntries=facilitySearchIndex.entries;
 let facilityQuery='',selectedFacilityId=null,unfilteredList=null,unfilteredScroll=0;
 function detailMarkup(selected,definition){
-  return selected?`<section class="material-detail facilities-top-detail"><div class="material-detail-copy"><div class="facility-record-head"><span>資料${definition[1]} / 個別記録</span><span>関連リンク ${visibleRelatedLinks(selected.relatedLinks).length}件</span></div><h2>${h(selected.name)}</h2><div class="facility-register"><div><span>都道府県</span><span>${h(selected.prefecture)}</span></div><div><span>市区町村</span><span>${h(selected.city)}</span></div><div><span>分類</span><span>${h(selected.type)}</span></div><div class="facility-register-wide"><span>関連リンク</span><span>${relatedLinksMarkup(selected.relatedLinks)}</span></div><div class="facility-register-wide"><span>説明</span><span>${h(selected.note)}</span></div><div class="facility-register-wide"><span>参照</span><span>${selected.official?`<a href="${h(selected.official)}" target="_blank" rel="noopener noreferrer">公式サイト</a>　`:''}<a href="${h(selected.maps)}" target="_blank" rel="noopener noreferrer">地図</a>　<a href="${h(selected.maps)}" target="_blank" rel="noopener noreferrer">Googleマップで写真を見る ↗</a> ${referenceMarkup(selected.extra,selected.relatedLinks)}</span></div></div></div><iframe title="${h(selected.name)}の地図" src="https://maps.google.com/maps?q=${encodeURIComponent(`${selected.name} ${selected.prefecture}${selected.city}`)}&output=embed" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></section>`:'';
+  return selected?`<section class="material-detail facilities-top-detail"><div class="material-detail-copy"><div class="facility-record-head"><span>${IS_EN?'Collection':'資料'}${definition[1]} / ${ui('detail')}</span><span>${ui('related')} ${visibleRelatedLinks(selected.relatedLinks).length}${ui('count')}</span></div><h2>${h(displayName(selected))}</h2><div class="facility-register"><div><span>${ui('pref')}</span><span>${h(selected.prefecture)}</span></div><div><span>${ui('city')}</span><span>${h(selected.city)}</span></div><div><span>${ui('type')}</span><span>${h(displayType(selected))}</span></div><div class="facility-register-wide"><span>${ui('related')}</span><span>${relatedLinksMarkup(selected.relatedLinks)}</span></div><div class="facility-register-wide"><span>${ui('note')}</span><span>${h(displayNote(selected))}</span></div><div class="facility-register-wide"><span>${ui('ref')}</span><span>${selected.official?`<a href="${h(selected.official)}" target="_blank" rel="noopener noreferrer">${ui('official')} Website</a>　`:''}<a href="${h(selected.maps)}" target="_blank" rel="noopener noreferrer">${ui('map')}</a>　<a href="${h(selected.maps)}" target="_blank" rel="noopener noreferrer">Google Maps ↗</a> ${referenceMarkup(selected.extra,selected.relatedLinks)}</span></div></div></div><iframe title="${h(displayName(selected))} map" src="https://maps.google.com/maps?q=${encodeURIComponent(`${selected.name} ${selected.prefecture}${selected.city}`)}&output=embed" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></section>`:'';
 
 }
 function ledgerRow(entry){
   const x=entry.item,id=`${entry.key}/${entry.index}`;
-  return `<tr class="${id===selectedFacilityId?'selected-row':''}" data-prefecture="${h(x.prefecture)}" data-type="${h(x.type)}"><td>${x.official?`<a href="${h(x.official)}" target="_blank" rel="noopener noreferrer">公式</a> `:''}<a href="${h(x.maps)}" target="_blank" rel="noopener noreferrer">地図</a> ${referenceMarkup(x.extra,x.relatedLinks)}</td><td>${h(x.prefecture)}</td><td>${h(x.city)}</td><td><a class="facility-detail-link" href="#facility/${h(id)}" data-all-facility="${h(id)}" aria-controls="facility-detail-panel" aria-expanded="false">${h(x.name)}</a></td><td>${h(x.type)}</td><td>${relatedLinksMarkup(x.relatedLinks,true)}</td><td>${h(x.note)}</td></tr>`;
+  return `<tr class="${id===selectedFacilityId?'selected-row':''}" data-prefecture="${h(x.prefecture)}" data-type="${h(displayType(x))}"><td>${x.official?`<a href="${h(x.official)}" target="_blank" rel="noopener noreferrer">${ui('official')}</a> `:''}<a href="${h(x.maps)}" target="_blank" rel="noopener noreferrer">${ui('map')}</a> ${referenceMarkup(x.extra,x.relatedLinks)}</td><td>${h(x.prefecture)}</td><td>${h(x.city)}</td><td><a class="facility-detail-link" href="#facility/${h(id)}" data-all-facility="${h(id)}" aria-controls="facility-detail-panel" aria-expanded="false">${h(displayName(x))}</a></td><td>${h(displayType(x))}</td><td>${relatedLinksMarkup(x.relatedLinks,true)}</td><td>${h(displayNote(x))}</td></tr>`;
 }
 function ledgerSection(id,number,title,entries,expanded=false){
-  return `<details class="all-material-section" id="${h(id)}"${expanded?' open':''}><summary class="reference-heading"><span>${h(number)}</span><h2>${h(title)}</h2><span>${String(entries.length).padStart(3,'0')}件</span></summary><div class="record-table catalog-table"><table aria-label="${h(title)}">${sortableHead}<tbody>${entries.map(ledgerRow).join('')}</tbody></table></div></details>`;
+  return `<details class="all-material-section" id="${h(id)}"${expanded?' open':''}><summary class="reference-heading"><span>${h(number)}</span><h2>${h(title)}</h2><span>${String(entries.length).padStart(3,'0')}${ui('count')}</span></summary><div class="record-table catalog-table"><table aria-label="${h(title)}">${sortableHead}<tbody>${entries.map(ledgerRow).join('')}</tbody></table></div></details>`;
 }
 function hideFacilityDetail(){
   const panel=document.querySelector('#facility-detail-panel');
@@ -75,7 +86,7 @@ function showFacilityDetail(key,index){
   const material=document.getElementById('material-'+key);
   if(material)material.open=true;
   const panel=document.querySelector('#facility-detail-panel');
-  panel.innerHTML=`<div class="detail-panel-bar"><span>一覧をスクロールすると詳細を閉じます</span><button type="button" id="hide-facility-detail">詳細を閉じる ×</button></div>${detailMarkup(entry.item,materialDefinitions.find(d=>d[0]===key))}`;
+  panel.innerHTML=`<div class="detail-panel-bar"><span>${IS_EN?'Scroll the list to close details':'一覧をスクロールすると詳細を閉じます'}</span><button type="button" id="hide-facility-detail">${ui('close')}</button></div>${detailMarkup(entry.item,materialDefinitions.find(d=>d[0]===key))}`;
   panel.hidden=false;
   document.querySelectorAll('[data-all-facility]').forEach(button=>{
     const selected=button.dataset.allFacility===selectedFacilityId;
@@ -118,8 +129,8 @@ function renderLedgerResults(){
       unfilteredList.append(...scroller.childNodes);
     }
     const matches=facilityEntries.filter(entry=>FACILITY_SEARCH.matches(entry,parsedQuery));
-    scroller.innerHTML=matches.length?ledgerSection('facility-search-results','横断検索','全資料の検索結果',matches,true):'<p class="empty">該当する施設はありません。検索語を変えてお試しください。</p>';
-    document.querySelector('#facility-search-status').textContent=`${matches.length} / ${facilityEntries.length}件`;
+    scroller.innerHTML=matches.length?ledgerSection('facility-search-results',IS_EN?'Search':'横断検索',IS_EN?'Search results across all collections':'全資料の検索結果',matches,true):`<p class="empty">${ui('noResult')}</p>`;
+    document.querySelector('#facility-search-status').textContent=`${matches.length} / ${facilityEntries.length}${ui('count')}`;
     scroller.scrollTop=0;
   }else{
     if(unfilteredList){scroller.replaceChildren(unfilteredList);unfilteredList=null;scroller.scrollTop=unfilteredScroll;}
@@ -127,7 +138,7 @@ function renderLedgerResults(){
       scroller.innerHTML=materialDefinitions.map(([key,number,title])=>ledgerSection('material-'+key,'資料'+number,title,facilityEntries.filter(e=>e.key===key))).join('');
       scroller.scrollTop=facilitiesScrollTop;
     }
-    document.querySelector('#facility-search-status').textContent=`全${facilityEntries.length}件`;
+    document.querySelector('#facility-search-status').textContent=`${IS_EN?'All ': '全'}${facilityEntries.length}${ui('count')}`;
   }
   document.querySelector('#clear-facility-search').disabled=!facilityQuery;
   wireLedgerRows();
@@ -136,7 +147,7 @@ function facilitiesPage(selectedKey=null,selectedIndex=null){
   active('facilities');
   if(!document.querySelector('.facilities-ledger')){
     unfilteredList=null;
-    main.innerHTML=`<div class="facilities-ledger"><div class="facilities-ledger-fixed"><div class="facility-search" role="search"><label for="facility-query">全資料検索</label><input id="facility-query" type="search" placeholder="都道府県・市区町村・施設名" autocomplete="off" aria-describedby="facility-search-status" value="${h(facilityQuery)}"><button id="clear-facility-search" type="button">解除</button><output id="facility-search-status" aria-live="polite"></output></div></div><div class="ledger-viewport"><div class="facilities-ledger-scroll" tabindex="0" role="region" aria-label="施設一覧"></div><aside id="facility-detail-panel" aria-label="選択した施設の詳細" hidden></aside></div></div>`;
+    main.innerHTML=`<div class="facilities-ledger"><div class="facilities-ledger-fixed"><div class="facility-search" role="search"><label for="facility-query">${ui('search')}</label><input id="facility-query" type="search" placeholder="${ui('placeholder')}" autocomplete="off" aria-describedby="facility-search-status" value="${h(facilityQuery)}"><button id="clear-facility-search" type="button">${ui('clear')}</button><output id="facility-search-status" aria-live="polite"></output></div></div><div class="ledger-viewport"><div class="facilities-ledger-scroll" tabindex="0" role="region" aria-label="${ui('places')}"></div><aside id="facility-detail-panel" aria-label="${ui('detail')}" hidden></aside></div></div>`;
     renderLedgerResults();wire();
     const input=document.querySelector('#facility-query'),scroller=document.querySelector('.facilities-ledger-scroll');
     input.addEventListener('input',event=>{if(!event.isComposing){facilityQuery=input.value;renderLedgerResults();}});
@@ -171,4 +182,5 @@ function detail(id){
   document.querySelectorAll('[data-tag-link]').forEach(e=>e.onclick=()=>{go('tags');setTimeout(()=>document.querySelector(`[data-tag="${e.dataset.tagLink}"]`)?.click())});scrollTo(0,0)
 }
 function route(){const routeHash=location.hash.slice(1)||'facilities',parts=routeHash.split('/');routeHash.startsWith('facility/')?facilityDetail(parts[1],parts[2]):routeHash.startsWith('material/')?materialPage(parts[1]):facilitiesPage()}
-addEventListener('hashchange',route);wire();route();
+function syncLanguageLinks(){document.querySelectorAll('.language-switch a').forEach(a=>{const base=a.getAttribute('href').split('#')[0];a.href=base+(location.hash||'')})}
+addEventListener('hashchange',()=>{syncLanguageLinks();route()});wire();syncLanguageLinks();route();

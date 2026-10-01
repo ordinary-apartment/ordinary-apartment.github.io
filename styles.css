@@ -192,3 +192,4 @@ details.all-material-section>summary:focus-visible{outline:2px solid var(--ink);
     background: transparent;
   }
 }
+.language-switch{display:flex;align-items:center;margin-left:auto;border:1px solid var(--line);font:10px var(--sans);letter-spacing:.08em}.language-switch a{padding:4px 7px;color:var(--ink);text-decoration:none}.language-switch a[aria-current="page"]{background:var(--mint)}

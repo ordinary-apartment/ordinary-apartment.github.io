@@ -29,7 +29,7 @@ window.ARCHIVE_DATA.forEach((item,index,all)=>{
       number:materialDisplayNumbers.get(material.id),
       title:material.name,
       // Do not add type, notes, material names, URLs, or any CSV extras here.
-      text:normalizeSearch([item.prefecture,item.city,item.name].filter(Boolean).join(' '))
+      text:normalizeSearch([item.prefecture,item.city,item.name,item.name_en,item.type,item.type_en,window.EN_TRANSLATIONS?.facilities?.[item.name],window.EN_TRANSLATIONS?.types?.[item.type]].filter(Boolean).join(' '))
     })));
     return {entries};
   }
