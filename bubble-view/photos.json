@@ -1,0 +1,352 @@
+{
+  "categoryId": "csv-d215b393550d0ba5ef82",
+  "categoryName": "バブル期建築",
+  "categoryTotal": 50,
+  "items": [
+    {
+      "id": "csv-d215b393550d0ba5ef82/0",
+      "name": "スパイラル",
+      "location": "東京都 港区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/0",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Spiral_Building.jpg/1920px-Spiral_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Spiral_Building.jpg",
+        "artist": "Wiiii",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "width": 2000,
+        "height": 2500
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/2",
+      "name": "サントリーホール",
+      "location": "東京都 港区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/2",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Suntory_Hall_2018.jpg/1920px-Suntory_Hall_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Suntory_Hall_2018.jpg",
+        "artist": "Wpcpey",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "width": 2736,
+        "height": 1824
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/3",
+      "name": "横浜風の塔",
+      "location": "神奈川県 横浜市西区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/3",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Tower_of_Winds2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source": "https://commons.wikimedia.org/wiki/File:Tower_of_Winds2.jpg",
+        "artist": "Wiiii",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "width": 1200,
+        "height": 1500
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/4",
+      "name": "キリンプラザ大阪",
+      "location": "大阪府 大阪市中央区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/4",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Kirin_Plaza.JPG/1920px-Kirin_Plaza.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Kirin_Plaza.JPG",
+        "artist": "Oiuysdfg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "width": 2304,
+        "height": 3072
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/5",
+      "name": "水の教会",
+      "location": "北海道 勇払郡占冠村",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/5",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/%E6%B0%B4%E3%81%AE%E6%95%99%E4%BC%9A_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source": "https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E3%81%AE%E6%95%99%E4%BC%9A_-_panoramio.jpg",
+        "artist": "painreef3108",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "width": 1417,
+        "height": 1063
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/6",
+      "name": "Bunkamura",
+      "location": "東京都 渋谷区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/6",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Bunkamura.JPG/1920px-Bunkamura.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Bunkamura.JPG",
+        "artist": "Tyoron2",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "width": 2592,
+        "height": 1944
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/7",
+      "name": "福岡タワー",
+      "location": "福岡県 福岡市早良区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/7",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fukuoka_Tower_Before_Sunset.jpg/1920px-Fukuoka_Tower_Before_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Fukuoka_Tower_Before_Sunset.jpg",
+        "artist": "Steffen Flor",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "width": 2349,
+        "height": 3793
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/11",
+      "name": "湘南台文化センター",
+      "location": "神奈川県 藤沢市",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/11",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Shonandai_bunka_center.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source": "https://commons.wikimedia.org/wiki/File:Shonandai_bunka_center.JPG",
+        "artist": "Archs",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/13",
+      "name": "水戸芸術館",
+      "location": "茨城県 水戸市",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/13",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Art_Tower_Mito_%EF%BC%88%E6%B0%B4%E6%88%B8%E8%8A%B8%E8%A1%93%E9%A4%A8%EF%BC%89_-_panoramio.jpg/1920px-Art_Tower_Mito_%EF%BC%88%E6%B0%B4%E6%88%B8%E8%8A%B8%E8%A1%93%E9%A4%A8%EF%BC%89_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Art_Tower_Mito_%EF%BC%88%E6%B0%B4%E6%88%B8%E8%8A%B8%E8%A1%93%E9%A4%A8%EF%BC%89_-_panoramio.jpg",
+        "artist": "shakespeare2010",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "width": 2048,
+        "height": 1536
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/14",
+      "name": "東京体育館",
+      "location": "東京都 渋谷区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/14",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/T%C5%8Dky%C5%8D_Taiikukan_Japan.jpg/1920px-T%C5%8Dky%C5%8D_Taiikukan_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:T%C5%8Dky%C5%8D_Taiikukan_Japan.jpg",
+        "artist": "Arne Müseler",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+        "width": 4117,
+        "height": 2313
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/15",
+      "name": "東京都庁舎",
+      "location": "東京都 新宿区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/15",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tokyo_Metropolitan_Government_Building_No.1_-_Shinjuku%2C_Tokyo_-_DSC05442.jpg/1920px-Tokyo_Metropolitan_Government_Building_No.1_-_Shinjuku%2C_Tokyo_-_DSC05442.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Metropolitan_Government_Building_No.1_-_Shinjuku,_Tokyo_-_DSC05442.jpg",
+        "artist": "Daderot",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "width": 3648,
+        "height": 5472
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/16",
+      "name": "沖縄県庁舎",
+      "location": "沖縄県 那覇市",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/16",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Okinawa_Prefectural_Government_Headquarters01ss3200.jpg/1920px-Okinawa_Prefectural_Government_Headquarters01ss3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Okinawa_Prefectural_Government_Headquarters01ss3200.jpg",
+        "artist": "663highland",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+        "width": 2250,
+        "height": 1500
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/17",
+      "name": "NECスーパータワー",
+      "location": "東京都 港区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/17",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/NEC_Supertower_2023.jpg/1920px-NEC_Supertower_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:NEC_Supertower_2023.jpg",
+        "artist": "Akonnchiroll",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "width": 1991,
+        "height": 2987
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/21",
+      "name": "ハウステンボス",
+      "location": "長崎県 佐世保市",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/21",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Huis_Ten_Bosch_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source": "https://commons.wikimedia.org/wiki/File:Huis_Ten_Bosch_-_01.jpg",
+        "artist": "JKT-c",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/24",
+      "name": "横浜ランドマークタワー",
+      "location": "神奈川県 横浜市西区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/24",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Yokohama-Landmark-Tower-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source": "https://commons.wikimedia.org/wiki/File:Yokohama-Landmark-Tower-02.jpg",
+        "artist": "Rs1421",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "width": 900,
+        "height": 1200
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/25",
+      "name": "サッポロファクトリー",
+      "location": "北海道 札幌市中央区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/25",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%28Sapporo_Factory%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source": "https://commons.wikimedia.org/wiki/File:%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_(Sapporo_Factory)_-_panoramio.jpg",
+        "artist": "t-konno",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "width": 1600,
+        "height": 1067
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/27",
+      "name": "梅田スカイビル",
+      "location": "大阪府 大阪市北区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/27",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Umeda_Sky_Building%2C_Osaka%2C_November_2016_-02.jpg/1920px-Umeda_Sky_Building%2C_Osaka%2C_November_2016_-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Umeda_Sky_Building,_Osaka,_November_2016_-02.jpg",
+        "artist": "Martin Falbisoner",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "width": 5751,
+        "height": 3728
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/28",
+      "name": "新宿パークタワー",
+      "location": "東京都 新宿区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/28",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Shinjuku_Park_Tower.jpg/1920px-Shinjuku_Park_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Park_Tower.jpg",
+        "artist": "Akonnchiroll",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "width": 1972,
+        "height": 2760
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/30",
+      "name": "アクトシティ浜松",
+      "location": "静岡県 浜松市中央区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/30",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/ActCityHamamatsu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source": "https://commons.wikimedia.org/wiki/File:ActCityHamamatsu.jpg",
+        "artist": "Ichitaro",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/31",
+      "name": "関西国際空港旅客ターミナル",
+      "location": "大阪府 泉佐野市",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/31",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF_%E6%97%85%E5%AE%A2%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%83%93%E3%83%AB_KIX_passenger_terminal_2010.10.21_-_panoramio.jpg/1920px-%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF_%E6%97%85%E5%AE%A2%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%83%93%E3%83%AB_KIX_passenger_terminal_2010.10.21_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF_%E6%97%85%E5%AE%A2%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%83%93%E3%83%AB_KIX_passenger_terminal_2010.10.21_-_panoramio.jpg",
+        "artist": "Nankou Oronain (as36…",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "width": 3648,
+        "height": 2736
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/32",
+      "name": "霧島国際音楽ホール",
+      "location": "鹿児島県 霧島市",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/32",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kirishima_International_Concert_Hall.jpg/1920px-Kirishima_International_Concert_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Kirishima_International_Concert_Hall.jpg",
+        "artist": "島児鹿",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "width": 5184,
+        "height": 3888
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/37",
+      "name": "アクロス福岡",
+      "location": "福岡県 福岡市中央区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/37",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_%28Acros_Fukuoka%29_-_panoramio.jpg/1920px-%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_%28Acros_Fukuoka%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_(Acros_Fukuoka)_-_panoramio.jpg",
+        "artist": "Benford Choi",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "width": 2592,
+        "height": 1944
+      }
+    },
+    {
+      "id": "csv-d215b393550d0ba5ef82/49",
+      "name": "クイーンズスクエア横浜",
+      "location": "神奈川県 横浜市西区",
+      "detailUrl": "../index.html#facility/csv-d215b393550d0ba5ef82/49",
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/QueensSquareYokohama_Tower_A.jpg/1920px-QueensSquareYokohama_Tower_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:QueensSquareYokohama_Tower_A.jpg",
+        "artist": "DeepSkyBlue",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "width": 2000,
+        "height": 3000
+      }
+    }
+  ]
+}
