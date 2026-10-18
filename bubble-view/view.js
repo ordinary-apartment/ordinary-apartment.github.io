@@ -7,9 +7,16 @@ function renderEntry(item, index, total) {
   const section = document.createElement('article');
   section.className = 'entry';
   section.id = `place-${item.id}`;
-  section.innerHTML = `<button class="window" type="button" aria-label="${escapeHTML(item.name)}の写真を拡大"><img alt="${escapeHTML(item.name)}の建築写真" width="${item.photo.width}" height="${item.photo.height}" ${index < 3 ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async"></button>
+  const imageMarkup = item.photo
+    ? `<button class="window" type="button" aria-label="${escapeHTML(item.name)}の写真を拡大"><img alt="${escapeHTML(item.name)}の建築写真" width="${item.photo.width}" height="${item.photo.height}" ${index < 3 ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async"></button>`
+    : `<div class="window empty" role="img" aria-label="${escapeHTML(item.name)}の写真は未登録"><span class="photo-missing"><span>NO IMAGE</span><span>写真未登録</span></span></div>`;
+  const creditMarkup = item.photo
+    ? `<div class="credit"><span class="credit-label">PHOTO / ATTRIBUTION</span><p>撮影：${escapeHTML(item.photo.artist)}</p><p>出典：<a href="${escapeHTML(item.photo.source)}" target="_blank" rel="noopener noreferrer">Wikimedia Commons ↗</a></p><p>ライセンス：<a href="${escapeHTML(item.photo.licenseUrl)}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.photo.license)} ↗</a></p></div>`
+    : `<div class="credit"><span class="credit-label">PHOTO / STATUS</span><p>写真はまだ登録されていません。</p></div>`;
+  section.innerHTML = `${imageMarkup}
     <div class="entry-info"><div><div class="entry-top"><span class="sequence">${String(index + 1).padStart(2, '0')} / ${String(total).padStart(2, '0')}</span><span class="sequence">ARCHITECTURE</span></div><h2><a href="${escapeHTML(item.detailUrl)}">${escapeHTML(item.name)} ↗</a></h2><p class="location">${escapeHTML(item.location)}</p><p class="file-id">FACILITY ID / ${escapeHTML(item.id)}</p></div>
-    <div class="credit"><span class="credit-label">PHOTO / ATTRIBUTION</span><p>撮影：${escapeHTML(item.photo.artist)}</p><p>出典：<a href="${escapeHTML(item.photo.source)}" target="_blank" rel="noopener noreferrer">Wikimedia Commons ↗</a></p><p>ライセンス：<a href="${escapeHTML(item.photo.licenseUrl)}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.photo.license)} ↗</a></p></div></div>`;
+    ${creditMarkup}</div>`;
+  if (!item.photo) return section;
   const img = section.querySelector('img');
   img.addEventListener('error', () => {
     img.replaceWith(Object.assign(document.createElement('p'), {className: 'fallback', textContent: '写真を読み込めませんでした。出典リンクから原画像をご覧ください。'}));
@@ -32,7 +39,8 @@ fetch('./photos.json').then(response => {
   return response.json();
 }).then(data => {
   const items = data.items;
-  document.querySelector('#count').textContent = `${items.length} / ${data.categoryTotal} 件の写真を確認`;
+  const photoCount = items.filter(item => item.photo).length;
+  document.querySelector('#count').textContent = `${items.length}施設 / 写真${photoCount}件`;
   gallery.replaceChildren(...items.map((item, index) => renderEntry(item, index, items.length)));
   status.textContent = 'すべての記録を表示しました。';
 }).catch(() => {
