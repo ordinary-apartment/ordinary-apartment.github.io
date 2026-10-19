@@ -3,6 +3,23 @@ const status = document.querySelector('#load-status');
 const dialog = document.querySelector('#photo-dialog');
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
+function openDetails(item, showPhoto) {
+  dialog.classList.toggle('info-only', !showPhoto);
+  const imageArea = dialog.querySelector('.dialog-image');
+  imageArea.replaceChildren();
+  if (showPhoto && item.photo) {
+    const image = document.createElement('img');
+    image.src = item.photo.url;
+    image.alt = `${item.name}の建築写真`;
+    imageArea.append(image);
+  }
+  const photoDetails = item.photo
+    ? `<p>撮影：${escapeHTML(item.photo.artist)}</p><p><a href="${escapeHTML(item.photo.source)}" target="_blank" rel="noopener noreferrer">Wikimedia Commons ↗</a> · <a href="${escapeHTML(item.photo.licenseUrl)}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.photo.license)} ↗</a></p>`
+    : '<p>写真はまだ登録されていません。</p>';
+  dialog.querySelector('.dialog-info').innerHTML = `<h2>${escapeHTML(item.name)}</h2><p>${escapeHTML(item.location)}</p><p class="dialog-id">施設ID：${escapeHTML(item.id)}</p>${photoDetails}`;
+  dialog.showModal();
+}
+
 function renderEntry(item, index, total) {
   const section = document.createElement('article');
   section.className = 'entry';
@@ -14,8 +31,9 @@ function renderEntry(item, index, total) {
     ? `<div class="credit"><span class="credit-label">PHOTO / ATTRIBUTION</span><p>撮影：${escapeHTML(item.photo.artist)}</p><p>出典：<a href="${escapeHTML(item.photo.source)}" target="_blank" rel="noopener noreferrer">Wikimedia Commons ↗</a></p><p>ライセンス：<a href="${escapeHTML(item.photo.licenseUrl)}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.photo.license)} ↗</a></p></div>`
     : `<div class="credit"><span class="credit-label">PHOTO / STATUS</span><p>写真はまだ登録されていません。</p></div>`;
   section.innerHTML = `${imageMarkup}
-    <div class="entry-info"><div><div class="entry-top"><span class="sequence">${String(index + 1).padStart(2, '0')} / ${String(total).padStart(2, '0')}</span><span class="sequence">ARCHITECTURE</span></div><h2><a href="${escapeHTML(item.detailUrl)}">${escapeHTML(item.name)} ↗</a></h2><p class="location">${escapeHTML(item.location)}</p><p class="file-id">FACILITY ID / ${escapeHTML(item.id)}</p></div>
+    <div class="entry-info"><div><div class="entry-top"><span class="sequence">${String(index + 1).padStart(2, '0')} / ${String(total).padStart(2, '0')}</span><span class="sequence">ARCHITECTURE</span></div><h2><a href="${escapeHTML(item.detailUrl)}">${escapeHTML(item.name)} ↗</a></h2><p class="location">${escapeHTML(item.location)}</p><p class="file-id">FACILITY ID / ${escapeHTML(item.id)}</p><button class="info-open" type="button" aria-label="${escapeHTML(item.name)}の施設IDと写真情報">情報を見る</button></div>
     ${creditMarkup}</div>`;
+  section.querySelector('.info-open').addEventListener('click', () => openDetails(item, false));
   if (!item.photo) return section;
   const img = section.querySelector('img');
   img.addEventListener('error', () => {
@@ -23,11 +41,7 @@ function renderEntry(item, index, total) {
     section.querySelector('.window').disabled = true;
   }, {once: true});
   img.src = item.photo.url;
-  section.querySelector('.window').addEventListener('click', () => {
-    dialog.querySelector('.dialog-image').replaceChildren(img.cloneNode());
-    dialog.querySelector('.dialog-info').innerHTML = `<h2>${escapeHTML(item.name)}</h2><p>${escapeHTML(item.location)}</p><p>撮影：${escapeHTML(item.photo.artist)} · <a href="${escapeHTML(item.photo.source)}" target="_blank" rel="noopener noreferrer">出典</a> · <a href="${escapeHTML(item.photo.licenseUrl)}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.photo.license)}</a></p>`;
-    dialog.showModal();
-  });
+  section.querySelector('.window').addEventListener('click', () => openDetails(item, true));
   return section;
 }
 
